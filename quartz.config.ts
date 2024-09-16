@@ -1,6 +1,25 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+import { QuartzFilterPlugin } from "./quartz/plugins/types"
+export const LesleyRemoveDrafts: QuartzFilterPlugin<{}> = () => ({
+  name: "LesleyRemoveDrafts",
+  shouldPublish(_ctx, [_tree, vfile]) {
+    // uses frontmatter parsed from transformers
+    const draftFlag: boolean =
+      (vfile.data?.frontmatter?.draft || vfile.data?.frontmatter?.tags?.includes("draft")) ?? false
+
+    const stubFlag: boolean = vfile.data?.frontmatter?.tags?.includes("stub") ?? false
+    const todoFlag: boolean = !!vfile.data?.frontmatter?.tags?.find((tag) => tag.startsWith("todo"))
+
+    if (vfile.data?.frontmatter?.title.startsWith("event")) {
+      console.log(`stub: ${stubFlag}, todo: ${todoFlag}`)
+      console.log(`Should publish: ${!draftFlag && !stubFlag && !todoFlag}`)
+    }
+    return !draftFlag && !stubFlag && !todoFlag
+  },
+})
+
 /**
  * Quartz 4.0 Configuration
  *
@@ -8,19 +27,25 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Lesley's Digital Garden",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
+    analytics: null,
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    baseUrl: "notes.lesleylai.info",
+    ignorePatterns: [
+      "Templates",
+      "Personal",
+      "Projects",
+      "Fleeting",
+      ".obsidian",
+      ".trash",
+      ".git",
+    ],
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
@@ -70,11 +95,11 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
-      Plugin.Latex({ renderEngine: "katex" }),
+      Plugin.Latex({ renderEngine: "mathjax" }),
     ],
-    filters: [Plugin.RemoveDrafts()],
+    filters: [LesleyRemoveDrafts()],
     emitters: [
-      Plugin.AliasRedirects(),
+      //Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
