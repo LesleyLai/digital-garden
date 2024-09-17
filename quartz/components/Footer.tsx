@@ -15,7 +15,8 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
+          <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}. All notes are written
+          in <a href="https://obsidian.md">Obsidian</a>.
         </p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
