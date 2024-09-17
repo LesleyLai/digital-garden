@@ -14,4 +14,4 @@ publish: true
 ![[../Injection.svg|Injection.svg]]
 ## See also
 - [[./surjection|surjection]]
-- [[./bijection|bijection]]
+- [[bijection|bijection]]

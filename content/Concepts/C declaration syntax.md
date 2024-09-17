@@ -8,7 +8,6 @@ publish: true
 tags:
   - "#computer/c/syntax"
 ---
-
 # The C Declaration Syntax
 
 C took an unusual approach for its declaration syntax. In C, one can write an expression involving the item being declared, and states what type that expression will have. [^go]

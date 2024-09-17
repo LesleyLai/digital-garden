@@ -1,13 +1,14 @@
 ---
 created: 2024-09-16
-modified: 2024-09-16
+modified: 2024-09-17
 publish: true
+title: Home
 ---
-# Lesley Lai's Digital Garden
-
 Hi there! I’m Lesley Lai, and this is my little corner of the web where I share my notes that I accumulated since 2023, mostly focused on math and programming.  I also post a few informal articles sharing my personal opinions here. 
 
 Most notes and articles here are not final or polished; they’re evolving, incomplete, and always open to revision.
+
+I keep a [[./Concepts/Quartz customization log|customization log]] for this site.
 
 ## What You Will Find Here?
 - [[./Concepts/math|Mathematics]]: ranging from different branches such as [[./Concepts/logic|logic]], [[./Concepts/calculus|calculus]], [[./Concepts/linear algebra|linear algebra]], and [[./Concepts/probability MOC|probability]]

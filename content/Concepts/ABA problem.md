@@ -6,7 +6,6 @@ tags:
   - computer/concurrency
 ---
 
-# ABA Problem
 
 **The ABA problem** occurs during synchronization when a thread changes a value and later change it back. If another thread read the value before the initial change and then read it again after the latest change, it may conclude that nothing happened.
 

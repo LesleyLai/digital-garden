@@ -7,7 +7,6 @@ publish: true
 tags:
   - tools/obsidian/plugins
 ---
-
 # Obsidian Excalidraw
 Excalidraw can have links and [[./Obsidian transclusion|transclusion]] in nodes. And we can also embed Excalidraw in markdown.
 

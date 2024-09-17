@@ -10,9 +10,7 @@ modified: 2024-03-14
 publish: true
 tags:
   - math/LinearAlgebra
-  - review
 ---
-
 # Definite Matrix
 
 A [[./symmetric matrix|symmetric matrix]] $\mathbf{M}$ 

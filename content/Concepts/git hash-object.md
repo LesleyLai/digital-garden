@@ -3,10 +3,11 @@ parent:
   - "[[Git plumbing commands|Git plumbing commands]]"
 publish: true
 tags:
-  - "#tools/git/internals"
-  - "#tools/git/commands/plumbing"
+  - tools/git/internals
+  - tools/git/commands/plumbing
+created: 2024-03-29
+modified: 2024-03-29
 ---
-
 `git hash-object` is used to compute the SHA hash of a Git object
 ```bash
 $ echo "hello world" > test.txt

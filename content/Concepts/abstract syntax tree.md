@@ -10,6 +10,5 @@ tags:
   - computer/PL/syntax
 ---
 
-# Abstract Syntax Tree
 - [[./AST representation|AST representation]]
 - [[./why some compilers preserving parenthesis in AST|why some compilers preserving parenthesis in AST]]

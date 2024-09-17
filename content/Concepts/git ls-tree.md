@@ -4,9 +4,10 @@ parent:
 publish: true
 tags:
   - tools/git/commands/plumbing
+created: 2024-03-29
+modified: 2024-03-29
 ---
-
-# git ls-tree
+# Git Ls-tree
 The `git ls-tree` command is used to inspect a [[./git tree object|tree object]].
 
 For a directory structure like this:

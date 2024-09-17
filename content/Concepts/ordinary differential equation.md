@@ -2,7 +2,7 @@
 aliases:
   - ODE
 created: 2023-05-30
-modified: 2024-09-15
+modified: 2024-09-17
 parent:
   - "[[differential equations|differential equations]]"
 publish: true
@@ -23,5 +23,8 @@ tags:
 - [[./undetermined coefficients|undetermined coefficients]] - to solve nonhomogeneous linear equation
 - [[Laplace transform|Laplace transform]]
 
-### Numerical
+## Graphics Method
+- [[direction fields and integral curves|direction fields and integral curves]]
+
+### Numerical Method
 - [[./numerical methods for ordinary differential equations|numerical ODEs]]

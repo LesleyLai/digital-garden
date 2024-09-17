@@ -8,7 +8,7 @@ tags:
 ---
 
 # Isomorphisms
-Let $G=(G, \star)$ and $H=(H, *)$ be [[./group|groups]]. A [[./bijection|bijection]] $\phi: G \rightarrow H$ is called an *isomorphism* if
+Let $G=(G, \star)$ and $H=(H, *)$ be [[./group|groups]]. A [[bijection|bijection]] $\phi: G \rightarrow H$ is called an *isomorphism* if
 $$
 \phi\left(g_{1} \star g_{2}\right)=\phi\left(g_{1}\right) * \phi\left(g_{2}\right) \quad \text { for all } g_{1}, g_{2} \in G .
 $$

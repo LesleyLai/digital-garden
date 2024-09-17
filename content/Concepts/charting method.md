@@ -2,10 +2,9 @@
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - "#learning/NoteTaking/formats"
 ---
-
-#learning/NoteTaking/formats 
-
 **The charting method** organize notes with a lot of facts by dividing key topics into columns and recording facts underneath.
 
 I don't really understand the advantage of this method. It seems messy.

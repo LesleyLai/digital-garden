@@ -4,13 +4,9 @@ modified: 2024-03-17
 parent:
   - "[[Testing in Rust|Testing in Rust]]"
 publish: true
-sr-due: 2024-10-11
-sr-ease: 250
-sr-interval: 124
 tags:
   - computer/Rust/Testing
   - computer/Rust/Cargo
-  - review
 ---
 
 # Organize Rust Integration Tests into a Single Crate

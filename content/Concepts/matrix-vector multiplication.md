@@ -6,8 +6,9 @@ parent:
 publish: true
 tags:
   - math/linearalgebra/matrices
+created: 2024-04-06
+modified: 2024-04-06
 ---
-
 There are multiple ways to look at matrix vector multiplication $A\mathbf{x}$
 [[./matrix|matrix]]:
 

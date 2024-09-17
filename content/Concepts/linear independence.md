@@ -12,7 +12,6 @@ tags:
   - math/LinearAlgebra
   - math/definitions
 ---
-
 # Linear Independence
 > [!definition]
 > 

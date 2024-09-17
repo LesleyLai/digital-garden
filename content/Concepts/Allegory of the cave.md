@@ -1,11 +1,12 @@
 ---
-Aliases:
+aliases:
   - Plato's Cave
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - "#philosophy"
 ---
-
 # Allegory of the Cave
 [[Plato|Plato]] tells the allegory of the Cave in his work _[[Republic (plato)|Republic]]_.
 
@@ -13,6 +14,3 @@ publish: true
 
 ## References
 - [Allegory of the cave - Wikipedia](https://en.wikipedia.org/wiki/Allegory_of_the_cave)
-
----
-tags: #philosophy

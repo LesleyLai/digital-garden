@@ -6,6 +6,8 @@ publish: true
 tags:
   - psychology/websites
   - website_review
+created: 2024-04-02
+modified: 2024-04-02
 ---
 
 **Psychology Today** is a non-peer-reviewed pop-psychology platform, where the quality of articles can vary significantly. While some offer valuable educational content supported by credible references, others promote blatant pseudoscience. Moreover, a notable portion of the platform's content consists of numerous pro-Christian posts.

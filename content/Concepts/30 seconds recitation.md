@@ -4,12 +4,8 @@ modified: 2024-03-14
 parent:
   - "[[learning|learning]]"
 publish: true
-sr-due: 2024-10-10
-sr-ease: 250
-sr-interval: 123
 tags:
   - "#life/self_improvement/strategies"
-  - "#review"
   - "#learning/focus"
   - "#wisdom"
 ---

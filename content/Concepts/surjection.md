@@ -14,4 +14,4 @@ publish: true
 
 ## See Also
 - [[./injection|injection]]
-- [[./bijection|bijection]]
+- [[bijection|bijection]]

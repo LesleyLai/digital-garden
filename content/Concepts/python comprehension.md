@@ -7,8 +7,9 @@ parent:
 publish: true
 tags:
   - computer/python
+created: 2024-05-16
+modified: 2024-05-16
 ---
-
 # Python List/Dict Comprehension
 Something like this
 ```python

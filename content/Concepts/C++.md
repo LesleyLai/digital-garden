@@ -9,7 +9,6 @@ tags:
   - computer/cpp
   - MOC
 ---
-
 # C++
 ## Core Language
 - [[./C declaration syntax|C declaration syntax]]
@@ -51,3 +50,6 @@ tags:
 - [[./Passing overload set in C++|Passing overload set in C++]]
 - [[./C & C++ Incompatibilities|C & C++ Incompatibilities]]
 - [[./C++ NULL vs nullptr|C++ NULL vs nullptr]]
+
+## Libraries
+- [[flux C++ library|flux]] - sequence-oriented programming library with a different design from standard ranges

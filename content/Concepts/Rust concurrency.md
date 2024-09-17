@@ -5,9 +5,10 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - "#computer/Rust/concurrency"
+  - computer/Rust/concurrency
+created: 2024-05-30
+modified: 2024-05-30
 ---
-
 # Rust Concurrency
 - [[./Rust message passing|messge passing]]
 - [[./async Rust|async Rust]]

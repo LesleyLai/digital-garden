@@ -10,9 +10,7 @@ specializations:
   - "[[./equivalence relation|equivalence]]"
 tags:
   - math/set_theory/relation
-  - "#review"
 ---
-
 # Binary relation
 
 A [[./relation|relation]] $R \in S \times T$ is called a **binary relation** on sets $S$ and $T$.

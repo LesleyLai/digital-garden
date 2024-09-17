@@ -6,7 +6,6 @@ publish: true
 tags:
   - computer/performance/branchless
 ---
-
 # Branchless Programming
 Branches that can't be effectively [[branch prediction|predicted]] by CPU are costly because they can cause long [[./pipeline hazard|pipeline stall]].
 

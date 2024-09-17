@@ -3,8 +3,9 @@ parent:
   - "[[computer|computer]]"
 publish: true
 tags:
-  - "#tools/shells"
+  - tools/shells
+created: 2024-04-23
+modified: 2024-04-23
 ---
-
 # Shells
-- [[./powershell|powershell]]
+- [[./PowerShell|PowerShell]]

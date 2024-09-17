@@ -6,7 +6,6 @@ parent:
 publish: true
 tags: 
 ---
-
 # Linearity of Derivative
 
 [[./derivative|Differentiation]] is an [[./linear transformation|linear operator]] of functions:

@@ -10,5 +10,5 @@ tags:
 
 # Set Theory
 - [[./countability|countability]]
-- [[./bijection|bijection]], [[./injection|injection]], and [[./surjection|surjection]]
+- [[bijection|bijection]], [[./injection|injection]], and [[./surjection|surjection]]
 - [[./relation|relation]]

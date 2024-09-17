@@ -9,7 +9,6 @@ tags:
   - "#life/self_improvement/strategies"
   - "#life/procrastination/strategies"
 ---
-# The 20-Second Rule
 **The 20-second rule** is the principle that if you make something 20-second easier to do, you are more likely to do it. By contrast, if you make something 20-second harder to do, you are less likely to do it.
 
 Thus, seemingly trivial adjustment can have a huge impact on our [[./habit|habit forming]]. For instance, resisting temptations like junk food becomes more challenging when they're easily visible and within close reach. Therefore, we need to make them harder to access.

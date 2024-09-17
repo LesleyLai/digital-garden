@@ -1,12 +1,10 @@
 ---
 created: 2024-02-18
 modified: 2024-03-14
-parent: 
 publish: true
 tags:
   - "#psychology/personality"
 ---
-
 # Big Five Personality Traits
 - [[openness to experience|openness to experience]] (inventive/curious vs. consistent/cautious)
 - [[conscientiousness|conscientiousness]] (efficient/organized vs. extravagant/careless)

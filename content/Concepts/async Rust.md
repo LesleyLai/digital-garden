@@ -8,7 +8,6 @@ publish: true
 tags:
   - computer/rust/async
 ---
-
 # Async Rust
 - [[./Rust Future trait|Future trait]]
 - [[./compare C++ coroutines and async Rust|compare C++ coroutines and async Rust]]

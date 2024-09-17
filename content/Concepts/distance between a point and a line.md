@@ -5,9 +5,10 @@ parent:
   - "[[geometry|geometry]]"
 publish: true
 tags:
-  - "#geometry/distance"
+  - geometry/distance
+created: 2024-03-30
+modified: 2024-03-30
 ---
-
 The distance between point $\mathbf{p}$ and [[./equation of lines|line]] $\mathbf{x} = \mathbf{o} + t\mathbf{d}$ is
 $$
 h = \frac{\|(\mathbf{p} - \mathbf{o})  \times \mathbf{d}\|}{\|\mathbf{d}\|}

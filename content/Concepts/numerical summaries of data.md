@@ -29,4 +29,4 @@ Major features that we can use include:
 
 ## Errors
 - [[residual (statistics)|residual]]
-- [[root mean square error|root mean square error]]
+- [[./root mean square error|root mean square error]]

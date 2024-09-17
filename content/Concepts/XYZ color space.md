@@ -5,9 +5,10 @@ parent:
   - "[[color space and color model|color space]]"
 publish: true
 tags:
-  - "#color"
+  - color
+created: 2024-05-29
+modified: 2024-05-29
 ---
-
 # XYZ Color Space
 
 The Commission Internationale de l’Éclairage (CIE) standards body created the **CIE 1931 XYZ color space**, which is graphed in the following figure. [^2]

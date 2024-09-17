@@ -30,7 +30,7 @@ tags:
 - [[./JavaScript|JavaScript]]
 - [[./TypeScript|TypeScript]]
 - [[./Python|Python]]
-- [[R|R]]
+- [[./R language|R]]
 - [[./Swift|Swift]]
 - [[./machine languages and bytecodes|machine languages and bytecodes]]
 - [[./experimental Languages|experimental Languages]]

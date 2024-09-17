@@ -7,9 +7,7 @@ publish: true
 tags:
   - "#math/LinearAlgebra/decomposition"
   - "#math/LinearAlgebra/LinearSolver"
-  - "#review"
 ---
-
 # LU Factorization
 
 **LU factorization** decomposes a matrix into a [[./triangular matrix|lower-triangular matrix]] $L$ and an upper-triangular matrix $\mathrm{U}$.

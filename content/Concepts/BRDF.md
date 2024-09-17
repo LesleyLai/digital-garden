@@ -9,14 +9,13 @@ tags:
   - computer/graphics/LightTransport
   - computer/graphics/pbr
 ---
-
 # Bidirectional Reflectance Distribution Function
 
 **Bidirectional reflectance distribution function (BRDF)** encodes the behavior of light that "bounces off" surface. In particular, given incoming direction $\omega_i$, how much light gets scattered in any outgoing direction $\omega_0$.
 
 ## Definition
 
-In the most general case, light can enter some surface at a point $p$ and incident direction vector $\Psi$. and can leave the surface at some other point $q$ and exitant direction $\Theta$. The function define this relationship is called the [[./BSSRDF|BSSRDF]] (bidirectional surface scattering reflectance distribution function).
+In the most general case, light can enter some surface at a point $p$ and incident direction vector $\Psi$. and can leave the surface at some other point $q$ and exitant direction $\Theta$. The function define this relationship is called the [[BSSRDF|BSSRDF]] (bidirectional surface scattering reflectance distribution function).
 
 We can make additional assumption that $p = q$ and ignore [[subsurface scattering|subsurface scattering]], in this case we have *bidirectional reflectance distribution function* (BRDF). 
 

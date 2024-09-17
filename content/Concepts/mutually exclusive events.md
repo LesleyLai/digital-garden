@@ -9,7 +9,6 @@ publish: true
 tags:
   - math/probability
 ---
-
 # Mutually Exclusive Events
 
 Two [[event (probability)|events]] are **mutually exclusive** or **disjoint** when the occurrence of one event prevents the other. That is, their [[joint probability|joint probability]] $P(A \cap B) = 0$. An example of mutually exclusive event is getting a sum of 12 from 2 dice throws and throwing a 1.

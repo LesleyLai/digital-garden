@@ -2,15 +2,10 @@
 created: 2023-05-30
 modified: 2024-04-20
 publish: true
-sr-due: 2024-07-06
-sr-ease: 250
-sr-interval: 64
 tags:
   - math/calculus/vector
-  - review
   - math/definitions
 ---
-
 # Curl
 
 Intuitively, the curl measures how much is a [[./vector field|vector field]] rotating or spinning around a point.

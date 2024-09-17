@@ -3,7 +3,9 @@ parent:
   - "[[CUDA memory and cache architecture|CUDA memory and cache architecture]]"
 publish: true
 tags:
-  - "#computer/cuda/memory"
+  - computer/cuda/memory
+created: 2024-04-08
+modified: 2024-04-08
 ---
 
 # CUDA Local Memory

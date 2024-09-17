@@ -4,8 +4,9 @@ parent:
 publish: true
 tags:
   - tools/git/internals
+created: 2024-03-29
+modified: 2024-03-29
 ---
-
 # Git Tree Object
 The format of tree object looks like the following (after Zlib decompression):
 ```

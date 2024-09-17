@@ -14,6 +14,6 @@ tags:
 
 # Correlation Does not Imply Causation
 
-The [[correlation|correlation]] between A and B could indicate various relationships: A causing B, [[reverse causation|B causing A]], [[spurious correlation|both A and B being influenced by C, or it could simply be a coincidence]]. Causation also [[./bidirectional causation|doesn't necessarily flow in one direction]].
+The [[correlation|correlation]] between A and B could indicate various relationships: A causing B, [[reverse causation|B causing A]], [[spurious correlation|both A and B being influenced by C, or it could simply be a coincidence]]. Causation also [[bidirectional causation|doesn't necessarily flow in one direction]].
 
 [Spurious Correlations](https://tylervigen.com/spurious-correlations) is a great website to show [[spurious correlation|spurious correlations]].

@@ -6,9 +6,7 @@ parent:
 publish: true
 tags:
   - math/calculus/differentiation
-  - "#review"
 ---
-
 # Multivariable Chain Rule
 
 ## Definition

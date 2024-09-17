@@ -4,12 +4,8 @@ modified: 2024-03-14
 parent:
   - "[[life hacks|life hacks]]"
 publish: true
-sr-due: 2024-07-09
-sr-ease: 250
-sr-interval: 63
 tags:
   - life/tips
-  - "#review"
 ---
 
 | Old Tool | New Tool                                         | Comments            |

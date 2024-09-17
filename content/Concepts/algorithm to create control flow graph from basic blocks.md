@@ -7,7 +7,6 @@ publish: true
 tags:
   - "#computer/compiler/optimizations"
 ---
-
 # An Algorithm to Create CFG from Basic Blocks
 
 See: [[./basic blocks|basic blocks]]

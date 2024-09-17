@@ -3,10 +3,11 @@ parent:
   - "[[learning|learning]]"
 publish: true
 tags:
-  - "#learning"
+  - learning
+created: 2024-03-30
+modified: 2024-03-30
 ---
-
-# Don't always study in one location
+# Don't Always Study in One Location
 
 Studies indicate that studying in a fixed location can impede learning. Our brain makes subtle connection between environmental cues and learned information, making it challenging to [[./recall|recall]] information in different settings. [^1]
 

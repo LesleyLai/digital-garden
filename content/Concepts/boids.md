@@ -2,9 +2,9 @@
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - "#computer/graphics/Simulation"
 ---
-
-#computer/graphics/Simulation 
 # Boids Flock Simulation
 In the Boids algorithm, particles represent birds and fishes move following three principles:
 
@@ -12,11 +12,11 @@ In the Boids algorithm, particles represent birds and fishes move following thre
 2. *separation* - boids avoid getting too close to their neighbors
 3. *alignment* - boids generally try to move with the same direction and speed as their neighbors
 
-We can use the aboves rules to update particle velocity and use the [[Euler method|Euler method]] to calculate the position change.
+We can use the above rules to update particle velocity and use the [[Euler method|Euler method]] to calculate the position change.
 
 Here are the pseudo-code for the updating functions according to the three rules:
 
-## Rule 1: Boids Try to Fly towards the Centre of Mass of Neighbouring Boids
+## Rule 1: Boids Try to Fly towards the Centre of Mass of Neighboring Boids
 
 ``` python
 def cohesion(boid: Boid, boids: Boid):

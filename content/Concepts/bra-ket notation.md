@@ -12,7 +12,6 @@ publish: true
 tags:
   - math/notations
 ---
-
 # Bra-ket Notation
 **Bra-ket notation**, or the **Dirac notation**, is a notation for complex vector spaces together with their dual space.
 

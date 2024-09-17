@@ -6,7 +6,6 @@ publish: true
 tags:
   - logic
 ---
-# Abductive Reasoning
 
 **Abduction reasoning** draw conclusion based on the explanation that best explains the current state of events rather than from evidence provided by the [[premise|premises]].
 

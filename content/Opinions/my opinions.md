@@ -38,6 +38,8 @@ This page contains some half-backed personal thoughts.
 - [[./On trolley problems and other sacrificial dilemmas|On trolley problems and other sacrificial dilemmas]]
 
 ## Uncategorized
+- [[debating is unproductive|debating is unproductive]]
+- [[Eisenhower Matrix|Eisenhower Matrix]]
 - [[./Eisenhower Matrix|Eisenhower Matrix]]
 - [[../Concepts/how to design flashcards|how to design flashcards]]
 - [[../index|index]]

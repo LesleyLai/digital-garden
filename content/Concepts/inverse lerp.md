@@ -6,9 +6,7 @@ parent:
 publish: true
 tags:
   - math/interpolation/lerp
-  - "#review"
 ---
-
 # Inverse Lerp
 
 ```js

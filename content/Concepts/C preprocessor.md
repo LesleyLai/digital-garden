@@ -7,7 +7,6 @@ publish: true
 tags:
   - computer/c/preprocessor
 ---
-
 [[./Type-generic macro|Type-generic macro]]
 ## String Operations
 - [[./stringtify arguments of C macro|stringtify]]

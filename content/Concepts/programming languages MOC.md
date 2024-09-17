@@ -14,7 +14,7 @@ tags:
 # Programming Languages
 ## Basic Concepts
 - [[./abstract syntax tree|abstract syntax tree]]
-- [[./algebraic data type|algebraic data types]]
+- [[algebraic data type|algebraic data types]]
 - [[./substitution (PL)|substitution]]
 - [[./undefined behavior|undefined behavior]]
 - [[./unification|unification]]

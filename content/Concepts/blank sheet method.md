@@ -9,7 +9,6 @@ publish: true
 tags:
   - "#learning/reading"
 ---
-
 # Blank Sheet Reading Method
 1. Before start a reading session, pull out a blank sheet of paper and write down what you know about the subject
 2. After the reading session spend a few minutes adding to the paper (use a different ink)

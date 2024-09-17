@@ -3,13 +3,12 @@ aliases:
   - "#learning/NoteTaking"
   - note taking
 created: 2023-05-30
-modified: 2024-03-14
+modified: 2024-06-17
 publish: true
 tags:
-  - "#learning/NoteTaking"
+  - learning/NoteTaking
   - MOC
 ---
-
 # Note Taking
 ## Frameworks
 - [[Zettelkasten|Zettelkasten]] - creating [[./principle of atomicity|small]], original, and interconnected notes
@@ -23,7 +22,7 @@ tags:
 ## Software
 - [[./Obsidian MOC|Obsidian]]
 - [[SiYuan|SiYuan]]
-- 
+- [[org roam|org roam]]
 
 ## Best Practices
 - [[avoid transcribing notes|avoid transcribing notes]]

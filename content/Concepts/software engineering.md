@@ -5,10 +5,11 @@ parent:
   - "[[computer|computer]]"
 publish: true
 tags:
-  - "#MOC"
-  - "#computer/SoftwareEngineering"
+  - MOC
+  - computer/SoftwareEngineering
+created: 2024-04-07
+modified: 2024-04-07
 ---
-
 # Software Engineering MOC
 
 The term "software engineering" is coined by [Margaret Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)).

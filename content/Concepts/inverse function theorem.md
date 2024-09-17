@@ -8,10 +8,9 @@ tags:
   - math/calculus/differentiation
   - math/functions
 ---
-
 # Inverse Function Theorem
 
-The **inverse function theorem** gives a sufficient condition for a function to be [[./bijection|invertible]] in a [[neighborhood (topology)|neighborhood]] of a point in its domain: _its derivative is [[./continuous functions|continuous]] and non-zero at the point._
+The **inverse function theorem** gives a sufficient condition for a function to be [[bijection|invertible]] in a [[neighborhood (topology)|neighborhood]] of a point in its domain: _its derivative is [[./continuous functions|continuous]] and non-zero at the point._
 
 The theorem also gives a formula for the derivative of the inverse function: In single variable calculus, the [[inverse rule|inverse rule]] states that $\frac{d}{dx}(f^{-1}) = \frac{1}{df/dx}$.
 

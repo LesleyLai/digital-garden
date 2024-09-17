@@ -4,8 +4,9 @@ parent:
 publish: true
 tags:
   - computer/quantum/gates
+created: 2024-04-27
+modified: 2024-04-27
 ---
-
 # The Hadamard Gate
 See also: [[Hadamard matrix|Hadamard matrix]]
 

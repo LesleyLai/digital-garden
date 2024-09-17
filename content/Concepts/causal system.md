@@ -7,7 +7,6 @@ publish: true
 tags:
   - signal/systems
 ---
-
 # Causal System
 A **causal system** is one where the output at any given time depends only on the input values $x(t)$ for times $t \leq t_{0}$. In other words, in a causal system, the *output cannot occur before the input* is applied.
 
