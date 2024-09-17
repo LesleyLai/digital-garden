@@ -5,7 +5,12 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.OnlyFor(
+      { titles: ["Home"] },
+      Component.RecentNotes({ showTags: false, limit: 5, title: "Recently edited notes:" }),
+    ),
+  ],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/LesleyLai/digital-garden",

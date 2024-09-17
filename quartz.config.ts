@@ -42,7 +42,7 @@ const config: QuartzConfig = {
       ".trash",
       ".git",
     ],
-    defaultDateType: "created",
+    defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: false,
