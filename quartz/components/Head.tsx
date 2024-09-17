@@ -20,7 +20,7 @@ export default (() => {
 
     return (
       <head>
-        <title>{title}</title>
+        <title>{title} | Lesley Lai's Digital Garden</title>
         <meta charSet="utf-8" />
         {cfg.theme.cdnCaching && cfg.theme.fontOrigin === "googleFonts" && (
           <>
