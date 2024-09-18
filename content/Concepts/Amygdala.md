@@ -7,7 +7,6 @@ publish: true
 tags:
   - neuroscience/brain
 ---
-
 The **amygdala** is a paired nuclear complex present in the [[cerebral hemispheres|cerebral hemispheres]] of [[vertebrates|vertebrates]]. It is considered part of the [[limbic system|limbic system]]. It has important role in memory, decision making, and regulating emotions. [^1]
 
 [![](https://upload.wikimedia.org/wikipedia/commons/8/8b/Amyg.png)](https://en.wikipedia.org/wiki/File:Amyg.png)
