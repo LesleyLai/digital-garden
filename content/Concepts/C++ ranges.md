@@ -9,6 +9,4 @@ publish: true
 tags:
   - "#computer/cpp/ranges"
 ---
-
-# C++ Ranges
 - [[./C++ common range|C++ common range]]
