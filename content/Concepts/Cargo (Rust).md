@@ -9,8 +9,6 @@ publish: true
 tags:
   - computer/Rust/Cargo
 ---
-
-# Cargo
 - [[./cargo workspaces|cargo workspaces]]
 - [[./Documentation in Rust|cargo docs]]
 - [[./cargo plugins|cargo plugins]]

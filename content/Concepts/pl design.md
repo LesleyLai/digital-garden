@@ -15,7 +15,7 @@ tags:
 - [[The Hard Part of Learning a Language note|The Hard Part of Learning a Language note]]
 
 ## Features
-- [[allocators for zig containers|allocators for zig containers]]
+- [[./allocators for zig containers|allocators for zig containers]]
 - [[./defer statement|defer statement]]
 - [[./expression-oriented language|expression-oriented language]]
 - [[second-class reference|second-class reference]]

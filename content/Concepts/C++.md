@@ -33,7 +33,7 @@ tags:
 - [[./STL algorithms|STL algorithms]]
 - [[C++ iterators|Iterators]]
 - [[./C++ ranges|Ranges]]
-- [[./C++20 integer comparison functions|C++20 integer comparison functions]]
+- [[C++20 integer comparison functions|C++20 integer comparison functions]]
 - [[./std_launder|std_launder]]
 
 ## Tools
@@ -44,7 +44,7 @@ tags:
 ## Library Design
 - [[niebloid|niebloid]]
 - [[./customization point object|customization point object]]
-- [[./C++ simd operator== debate|simd operator== debate]]
+- [[./C++ SIMD operator== debate|simd operator== debate]]
 
 ## Misc Tips
 - [[./Passing overload set in C++|Passing overload set in C++]]

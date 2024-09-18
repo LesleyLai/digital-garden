@@ -9,7 +9,6 @@ tags:
   - computer/c
   - computer/cpp
 ---
-# C & C++ Incompatibilities
   There are several incompatibilities between C and C++ that we need to consider when porting a C codebase to C++:
   - C11 [[./Type-generic macro|type-generic macro]] is not supported in C++
   - C++ has more strict [[./Strict aliasing|aliasing rule]], and it can impact codes performing [[./Type Punning|type punning]].

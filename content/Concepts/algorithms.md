@@ -9,8 +9,8 @@ parent:
 publish: true
 tags:
   - computer/AlgorithmsAndDataStructures
+title: Algorithms and Data Structures MOC
 ---
-# Algorithms and Data Structures MOC
 - [[./sequence algorithms|Sequence Algorithms]]
 - [[./parallel algorithms|Parallel Algorithms]]
 

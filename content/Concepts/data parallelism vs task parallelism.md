@@ -10,9 +10,6 @@ publish: true
 tags:
   - computer/parallelism
 ---
-
-# Data Parallelism Vs Task Parallelism
-
 **Data parallelism**: independent evaluation of different
 pieces of data
 **Task parallelism**: decomposition of independent tasks

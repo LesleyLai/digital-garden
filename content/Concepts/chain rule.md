@@ -7,8 +7,6 @@ publish: true
 tags:
   - math/calculus/differentiation
 ---
-
-# Chain Rule
 For functions $f$ and $g : \mathbb{R} \rightarrow \mathbb{R}$, the [[function composition|composition]] $f \circ g$ has derivative
 $$
 (f \circ g)'(a) = f'(g(a)) \cdot g'(a)

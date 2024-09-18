@@ -10,9 +10,6 @@ publish: true
 tags:
   - life/sleep
 ---
-
-# Adenosine
-
 **Adenosine** is the key factor of our sleep-wake cycle. When we are awake, the adenosine-level in our body accumulate. Higher level of adenosine contributes to our sleepiness (called _sleep drive_ or _sleep pressure_). [^1].
 
 [[Caffeine|Caffeine]] blocks the adenosine receptor in our brain, which makes us more alert.

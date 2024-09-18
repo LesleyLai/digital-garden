@@ -6,10 +6,6 @@ tags:
   - cognitive_bias
 ---
 
-- [[false-uniqueness effect|false-uniqueness effect]]
-- [[G.I. Joe fallacy|G.I. Joe fallacy]]
-- [[present bias|present bias]]
-- [[sunk cost|sunk cost]]
 - [[./sunk cost|sunk cost]]
 - [[selection bias|selection bias]]
 - [[./present bias|present bias]]

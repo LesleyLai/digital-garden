@@ -6,8 +6,6 @@ tags:
   - computer/system/DataRepresentaiton
   - "#computer/FloatingPointNumber"
 ---
-
-# A Double Can Perfectly Represent All Values of a 32 Bit Int
 A 64-bit [[./floating-point number|floating-point number]] (a.k.a. "double precision") can perfectly represent all values of a 32 bit integers.
 
 ## References

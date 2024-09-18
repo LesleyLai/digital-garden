@@ -7,14 +7,12 @@ publish: true
 tags:
   - computer/graphics/geometry
 ---
-
-# 3D Geometry Representation
 There are many different representations of geometries. But we can divide them into two categories: _explicit_ and _implicit_.
 ## Implicit Representations
 Implicit representations means that points aren't known directly, but satisfy some relationship
 
 There are many implicit representations of geometries in graphics:
-- level set methods
+- [[./level sets|level set]] methods
 - algebraic surfaces
 - [[./constructive solid geometry|constructive solid geometry]]
 - [[L-system|L-systems]]

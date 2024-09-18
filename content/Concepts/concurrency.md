@@ -31,13 +31,6 @@ tags:
 - [[./law of exclusivity|law of exclusivity]]
 
 ## Unsorted
-- [[data parallelism vs task parallelism|data parallelism vs task parallelism]]
-- [[GPU Programming|GPU Programming]]
-- [[hazard pointer|hazard pointer]]
-- [[law of exclusivity|law of exclusivity]]
-- [[multiple buffering|multiple buffering]]
-- [[structured concurrency|structured concurrency]]
-- [[synchronization quadrant|synchronization quadrant]]
 - [[Stratus Multithreading and Async|Stratus Multithreading and Async]]
 - [[Introduction to C++ Coroutines Through a Thread Scheduling Demonstration|Introduction to C++ Coroutines Through a Thread Scheduling Demonstration]]
 - [[Combining Co-Routines and Functions into a Job System - Helmut Hlavacs - CppCon 2021|Combining Co-Routines and Functions into a Job System - Helmut Hlavacs - CppCon 2021]]

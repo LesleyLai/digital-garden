@@ -6,9 +6,6 @@ tags:
   - math/sampling
   - computer/graphics/AntiAliasing
 ---
-
-# Aliasing
-
 **Aliasing** is the high frequencies in original [[./signal|signal]] masquerade as low frequencies after [[./sample reconstruction|reconstruction]]. (due to undersampling)
 
 ![[../aliasing.png|600]]

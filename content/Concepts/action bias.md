@@ -9,7 +9,6 @@ publish: true
 tags:
   - cognitive_bias/action_bias
 ---
-
 **Action bias**, or **commission bias**, is a cognitive bias where people favor action to inaction, even when doing nothing may give better result.
 
 An example of action bias is when patients ask for unnecessary medical treatments.

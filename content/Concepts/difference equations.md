@@ -5,6 +5,9 @@ publish: true
 tags:
   - math/discrete_mathematics
   - math/DifferentialEquations
+aliases:
+  - recurrence relation
+  - recurrence equation
 ---
 
 The **difference equation** is the discrete analog to [[./differential equations|differential equations]]. They are great ways to model discrete [[./systems|systems]].

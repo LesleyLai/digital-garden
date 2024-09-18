@@ -23,6 +23,4 @@ tags:
 - [[CSS container queries|Container queries]]
 
 ## Uncategorized
-- [[em vs rem|em vs rem]]
-- [[flexbox|flexbox]]
 - [[Sidenotes in Web Design|Sidenotes in Web Design]]

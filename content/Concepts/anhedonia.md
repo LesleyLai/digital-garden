@@ -5,5 +5,4 @@ publish: true
 tags:
   - "#stub"
 ---
-
 **Anhedonia** is the loss of interest in things that once give you pleasure.

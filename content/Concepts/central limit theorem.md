@@ -8,9 +8,6 @@ tags:
   - math/probability
   - math/theorem
 ---
-
-# Central Limit Theorem
-
 The **central limit theorem** states that the sum of N [[iid|iid]] random variables $\sum_{1}^N X_{N}$ will look more and more like a [[./normal distribution|bell curve]] $N\left( \mu, \frac{\sigma^2}{n} \right)$ when $N \rightarrow \infty$ even if $X$s themselves are not normally distributed.
 
 > [!theorem] Central Limit Theorem
