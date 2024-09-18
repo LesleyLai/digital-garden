@@ -8,9 +8,8 @@ tags:
   - computer/graphics/RayTracing
   - computer/graphics/LightTransport
   - computer/graphics/pbr
+title: Bidirectional Reflectance Distribution Function
 ---
-# Bidirectional Reflectance Distribution Function
-
 **Bidirectional reflectance distribution function (BRDF)** encodes the behavior of light that "bounces off" surface. In particular, given incoming direction $\omega_i$, how much light gets scattered in any outgoing direction $\omega_0$.
 
 ## Definition
