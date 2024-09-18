@@ -9,9 +9,8 @@ publish: true
 tags:
   - math/calculus
   - MOC
+title: Calculus MOC
 ---
-
-# Calculus MOC
 - [[fundamental theorem of calculus|fundamental theorem of calculus]]
 
 ## Limit
