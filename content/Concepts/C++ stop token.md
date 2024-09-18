@@ -7,8 +7,6 @@ publish: true
 tags:
   - "#computer/cpp/concurrency"
 ---
-
-# C++ Stop Token
 ## `std::stop_source`
 See: [stop_source - cppreference](https://en.cppreference.com/w/cpp/thread/stop_source)
 `std::stop_token` can also be used for any running entity outside of `std::jthread` and `std::condition_variable_any` by using `stop_source`
