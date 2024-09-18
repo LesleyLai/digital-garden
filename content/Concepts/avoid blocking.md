@@ -10,8 +10,6 @@ tags:
   - computer/asynchronous
   - computer/concurrency
 ---
-
-# Avoid Blocking
 Async code should never spend a long time without yielding as it can block the thread.
 
 For long running task, using a separate thread-pool or a dedicated thread is a better choice.
