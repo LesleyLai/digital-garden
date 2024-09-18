@@ -12,8 +12,6 @@ publish: true
 tags:
   - computer/cpp/BestPractice
 ---
-
-# Problems with `NULL`
 `NULL` is an [[implementation-defined|implementation-defined]] macro that are consider problematic practice in C++.
 
 ## Overloading

@@ -4,9 +4,10 @@ aliases:
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - computer/PL/semantics
+  - computer/cpp/name_lookup
 ---
-
-# C++ Name Lookup
 When a C++ function get called, it go through several phases in order:
 1.  Name lookup
 2.  [[Template Argument Deduction|Template Argument Deduction]]
@@ -18,6 +19,3 @@ There are three major categories of name lookups:
 -   Unqualified name lookups
 -   Qualified name lookups
 -   [[Argument-dependent lookup|Argument-dependent lookup]] (ADL)
-
----
-tags: #computer/cpp/semantics  #computer/cpp/name_lookup

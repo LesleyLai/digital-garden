@@ -8,8 +8,6 @@ tags:
   - math/topology
   - math/analysis
 ---
-
-# Adherent Point
 ## On Real Line
 $x$ is adherent to $S \in \mathbb{R}$ if  $\forall \; \epsilon > 0 \ \exists \; y \in S$ s.t. $|x-y| \leq \epsilon$. 
 

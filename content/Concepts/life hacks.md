@@ -11,8 +11,6 @@ tags:
 ---
 
 # Life Hacks
-- [[modern alternative for unix cli tools|modern alternative for unix cli tools]]
-- [[search google by site|search google by site]]
 - [[./search google by site|search google by site]]
 - [[./modern alternative for unix cli tools|modern alternative for unix cli tools]]
 - [[./drink water after waking up|drink water after waking up]]

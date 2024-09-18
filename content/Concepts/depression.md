@@ -23,7 +23,7 @@ tags:
 - [['Why There's Reason for Hope for Those With Depression' note|'Why There's Reason for Hope for Those With Depression' note]]
 - [['When Depression Meets OCD Understanding Rumination' note|'When Depression Meets OCD Understanding Rumination' note]]
 - [['What to Say to Someone Who Is Depressed' note|'What to Say to Someone Who Is Depressed' note]]
+- [['How the Chemical Imbalance Metaphor Harms Patients' note|'How the Chemical Imbalance Metaphor Harms Patients' note]]
 - [['A Popular Theory About Depression Wasn’t Debunked by a New Review' note|'A Popular Theory About Depression Wasn’t Debunked by a New Review' note]]
 - [['7 Common Types of Depression' note|'7 Common Types of Depression' note]]
-- [['How the Chemical Imbalance Metaphor Harms Patients' note|'How the Chemical Imbalance Metaphor Harms Patients' note]]
 `

@@ -1,11 +1,13 @@
 ---
-created: 2023-05-30
+created: 2021-01-06
 modified: 2024-03-14
 publish: true
 tags:
   - "#computer/graphics/Simulation"
+title: Boids Flock Simulation
 ---
-# Boids Flock Simulation
+See [my 2021 presentation](https://www.youtube.com/watch?v=PPsP1unDkSg) on this topic.
+
 In the Boids algorithm, particles represent birds and fishes move following three principles:
 
 1. *cohesion* - boids move towards the perceived center of mass of neighbors
@@ -17,7 +19,7 @@ We can use the above rules to update particle velocity and use the [[Euler metho
 Here are the pseudo-code for the updating functions according to the three rules:
 
 ## Rule 1: Boids Try to Fly towards the Centre of Mass of Neighboring Boids
-
+![[../Boid cohesion.svg|Boid cohesion.svg]]
 ``` python
 def cohesion(boid: Boid, boids: Boid):
   perceived_center = Point3(0.0)
@@ -31,7 +33,7 @@ def cohesion(boid: Boid, boids: Boid):
 ```
 
 ## Rule 2: Boids Try to Keep a Small Distance away from other Boids
-
+![[../Boid seperation.svg|Boid seperation.svg]]
 ``` python
 def separation(boid: Boid, boids: Boid):
   c = Vec3(0.0)
@@ -42,7 +44,7 @@ def separation(boid: Boid, boids: Boid):
 ```
 
 ## Rule 3: Boids Try to Match Velocity with near Boids.
-
+![[../Boid alignment.svg|Boid alignment.svg]]
 ``` python
 def alignment(boid: Boid, boids: Boid):
   perceived_velocity = Vec3(0.0)

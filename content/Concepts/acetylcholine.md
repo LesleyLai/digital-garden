@@ -7,7 +7,6 @@ publish: true
 tags:
   - "#neuroscience/neurotransmitter"
 ---
-
 **Acetylcholine** is particular important for focused learning and attention.
 
 Researchers theorize that [[aging|aging]] causes significant cell loss in a specific brain region, resulting in reduced acetylcholine production, thereby affecting memory retrieval abilities. [^1]

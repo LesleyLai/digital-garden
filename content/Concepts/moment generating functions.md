@@ -2,12 +2,9 @@
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - math/probability
 ---
-
-#math/probability 
-
-# Moment-Generating Functions
-
 For a random variable $X$, the **moment-generating function** is
 $$
 M_X(t) = E[e^{tx}]

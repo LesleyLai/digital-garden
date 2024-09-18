@@ -7,8 +7,6 @@ publish: true
 tags:
   - math/DifferentialEquations
 ---
-
-# Characteristic Equation
 A **characteristic equations** is an equation of degree $n$ upon which depends on the solution of a given $n$th-order [[./differential equations|differential equations]] or [[./difference equations|difference equations]]. The characteristic equations can only formed when the differential or difference equation is [[homogeneous differential equation|homogeneous]], [[./linear differential equation|linear]], and has constant coefficients. [^1]
 
 For a differential equation
@@ -85,7 +83,7 @@ y(x) = e^{ax} (C_1\cos{bx} +  C_2\sin{bx})
 $$
 Note that both $C_1$ and $C_2$ may be complex numbers.
 
-> [!example]- *Example*: $y'' + 4y' + 5u = 0,\ y(0) = 1,\ y'(0) = 0$
+> [!example]- *Example*: $y'' + 4y' + 5y = 0,\ y(0) = 1,\ y'(0) = 0$
 > Solve characteristic equation
 > $$
 \begin{align}

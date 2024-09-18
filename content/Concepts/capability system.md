@@ -10,7 +10,6 @@ publish: true
 tags:
   - computer/PL/idea
 ---
-
 # Capability System
 
 With a capacity system, OS resources must be accessed with explicit permission. This can be a good way to counter supply chain attack.

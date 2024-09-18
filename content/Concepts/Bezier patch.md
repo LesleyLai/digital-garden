@@ -6,8 +6,8 @@ modified: 2024-03-14
 publish: true
 tags:
   - math/geometry/curve/bezier
+title: Bézier Patch
 ---
-# Bézier Patch
 A **Bézier patch** is the sum of (tensor) products of [[Bernstein bases|Bernstein bases]].
 
 Just as we connected [[./Bezier curve|Bézier curve]], we can connect Bézier patches to get a surface.

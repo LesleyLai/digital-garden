@@ -7,8 +7,6 @@ publish: true
 tags:
   - math/calculus/differentiation
 ---
-# Multivariable Chain Rule
-
 ## Definition
 > [!definition]
 >  For differentiable functions $f : \mathbb{R}^m \rightarrow \mathbb{R}^p$ and $g : \mathbb{R}^n \rightarrow \mathbb{R}^m$, $f \circ g:  \mathbb{R}^n \rightarrow \mathbb{R}^p$ has derivative

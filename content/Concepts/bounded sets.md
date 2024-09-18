@@ -9,8 +9,6 @@ tags:
   - math/set_theory
   - "#math/analysis"
 ---
-# Bounded Set
-
 A set $S$ is *bounded* if it has both upper and lower bounds. For example, a set of real number is bounded if it is contained in an finite interval.
 
 ## In Real

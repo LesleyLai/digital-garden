@@ -7,8 +7,6 @@ publish: true
 tags:
   - "#computer/compiler/optimizations"
 ---
-
-# An Algorithm to Form Basic Blocks from IR
 See: [[./basic blocks|basic blocks]]
 
 Here is the pseudocode:

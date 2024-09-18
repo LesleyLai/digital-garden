@@ -7,7 +7,6 @@ publish: true
 tags:
   - "#computer/compiler"
 ---
-# Bril
 - [Documentation](https://capra.cs.cornell.edu/bril/)
 - [GitHub repository](https://github.com/sampsyo/bril)
 
