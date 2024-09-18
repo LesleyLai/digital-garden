@@ -9,5 +9,4 @@ publish: true
 tags:
   - computer/graphics/RayTracing/BVH
 ---
-# BVH
 - [[surface area heuristic|surface area heuristic]]
