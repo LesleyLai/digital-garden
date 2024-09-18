@@ -15,6 +15,7 @@ tags:
 - [[axioms of probability|axioms of probability]]
 - [[permutation|permutation]] and [[combination|combination]]
 - [[./Vandermonde's identity|Vandermonde's identity]]
+- [[./law of large numbers|law of large numbers]]
 
 ## Conditional Probability
 see: [[./conditional probability|conditional probability]]
