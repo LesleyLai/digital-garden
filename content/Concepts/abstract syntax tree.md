@@ -9,6 +9,5 @@ tags:
   - computer/AlgorithmsAndDataStructures/AST
   - computer/PL/syntax
 ---
-
 - [[./AST representation|AST representation]]
 - [[./why some compilers preserving parenthesis in AST|why some compilers preserving parenthesis in AST]]
