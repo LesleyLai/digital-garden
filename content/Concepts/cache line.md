@@ -7,6 +7,5 @@ publish: true
 tags:
   - "#computer/performance/memory"
 ---
-
 # Cache Line
 Modern CPU no longer accesses memory on a byte-by-byte basis; instead, it retrieves a group of memory, usually 64 bytes at a time, called **cache lines**.
