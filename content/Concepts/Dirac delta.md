@@ -8,9 +8,6 @@ tags:
   - math/definitions
   - math/functions
 ---
-
-# Dirac Delta
-
 The **Dirac Delta** or **unit impulse function** is defined as
 $$
 \delta(t) = 0 \quad t \neq 0 \qquad \text{and} \qquad \int_{-\infty}^{\infty} \delta(t) \, dt = 1 
