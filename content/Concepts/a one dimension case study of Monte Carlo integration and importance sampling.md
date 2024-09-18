@@ -9,7 +9,6 @@ tags:
   - math/numerical
   - math/sampling
 ---
-
 This is a one dimensional case study of Monte Carlo integration from the [[ray tracing the rest of your life|Ray Tracing: the Rest of Your Life]] book.
 
 Let' s look at an integral:
