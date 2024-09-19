@@ -8,7 +8,7 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [
     Component.OnlyFor(
       { titles: ["Home"] },
-      Component.RecentNotes({ showTags: false, limit: 5, title: "Recently edited notes:" }),
+      Component.RecentNotes({ showTags: false, limit: 10, title: "Recently Edited Notes:" }),
     ),
   ],
   footer: Component.Footer({
