@@ -6,6 +6,8 @@ parent:
 publish: true
 tags:
   - logic/propositional
+aliases:
+  - propositions
 ---
 
 # Proposition
