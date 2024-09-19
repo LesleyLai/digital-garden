@@ -10,7 +10,7 @@ tags:
   - computer/cuda
 ---
 
-CUDA allows threads in the same [[./CUDA block|block]] to coordinate their activities
+CUDA allows threads in the same [[./thread block|block]] to coordinate their activities
 by using a _barrier synchronization_ function `__syncthreads()`.
 
 A `__syncthreads()` statement must be executed by all threads.
