@@ -7,8 +7,7 @@ tags:
   - math/set_theory
   - MOC
 ---
-
-# Set Theory
+- [[set|set]]
 - [[./countability|countability]]
 - [[bijection|bijection]], [[./injection|injection]], and [[./surjection|surjection]]
 - [[./relation|relation]]
