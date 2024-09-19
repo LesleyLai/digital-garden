@@ -9,8 +9,6 @@ publish: true
 tags:
   - tools/git
 ---
-
-# Git
 ## Usage
 - [[./git cheat sheet|Cheat Sheet]]
 - [[./git alias|Aliases]]

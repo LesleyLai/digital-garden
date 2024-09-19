@@ -7,9 +7,7 @@ publish: true
 tags:
   - math/geometry/curve
 ---
-
-# Curve
-Curves in a plane can be specified in two different ways: implicitly or parametrically.
+**Curves** can be specified in two different ways: implicitly or parametrically.
 
 The implicit representation specifies the solutions to an equation yields a curve in the plane. Such as $y = x^2 - 3$ or $x^2 + y^2 = 4$
 

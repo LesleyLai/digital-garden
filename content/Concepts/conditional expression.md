@@ -14,4 +14,4 @@ tags:
 
 # Syntax Design
 - [[./parentheses around the condition|parentheses around the condition]]
-- [[./dangling else|dangling else problem]] for languages supporting optional `else` branch
+- [[./dangling else problem|dangling else problem]] for languages supporting optional `else` branch

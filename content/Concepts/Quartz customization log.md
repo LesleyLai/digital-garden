@@ -3,7 +3,7 @@ tags:
   - tools/obsidian
   - tools/quartz
 created: 2024-09-17
-modified: 2024-09-17
+modified: 2024-09-19
 publish: true
 ---
 Here are the changes I've made to my Quartz setup. While I can't promise to include everything or keep it constantly updated, this should give you a good idea of how I've customized this digital garden website.
@@ -11,6 +11,14 @@ Here are the changes I've made to my Quartz setup. While I can't promise to incl
 The idea of document my customization comes from [Quartz customization log | Eilleen's e-Notebook](https://quartz.eilleeenz.com/Quartz-customization-log).
 
 GitHub Repository: [LesleyLai/digital-garden](https://github.com/LesleyLai/digital-garden)
+
+## Replaces Default Favicon and Og-image
+In `quartz/static`
+
+## Adds `robots.txt`
+From [Robots.txt template - allowlist | DITig](https://www.ditig.com/publications/robots-txt-template)
+
+TBH I don't really expect most scrappers to respect `robots.txt`, though.
 
 ## An `OnlyFor` Component
 Copied from [Quartz customization log | Eilleen's e-Notebook](https://quartz.eilleeenz.com/Quartz-customization-log#onlyfor-component-and-in-layout).

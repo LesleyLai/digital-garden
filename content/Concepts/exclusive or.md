@@ -1,7 +1,7 @@
 ---
 aliases:
   - exclusvie disjunction
-  - xor
+  - XOR
 created: 2024-04-27
 modified: 2024-08-17
 parent:
@@ -10,9 +10,7 @@ publish: true
 tags:
   - math/logic
 ---
-
-# Exclusive Or
-**Exclusive or**, **exclusvie disjunction**, or **xor** is a [[./logical connective|logical operator]] with the following truth table:
+**Exclusive or**, or **exclusvie disjunction**, abbreviated as **XOR**, is a [[./logical connective|logical operator]] with the following truth table:
 
 | $A$ | $B$ | $A \oplus B$ |
 | --- | --- | ------------ |
