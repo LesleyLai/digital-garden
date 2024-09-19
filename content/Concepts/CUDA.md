@@ -14,10 +14,10 @@ tags:
 - [[./streaming multiprocessor|streaming multiprocessor]]
 - [[./CUDA memory and cache architecture|CUDA memory and cache architecture]]
   - [[./CUDA register|Registers]]
-  - [[./CUDA cache|L1 cache]] and [[./shared memory|Shared Memory]]
+  - [[./CUDA cache|L1 cache]] and [[shared memory|Shared Memory]]
   - [[./CUDA cache|L2 cache]]
 - [[./CUDA Thread Hierarchy|Thread hierarchy]]
-  - [[./CUDA block|block]] and [[./wavefront|warp]]
+  - [[./thread block|block]] and [[./wavefront|warp]]
 - [[./__syncthreads|__syncthreads]]
 - Driver API vs Runtime API
 - [[./CUDA stream|stream]]
