@@ -7,8 +7,6 @@ publish: true
 tags:
   - computer/graphics
 ---
-# Computer Graphics
-
 ## Math
 - [[./homogeneous coordinates|homogeneous coordinates]]
 - [[quaternions|quaternion]]
@@ -37,6 +35,7 @@ tags:
 ## Optimization
 - [[./vertex buffer compression|vertex buffer compression]]
 
-## APIs
+## GPU APIs
 - [[./vulkan|vulkan]]
 - [[./CUDA|CUDA]]
+- [[WebGPU|WebGPU]]
