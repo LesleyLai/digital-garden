@@ -15,12 +15,14 @@ tags:
   - "#MOC"
   - meta-research
 ---
-
-# Philosophy of Science and Metascience
-
+## Concepts
 - [[./falsifiability|falsifiability]]
 - [[./essentialism|essentialism]] vs [[operational definition|operational definition]]
 - [[./validity and reliability|validity and reliability]]
+- [[./randomized controlled trials|randomized control trial and blinding]]
+
+## Ideas
+- [[./science progress refine existing theories|science progress refine existing theories]]
 
 ## Resources
 - [[How to Think Straight about Psychology|How to Think Straight about Psychology]]
