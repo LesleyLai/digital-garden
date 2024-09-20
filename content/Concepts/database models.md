@@ -4,7 +4,7 @@ aliases:
 created: 2024-08-25
 modified: 2024-08-25
 parent:
-  - "[[databases|database]]"
+  - "[[database|database]]"
 publish: true
 tags: 
 ---
