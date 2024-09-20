@@ -7,7 +7,6 @@ publish: true
 tags:
   - math/LinearAlgebra
 ---
-
 # Vector Projection
 A projection of the [[./Euclidean vector space|oriented length]] $\mathbf{v}$ on the oriented length $\mathbf{u}$ can be defined using [[./inner product|dot product]]:
 $$
