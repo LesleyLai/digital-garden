@@ -3,7 +3,7 @@ tags:
   - tools/obsidian
   - tools/quartz
 created: 2024-09-17
-modified: 2024-09-19
+modified: 2024-09-20
 publish: true
 ---
 Here are the changes I've made to my Quartz setup. While I can't promise to include everything or keep it constantly updated, this should give you a good idea of how I've customized this digital garden website.
@@ -12,6 +12,20 @@ The idea of document my customization comes from [Quartz customization log | Eil
 
 GitHub Repository: [LesleyLai/digital-garden](https://github.com/LesleyLai/digital-garden)
 
+## Disable Buggy Obsidian Comment Parsing in Quartz
+`quartz.config.ts`
+```diff
+-      Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
++      Plugin.ObsidianFlavoredMarkdown({
++        comments: false,
++        enableInHtmlEmbed: false,
++      }),
+```
+
+## Adjust Style for the Recent Notes Component
+Commit: [LesleyLai/digital-garden@2f28ac3](https://github.com/LesleyLai/digital-garden/commit/2f28ac34871d730950e74c3cabb97231de8f738a)
+
+![[../recently edited notes screenshot.png|recently edited notes screenshot.png]]
 ## Replaces Default Favicon and Og-image
 In `quartz/static`
 

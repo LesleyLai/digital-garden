@@ -5,7 +5,6 @@ publish: true
 tags:
   - MOC
 ---
-
 # Areas of Interest
 - [[./computer|Computer]]
 - [[./math|Math]]

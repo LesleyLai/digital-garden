@@ -1,6 +1,6 @@
 ---
 created: 2023-05-30
-modified: 2024-04-18
+modified: 2024-09-20
 publish: true
 tags:
   - tools/latex
@@ -36,6 +36,7 @@ tags:
 | $\perp$     | Perpendicular          | `\perp`            | perp              |
 | $\bot$      | Up Tick                | `\bot`             |                   |
 | $\vdash$    | Entails, Proves        | `\vdash`           |                   |
+| $\vDash$    |                        | `\vDash`           |                   |
 | $\wedge$    | Wedge (or logical and) | `\wedge` or `land` |                   |
 | $\nabla$    | [[./Del operator\|Del]]  | `\nabla`           |                   |
 

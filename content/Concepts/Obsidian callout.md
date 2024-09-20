@@ -7,7 +7,6 @@ publish: true
 tags:
   - "#tools/obsidian"
 ---
-
 **Callout** in Obsidian adds different types of panels to a page. To adds a callout, use `[!info]` in a blockquote where `info` is the type of callout. Adding text in the type identifier adds a title.
 
 If we adds a `+` or `-` after type identifier (like `[!info]+`), it becomes foldable.

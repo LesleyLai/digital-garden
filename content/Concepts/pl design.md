@@ -1,6 +1,8 @@
 ---
 aliases:
   - programming language design
+  - novel programming language features
+  - interesting programming language features
 created: 2024-01-26
 modified: 2024-04-23
 parent:
@@ -8,13 +10,12 @@ parent:
 publish: true
 tags:
   - computer/PL
+title: Programming Language Design MOC
 ---
-
-# Programming Language Design MOC
 ## Approachability
 - [[The Hard Part of Learning a Language note|The Hard Part of Learning a Language note]]
 
-## Features
+## Interesting Features
 - [[./allocators for zig containers|allocators for zig containers]]
 - [[./defer statement|defer statement]]
 - [[./expression-oriented language|expression-oriented language]]
@@ -22,6 +23,7 @@ tags:
 - [[./capability system|capabilities system]]
 - [[./distinct types|distinct types]]
 - [[./implicit parameters|implicit parameters]]
+- [[./geometry type system|geometry type system]]
 
 ## Design Mistakes and Anti-Features
 - [[./covariant arrays in Java and C-Sharp|Covariant arrays]]

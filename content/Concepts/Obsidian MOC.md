@@ -10,7 +10,6 @@ tags:
   - MOC
   - learning/NoteTaking/softwares
 ---
-# Obsidian
 ## Cheat Sheets
 - [[./Obsidian Keyboard Shortcuts|Keyboard Shortcuts]]
 

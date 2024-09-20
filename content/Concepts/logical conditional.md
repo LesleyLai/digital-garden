@@ -9,8 +9,6 @@ publish: true
 tags:
   - logic/propositional
 ---
-
-# Logical Conditional
 **Logical Conditional**, or **implication** has a truth table is the following:
 
 | $A$ | $B$ | $A \to B$ |

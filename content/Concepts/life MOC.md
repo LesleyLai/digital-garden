@@ -1,12 +1,11 @@
 ---
 created: 2024-01-18
-modified: 2024-03-14
+modified: 2024-09-19
 publish: true
 tags:
-  - "#life"
+  - life
+  - MOC
 ---
-
-# Life MOC
 - [[./sleep|sleep]]
 - [[./habit|habit]]
 - [[./health|health]]

@@ -5,5 +5,4 @@ publish: true
 tags:
   - "#computer/graphics/Rasterization"
 ---
-
-**MVP matrix** is a concatenation of [[model matrix|model matrix]], [[./View matrix|view matrix]], and [[./projection matrix|projection matrix]]. It is commonly used in rasterization pipeline.
+**MVP matrix** is a concatenation of [[model matrix|model matrix]], [[camera and view matrix|view matrix]], and [[./projection matrix|projection matrix]]. It is commonly used in rasterization pipeline.

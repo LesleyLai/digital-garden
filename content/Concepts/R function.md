@@ -4,12 +4,10 @@ parent:
 tags:
   - computer/R
 created: 2024-09-17
-modified: 2024-09-18
+modified: 2024-09-20
 publish: true
 ---
-# Functions in R
 To define a function in R
-```r
 ```r
 circumference <- function(r){
     2*pi*r
