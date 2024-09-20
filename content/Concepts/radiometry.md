@@ -6,8 +6,6 @@ publish: true
 tags:
   - radiometry
 ---
-
-# Radiometry
 **Radiometry** is a field that describe light propagation and reflection.
 
 - [[./radiometry quantities|radiometry quantities]]
