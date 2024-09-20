@@ -2,10 +2,11 @@
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+parent:
+  - "[[TypeScript|TypeScript]]"
+tags:
+  - "#computer/typescript"
 ---
-
-# TypeScript Satisfies
-
 TypeScript 4.9 introduces `satisfies` operator. It makes such that an expression satisfy an interface.
 
 > [!example]+
@@ -40,7 +41,3 @@ TypeScript 4.9 introduces `satisfies` operator. It makes such that an expression
 
 ## References
 - [Announcing TypeScript 5.0 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/#satisfies-support-in-jsdoc)
-
----
-parent: [[./TypeScript|TypeScript]]
-tags: #computer/typescript
