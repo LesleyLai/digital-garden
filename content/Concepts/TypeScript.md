@@ -1,12 +1,15 @@
 ---
-Aliases:
+aliases:
   - "#computer/typescript"
 created: 2023-05-30
-modified: 2024-03-14
+modified: 2024-09-19
 publish: true
+parent:
+  - "[[computer|computer]]"
+tags:
+  - computer/typescript
+  - MOC
 ---
-
-# TypeScript
 - [[./Typescript never type|never type]]
 - [[./Typescript utility types|utility types]]
 - [[./Typescript enum|enum]]
@@ -16,7 +19,3 @@ publish: true
 
 ## See also
 - [[./JavaScript|JavaScript]]
-
----
-parents: [[./computer|computer]]
-tags: #computer/typescript #MOC
