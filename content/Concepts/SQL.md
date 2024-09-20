@@ -2,14 +2,13 @@
 created: 2024-08-04
 modified: 2024-08-25
 parent:
-  - "[[relational databases|relational databases]]"
   - "[[computer|computer]]"
 publish: true
 tags:
   - computer/SQL
 ---
 
-**SQL** stands for **Standard Query Language** for [[relational databases|relational databases]]. It is based on formal query languages such as [[relational algebra|relational algebra]] and [[tuple calculus|tuple calculus]].
+**SQL** stands for **Standard Query Language** for relational databases. It is based on formal query languages such as [[relational algebra|relational algebra]] and [[tuple calculus|tuple calculus]].
 
 SQL was originally developed in the 1970s as part of the IBM System R project. IBM originally called it "SEQUEL" (Structured English Query Language). The
 name changed in the 1980s to just "SQL".
