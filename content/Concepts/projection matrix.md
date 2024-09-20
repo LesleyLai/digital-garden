@@ -7,10 +7,9 @@ publish: true
 tags:
   - computer/graphics/projection
 ---
-
 # Projection
 - [[orthographic projection|orthographic projection]]
-- [[./perspective projection|perspective projection]]
+- [[perspective projection|perspective projection]]
 
 ## Related
 - [[./vector projection|vector projection]]
