@@ -3,7 +3,7 @@ parent:
   - "[[static site generators|static site generators]]"
 publish: true
 tags:
-  - computer/webdev/StaticSiteGenerator
+  - computer/webdev/ssg
 created: 2024-04-01
 modified: 2024-04-01
 ---
