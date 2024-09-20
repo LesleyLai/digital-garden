@@ -4,10 +4,9 @@ modified: 2024-04-04
 parent:
   - "[[Astro|Astro]]"
 publish: true
-tags: 
+tags:
+  - computer/webdev/ssg/astro
 ---
-# Astro Components Props
-
 ## Typing
 To add TypeScript Types for props, we can add a TypeScript `Props` interface to the component frontmatter.
 ```astro
