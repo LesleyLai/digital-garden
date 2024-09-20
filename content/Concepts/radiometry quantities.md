@@ -8,8 +8,6 @@ tags:
   - radiometry
   - "#computer/graphics/RayTracing"
 ---
-
-# Radiometry Quantities
 - **[[radiant energy|Radiant energy]]**
     - *Radiant energy* is "total # of hits" anywhere in the scene over the complete duration of the scene
     - This quantity captures the total *energy*/* of all the photons hitting the scene
