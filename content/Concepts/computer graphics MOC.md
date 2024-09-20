@@ -8,6 +8,7 @@ tags:
   - computer/graphics
 ---
 ## Math
+- [[./coordinate systems in graphics programming|coordinate systems]]
 - [[./homogeneous coordinates|homogeneous coordinates]]
 - [[quaternions|quaternion]]
 - [[./Monte Carlo integration|Monte Carlo integration]]
@@ -21,7 +22,7 @@ tags:
 ## Rendering
 - [[./rasterization|rasterization]]
 - [[./ray tracing|ray tracing]]
-- [[./radiometry quantities|radiometry quantities]]
+- [[./radiometry|radiometry]]
 - [[./BRDF|BRDF]]
 - [[./rendering equation|rendering equation]]
 - [[./scene graph|scene graph]]
@@ -30,12 +31,13 @@ tags:
 - [[./real-time PBR rendering|real-time PBR rendering]]
 - [[./environment lighting|environment lighting]]
 - [[normal map|normal map]]
-- [[./perspective projection|perspective projection]]
+- [[perspective projection|perspective projection]]
 
 ## Optimization
 - [[./vertex buffer compression|vertex buffer compression]]
 
 ## GPU APIs
+- [[OpenGL|OpenGL]]
 - [[./vulkan|vulkan]]
 - [[./CUDA|CUDA]]
 - [[WebGPU|WebGPU]]
