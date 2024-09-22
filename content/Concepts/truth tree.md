@@ -4,7 +4,7 @@ aliases:
   - truth tree
   - semantic tableau
 created: 2024-08-26
-modified: 2024-09-08
+modified: 2024-09-22
 parent:
   - "[[logic|logic]]"
 publish: true
@@ -18,7 +18,7 @@ Compare to a [[truth table|truth table]], a truth tree can often to be faster to
 
 The primary purpose of a truth tree is to determine whether a given set of propositions is [[satisfiability|satisfiable]]. However, with some adjustments, it can also be used to test other properties, such as [[./validity (logic)|validity]].
 
-## Tree Rules
+## Tree Rules in Proposition Logic
 We can reduce a proposition to its more basic form by using one of the tree rules. All the tree rule for propositional logic can be derived from the truth table. Note that $\alpha$ or $\neg \alpha$ are not reducible.
 
 ![[../truth tree rules.png|truth tree rules.png]]
@@ -53,8 +53,62 @@ The formula $\alpha$ is [[./logical equivalence|equivalent]] to $\beta$ iff $(\a
 > ![[../equivalence tree test.png|equivalence tree test.png]]
 > All paths close, so $P$ and $(P \lor P)$ are equivalent
 
+## In Predicate Logic
+
+In [[predicate logic|predicate logic]], we use trees similarly to how we do in propositional logic — for testing [[satisfiability|satisfiability]]. In predicate logic, a tree tell us whether there is a [[model (predicate logic)|model]] that satisfies the formulas at the top of the tree exists. We read off such as model from an open path. If no such models exist, then all paths of the tree will be closed.
+
+### Tree Rules
+
+The existing rules from the propositional logic stay the same, but we need add some new rules for quantifiers in predicate logics:
+
+![[../truth tree rule in predicate logic.png|truth tree rule in predicate logic.png]]
+
+> [!info] the $\alpha(\underline{a}/\underline{x})$ notation means to [[./substitution|substitute]] all variable $\underline{x}$ in $\alpha$ as $\underline{a}$
+
+The tree rules for negated quantifiers are simple: switch the existential quantifier to a universal one and vice versa, while also putting the negation inward. For unnegated quantifiers, we need to introduce variables.
+
+#### Existential Quantifier
+![[../existential quantifier tree rule.png|existential quantifier tree rule.png]]
+For existential quantifiers, we introduce a name $\underline{a}$ which is _new_ to the path. We then strip the quantifier, and substitute all the free occurrence of the variable $\underline{x}$ with $\underline{a}$.
+
+#### Universal Quantifier
+![[../universal quantifiers tree rule.png|universal quantifiers tree rule.png]]
+For universal quantifiers, $\underline{a}$ can be any name and does not have to be new to the path. Note that when we applying this rule, we write a backslash instead of a check mark, since this rule can be repeatedly applied with different variable names  $\underline{a}, \underline{b}, \underline{c}\dots$
+
+We can technically apply the rule above an infinite number of times,
+![[../universal quantifier tree rule infinity.png|universal quantifier tree rule infinity.png]]
+but we can stop when a path is _saturated_.
+
+We define "saturated" as
+1. For every formula on whose main operator is a universal quantifier
+  - The universal quantifier rule has been applied at least once.
+  - The rule has been applied to it once for **every name** in the path.
+2. For every other formula, the relevant rule has been applied.
+
+> [!example] Example: the following tree is finished+
+> ![[../truth tree saturated 1.png|truth tree saturated 1.png]]
+
+> [!example]+ Example: the following tree is not finished
+> ![[../truth tree saturated 2.png|truth tree saturated 2.png]]
+> because we can still apply $b$ to the universal quantifier $\forall x G x$.
+> Once we do that, the tree is finished
+> ![[../truth tree saturated 2.1.png|truth tree saturated 2.1.png]]
+
+> [!example]+ Example: the following tree is not finished
+> $$\forall x G x$$
+> We need to apply the universal rule at least once:
+> ![[../truth tree saturated 3.png|truth tree saturated 3.png]]
+
+#### Heuristics for Applying Tree Rules
+When applying tree rules, it is desirable to follow the following order:
+1. propositional logic rules - and among those rules, nonbranching rules first
+2. negated quantifiers rules
+3. unnegated existential quantifier rules
+4. unnegated universal quantifier rule
+This heuristics usually result in a shorter tree proof.
+
 ## Reference
-- Smith, Nicholas J.J.. _Logic : The Laws of Truth_, Princeton University Press, 2012. Chapter 7
+- Smith, Nicholas J.J.. _Logic : The Laws of Truth_, Princeton University Press, 2012. Chapter 7, Chapter 10
 
 ## See Also
 - [Tree Proof Generator](https://www.umsu.de/trees/) - An online program to construct tree proofs
