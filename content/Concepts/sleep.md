@@ -10,8 +10,6 @@ tags:
   - life/sleep
   - MOC
 ---
-
-# Sleep MOC
 Sleep is divided into two major phases - rapid-eye-movement (REM) and non–rapid-eye-movement (NREM) sleep.
 
 - [[./The two‐process model of sleep regulation|The two‐process model of sleep regulation]]

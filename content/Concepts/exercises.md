@@ -7,9 +7,8 @@ publish: true
 tags:
   - life/exercises
 ---
-
-# Exercises
 - [[./opportunities to move|opportunities to move]]
+- [[./exercises and sleep|exercises and sleep]]
 
 ## Cardio
 - [[interval running|interval running]]

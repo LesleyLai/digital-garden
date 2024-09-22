@@ -15,7 +15,7 @@ tags:
 ## Basic Concepts
 - [[./abstract syntax tree|abstract syntax tree]]
 - [[algebraic data type|algebraic data types]]
-- [[./substitution (PL)|substitution]]
+- [[./substitution|substitution]]
 - [[./undefined behavior|undefined behavior]]
 - [[./unification|unification]]
 - [[./covariance and contravariance|covariance and contravariance]]
