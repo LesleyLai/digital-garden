@@ -16,6 +16,15 @@ export const sharedPageComponents: SharedLayout = {
         title: "Recently Edited Notes:",
       }),
     ),
+    Component.Comments({
+      provider: "giscus",
+      options: {
+        repo: "LesleyLai/digital-garden",
+        repoId: "R_kgDOMyQ4bw",
+        category: "Announcements",
+        categoryId: "DIC_kwDOMyQ4b84CisbS",
+      },
+    }),
   ],
   footer: Component.Footer({
     links: {
