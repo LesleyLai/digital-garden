@@ -1,6 +1,6 @@
 ---
 created: 2023-05-30
-modified: 2024-09-22
+modified: 2024-09-23
 publish: true
 tags:
   - computer/PL
@@ -11,7 +11,7 @@ parent:
 Intuitively, a **substitution** $e[v / x]$ changes all [[bound and free variables|free occurrence]] of the variable $x$ in $e$ to $v$.
 
 > [!definition]
-substitution is defined as following
+> substitution is defined as following
 > 1. $x[v / x] =v$ and $y[v / x] =y$ if $x \neq y$.
 > 2. $o\left(a_1 ; \ldots ; a_n\right)[v / x] =o\left( a_1[v / x] ; \ldots ; a_n[v / x]\right)$ (where $o$ is an operator).
 
