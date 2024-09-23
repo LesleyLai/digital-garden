@@ -3,7 +3,7 @@ tags:
   - tools/obsidian
   - tools/quartz
 created: 2024-09-17
-modified: 2024-09-20
+modified: 2024-09-23
 publish: true
 ---
 Here are the changes I've made to my Quartz setup. While I can't promise to include everything or keep it constantly updated, this should give you a good idea of how I've customized this digital garden website.
@@ -96,4 +96,25 @@ Useless IMHO
        <head>
 -        <title>{title}</title>
 +        <title>{title} | {cfg.pageTitle}</title>
+```
+
+## Adds Comments Support
+`quartz.layout.ts`
+```ts
+// components shared across all pages
+export const sharedPageComponents: SharedLayout = {
+  head: Component.Head(),
+  header: [],
+  afterBody: [
+     ...
++    Component.Comments({
++      provider: "giscus",
++      options: {
++        repo: "LesleyLai/digital-garden",
++        repoId: "R_kgDOMyQ4bw",
++        category: "Announcements",
++        categoryId: "DIC_kwDOMyQ4b84CisbS",
++      },
++    }),
+  ],
 ```
