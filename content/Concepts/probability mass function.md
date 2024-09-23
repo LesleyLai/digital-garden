@@ -2,11 +2,12 @@
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - math/probability
+parent:
+  - "[[probability MOC|probability MOC]]"
 ---
-
-#math/probability 
-
-For discrete distributions, the probability mass function is defined as
+For discrete distributions, the **probability mass function** is defined as
 $$
 p_i = p(X_i) = p(X = x_i)
 $$

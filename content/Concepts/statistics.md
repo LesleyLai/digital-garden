@@ -11,10 +11,9 @@ publish: true
 tags:
   - statisticsAndDataScience
 ---
-
 # Data Science and Statistics MOC
 - [[./numerical summaries of data|numerical summaries of data]]
-- [[./statistic graphics|statistic graphics]]
+- [[./data visualization plots|data visualization plots]]
 - [[ethics and privacy of data science|ethics and privacy]]
 - [[./statistic bias|statistic bias]]
 

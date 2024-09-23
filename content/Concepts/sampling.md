@@ -9,9 +9,6 @@ tags:
   - "#math/probability"
   - "#MOC"
 ---
-
-# Sampling
-
 **Sampling** encodes signal as discrete set of samples. The reverse process is called [[./sample reconstruction|reconstruction]].
 
 ## Concepts

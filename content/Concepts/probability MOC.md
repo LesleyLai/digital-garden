@@ -2,7 +2,7 @@
 aliases:
   - "#math/probability"
 created: 2023-05-30
-modified: 2024-09-02
+modified: 2024-09-23
 parent:
   - "[[math|math]]"
 publish: true
@@ -25,12 +25,15 @@ see: [[./conditional probability|conditional probability]]
 - [[./mutually exclusive events|mutually exclusive events]]
 ## Random Variables
 - [[./random variable|random variable]]
-- [[./cumulative distribution function|CDF]]
-- [[./probability density function|PDF]]
 - [[moments of the distribution|moments of the distribution]]
 - [[./variance|variance]]
 - [[Chebyshev’s inequality|Chebyshev’s inequality]]
 - [[sum of random variables|sum of random variables]]
+
+### Functions on Probability Distributions
+- [[./probability density function|PDF]] and [[./probability mass function|PMF]]
+- [[./cumulative distribution function|CDF]]
+- [[./quantile function|quantile function]]
 
 ## Jointly Distributed Random Variables
 - [[./conditional probability|conditional probability density function]]

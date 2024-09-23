@@ -8,8 +8,6 @@ tags:
   - math/definitions
   - math/functions
 ---
-
-# Unit Step Function
 The **Heaviside step function** or **unit step function** is defined as the following:
 $$
 u(t) = \begin{cases}

@@ -14,7 +14,7 @@ A numerical summary reduces all the data to simple numbers ("**statistic**"). Th
 Major features that we can use include:
 - center: [[mean|mean]] and [[median|median]]
 - spread: [[./variance|variance]] and [[standard deviation|standard deviation]]
-- [[quantiles|quantiles]] beside median: [[percentile|percentile]]
+- [[quantile|quantile]] beside median: [[percentile|percentile]]
 
 ## Correlation
 - [[./Pearson correlation coefficient|Pearson correlation coefficient]]
