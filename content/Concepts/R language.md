@@ -14,6 +14,8 @@ aliases:
 # R Language
 - [[./R function|R Function]]
 - [[./R vectors|R Vectors]]
+- [[R functions cheat sheat|R Functions Cheat Sheet]]
+- [[./probability distributions in R|probability distributions in R]]
 
 ## Packages
 - [[./tidyverse|tidyverse]] ([[ggplot2|ggplot2]])
