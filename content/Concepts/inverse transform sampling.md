@@ -1,19 +1,16 @@
 ---
 aliases:
   - inversion method
-  - inverse CDF
 created: 2023-05-30
-modified: 2024-03-14
-parent: "[[sampling]]"
+modified: 2024-09-23
+parent:
+  - "[[sampling|sampling]]"
 publish: true
 tags:
-  - "#math/sampling"
+  - math/sampling
   - math/probability
 ---
-
-# Inverse Transform Sampling
-
-**Inverse transform sampling** can be used to transform samples from the [[./uniform distribution|uniform distribution]] to another by inverting the target distribution’s [[./cumulative distribution function|CDF]]. It is one of the most important techniques to generate samples from a distribution.
+**Inverse transform sampling** can be used to transform samples from the [[./uniform distribution|uniform distribution]] to another by inverting the target distribution’s [[./cumulative distribution function|CDF]] (a.k.a. computing the [[./quantile function|quantile function]]). It is one of the most important techniques to generate samples from a distribution.
 
 ## The Algorithm
 1. Compute the CDF[^1] $P(x)=\int_0^x p\left(x^{\prime}\right) \mathrm{d} x^{\prime}$.
