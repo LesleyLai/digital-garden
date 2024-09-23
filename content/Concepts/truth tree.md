@@ -4,7 +4,7 @@ aliases:
   - truth tree
   - semantic tableau
 created: 2024-08-26
-modified: 2024-09-22
+modified: 2024-09-23
 parent:
   - "[[logic|logic]]"
 publish: true
@@ -32,16 +32,24 @@ If an [[./argument|argument]] is [[./validity (logic)|validity]], it means that 
 
 > [!example]+
 > Is the following argument valid?
+> 
 ![[../validity-tree-test-1-argument.png|validity-tree-test-1-argument.png]]
+>
 > **Solution**
+> 
 ![[../validity tree test 1.png|validity tree test 1.png]]
+>
 > We can see that all path in the tree are closed, so the argument is *valid*.
 
 > [!example]+
 > Is the following argument valid?
+> 
 ![[../validity-tree-test-2-argument.png|validity-tree-test-2-argument.png]]
+>
 > **Solution**
+> 
 ![[../validity-tree-test-2.png|validity-tree-test-2.png]]
+>
 > We can see that some paths are open, so the argument is *invalid*.
 > For example, when $A = F, B = T, C = T$, we have true premises but false conclusion
 ### Tautologies
@@ -51,6 +59,7 @@ To ask whether a proposition is a [[tautology|tautology]] is to ask whether it i
 The formula $\alpha$ is [[./logical equivalence|equivalent]] to $\beta$ iff $(\alpha \leftrightarrow \beta)$ is tautology. In other word, iff $\neg (\alpha \leftrightarrow \beta)$ is not satisfiable.
 > [!example] Are $P$ and $P \lor P$ equivalent?+
 > ![[../equivalence tree test.png|equivalence tree test.png]]
+> 
 > All paths close, so $P$ and $(P \lor P)$ are equivalent
 
 ## In Predicate Logic
@@ -69,10 +78,12 @@ The tree rules for negated quantifiers are simple: switch the existential quanti
 
 #### Existential Quantifier
 ![[../existential quantifier tree rule.png|existential quantifier tree rule.png]]
-For existential quantifiers, we introduce a name $\underline{a}$ which is _new_ to the path. We then strip the quantifier, and substitute all the free occurrence of the variable $\underline{x}$ with $\underline{a}$.
+
+For existential quantifiers, we introduce a name $\underline{a}$ which is [[fresh variable|new to the path]]. We then strip the quantifier, and substitute all the free occurrence of the variable $\underline{x}$ with $\underline{a}$.
 
 #### Universal Quantifier
 ![[../universal quantifiers tree rule.png|universal quantifiers tree rule.png]]
+
 For universal quantifiers, $\underline{a}$ can be any name and does not have to be new to the path. Note that when we applying this rule, we write a backslash instead of a check mark, since this rule can be repeatedly applied with different variable names  $\underline{a}, \underline{b}, \underline{c}\dots$
 
 We can technically apply the rule above an infinite number of times,
@@ -85,18 +96,24 @@ We define "saturated" as
   - The rule has been applied to it once for **every name** in the path.
 2. For every other formula, the relevant rule has been applied.
 
-> [!example] Example: the following tree is finished+
+> [!example]+ Example: the following tree is finished
 > ![[../truth tree saturated 1.png|truth tree saturated 1.png]]
 
 > [!example]+ Example: the following tree is not finished
 > ![[../truth tree saturated 2.png|truth tree saturated 2.png]]
+> 
 > because we can still apply $b$ to the universal quantifier $\forall x G x$.
+> 
 > Once we do that, the tree is finished
+> 
 > ![[../truth tree saturated 2.1.png|truth tree saturated 2.1.png]]
 
 > [!example]+ Example: the following tree is not finished
+> 
 > $$\forall x G x$$
+> 
 > We need to apply the universal rule at least once:
+> 
 > ![[../truth tree saturated 3.png|truth tree saturated 3.png]]
 
 #### Heuristics for Applying Tree Rules
