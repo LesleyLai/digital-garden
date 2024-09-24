@@ -10,7 +10,7 @@ tags:
   - math/geometry/curve/bezier
 title: Bézier Curve
 ---
-A **Bézier curve** is a curve expressed in the [[Bernstein basis|Bernstein basis]]:
+A **Bézier curve** is a curve expressed in the [[./Bernstein basis|Bernstein basis]]:
 $$
 \gamma(s) := \sum_{k = 0}^{n} B_{n, k}(s) p_k
 $$
