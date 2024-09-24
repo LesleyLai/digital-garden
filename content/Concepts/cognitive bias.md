@@ -11,9 +11,9 @@ tags:
 - [[./present bias|present bias]]
 - [[./G.I. Joe fallacy|G.I. Joe fallacy]]
 - [[./false-uniqueness effect|false-uniqueness effect]]
-- [[binary thinking|binary thinking]]
+- [[./binary thinking|binary thinking]]
 - [[./base rate fallacy|base rate fallacy]]
-- [[Barnum effect|Barnum effect]]
+- [[./Barnum effect|Barnum effect]]
 - [[./action bias|action bias]]
 
 
