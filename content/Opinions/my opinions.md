@@ -35,6 +35,9 @@ This page contains some half-backed personal thoughts.
 ## Philosophy and Ethics
 - [[./On trolley problems and other sacrificial dilemmas|On trolley problems and other sacrificial dilemmas]]
 
+## Inclusion
+- [[./RTFM|On "RTFM"]]
+
 ## Uncategorized
 - [[./Eisenhower Matrix|Eisenhower Matrix]]
 - [[../Concepts/how to design flashcards|how to design flashcards]]
