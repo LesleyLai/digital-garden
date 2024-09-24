@@ -29,17 +29,17 @@ Instead, **internal iterator** require you to pass a callback to run over a coll
 list.foreach(elem => /* do something */)
 ```
 
-External iterator is the primary paradigm in [[C++ iterators|C++]] and [[./Rust iterator|Rust]].
+External iterator is the primary paradigm in [[./C++ iterators|C++]] and [[./Rust iterator|Rust]].
 ## Pros and Cons
 External iterator gives user more flexibility and explicit control on how to use the iterator. [^3] On the other hand, they are often not linking-friendly and requires to inline tons-of library code to be efficient. [^1] [^2]
 
-Internal iterator are often easier to implement. For languages that support  [[./generator|generators]], we can implement external iterator using a convenient syntax as if we are implementing internal iterator.
+Internal iterator are often easier to implement. For languages that support  [[generator|generators]], we can implement external iterator using a convenient syntax as if we are implementing internal iterator.
 
 ## Related
 - [['Iterators and Traversables' note|Iterators and Traversables]]
   - It is hard to have a bulk operation sharing an external iterator API and that is why the author want to distinguish "iterator" and "traversable"
 - [[./pull parser vs push parser|pull parser vs push parser]] - can be seen an instance of this problem
-- [[./generator|generators]] - can be used to implement external iterators with a convenient syntax
+- [[generator|generators]] - can be used to implement external iterators with a convenient syntax
 
 
 [^stackoverflow]: [java - External Iterator vs Internal Iterator - Stack Overflow](https://stackoverflow.com/questions/224648/external-iterator-vs-internal-iterator#224675)
