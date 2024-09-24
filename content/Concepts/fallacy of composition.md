@@ -7,7 +7,6 @@ publish: true
 tags:
   - logic/fallacies
 ---
-
 The **fallacy of composition** is an informal fallacy that arises when one infers that something is true of the whole from the fact that it is true of some part of the whole.
 
 > [!example]
