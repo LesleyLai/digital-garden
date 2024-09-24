@@ -7,8 +7,6 @@ publish: true
 tags:
   - "#computing/performance/benchmark"
 ---
-
-# Benchmarking
 ## Best Practices
 - [[./when microbenchmark becomes misleading|when microbenchmark becomes misleading]]
   - [[./latency vs throughput in benchmarking|latency vs throughput in benchmarking]]
