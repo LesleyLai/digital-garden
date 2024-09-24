@@ -35,7 +35,7 @@ $$
 
 ![[../assets/line-equation.png|400]]
 
-Alternatively, given three points $\mathbf{P_1}$, $\mathbf{P_2}$, and $\mathbf{P_3}$ on the plane, we can construct the normal vector with the [[./cross product|cross product]]: $\mathbf{n} = \mathbf{P_{1}P_{2}} \times \mathbf{P_{1}P_{3}}$, so we can have an equation of plane as $\mathbf{P_{1}P_{2}} \times \mathbf{P_{1}P_{3}} \cdot (\mathbf{x} - \mathbf{P_{1}})$ (or alternatively can be viewed as the [[determinant|determinant]] $\det\left(\mathbf{P_1P_2},\, \mathbf{P_1P_3},\, (\mathbf{x} - \mathbf{P_{1}})\right)$)
+Alternatively, given three points $\mathbf{P_1}$, $\mathbf{P_2}$, and $\mathbf{P_3}$ on the plane, we can construct the normal vector with the [[./cross product|cross product]]: $\mathbf{n} = \mathbf{P_{1}P_{2}} \times \mathbf{P_{1}P_{3}}$, so we can have an equation of plane as $\mathbf{P_{1}P_{2}} \times \mathbf{P_{1}P_{3}} \cdot (\mathbf{x} - \mathbf{P_{1}})$ (or alternatively can be viewed as the [[./determinant|determinant]] $\det\left(\mathbf{P_1P_2},\, \mathbf{P_1P_3},\, (\mathbf{x} - \mathbf{P_{1}})\right)$)
 
 ## Importance in Multi-variable Calculus
 Equation of planes is important in multi-variable [[./calculus|calculus]] since when we go closer and closer to a [[surface|surface]], it can be approximated by a plane.
