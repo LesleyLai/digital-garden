@@ -42,6 +42,6 @@ def instructions_to_blocks(instructions: Vector<Instruction>) {
 }
 ```
 
-Lesley's remark: This code can be simplify if we have [[./generator|generators]]
+Lesley's remark: This code can be simplify if we have [[generator|generators]]
 
 We can also compute a "label to basic block" map structure in this process.
