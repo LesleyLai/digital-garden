@@ -12,7 +12,7 @@ tags:
 ---
 
 # Productivity MOC
-- [[design a system for the laziest version of yourself|design a system for the laziest version of yourself]]
+- [[./design a system for the laziest version of yourself|design a system for the laziest version of yourself]]
 - [[../Opinions/Eisenhower Matrix|Eisenhower Matrix]]
 
 ## References
