@@ -11,17 +11,17 @@ tags:
 ---
 # Note Taking
 ## Frameworks
-- [[Zettelkasten|Zettelkasten]] - creating [[./principle of atomicity|small]], original, and interconnected notes
+- [[./Zettelkasten|Zettelkasten]] - creating [[./principle of atomicity|small]], original, and interconnected notes
 - [[./second brain|second brain]]
   - [[./progressive summarization|progressive summarization]] - "just in time" summarization based on bolding and highlighting
 
 ## Organization
-- [[map of concepts|map of concepts]] - organize notes in layers
+- [[./map of concepts|map of concepts]] - organize notes in layers
 - [[./PARA framework|PARA method]] - organize literature notes in a style similar to [[GTD|GTD]]
 
 ## Software
 - [[./Obsidian MOC|Obsidian]]
-- [[SiYuan|SiYuan]]
+- [[./SiYuan|SiYuan]]
 - [[org roam|org roam]]
 
 ## Best Practices
