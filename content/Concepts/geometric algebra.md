@@ -9,9 +9,7 @@ publish: true
 tags:
   - math/geometric_algebra
 ---
-
-# Geometric Algebra
-- [[exterior product|exterior product]]
-- [[bivector|bivector]]
+- [[./exterior product|exterior product]]
+- [[./bivector|bivector]]
 - [[./geometric product|geometric product]]
 - [[./rotors|rotors]]
