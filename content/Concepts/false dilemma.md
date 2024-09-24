@@ -11,9 +11,7 @@ publish: true
 tags:
   - "#logic/fallacies"
 ---
-
-# False Dilemma
 **false dilemma** or **false dichotomy** is an informal [[./logical fallacies|logical fallacy]] that misrepresents an issue by presenting only two mutually exclusive options rather than the full, nuanced range of options.
 
 ## Related
-- [[binary thinking|binary thinking]] - reduce complex concepts into two mutually exclusive options (e.g. good vs evil)
+- [[./binary thinking|binary thinking]] - reduce complex concepts into two mutually exclusive options (e.g. good vs evil)
