@@ -9,7 +9,7 @@ tags:
 
 # Outer Product
 
-> [!warning] not to be confused with [[exterior product|exterior product]]. Note that exterior product is sometimes called "outer product" in literatures.
+> [!warning] not to be confused with [[./exterior product|exterior product]]. Note that exterior product is sometimes called "outer product" in literatures.
 
 > [!definition]
 > Given vectors $x \in \mathbb{R}^m, y \in \mathbb{R}^n$ (not necessarily of the same size), $x y^T \in \mathbb{R}^{m \times n}$ is called the **outer product** of the vectors.
