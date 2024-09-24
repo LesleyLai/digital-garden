@@ -11,7 +11,7 @@ parent:
 ---
 **Sleep hygiene** are a set of behavioral and environmental practices to help people sleep better.
 
-For example, it is beneficial to [[don't use bed for things other than sleeping|not use bed for things other than sleeping]] to help associate bed with sleeping. Some other things that impact sleep hygiene including
+For example, it is beneficial to [[./don't use bed for things other than sleeping|not use bed for things other than sleeping]] to help associate bed with sleeping. Some other things that impact sleep hygiene including
 - regular sleep schedule (to reduce "social jetlag")
 - comfortable sleep environment
 - [[./exercises and sleep|exercises]]
