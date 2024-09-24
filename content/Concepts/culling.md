@@ -11,5 +11,5 @@ tags:
 
 # Culling Methods in Computer Graphics
 - [[backface culling|backface culling]]
-- [[./frustum culling|frustum culling]]
+- [[frustum culling|frustum culling]]
 - [[occulusion culling|occulusion culling]]
