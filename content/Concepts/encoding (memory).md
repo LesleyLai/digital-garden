@@ -11,7 +11,7 @@ tags:
 # Encoding in Memory
 **Encoding** is the process of converting information from [[short-term memory|short-term memory]] to [[long-term memory|long-term memory]]. Experts believes [[hippocampus|hippocampus]] along with [[./frontal lobe|frontal cortex]] is responsible for analyzing sensory input and deciding if they're worth remembering
 
-Strategies to improve the encoding process include [[Zettelkasten|connected note taking]], [[./mnemonic devices|mnemonic devices]], [[mind map|mindmapping]], and [[./learning by teaching|learning by teaching]].
+Strategies to improve the encoding process include [[./Zettelkasten|connected note taking]], [[./mnemonic devices|mnemonic devices]], [[mind map|mindmapping]], and [[./learning by teaching|learning by teaching]].
 
 ## References
 - [['Encoding the neglected part of effective learning' note|'Encoding the neglected part of effective learning' note]]
