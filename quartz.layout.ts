@@ -14,6 +14,7 @@ export const sharedPageComponents: SharedLayout = {
         linkToMore: "/tags" as SimpleSlug,
         limit: 10,
         title: "Recently Edited Notes:",
+        filter: (f) => f.relativePath !== "index.md",
       }),
     ),
     Component.Comments({
