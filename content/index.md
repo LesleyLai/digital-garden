@@ -11,7 +11,7 @@ Most of the notes and articles here are incomplete and unpolished, reflecting my
 I keep a [[./Concepts/Quartz customization log|customization log]] for this site.
 
 ## How to Navigate This Site?
-I primarily follow a note-taking method inspired by the [[Zettelkasten]] system, and as a result the site uses a mostly flat folder structure. To navigate this site, you'll mainly rely on links and backlinks. However, I do try to incorporate some hierarchy back by using a `parent:` property in Obsidian and create [[map of concepts]] pages to organize related ideas.
+I primarily follow a note-taking method inspired by the [[./Concepts/Zettelkasten|Zettelkasten]] system, and as a result the site uses a mostly flat folder structure. To navigate this site, you'll mainly rely on links and backlinks. However, I do try to incorporate some hierarchy back by using a `parent:` property in Obsidian and create [[./Concepts/map of concepts|map of concepts]] pages to organize related ideas.
 
 Not sure where to start? Check the [[./Concepts/note index|note index]] or [[./Opinions/my opinions|my opinions]].
 
