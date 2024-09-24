@@ -8,4 +8,4 @@ tags:
 ---
 # Translation
 - $f_{\mathbf{u}}(\mathbf{x}) = \mathbf{x} + \mathbf{u}$
-- Translation is [[affine function|affine]], not [[./linear transformation|linear]]!
+- Translation is [[./affine function|affine]], not [[./linear transformation|linear]]!
