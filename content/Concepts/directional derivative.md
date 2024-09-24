@@ -17,6 +17,6 @@ $$
 
 ![[../assets/directional_derivative.png|400]]
 
-It can be seen as a generalization of [[partial derivative|partial derivative]].
+It can be seen as a generalization of [[./partial derivative|partial derivative]].
 
 [[./Multi-dimensional derivative, gradient, and directional Derivative|The directional derivative is highly related to multi-dimensional derivative, and it can also be defined as a dot product of the gradient and direction]]: $D_{\mathbf{u}}(f) = \nabla f \cdot \mathbf{u} = [Df]\mathbf{u}$
