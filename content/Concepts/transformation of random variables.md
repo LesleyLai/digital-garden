@@ -18,7 +18,7 @@ tags:
 - Multiple dimensions
   - $p_y(y) = p_y(T(x)) = \frac{p_x(x)}{J_T(x)}$
   - $Y = T(X)$
-  - $|J_T|$ is the absolute value of the [[determinant|determinant]] of T's [[./Jacobian|Jacobian]] matrix $$
+  - $|J_T|$ is the absolute value of the [[./determinant|determinant]] of T's [[./Jacobian|Jacobian]] matrix $$
 \left(\begin{array}{ccc}
 \partial T_1 / \partial x_1 & \cdots & \partial T_1 / \partial x_n \\
 \vdots & \ddots & \vdots \\
