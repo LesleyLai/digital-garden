@@ -2,13 +2,13 @@
 created: 2024-05-22
 modified: 2024-05-22
 parent:
-  - "[[functions|function]]"
+  - "[[./functions|function]]"
 publish: true
 tags:
   - math/functions
 ---
 
-A **sigmoid function** is any [[functions|functions]] whose graph has a characteristic S-shaped or **sigmoid curve**. [^1]
+A **sigmoid function** is any [[./functions|functions]] whose graph has a characteristic S-shaped or **sigmoid curve**. [^1]
 
 ![[../assets/sigmoid.png|500]]
 
