@@ -7,8 +7,6 @@ publish: true
 tags:
   - math/optimization/convex
 ---
-
-# Convex Optimization
 Convex problems are a special class of [[./mathematical optimization|optimization]] problems that are almost always "easy" to solve (polynomial-time).
 
 A problem is _convex_ if it has a [[convex domain|convex domain]] and [[convex objective|convex objective]]
