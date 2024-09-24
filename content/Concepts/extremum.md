@@ -12,6 +12,5 @@ tags:
   - "#math/functions"
   - "#math/definitions"
 ---
-
 # Maximum and Minimum
 **maximum** and **minimum** are known together as **extremum**
