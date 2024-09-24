@@ -10,9 +10,9 @@ tags:
 # Top-down Vs Bottom-up Parsing
 
 Examples to top-down parsers:
-- [[LL and LR parsing|LL parser]]
+- [[./LL and LR parsing|LL parser]]
 - [[recursive descent parsers|recursive descent parsers]]
 
 Examples to bottom-up parsers:
-- [[LL and LR parsing|LR parser]]
+- [[./LL and LR parsing|LR parser]]
 - [[./operator precedence parser|operator precedence parser]]
