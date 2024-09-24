@@ -9,7 +9,6 @@ publish: true
 tags:
   - tools/anki
 ---
-
 ```
 {{#FieldName}}
     This text is only shown if FieldName has text in it
