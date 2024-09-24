@@ -18,7 +18,7 @@ tags:
 ## Concepts
 - [[./ABA problem|ABA problem]]
 - [[dead lock|dead lock]]
-- [[Race Condition vs. Data Race|Race Condition vs. Data Race]]
+- [[./Race Condition vs. Data Race|Race Condition vs. Data Race]]
 - [[./data parallelism vs task parallelism|data parallelism vs task parallelism]]
 
 ## Patterns

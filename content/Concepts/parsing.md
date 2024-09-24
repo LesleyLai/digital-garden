@@ -17,7 +17,7 @@ The goal of **parsing** is to read some input. break it down by some [[formal gr
 ## Index
 - [[./top-down vs bottom-up parsing|top-down vs bottom-up parsing]]
 - [[recursive descent parsers|recursive descent parsers]]
-- [[LL and LR parsing|LL and LR parsing]]
+- [[./LL and LR parsing|LL and LR parsing]]
 - [[./parser combinator|parser combinator]]
 - [[./operator precedence parser|operator precedence parser]]
   - [[./Pratt parsing|Pratt parsing]]

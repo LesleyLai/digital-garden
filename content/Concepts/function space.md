@@ -8,9 +8,7 @@ tags:
   - "#math/functions"
   - "#math/definitions"
 ---
-
-# Function Space
-A very important usage of [[./vector space|vector spaces]] are [[functions|functions]] as vectors, the function space arise as the study of [[./differential equations|differential equations]].
+A very important usage of [[./vector space|vector spaces]] are [[./functions|functions]] as vectors, the function space arise as the study of [[./differential equations|differential equations]].
 
 For example, for real functions, we can certainly add/scale functions
  - $(f + g)(x) = f(x) + g(x)$

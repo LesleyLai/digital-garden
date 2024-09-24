@@ -48,6 +48,6 @@ L & R & L \vee R & L & \neg R \\ \hline
 > From the first row of the truth table, we observe that it is possible for all premises to be true while the conclusion is false. Therefore, the argument is invalid.
 
 ## Relationship with Soundness
-Note that _validity doesn't mean truth_. If a promise is false, then even a valid argument can't guarantee conclusion. On the other hand, [[affirming the consequent|even when the conclusion is true, we can't guarantee that the promise is true]]. If a valid argument is also true, we say that it is [[./deductive soundness|sound]].
+Note that _validity doesn't mean truth_. If a promise is false, then even a valid argument can't guarantee conclusion. On the other hand, [[./affirming the consequent|even when the conclusion is true, we can't guarantee that the promise is true]]. If a valid argument is also true, we say that it is [[./deductive soundness|sound]].
 
 [^1]: Smith, Nicholas J.J.. _Logic : The Laws of Truth_, Princeton University Press, 2012. Chapter 1

@@ -9,8 +9,6 @@ publish: true
 tags:
   - math/LinearAlgebra/LinearSolver
 ---
-
-# Gaussian Elimination
 **Gaussian Elimination** is an algorithm to solve systems of [[./system of linear equation|system of linear equation]].
 
 It first reduces a matrix to a [[./triangular matrix|upper-triangular matrix]] and [[back substitution|back substitutes]] the result.

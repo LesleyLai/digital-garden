@@ -9,8 +9,6 @@ tags:
   - math/analysis
   - math/theorem
 ---
-
-# Extreme Value Theorem
 > [!theorem] Extreme Value Theorem
 > If $f$ is a [[./continuous functions|continuous functions]] on the [[./open and closed sets|closed]] and [[./bounded sets|bounded]] set, then f has an [[./extremum|maximum]] and minimum somewhere in this set.
 

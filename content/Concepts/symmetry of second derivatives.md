@@ -13,7 +13,7 @@ tags:
   - math/analysis
 ---
 # Symmetry of Second Derivatives
-The order of the variables in mixed [[partial derivative|partial derivatives]] doesn't matter _under certain condition_.
+The order of the variables in mixed [[./partial derivative|partial derivatives]] doesn't matter _under certain condition_.
 
 > [!theorem] Clairaut’s Theorem
 > If $f$'s partial derivative up to order 2 exists and are [[./continuous functions|continuous]], then $f_{xy} = f_{yx}$

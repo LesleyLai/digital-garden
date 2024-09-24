@@ -11,9 +11,9 @@ tags:
 ---
 
 ## Different Format of Notes
-- [[Cornell notes|Cornell notes]]
+- [[./Cornell notes|Cornell notes]]
 - outlining
-- [[concept map|concept map]]
+- [[./concept map|concept map]]
 - [[./charting method|charting method]]
 - sentence method
   - can be seen as a simplified version of outlining where we don't have outlines

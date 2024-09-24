@@ -4,6 +4,7 @@ modified: 2024-03-14
 publish: true
 tags:
   - "#learning/NoteTaking/Zettelkasten"
+parent:
+  - "[[Zettelkasten|Zettelkasten]]"
 ---
-
-Concept notes are concept written in my own language, and they must be self-explanatory and detailed.
+**Concept notes** are concept written in my own language, and they must be self-explanatory and detailed.

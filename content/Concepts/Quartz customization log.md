@@ -3,7 +3,7 @@ tags:
   - tools/obsidian
   - tools/quartz
 created: 2024-09-17
-modified: 2024-09-23
+modified: 2024-09-25
 publish: true
 ---
 Here are the changes I've made to my Quartz setup. While I can't promise to include everything or keep it constantly updated, this should give you a good idea of how I've customized this digital garden website.
@@ -37,14 +37,21 @@ TBH I don't really expect most scrappers to respect `robots.txt`, though.
 ## An `OnlyFor` Component
 Copied from [Quartz customization log | Eilleen's e-Notebook](https://quartz.eilleeenz.com/Quartz-customization-log#onlyfor-component-and-in-layout).
 
-And then in the layout file the syntax is:
+### Use `OnlyFor` for `RecentNotes` Components in the Index Page
 `quartz.layout.ts`
 ```ts
   afterBody: [
-    Component.OnlyFor(
-      { titles: ["index"] },
-      Component.RecentNotes({ showTags: false, limit: 5, title: "Recently edited notes:" }),
-    ),
+    Component.OnlyFor(
+      { titles: ["Home"] },
+      Component.RecentNotes({
+        showTags: false,
+        linkToMore: "/tags" as SimpleSlug,
+        limit: 10,
+        title: "Recently Edited Notes:",
+        // do not include the home page itself in the recently edited notes
+        filter: (f) => f.relativePath !== "index.md",
+      }),
+    ),
   ],
 ```
 ## Created & Modified Date
@@ -120,3 +127,7 @@ export const sharedPageComponents: SharedLayout = {
 ```
 
 ## Visible Properties
+See [the commit](https://github.com/LesleyLai/digital-garden/commit/fc2e513565c46b6b0d67a4eaa921a144c6a23f00 "https://github.com/LesleyLai/digital-garden/commit/fc2e513565c46b6b0d67a4eaa921a144c6a23f00")
+
+It is mostly copied from [michelepapucci/quartz-visible-obsidian-property](https://github.com/michelepapucci/quartz-visible-obsidian-property "https://github.com/michelepapucci/quartz-visible-obsidian-property"), but I also fixed some bugs and type errors, and made a few style adjustments. I also makes visible properties opt-in rather than opt-out.
+![[../assets/visible properties.png|visible properties.png]]

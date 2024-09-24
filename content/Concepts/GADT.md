@@ -6,13 +6,11 @@ modified: 2024-03-14
 publish: true
 tags:
   - computing/FunctionalProgramming/GADT
+title: Generalized Algebraic Data Type (GADT)
 ---
-
-# Generalized Algebraic Data Type (GADT)
-
 **Generalized Algebraic Data Type (GADT)** allows each constructor to have customized return type.
 
-Here is an OCaml example from [[Real World OCaml|Real World OCaml]]:
+Here is an [[OCaml|OCaml]] example from [[Real World OCaml|Real World OCaml]]:
 ```ocaml
 type _ value =
   | Int : int -> int value

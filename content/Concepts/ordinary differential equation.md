@@ -24,7 +24,7 @@ tags:
 - [[Laplace transform|Laplace transform]]
 
 ## Graphics Method
-- [[direction fields and integral curves|direction fields and integral curves]]
+- [[./direction fields and integral curves|direction fields and integral curves]]
 
 ### Numerical Method
 - [[./numerical methods for ordinary differential equations|numerical ODEs]]

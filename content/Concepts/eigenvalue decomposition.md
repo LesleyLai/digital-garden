@@ -6,7 +6,7 @@ tags:
   - "#math/LinearAlgebra/decomposition"
 ---
 
-A special case of [[singular value decomposition|singular value decomposition]] is **eigenvalue decomposition**:
+A special case of [[./singular value decomposition|singular value decomposition]] is **eigenvalue decomposition**:
 a [[./symmetric matrix|symmetric matrix]] can be decomposed into
 $$
 \mathbf{A} = \mathbf{U}\mathbf{D}\mathbf{U}^T

@@ -20,7 +20,7 @@ tags:
 
 ## At-rules
 - [[CSS media queries|Media queries]]
-- [[CSS container queries|Container queries]]
+- [[./CSS container queries|Container queries]]
 
 ## Uncategorized
 - [[Sidenotes in Web Design|Sidenotes in Web Design]]

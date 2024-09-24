@@ -21,7 +21,7 @@ The process of finding derivative is called **differentiation**, giving a functi
 - [[./D-notation|D-notation]] $Dy$, $D^2 y$
 
 ## In Multivariable Calculus
-- [[partial derivative|partial derivative]]
+- [[./partial derivative|partial derivative]]
 - [[./multi-variable derivative|multi-variable derivative]]
 - [[./gradient|gradient]]
 - [[./directional derivative|directional derivative]]

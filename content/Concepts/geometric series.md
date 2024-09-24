@@ -7,7 +7,6 @@ publish: true
 tags:
   - math/sequences_and_series
 ---
-
 The **geometric series** is $\sum_{n=0}^\infty x^n$. 
 
 The [[./convergence of series|convergence]] of geometric series depends on the value of $x$.

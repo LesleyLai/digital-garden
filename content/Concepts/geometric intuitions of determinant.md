@@ -7,8 +7,6 @@ publish: true
 tags:
   - math/LinearAlgebra/determinant
 ---
-
-# Geometric Intuitions of Determinant
 ## Determinant in 2D
 $\left| \det(\left[ \mathbf{u} \ \mathbf{v} \right]) \right|$ encodes the area under the parallelogram of with edge vectors $\mathbf{u}$ and $\mathbf{v}$
 

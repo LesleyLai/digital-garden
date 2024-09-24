@@ -12,7 +12,7 @@ tags:
 - [[./algorithms|Algorithms and Data Structures]]
 - [[./concurrency|Concurrency]]
 - [[./statistics|Data Science and Statistics]]
-- [[database|Databases]]
+- [[./database|Databases]]
 - [[./computer graphics MOC|Computer Graphics]] and [[./GPU Programming|GPU Programming]]
 - [[./programming languages MOC|Programming Languages]] and [[./compiler|Compilers]]
 - [[./performance MOC|Performance]]

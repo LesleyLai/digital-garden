@@ -31,7 +31,7 @@ tags:
 
 ## Standard Library
 - [[./STL algorithms|STL algorithms]]
-- [[C++ iterators|Iterators]]
+- [[./C++ iterators|Iterators]]
 - [[./C++ ranges|Ranges]]
 - [[C++20 integer comparison functions|C++20 integer comparison functions]]
 - [[./std_launder|std_launder]]
@@ -42,7 +42,7 @@ tags:
 - [[./C and C++ sanitizers|Sanitizers]]
 
 ## Library Design
-- [[niebloid|niebloid]]
+- [[./niebloid|niebloid]]
 - [[./customization point object|customization point object]]
 - [[./C++ SIMD operator== debate|simd operator== debate]]
 

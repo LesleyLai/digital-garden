@@ -24,5 +24,5 @@ The most common [[./vector space|vector space]] is the n-dimension **Euclidean v
 - [[./vector projection|projection]]
 
 ## Related
-- [[bivector|bivector]] - represents oriented areas
+- [[./bivector|bivector]] - represents oriented areas
 - [[trivector|trivector]] - represents oriented volumes

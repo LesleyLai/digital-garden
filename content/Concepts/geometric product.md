@@ -7,10 +7,7 @@ publish: true
 tags:
   - math/geometric_algebra
 ---
-
-# Geometric Product
-
-The **geometric product** $\mathbf{a}\mathbf{b}$ (denoted without a symbol between) is defined as the sum of a scalar from [[./dot product|dot product]] and a [[bivector|bivector]] from [[exterior product|exterior product]]:
+The **geometric product** $\mathbf{a}\mathbf{b}$ (denoted without a symbol between) is defined as the sum of a scalar from [[./dot product|dot product]] and a [[./bivector|bivector]] from [[./exterior product|exterior product]]:
 $$
 \mathbf{a} \mathbf{b} = \mathbf{a} \cdot \mathbf{b} + \mathbf{a} \wedge \mathbf{b}
 $$
@@ -88,6 +85,6 @@ $-\mathbf{b} (-\mathbf{a} \mathbf{v} \mathbf{a}) \mathbf{b} = \mathbf{b} \mathbf
 
 ## Related
 - [[./dot product|dot product]]
-- [[exterior product|exterior product]]
+- [[./exterior product|exterior product]]
 
 [^1]: [Let's remove Quaternions from every 3D Engine (An Interactive Introduction to Rotors from Geometric Algebra) - Marc ten Bosch](https://marctenbosch.com/quaternions)

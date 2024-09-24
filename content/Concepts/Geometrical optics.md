@@ -1,17 +1,18 @@
 ---
-Aliases: 
+aliases:
+  - ray optics
 created: 2024-01-07
-generalizations: "[[wave optics]]"
-modified: 2024-03-14
+generalizations:
+  - "[[wave optics|wave optics]]"
+modified: 2024-09-25
 publish: true
 tags:
   - Geometrical_optics
   - MOC
+parent:
+  - "[[optics|optics]]"
 ---
-
-# Geometrical Optics
-
-Geometric optics cannot model such certain [[optical phenomena|optical phenomena]] even for certain visible things such as [[diffraction|diffraction]], [[interference|interference]], [[fluorescence|fluorescence]], [[phosphorescence|phosphorescence]].
+**Geometric optics**, also known as **ray optics**, is a simplified model of light propagation that represents light as [[ray|rays]]. Though not fully accurate, this model is commonly used in applications such as [[./ray tracing|ray tracing]]. However, it has limitations, and it cannot model certain [[optical phenomena|optical phenomena]], even for certain visible effects such as [[diffraction|diffraction]], [[interference|interference]], [[fluorescence|fluorescence]], [[phosphorescence|phosphorescence]].
 ## Index
 - [[aperture|aperture]]
 - [[Caustic (optics)|Caustic (optics)]]

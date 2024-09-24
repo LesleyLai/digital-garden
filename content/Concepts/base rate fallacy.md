@@ -13,8 +13,6 @@ tags:
   - logic/fallacies
   - cognitive_bias
 ---
-
-# Base Rate Fallacy
 **Base-rate fallacy**, also called **prosecutor's Fallacy**, is a [[./cognitive bias|cognitive bias]] where people ignore the [[base rate|base rate]] (general prevalence) in favor of event-specific information when making judgments or decisions.
 
 ![|600](https://upload.wikimedia.org/wikipedia/commons/2/20/Base_rate_fallacy_with_vaccines.svg)

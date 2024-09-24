@@ -21,6 +21,6 @@ $$
 f(\mathbf{a} + \mathbf{h}) = f(\mathbf{a}) + [Df]_{\mathbf{a}} \mathbf{h} + O(\| h \|^2) \text{ as } \| h \| \rightarrow 0
 $$
 
-**If the derivative exist, it should be the [[./Jacobian|Jacobian Matrix]].** However, there are cases where the derivative DNE even if all [[partial derivative|partial derivatives]] exist.
+**If the derivative exist, it should be the [[./Jacobian|Jacobian Matrix]].** However, there are cases where the derivative DNE even if all [[./partial derivative|partial derivatives]] exist.
 
 > [!theorem] If all the partial derivative exist and are [[./continuous functions|continuous]], then the full derivative exists

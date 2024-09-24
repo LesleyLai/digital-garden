@@ -38,7 +38,7 @@ title: Calculus MOC
 
 ## Vector Calculus
 - [[./curvature|curvature]]
-- [[partial derivative|partial derivative]]
+- [[./partial derivative|partial derivative]]
 - [[./multi-variable derivative|multi-variable derivative]]
 - [[./directional derivative|directional derivative]]
 - [[./Jacobian|Jacobian]]

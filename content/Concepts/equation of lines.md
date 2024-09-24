@@ -11,9 +11,6 @@ publish: true
 tags:
   - "#math/geometry/analytic"
 ---
-
-# Equation of Lines
-
 ## Parametric Form
 In parametric form, a line is defined as a starting point $\mathbf{p_0}$ and direction $\mathbf{p} - \mathbf{p_0}$
 $\mathbf{p}(t) = \mathbf{p_0} + t \ (\mathbf{p} - \mathbf{p_0})$
