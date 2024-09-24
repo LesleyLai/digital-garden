@@ -18,4 +18,4 @@ The [[./orthogonal matrix|orthogonal matrix]] always represents [[./rotation|rot
 
 ## Relationship with Singular Value Decomposition
 
-Since $P$ is symmetric, we can also take a step further with a [[./spectral theorem|spectral decomposition]] $P = VDV^T$:  $$A = QVDV^T = UDV^T$$ where $U$ and $V^T$ are rotations and $D$ is axis-aligned scaling. By that we get [[singular value decomposition|singular value decomposition]].
+Since $P$ is symmetric, we can also take a step further with a [[./spectral theorem|spectral decomposition]] $P = VDV^T$:  $$A = QVDV^T = UDV^T$$ where $U$ and $V^T$ are rotations and $D$ is axis-aligned scaling. By that we get [[./singular value decomposition|singular value decomposition]].
