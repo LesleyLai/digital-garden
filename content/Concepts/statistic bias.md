@@ -23,7 +23,7 @@ tags:
 - [[survivorship bias|survivor bias]] - when only certain types of participants finish the study
 - [[adherence bias|adherer]] - when participants who adhere to a study protocol or intervention differ from those who do not adhere
 - [[sampling bias|sampling bias]]
-- [[ecological correlation|ecological fallacy]] - the interpretation of statistical data that occurs when inferences about the nature of individuals are deduced from inferences about the group to which those individuals belong
+- [[./ecological correlation|ecological fallacy]] - the interpretation of statistical data that occurs when inferences about the nature of individuals are deduced from inferences about the group to which those individuals belong
 
 ## Probability Bias
 - [[./base rate fallacy|base rate bias]]
