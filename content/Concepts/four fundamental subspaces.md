@@ -3,14 +3,11 @@ created: 2023-05-30
 modified: 2024-03-14
 parent:
   - "[[vector space|vector space]]"
+  - "[[subspaces|subspace]]"
 publish: true
 tags:
   - math/LinearAlgebra/VectorSpace
 ---
-
-# Four Fundamental Subspaces
-
-[[./subspaces|subspaces]] 
 - [[row space|row space]]
 - [[./null space|null space]]
 - [[./column space|column space]]
