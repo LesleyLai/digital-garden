@@ -8,7 +8,7 @@ tags:
   - "#math/LinearAlgebra"
 ---
 
-$A$ is a **symmetric matrix** if the [[transpose|transpose]] $A^T = A$.
+$A$ is a **symmetric matrix** if the [[./transpose|transpose]] $A^T = A$.
 
 ## See also
 - [[./skew-symmetric matrix|skew-symmetric matrix]]
