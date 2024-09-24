@@ -4,7 +4,7 @@ tags:
 parent:
   - "[[R language|R]]"
 created: 2024-09-23
-modified: 2024-09-24
+modified: 2024-09-25
 publish: true
 ---
 ## Overview
@@ -55,4 +55,8 @@ The R function family provided by the binomial distribution shares the similar p
 Compute $P(45 < X < 55)$ for $X \sim \text{Binomial}(100,0.5)$
 ```r
 sum(dbinom(46:54, 100, 0.5))
+```
+Alternatively
+```r
+pbinom(54, 100, 0.5) - pbinom(45, 100, 0.5)
 ```
