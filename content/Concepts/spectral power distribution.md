@@ -13,6 +13,6 @@ tags:
 ---
 
 # Spectral Power Distribution
-_Spectral power distribution_ (SPD) can refer to the concentration, as a function of wavelength, of any [[./radiometry quantities|radiometric]] or photometric quantities (e.g. [[./radiance|radiance]], [[./irradiance|irradiance]], [[radiant energy|radiant energy]], or [[radiant flux|radiant flux]])
+_Spectral power distribution_ (SPD) can refer to the concentration, as a function of wavelength, of any [[./radiometry quantities|radiometric]] or photometric quantities (e.g. [[./radiance|radiance]], [[./irradiance|irradiance]], [[radiant energy|radiant energy]], or [[./radiant flux|radiant flux]])
 
 We often approximate spectral power distribution as RGB.
