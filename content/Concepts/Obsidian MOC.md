@@ -33,7 +33,7 @@ tags:
 - [[./Journaling in Obsidian|Journaling]]
 - [[./resize images in Obsidian|Resizing images in obsidian]]
 - [[./Obsidian transclusion|transclusion]]
-- [[MOC in Obsidian|MOC in Obsidian]]
+- [[./MOC in Obsidian|MOC in Obsidian]]
 - [[./developer tool in Obsidian|developer tool]]
 
 ## Related
