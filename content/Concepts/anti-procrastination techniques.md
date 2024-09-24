@@ -14,7 +14,7 @@ tags:
 
 # Anti-Procrastination Techniques
 - [[./20-second rule|20-second rule]]
-- [[implementation intention|implementation intention]] (plan on when and where to do a task)
+- [[./implementation intention|implementation intention]] (plan on when and where to do a task)
 - [[./do the hardest thing first|do the hardest thing first]]
 
 # Reference
