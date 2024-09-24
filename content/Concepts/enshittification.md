@@ -3,12 +3,9 @@ aliases:
   - platform decay
 created: 2024-02-09
 modified: 2024-03-14
-parent: 
 publish: true
 tags: 
 ---
-
-# Enshittification
 **Enshittification** is a word coined by author [[Cory Doctorow|Cory Doctorow]] to describe the pattern of degrade quality of online platforms. Enshittification usually comes with four stages:
 1. be good to their users
 2. abuse users to make things better for their business customers
