@@ -29,7 +29,7 @@ See: [[./habit|habit]]
 
 ### Note Taking
 - [[./Note Taking MOC|take note]]
-  - [[Zettelkasten|Zettelkasten]]
+  - [[./Zettelkasten|Zettelkasten]]
   - [[./second brain|Build a Second Brain]]
   - [[./elaborative interrogation|elaborative interrogation]]
 
