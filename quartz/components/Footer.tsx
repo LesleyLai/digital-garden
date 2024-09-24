@@ -24,6 +24,11 @@ export default ((opts?: Options) => {
               <a href={link}>{text}</a>
             </li>
           ))}
+          <li>
+            <a rel="me" href="https://mastodon.gamedev.place/@lesley">
+              Mastodon
+            </a>
+          </li>
         </ul>
       </footer>
     )

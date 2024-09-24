@@ -28,7 +28,7 @@ export const sharedPageComponents: SharedLayout = {
   ],
   footer: Component.Footer({
     links: {
-      GitHub: "https://github.com/LesleyLai/digital-garden",
+      "GitHub Repository": "https://github.com/LesleyLai/digital-garden",
     },
   }),
 }
