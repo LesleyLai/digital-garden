@@ -10,7 +10,7 @@ tags:
 ---
 
 # Sequences
-A **sequence** can be view as a [[functions|function]] from [[natural numbers|natural numbers]] to [[./real number|real numbers]] ($\mathtt{N} \Rightarrow \mathtt{R}$).
+A **sequence** can be view as a [[./functions|function]] from [[natural numbers|natural numbers]] to [[./real number|real numbers]] ($\mathtt{N} \Rightarrow \mathtt{R}$).
 
 convergence: [[./convergence of sequences|convergence of sequences]]
 
