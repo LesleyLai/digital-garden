@@ -22,10 +22,10 @@ When writing notes, there is a contention between *compression* and *context*. W
 - layer 5: remix
 ![[../assets/progressive summarization.webp|600]]
 
-Not all notes need all layers, and we also only summarize notes when we are already reviewing it. This is important since we don't want to spend time and energy on unimportant notes. In other words, [[design a system for the laziest version of yourself|design a system for the laziest version of yourself]].
+Not all notes need all layers, and we also only summarize notes when we are already reviewing it. This is important since we don't want to spend time and energy on unimportant notes. In other words, [[./design a system for the laziest version of yourself|design a system for the laziest version of yourself]].
 
 ## Criticisms
-![[criticism of progressive summarization|criticism of progressive summarization]]
+![[./criticism of progressive summarization|criticism of progressive summarization]]
 
 ## Reference
 - [[Tiago Forte|Tiago Forte]]'s Progressive Summarization series
