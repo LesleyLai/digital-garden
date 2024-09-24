@@ -48,7 +48,7 @@ tags:
 - [[./Cargo (Rust)|Cargo]]
 - [[./Testing in Rust|Testing in Rust]]
 - [[./Documentation in Rust|Documentation in Rust]]
-- [[Rust Naming Conventions|Rust Naming Conventions]]
+- [[./Rust Naming Conventions|Rust Naming Conventions]]
 - [[./Rust error handling|Rust error handling]]
 - [[./suppress warnings in Rust|Suppress Warnings in Rust]]
 
