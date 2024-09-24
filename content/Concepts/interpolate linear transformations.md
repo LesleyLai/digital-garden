@@ -26,4 +26,4 @@ Ideas
 
 One usage of interpolating linear transformations is "[[./linear blend skinning|linear blend skinning]]", where poorly interpolated linear transformation can result in "candy wrapper artifact:"
 
-![[../Candy-wrapper-artefact-caused-by-Linear-Blend-Skinning.png|Candy-wrapper-artefact-caused-by-Linear-Blend-Skinning.png]]
+![[../assets/Candy-wrapper-artefact-caused-by-Linear-Blend-Skinning.png|Candy-wrapper-artefact-caused-by-Linear-Blend-Skinning.png]]

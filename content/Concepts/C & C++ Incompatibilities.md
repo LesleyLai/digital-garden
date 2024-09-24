@@ -6,8 +6,8 @@ parent:
   - "[[the C programming language|the C programming language]]"
 publish: true
 tags:
-  - computer/c
-  - computer/cpp
+  - computing/c
+  - computing/cpp
 ---
   There are several incompatibilities between C and C++ that we need to consider when porting a C codebase to C++:
   - C11 [[./Type-generic macro|type-generic macro]] is not supported in C++

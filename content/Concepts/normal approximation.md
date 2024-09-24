@@ -30,4 +30,4 @@ It is important to distinguish between the effect of sample size $n$ and replica
 
 Consider a skewed distribution. Note that increasing the replicates down column 1 will approach the original distribution, **NOT** the Normal curve. However, increasing the sample size (going across the rows) approaches the Normal curve.
 
-![[../sample size vs replicates.png|sample size vs replicates.png]]
+![[../assets/sample size vs replicates.png|sample size vs replicates.png]]

@@ -9,7 +9,7 @@ parent:
   - "[[Iterator Pattern|Iterator Pattern]]"
 publish: true
 tags:
-  - computer/design_patterns/iterator
+  - computing/design_patterns/iterator
 ---
 
 # External Vs Internal Iteration

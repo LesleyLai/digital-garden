@@ -1,7 +1,6 @@
 ---
 created: 2024-01-30
 modified: 2024-03-14
-parent: 
 publish: true
 tags:
   - "#math/functions"

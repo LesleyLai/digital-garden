@@ -8,8 +8,8 @@ parent:
   - "[[./TypeScript|TypeScript]]"
 publish: true
 tags:
-  - computer/javascript
-  - computer/typescript
+  - computing/javascript
+  - computing/typescript
 ---
 
 [[Javascript object|Javascript object]] itself is a map/dictionary so there are no use for extra type. That being said, the standard `Map` type provides support of non-string keys and there are people who propose we should use `Map` for majority of cases because of performance and ergonomics.

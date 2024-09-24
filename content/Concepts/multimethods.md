@@ -10,4 +10,4 @@ publish: true
 
 ---
 parent:
-tags: #stub #computer/PL #computer/OOP
+tags: #stub #computing/PL #computing/OOP

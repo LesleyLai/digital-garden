@@ -10,7 +10,7 @@ tags:
   - math/sampling
   - math/probability
 ---
-**Inverse transform sampling** can be used to transform samples from the [[./uniform distribution|uniform distribution]] to another by inverting the target distribution’s [[./cumulative distribution function|CDF]] (a.k.a. computing the [[./quantile function|quantile function]]). It is one of the most important techniques to generate samples from a distribution.
+**Inverse transform sampling** can be used to transform samples from the [[uniform distribution|uniform distribution]] to another by inverting the target distribution’s [[./cumulative distribution function|CDF]] (a.k.a. computing the [[./quantile function|quantile function]]). It is one of the most important techniques to generate samples from a distribution.
 
 ## The Algorithm
 1. Compute the CDF[^1] $P(x)=\int_0^x p\left(x^{\prime}\right) \mathrm{d} x^{\prime}$.
@@ -44,6 +44,6 @@ $$
 > [!example]- A Discrete Example
 >  We will use a discrete example for demonstration purpose. To draw a sample from the distribution, we need to take a sample $\xi$ from the [[canonical uniform random variable|canonical uniform random variable]] and use it to select one of the [[./outcome|outcomes]] in CDF s.t. the probability of choosing that outcome is equal to the probability of the outcome itself. From the CDF, we can see that we generated the y axis (from uniform random variable) of a [[./cumulative distribution function|CDF]] and we want to map it to the x-axis.
 >  
-> ![[../discrete-cdf.svg|discrete-cdf.svg]]
+> ![[../assets/discrete-cdf.svg|discrete-cdf.svg]]
 > 
 > To generalize this example to continuous distribution, consider a discrete distribution where the number of outcomes approach infinity.

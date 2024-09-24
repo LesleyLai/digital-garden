@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "#computer/typescript"
+  - "#computing/typescript"
 created: 2023-05-30
 modified: 2024-09-19
 publish: true
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 tags:
-  - computer/typescript
+  - computing/typescript
   - MOC
 ---
 - [[./Typescript never type|never type]]

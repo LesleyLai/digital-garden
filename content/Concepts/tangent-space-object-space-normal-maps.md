@@ -6,17 +6,17 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/graphics/normal_maps 
+#computing/graphics/normal_maps 
 
 ---
 # Tangent-Space vs. Object-Space. Normal Maps
 [[normal map|Normal maps]] come with two flavor, *object-space* and [[./tangent space|tangent space]].
 
 Object Space Normal
-![[../2020-11-03_12-15-59_Normalmap_worldspace.jpg|2020-11-03_12-15-59_Normalmap_worldspace.jpg]]
+![[../assets/2020-11-03_12-15-59_Normalmap_worldspace.jpg|2020-11-03_12-15-59_Normalmap_worldspace.jpg]]
 
 Tangent Space Normal
-![[../2020-11-03_12-15-17_Normalmap_tangentspace.jpg|2020-11-03_12-15-17_Normalmap_tangentspace.jpg]]
+![[../assets/2020-11-03_12-15-17_Normalmap_tangentspace.jpg|2020-11-03_12-15-17_Normalmap_tangentspace.jpg]]
 
 *Object space* normal is unique-per-mesh, and is not reusable.
 

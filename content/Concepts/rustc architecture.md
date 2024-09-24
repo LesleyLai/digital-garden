@@ -1,12 +1,12 @@
 ---
 aliases:
-  - "#computer/Rust/rustc"
+  - "#computing/Rust/rustc"
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/compiler
-  - computer/Rust/rustc
+  - computing/compiler
+  - computing/Rust/rustc
 ---
 # Rustc Architecture
 ## Index

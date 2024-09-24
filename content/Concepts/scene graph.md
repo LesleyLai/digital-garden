@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/graphics/scene
+#computing/graphics/scene
 
 A **scene graph** store relative [[./spatial transformation|transformations]] in a [[directed graph|directed graph]].
 

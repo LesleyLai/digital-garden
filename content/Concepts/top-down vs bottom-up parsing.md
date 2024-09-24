@@ -5,7 +5,7 @@ parent:
   - "[[parsing|parsing]]"
 publish: true
 tags:
-  - computer/AlgorithmsAndDataStructures/parsing
+  - computing/AlgorithmsAndDataStructures/parsing
 ---
 # Top-down Vs Bottom-up Parsing
 

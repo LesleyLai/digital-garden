@@ -5,7 +5,7 @@ parent:
   - "[[C++|C++]]"
 publish: true
 tags:
-  - computer/cpp/tools
+  - computing/cpp/tools
 ---
 Clang/GCC
 ```cpp

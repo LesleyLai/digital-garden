@@ -7,10 +7,10 @@ parent:
   - "[[Unix|Unix]]"
 publish: true
 tags:
-  - computer/unix
+  - computing/unix
 ---
 
-![[../unix permission.jpg|unix permission.jpg]]
+![[../assets/unix permission.jpg|unix permission.jpg]]
 
 Three different permission groups
 - owner (`u`)
@@ -24,4 +24,4 @@ Three permissions
 
 `chmod` is the command to change permissions.
 
-![[../unix permission 2.jpg|unix permission 2.jpg]]
+![[../assets/unix permission 2.jpg|unix permission 2.jpg]]

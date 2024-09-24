@@ -4,9 +4,9 @@ modified: 2024-03-14
 parent: 
 publish: true
 tags:
-  - computer/cuda
-  - computer/gpu
-  - computer/performance
+  - computing/cuda
+  - computing/gpu
+  - computing/performance
 ---
 
 # Memory Coalescing

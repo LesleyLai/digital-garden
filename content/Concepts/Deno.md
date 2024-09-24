@@ -3,7 +3,7 @@ created: 2023-05-30
 modified: 2024-05-01
 publish: true
 tags:
-  - computer/javascript
+  - computing/javascript
 ---
 
 # Deno

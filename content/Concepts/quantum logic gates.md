@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "#computer/quantum/gates"
+  - "#computing/quantum/gates"
 created: 2024-04-18
 modified: 2024-05-20
 parent:
   - "[[quantum computing|quantum computing]]"
 publish: true
 tags:
-  - computer/quantum/gates
+  - computing/quantum/gates
 ---
 
 # Quantum Logic Gates

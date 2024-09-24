@@ -6,7 +6,7 @@ parent:
   - "[[typestate|typestate]]"
 publish: true
 tags:
-  - computer/Rust
+  - computing/Rust
 ---
 
 # The Typestate Pattern in Rust

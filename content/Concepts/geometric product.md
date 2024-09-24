@@ -45,7 +45,7 @@ The geometric product is defined so that vectors have inverses (i.e. $\mathbf{a}
 ## Multiplication Table
 Geometric product of the basis vectors $\mathbf{x}, \mathbf{y}, \mathbf{z}$ has the following multiplication table:
 
-![[../geometric product multiplication table.png|300]]
+![[../assets/geometric product multiplication table.png|300]]
 [^1]
 
 Note that any unit vectors times itself is $1$:
@@ -79,7 +79,7 @@ See: [[./two reflections gives a rotation|two reflections gives a rotation]]
 
 It turns out that if we apply two successive reflections to a vector $\mathbf{v}$ (using vector $\mathbf{a}$ and vector $\mathbf{b}$), we get **a rotation by twice the angle between the vectors $\mathbf{a}$ and $\mathbf{b}$$:
 
-![[../two reflection gives a rotation.png|two reflection gives a rotation.png]]
+![[../assets/two reflection gives a rotation.png|two reflection gives a rotation.png]]
 
 Thus, to represent a rotation by twice the angle between the vectors $\mathbf{a}$ and $\mathbf{b}$, we can perform the geometric products as following: 
 $-\mathbf{b} (-\mathbf{a} \mathbf{v} \mathbf{a}) \mathbf{b} = \mathbf{b} \mathbf{a} \ \mathbf{v} \ \mathbf{a} \mathbf{b}$

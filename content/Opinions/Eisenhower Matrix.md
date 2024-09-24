@@ -12,7 +12,7 @@ tags:
 ---
 
 # Eisenhower Matrix
-![[../eisenhower.png|500]]
+![[../assets/eisenhower.png|500]]
 
 Some advocate tackling important and urgent tasks as a priority, while others advocate prioritizing important yet not urgent tasks daily to cultivate [[../Concepts/long-term focus|long-term focus]] and steer clear of the urgency trap.[^1] For example, the idea of task management systems like [[GTD|GTD]] and [[../Concepts/PARA framework|PARA]] all based on "weight urgency by importance."
 

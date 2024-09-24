@@ -5,10 +5,8 @@ parent:
   - "[[Cargo (Rust)|Cargo]]"
 publish: true
 tags:
-  - computer/Rust/Cargo
+  - computing/Rust/Cargo
 ---
-
-# Cargo Workspace
 
 A workspace is a set of packages shares the same `Cargo.lock` and the same `output` directory. There are multiple ways to structure a workspace, but here is one common way:
 

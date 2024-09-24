@@ -5,7 +5,7 @@ parent:
   - "[[Unix|Unix]]"
 publish: true
 tags:
-  - computer/unix/shell
+  - computing/unix/shell
 ---
 
 # Unix Shell

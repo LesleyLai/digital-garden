@@ -28,7 +28,7 @@ $$
 > $f(x_{0}, y_{0})+\frac{\partial f}{\partial x}(x_{0}, y_{0})(x-x_{0})+\frac{\partial f}{\partial y}(x_{0}, y_{0})(y-y_{0})$
 
 > [!example]- Example: find the tangent plane to $z = f(x, y) = x^2 + y^3$ at $(-1, 2)$
-> ![[../tangent-plane.png|200]]
+> ![[../assets/tangent-plane.png|200]]
 > $$
   \begin{align}
 z &= f(-1, 2) + f_{x}(-1, 2)(x + 1) + f_{y}(-1, 2)(y - 2) \\
@@ -49,8 +49,8 @@ $$
 > $f_x (x - a) + f_y (y - b) + f_z (z - c) = 0$
 
 
-![[../tangent plane 1.png|300]]
-![[../tangent plane 2.png|300]]
+![[../assets/tangent plane 1.png|300]]
+![[../assets/tangent plane 2.png|300]]
 
 > [!example]- find the tangent plane of the surface $x^3 - yz + \sin(x) = \pi - 20$ at $(\pi, 4, 5)$
 > Find all the first order partials

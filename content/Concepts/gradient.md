@@ -14,7 +14,7 @@ tags:
 
 Given a multivariable function $f(\mathbf{x}) : \mathbb{R}^N \rightarrow \mathbb{R}$, *gradient* $\nabla f(\mathbf{x})$ assigns a vector at each point:
 
-![[../gradient.png|400]]
+![[../assets/gradient.png|400]]
 
 The $\nabla$ operation is call "[[./Del operator|Del]]" and can be written as `\nabla` symbol in Latex.
 
@@ -42,7 +42,7 @@ Another way to think about gradient is that: at each point $x_0$, gradient is th
 $$
    f(\mathbf{x}) \approx f(\mathbf{x}_0) + \langle\nabla f(\mathbf{x}_0),\, \mathbf{x} - \mathbf{x_0}\rangle
 $$
-![[../Gradient as Best Linear Approximation.png|400]]
+![[../assets/Gradient as Best Linear Approximation.png|400]]
 
 ## Gradient as Steepest Ascent
 
@@ -53,4 +53,4 @@ See: [[./Multi-dimensional derivative, gradient, and directional Derivative|Mult
 
 ## Relation with Level-sets
 At each point, the gradient is perpendicular to the [[./level sets|level set]] of that point and is directed towards the direction of maximum increase in value.
-![[../gradient and level sets.jpg|200]]
+![[../assets/gradient and level sets.jpg|200]]

@@ -1,12 +1,12 @@
 ---
 aliases:
-  - "#computer/SoftwareEngineering"
+  - "#computing/SoftwareEngineering"
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
   - MOC
-  - computer/SoftwareEngineering
+  - computing/SoftwareEngineering
 created: 2024-04-07
 modified: 2024-04-07
 ---

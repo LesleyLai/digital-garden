@@ -8,7 +8,7 @@ parent:
   - "[[parsing|parser]]"
 publish: true
 tags:
-  - "#computer/AlgorithmsAndDataStructures/parsing"
+  - "#computing/AlgorithmsAndDataStructures/parsing"
 ---
 
 # Push Parser vs Pull Parser

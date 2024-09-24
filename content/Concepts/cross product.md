@@ -13,7 +13,7 @@ tags:
 # Cross Product
 
 In 3D, a *cross product* takes two vectors and returns a vector. Geometrically, the magnitude of the result equals to parallelogram area and the direction is orthogonal to both vectors.
-![[../cross_product.png|cross_product.png]]
+![[../assets/cross_product.png|cross_product.png]]
 
 ## Properties
 1. $\mathbf{u} \times \mathbf{v}$ is [[./orthogonal|orthogonal]] to both $\mathbf{u}$ and $\mathbf{v}$
@@ -29,11 +29,11 @@ $$
 \sqrt{\det{(\mathbf{u}, \mathbf{v}, \mathbf{u} \times \mathbf{v})}} = |\mathbf{u}| |\mathbf{v}| \sin(\theta)
 $$
 Formula:
-![[../cross_product_as_determinant.png|cross_product_as_determinant.png]]
+![[../assets/cross_product_as_determinant.png|cross_product_as_determinant.png]]
 
 ## Cross Product as Quarter Rotation
 
-![[../cross_product_as_quarter_rotation.png|cross_product_as_quarter_rotation.png]]
+![[../assets/cross_product_as_quarter_rotation.png|cross_product_as_quarter_rotation.png]]
 
 An observation for manipulating vectors in 3D:
 cross product with a unit vector $\mathbf{N}$ is equivalent to quarter-rotation in the plane with normal $\mathbf{N}$:

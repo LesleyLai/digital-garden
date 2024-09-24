@@ -5,7 +5,7 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - "#computer/Rust"
+  - "#computing/Rust"
 ---
 
 # How to Suppress Warnings in Rust

@@ -6,7 +6,7 @@ parent:
   - "[[./environment lighting|IBL]]"
 publish: true
 tags:
-  - computer/graphics/pbr
+  - computing/graphics/pbr
 ---
 
 # The Split Sum Approximation
@@ -19,9 +19,9 @@ $$
 
 ## Environment Mapping
 For the environment mapping, we can pre-generating a set of differently filtered environment lighting (with [[./mipmapping|mipmapping]] and [[trilinear interpolation|trilinear interpolation]]):
-![[../prefilter environment lighting.png|600]]
+![[../assets/prefilter environment lighting.png|600]]
 At runtime we query the pre-filtered environment lighting at the _r (mirror reflected) direction_.
-![[../environment light mipmap querying.png|600]]
+![[../assets/environment light mipmap querying.png|600]]
 
 ## BRDF
 A typical [[./microfacet theory|microfacet theory]] still have too many parameters to be used in a look-up table.
@@ -36,7 +36,7 @@ $$
 $$
 
 Now our integrals only have two variables (roughness and angle $\theta$), so we can precompute a 2D lookup texture:
-![[../IBL lookup texture.png|IBL lookup texture.png]]
+![[../assets/IBL lookup texture.png|IBL lookup texture.png]]
 
 ## References
 - [Real Shading in Unreal Engine 4](https://cdn2.unrealengine.com/Resources/files/2013SiggraphPresentationsNotes-26915738.pdf)

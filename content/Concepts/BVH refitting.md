@@ -2,7 +2,7 @@
 parent:
   - "[[./BVH|BVH]]"
 tags:
-  - computer/graphics/RayTracing/BVH
+  - computing/graphics/RayTracing/BVH
 created: 2024-09-19
 modified: 2024-09-19
 publish: true
@@ -35,7 +35,7 @@ for (int i = nodesUsed - 1; i >= 0; i--) {
 ## Limitations
 Consider the following situation: we move one of the small objects from the left group to the right. If we refit the top-left box to include the moved object, the resulting box will become enormous, almost completely overlapping the right box.
 
-![[../bad BVH refitting.jpg|bad BVH refitting.jpg]]Refitting works best when there are subtle animations and the overall shape of objects remains relatively unchanged. We can also combine refitting and rebuilding by refitting every frame and rebuilding every few frames to prevent the BVH from degrading too much. [^1]
+![[../assets/bad BVH refitting.jpg|bad BVH refitting.jpg]]Refitting works best when there are subtle animations and the overall shape of objects remains relatively unchanged. We can also combine refitting and rebuilding by refitting every frame and rebuilding every few frames to prevent the BVH from degrading too much. [^1]
 
 
 [^1]: [How to build a BVH – part 4: Animation – Jacco’s Blog](https://jacco.ompf2.com/2022/04/26/how-to-build-a-bvh-part-4-animation/)

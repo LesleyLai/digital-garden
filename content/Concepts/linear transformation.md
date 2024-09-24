@@ -23,7 +23,7 @@ $$
 $$
 In other word, whether we add the vectors and then apply the map, or apply the map and then add the vectors gives the same result.
 
-![[../linear_maps_preserve_vector_space_properties.jpg|linear_maps_preserve_vector_space_properties.jpg]]
+![[../assets/linear_maps_preserve_vector_space_properties.jpg|linear_maps_preserve_vector_space_properties.jpg]]
 
 The above property is sometimes called the **superposition principle** in physics and engineering.
 
@@ -32,7 +32,7 @@ For example, the function $f(x)=ax+bf(x)=ax+b$ is not a linear function, but ins
 ## Geometric Intuition
 A linear map must have a _fixed origin_ and _lines must map into lines_.
 
-![[../linear_map_intuition.png|linear_map_intuition.png]]
+![[../assets/linear_map_intuition.png|linear_map_intuition.png]]
 
 ## Usefulness
 The property of linear transformation has a few advantages:

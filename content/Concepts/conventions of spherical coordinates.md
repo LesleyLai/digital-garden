@@ -8,5 +8,5 @@ Note that there are two set of convention for spherical coordinates, "physics co
 
 | physics convention | mathematics convention |
 | ---- | ---- |
-| ![[../Spherical coordinates 1.svg|Spherical coordinates 1.svg]] | ![[../3D_Spherical_2.svg|3D_Spherical_2.svg]] |
+| ![[../assets/Spherical coordinates 1.svg|Spherical coordinates 1.svg]] | ![[../assets/3D_Spherical_2.svg|3D_Spherical_2.svg]] |
 | polar angle $\theta$ and azimuthal angle $\phi$ | The meanings of $\theta$ and $\phi$ is swapped |

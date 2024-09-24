@@ -8,7 +8,7 @@ tags:
 
 # Scalar Triple Product
 The **scalar triple product** $(\mathbf{u} \times \mathbf{v}) \cdot \mathbf{w}$ encodes (signed) volume of parallelepiped with vectors $\mathbf{u}, \mathbf{v}, \mathbf{w}$.
-![[../triple_product.png|600]]
+![[../assets/triple_product.png|600]]
 
 Interestingly, this is also exactly the [[determinant|determinant]] of a 3d matrix $\left[\mathbf{u} \ \mathbf{v} \ \mathbf{w}\right]$.
 

@@ -5,7 +5,7 @@ parent:
   - "[[Cargo (Rust)|Cargo]]"
 publish: true
 tags:
-  - computer/Rust/Cargo
+  - computing/Rust/Cargo
 ---
 
 Example:

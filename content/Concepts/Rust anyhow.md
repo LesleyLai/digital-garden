@@ -5,7 +5,7 @@ parent:
   - "[[Rust error handling|Rust error handling]]"
 publish: true
 tags:
-  - computer/Rust/ErrorHandling
+  - computing/Rust/ErrorHandling
 ---
 
 # Rust Anyhow

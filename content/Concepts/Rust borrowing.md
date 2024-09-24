@@ -4,4 +4,4 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/rust/lifetime #stub
+#computing/rust/lifetime #stub

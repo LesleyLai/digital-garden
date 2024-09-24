@@ -6,8 +6,8 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/Rust/cast
-  - computer/Rust/unsafe
+  - computing/Rust/cast
+  - computing/Rust/unsafe
 ---
 
 `std::mem::transmute` can be used for bit cast in Rust

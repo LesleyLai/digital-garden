@@ -6,7 +6,7 @@ modified: 2024-03-14
 publish: true
 tags:
   - Geometrical_optics
-  - computer/graphics/pbr/microfacet
+  - computing/graphics/pbr/microfacet
 ---
 
 # Microgeometry

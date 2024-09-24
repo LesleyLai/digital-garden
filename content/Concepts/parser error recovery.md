@@ -4,7 +4,7 @@ modified: 2024-03-14
 parent: "[[parsing]]"
 publish: true
 tags:
-  - computer/AlgorithmsAndDataStructures/parsing
+  - computing/AlgorithmsAndDataStructures/parsing
 ---
 
 > Rather than just recognizing incomplete constructs, the parser can attempt to guess a minimal edit which completes the construct and gets rid of the syntax error.[^1]

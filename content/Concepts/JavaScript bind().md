@@ -24,4 +24,4 @@ greet2(); // ok
 
 ---
 parent: [[./JavaScript|JavaScript]]
-tags: #computer/javascript
+tags: #computing/javascript

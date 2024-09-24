@@ -5,7 +5,7 @@ parent:
   - "[[pl design|programming language design]]"
 publish: true
 tags:
-  - "#computer/PL/interesting_features"
+  - "#computing/PL/interesting_features"
 ---
 
 # Distinct Types

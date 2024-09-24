@@ -15,7 +15,7 @@ tags:
 
 the **Pearson correlation coefficient**, also known as _Pearson's r_, is a correlation coefficient that measures linear correlation between two sets of data. [^1]
 
-![[../linear-correlation-coefficient.png|linear-correlation-coefficient.png]]
+![[../assets/linear-correlation-coefficient.png|linear-correlation-coefficient.png]]
 
 > [!definition]
 > Given two random variables $X$ and $Y$, the Pearson correlation coefficient is often denoted as $\rho_{XY}$ and is defined as

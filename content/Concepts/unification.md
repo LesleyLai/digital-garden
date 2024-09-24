@@ -1,6 +1,6 @@
 ---
 Aliases:
-  - "#computer/AlgorithmsAndDataStructures/unification"
+  - "#computing/AlgorithmsAndDataStructures/unification"
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
@@ -15,4 +15,4 @@ A unifier takes two patterns, and determines whether it is possible to assign va
 
 ---
 tags: 
-#computer/AlgorithmsAndDataStructures/unification #computer/PL/TypeTheory #computer/logic_programming
+#computing/AlgorithmsAndDataStructures/unification #computing/PL/TypeTheory #computing/logic_programming

@@ -2,7 +2,7 @@
 parent:
   - "[[R language|R]]"
 tags:
-  - computer/R/packages
+  - computing/R/packages
 created: 2024-09-18
 modified: 2024-09-18
 publish: true

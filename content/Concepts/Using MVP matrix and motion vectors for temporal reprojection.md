@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/graphics/RayTracing #computer/graphics/AntiAliasing/TAA 
+#computing/graphics/RayTracing #computing/graphics/AntiAliasing/TAA 
 We also call this approach the "Rasterization" approach. The idea is that in vertex shader, transform vertices with two matrices
 - The current [[./Model-View-Projection Matrix|MVP]]
 - The previous MVP

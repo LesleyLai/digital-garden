@@ -13,4 +13,4 @@ conan install .. --output-folder=. --build=missing --settings=build_type=Debug
 
 ---
 parent: [[./C++|C++]]
-tags: #computer/cpp/tools
+tags: #computing/cpp/tools

@@ -2,10 +2,10 @@
 created: 2024-05-17
 modified: 2024-05-17
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - "#computer/design_patterns"
+  - "#computing/design_patterns"
 ---
 
 # Design Patterns and Idioms

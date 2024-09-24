@@ -10,4 +10,4 @@ Two types are said to be **isomorphic** (denoted by $\tau_{1} \cong \tau_{2}$) w
 ## See also
 - [[./isomorphism|isomorphism]]
 ---
-tags: #computer/PL/TypeTheory
+tags: #computing/PL/TypeTheory

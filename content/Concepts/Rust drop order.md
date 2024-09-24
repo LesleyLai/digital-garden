@@ -5,7 +5,7 @@ parent:
   - "[[Rust Drop trait|Rust Drop trait]]"
 publish: true
 tags:
-  - computer/rust/lifetime
+  - computing/rust/lifetime
 ---
 
 # Rust Drop Order

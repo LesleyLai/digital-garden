@@ -2,7 +2,7 @@
 parent:
   - "[[Concepts/R language|Concepts/R language]]"
 tags:
-  - computer/R
+  - computing/R
 created: 2024-09-17
 modified: 2024-09-20
 publish: true

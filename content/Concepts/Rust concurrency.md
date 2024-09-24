@@ -5,7 +5,7 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - computer/Rust/concurrency
+  - computing/Rust/concurrency
 created: 2024-05-30
 modified: 2024-05-30
 ---

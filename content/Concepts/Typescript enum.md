@@ -4,7 +4,7 @@ modified: 2024-03-14
 parent: "[[TypeScript]]"
 publish: true
 tags:
-  - "#computer/typescript"
+  - "#computing/typescript"
   - "#todo/someday"
 ---
 

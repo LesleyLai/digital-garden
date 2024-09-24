@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "#computer/PL/TypeTheory"
+  - "#computing/PL/TypeTheory"
   - type system
 created: 2023-05-30
 modified: 2024-09-14
@@ -8,7 +8,7 @@ parent:
   - "[[programming languages MOC|programming languages MOC]]"
 publish: true
 tags:
-  - computer/PL/TypeTheory
+  - computing/PL/TypeTheory
 ---
 
 # Type Theory

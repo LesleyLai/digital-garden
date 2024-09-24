@@ -2,7 +2,7 @@
 parent:
   - "[[database|database]]"
 tags:
-  - computer/database/theory
+  - computing/database/theory
 created: 2024-09-20
 modified: 2024-09-20
 publish: true

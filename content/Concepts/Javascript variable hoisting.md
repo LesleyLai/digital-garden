@@ -5,7 +5,7 @@ parent:
   - "[[JavaScript|JavaScript]]"
 publish: true
 tags:
-  - computer/javascript
+  - computing/javascript
 ---
 
 # Javascript Variable Hoisting

@@ -78,4 +78,4 @@ $$
 
 ---
 parent: [[./type theory|type theory]]
-tags: #computer/PL/TypeTheory
+tags: #computing/PL/TypeTheory

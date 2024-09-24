@@ -7,7 +7,7 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - computer/Rust
+  - computing/Rust
 ---
 
 # Interior Mutability in Rust

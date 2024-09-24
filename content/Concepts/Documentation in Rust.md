@@ -8,7 +8,7 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - computer/Rust/Cargo
+  - computing/Rust/Cargo
 ---
 
 # Documentation in Rust

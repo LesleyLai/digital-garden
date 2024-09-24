@@ -5,7 +5,7 @@ parent:
   - "[[Rust references|Rust references]]"
 publish: true
 tags:
-  - computer/Rust
+  - computing/Rust
 ---
 
 # Rust Disallow Simultaneous Aliasing and Mutation

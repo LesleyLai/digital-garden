@@ -1,12 +1,12 @@
 ---
 aliases:
-  - "#computer/performance"
+  - "#computing/performance"
 created: 2024-01-02
 modified: 2024-03-14
-parent: "[[computer]]"
+parent: "[[computing]]"
 publish: true
 tags:
-  - computer/performance
+  - computing/performance
 ---
 
 # Computer Performance MOC

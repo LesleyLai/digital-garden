@@ -7,7 +7,7 @@ parent:
   - "[[compiler optimizations|compiler optimizations]]"
 publish: true
 tags:
-  - "#computer/compiler/optimizations"
+  - "#computing/compiler/optimizations"
 ---
 
 # Dead Code Elimination

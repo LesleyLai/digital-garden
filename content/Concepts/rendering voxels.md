@@ -5,7 +5,7 @@ parent:
   - "[[voxel MOC|voxel MOC]]"
 publish: true
 tags:
-  - computer/graphics/voxel
+  - computing/graphics/voxel
 ---
 
 # Rendering Voxels

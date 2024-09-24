@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/graphics/RayTracing #computer/graphics/AntiAliasing/TAA 
+#computing/graphics/RayTracing #computing/graphics/AntiAliasing/TAA 
 Converging in Path Tracing requires a stationary image. Otherwise, if we accumulate result when the camera is moving, we can see ghost image. An alternative approach is **temporal reprojection**, where we approximate where is the location of the current pixel last frame and project the result from that location of previous frame to the current pixel.
 
 There are multiple approach for temporal reprojection, including

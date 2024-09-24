@@ -28,7 +28,7 @@ $$
 [^1]
 
 Graphically, we can understand the quantile function as _given an area $p$, what is the value $q$ such that the CDF is equal to that area_.
-![[../qnorm.png|qnorm.png]]
+![[../assets/qnorm.png|qnorm.png]]
 
 ## Related
 - [[./inverse transform sampling|inverse transform sampling]] - Using quantile function to sample numbers from a distribution

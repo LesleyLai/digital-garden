@@ -4,7 +4,7 @@ aliases:
 created: 2024-02-27
 modified: 2024-03-14
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
   - tools/latex

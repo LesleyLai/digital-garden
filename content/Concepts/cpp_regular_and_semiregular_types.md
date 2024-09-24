@@ -28,4 +28,4 @@ namespace std {
 
 ---
 parent: [[./cpp-concepts|C++ Concepts]]
-tags: #computer/cpp/concepts
+tags: #computing/cpp/concepts

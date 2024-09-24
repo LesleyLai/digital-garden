@@ -3,8 +3,8 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - "#computer/graphics/RayTracing"
-  - "#computer/graphics/LightTransport"
+  - "#computing/graphics/RayTracing"
+  - "#computing/graphics/LightTransport"
 ---
 
 # Rendering Equation
@@ -13,7 +13,7 @@ tags:
 
 The most commonly used formulation for the rendering equation is the *hemispherical formulation*:
 
-![[../Rendering_eq.png|600]]
+![[../assets/Rendering_eq.png|600]]
 
 It is written in the form of
 $$

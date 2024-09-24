@@ -3,7 +3,7 @@ created: 2023-05-30
 modified: 2024-09-23
 publish: true
 tags:
-  - computer/PL
+  - computing/PL
   - logic/predicate
 parent:
   - "[[programming languages MOC|programming languages MOC]]"
@@ -22,7 +22,7 @@ Intuitively, a **substitution** $e[v / x]$ changes all [[bound and free variable
 
 ## Notation Problem
 There are various different substitution notations used in the wild:
-![[../substitution notations.png|substitution notations.png]]
+![[../assets/substitution notations.png|substitution notations.png]]
 
 One big problem is that the forms $e[x \mapsto v]$ and $e := v$ are frequently used for substitution, but are also widely used for another purpose: _function update_ (also called _map update_ or _storage update_):
 $$

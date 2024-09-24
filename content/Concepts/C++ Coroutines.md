@@ -4,7 +4,7 @@ modified: 2024-03-14
 parent: "[[C++]]"
 publish: true
 tags:
-  - "#computer/cpp/coroutine"
+  - "#computing/cpp/coroutine"
 ---
 
 # C++ Coroutines

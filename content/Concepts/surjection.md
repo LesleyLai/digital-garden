@@ -10,7 +10,7 @@ publish: true
 
 ---
 # Surjection
-![[../Surjection.svg.png|Surjection.svg.png]]
+![[../assets/Surjection.svg.png|Surjection.svg.png]]
 
 ## See Also
 - [[./injection|injection]]

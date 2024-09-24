@@ -10,4 +10,4 @@ publish: true
 
 ---
 parent: [[./BRDF|BRDF]]
-tags: #computer/graphics/RayTracing #computer/graphics/LightTransport
+tags: #computing/graphics/RayTracing #computing/graphics/LightTransport

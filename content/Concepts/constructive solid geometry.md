@@ -5,7 +5,7 @@ parent:
   - "[[3d geometry representation|3d geometry representation]]"
 publish: true
 tags:
-  - computer/graphics/geometry
+  - computing/graphics/geometry
 ---
 
 # Constructive Solid Geometry

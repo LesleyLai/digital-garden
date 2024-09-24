@@ -4,4 +4,4 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/cpp/concepts  #stub #todo/someday
+#computing/cpp/concepts  #stub #todo/someday

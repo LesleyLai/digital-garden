@@ -5,7 +5,7 @@ parent:
   - "[[algorithms|algorithms]]"
 publish: true
 tags:
-  - computer/AlgorithmsAndDataStructures/parallel
+  - computing/AlgorithmsAndDataStructures/parallel
 ---
 
 # Parallel Algorithms

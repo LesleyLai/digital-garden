@@ -5,8 +5,8 @@ parent:
   - "[[C++|C++]]"
 publish: true
 tags:
-  - computer/cpp/20
-  - computer/cpp/constexpr
+  - computing/cpp/20
+  - computing/cpp/constexpr
 ---
 
 # C++ `constinit`

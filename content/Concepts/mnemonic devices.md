@@ -17,6 +17,6 @@ tags:
   - **O**penness to experience, **C**onscientiousness, **E**xtraversion, **A**greeableness, **N**euroticism
 
 ## Music
-- [[./circle of fifths|circle of fifths]] ![[../Circle_of_fifths_deluxe_4.svg|300]]
+- [[./circle of fifths|circle of fifths]] ![[../assets/Circle_of_fifths_deluxe_4.svg|300]]
   - to right: **C**harles **G**oes **D**ancing **A**t **E**very **B**ig **F**un **C**elebration
   - to left: **C**harles **F**alls **B**ehind **E**veryone **A**t **D**isc **G**olf **C**ourses

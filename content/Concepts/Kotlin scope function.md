@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/kotlin #computer/PL/interesting_features #todo/someday 
+#computing/kotlin #computing/PL/interesting_features #todo/someday 
 Certain functions in Kotlin standard library such as 
 
 There are five such functions: `let`, `run`, `with`, `apply`, and `also`.

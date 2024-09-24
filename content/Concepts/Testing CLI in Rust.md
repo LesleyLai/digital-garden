@@ -5,7 +5,7 @@ parent:
   - "[[Testing in Rust|Rust integration tests]]"
 publish: true
 tags:
-  - computer/Rust/Testing
+  - computing/Rust/Testing
 ---
 
 # Testing Command Line Applications in Rust

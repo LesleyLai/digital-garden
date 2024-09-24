@@ -8,7 +8,7 @@ parent:
   - "[[concurrency|concurrency]]"
 publish: true
 tags:
-  - computer/concurrency
+  - computing/concurrency
 ---
 # Multiple Buffering
 **Double buffering** and **triple buffering** are commonly used to avoid synchronization.

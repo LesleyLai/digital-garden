@@ -5,8 +5,8 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - computer/Rust/generic
-  - "#computer/Rust/traits"
+  - computing/Rust/generic
+  - "#computing/Rust/traits"
 ---
 
 # Rust Traits

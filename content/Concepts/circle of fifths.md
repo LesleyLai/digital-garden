@@ -9,7 +9,7 @@ tags:
 # Circle of Fifths
 **circle of fifths** connects all 12 [[musical tone|tones]]. In the circle, each note is separated by intervals of [[perfect fifth|perfect 5ths]].
 
-![[../Circle_of_fifths_deluxe_4.svg|500]]
+![[../assets/Circle_of_fifths_deluxe_4.svg|500]]
 
 ![[./find relative minor key from major key|find relative minor key from major key]]
 

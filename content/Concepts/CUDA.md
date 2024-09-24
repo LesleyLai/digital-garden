@@ -5,8 +5,8 @@ parent:
   - "[[GPU Programming|GPU Programming]]"
 publish: true
 tags:
-  - computer/gpu
-  - computer/cuda
+  - computing/gpu
+  - computing/cuda
   - MOC
 ---
 

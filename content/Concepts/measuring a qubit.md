@@ -6,7 +6,7 @@ parent:
   - "[[quantum logic gates|quantum logic gates]]"
 publish: true
 tags:
-  - computer/quantum/gates
+  - computing/quantum/gates
 ---
 
 # Measuring a Qubit
@@ -17,4 +17,4 @@ For a qubit in the state $\alpha|0\rangle + \beta|1\rangle$, when we measure thi
 Note that after we measure a state $\alpha|0\rangle + \beta|1\rangle$ in the computational basis, it is no longer in the superposition state. Instead, if we get outcome 0, the quantum state will be $|0\rangle$. And same for 1.
 
 The following circuit denoting measurements in the quantum circuit model. Note that we use the double wire at right to indicate that the measurement outputs a classical bit (either 0 or 1).
-![[../quantum_measure.png|400]]
+![[../assets/quantum_measure.png|400]]

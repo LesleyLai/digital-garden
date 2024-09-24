@@ -3,7 +3,7 @@ parent:
   - "[[quantum logic gates|quantum logic gates]]"
 publish: true
 tags:
-  - computer/quantum/gates
+  - computing/quantum/gates
 created: 2024-04-27
 modified: 2024-04-27
 ---
@@ -34,5 +34,5 @@ H = \frac{1}{\sqrt{ 2 }}\begin{bmatrix}
 $$
 
 Just like the [[./The Quantum NOT Gate|X Gate]], [[./involutory matrix|the inverse of the Hadamard Gate is itself]], which means the two Hadamard Gate cancel each other:
-![[../H_H_identity.png|500]]
+![[../assets/H_H_identity.png|500]]
 This can be counterintuitive since one Hadamard Gate "spread out" in basis states to states like $\frac{|0\rangle + |1\rangle}{\sqrt{ 2 }}$, but the second Hadamard Gate does not further "spread out" the states but instead restore the original basis states.

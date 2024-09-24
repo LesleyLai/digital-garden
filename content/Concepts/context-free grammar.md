@@ -3,7 +3,7 @@ created: 2024-01-08
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/AlgorithmsAndDataStructures/parsing
+  - computing/AlgorithmsAndDataStructures/parsing
 ---
 
 # Context-free Grammar

@@ -1,6 +1,6 @@
 ---
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
   - tools/shells

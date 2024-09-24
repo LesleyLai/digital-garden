@@ -3,7 +3,7 @@ created: 2023-12-20
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/system/DataRepresentaiton
+  - computing/system/DataRepresentaiton
 ---
 
 # Octahedron Encoding
@@ -15,7 +15,7 @@ While the **octahedron encoding** is not fit for computation, it is overall one 
 
 Mapping from a sphere to octahedron can be viewed as changing from [[./L2 norm|L2 norm]] to [[./manhattan distance|L1 (Manhattan) norm]]. The process is illustrated by the following diagram:
 
-![[../octahedral.png|octahedral.png]]
+![[../assets/octahedral.png|octahedral.png]]
 
 ## References
 - [[A Survey of Efficient Representations for Independent Unit Vectors|A Survey of Efficient Representations for Independent Unit Vectors]]

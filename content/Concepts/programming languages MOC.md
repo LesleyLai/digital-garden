@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "#computer/PL"
+  - "#computing/PL"
 created: 2023-05-30
 modified: 2024-06-23
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - computer/PL
+  - computing/PL
   - MOC
 ---
 

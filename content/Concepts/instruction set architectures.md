@@ -19,4 +19,4 @@ CISC: _complex_ instruction set computers (x86)
 - Adds many specialized instructions
 
 ---
-tags: #computer/system
+tags: #computing/system

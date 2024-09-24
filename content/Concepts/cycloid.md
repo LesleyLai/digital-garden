@@ -12,11 +12,11 @@ tags:
 
 # Cycloid
 A cycloid is a [[parametric equation|parametric]] [[./curve|curve]] traced from rolling a circle.
-![[../Cycloid_f.gif|Cycloid_f.gif]]
+![[../assets/Cycloid_f.gif|Cycloid_f.gif]]
 It has equation $\langle a\theta - a\sin{\theta}, a - a\cos{\theta} \rangle$ for a circle of radius $a$ rotated for angle $\theta$.
 
 ## Derivation
-![[../cycloid.png|240]]
+![[../assets/cycloid.png|240]]
 Consider the above diagram. We want to find $\overrightarrow{OP}$
 $$
 \begin{align}

@@ -5,7 +5,7 @@ parent:
   - "[[Cargo (Rust)|Cargo]]"
 publish: true
 tags:
-  - "#computer/Rust/Cargo"
+  - "#computing/Rust/Cargo"
 ---
 ## Cargo-machete
 Can be used to cut out unused dependencies. `cargo install cargo-machete` then use `cargo machete`

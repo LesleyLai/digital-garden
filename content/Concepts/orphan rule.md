@@ -7,7 +7,7 @@ parent:
   - "[[Rust Traits|Rust Traits]]"
 publish: true
 tags:
-  - computer/Rust/generic
+  - computing/Rust/generic
   - "#stub"
 ---
 

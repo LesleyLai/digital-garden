@@ -16,4 +16,4 @@ tags:
 - [[./column space|column space]]
 - [[left null space|left null space]]
 
-![[../four_fundamental_subspaces.jpg|four_fundamental_subspaces.jpg]]
+![[../assets/four_fundamental_subspaces.jpg|four_fundamental_subspaces.jpg]]

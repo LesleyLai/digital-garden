@@ -14,4 +14,4 @@ publish: true
 - [Official page for Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 
 ---
-tags: #computer/PL/tools #stub
+tags: #computing/PL/tools #stub

@@ -8,7 +8,7 @@ parent:
   - "[[Documentation in Rust|Documentation in Rust]]"
 publish: true
 tags:
-  - computer/Rust/Testing
+  - computing/Rust/Testing
 ---
 
 # Doc Tests in Rust

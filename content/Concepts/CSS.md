@@ -1,14 +1,14 @@
 ---
 aliases:
-  - "#computer/css"
+  - "#computing/css"
 created: 2024-03-12
 modified: 2024-03-14
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - "#computer/css"
-  - "#computer/webdev"
+  - "#computing/css"
+  - "#computing/webdev"
 ---
 
 # CSS

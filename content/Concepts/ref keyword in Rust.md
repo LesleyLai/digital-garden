@@ -25,4 +25,4 @@ let y = *x;
 ```
 
 ---
-tags: #computer/Rust/PatternMatching #computer/PL/PatternMatching
+tags: #computing/Rust/PatternMatching #computing/PL/PatternMatching

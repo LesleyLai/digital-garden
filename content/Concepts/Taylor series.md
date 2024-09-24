@@ -16,8 +16,6 @@ tags:
   - math/calculus
   - math/sequences_and_series
 ---
-
-# Taylor Series
 For $f: \mathbb{R} \rightarrow \mathbb{R}$, the **Taylor series** at around $x = a$ is
 $$
 f(x) = \sum_{i=0}^{\infty} \left. \frac{1}{i!} \frac{d^i f}{dx^i} \right|_{x = a} (x - a)^i = f(a) + f'(a)(x - a) + \frac{1}{2}f''(a)(x - a)^2 + \dots

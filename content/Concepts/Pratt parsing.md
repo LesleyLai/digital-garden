@@ -17,7 +17,7 @@ Comparing to encoding operator precedence in [[formal grammar|grammar]] and uses
 
 ## Binding Power
 TODO
-![[../bind power.png|bind power.png]]
+![[../assets/bind power.png|bind power.png]]
 
 ## References
 - [Pratt Parsing Index and Updates](https://www.oilshell.org/blog/2017/03/31.html)
@@ -26,7 +26,7 @@ TODO
 
 ---
 parent: [[./operator precedence parser|operator precedence parser]]
-tags: #computer/AlgorithmsAndDataStructures/parsing
+tags: #computing/AlgorithmsAndDataStructures/parsing
 
 
 [^1]: [From Pratt to Dijkstra](https://matklad.github.io/2020/04/15/from-pratt-to-dijkstra.html)

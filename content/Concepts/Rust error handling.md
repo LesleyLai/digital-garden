@@ -5,8 +5,8 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - computer/Rust/ErrorHandling
-  - computer/Rust/BestPractice
+  - computing/Rust/ErrorHandling
+  - computing/Rust/BestPractice
 ---
 
 # Rust Error Handling

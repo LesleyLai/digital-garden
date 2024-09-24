@@ -9,5 +9,5 @@ tags:
 ---
 
 # Concurrency Pattern
-- [[active object|active object]]
+- [[./active object|active object]]
 - [[./multiple buffering|multiple buffering]]

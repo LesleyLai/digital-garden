@@ -6,8 +6,8 @@ parent:
   - "[[the C programming language|the C programming language]]"
 publish: true
 tags:
-  - "#computer/c"
-  - "#computer/cpp"
+  - "#computing/c"
+  - "#computing/cpp"
 ---
 # Type Punning
 Type punning refers to techniques that are used to circumvent the type system. In the context of C and C++, it usually means reinterpreting bytes.

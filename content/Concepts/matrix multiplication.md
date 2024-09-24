@@ -30,7 +30,7 @@ a_m^T b^1 & a_m^T b^2 & \cdots & a_m^T b^p
 \end{array}\right]
 $$
 
-![[../matrix multiplication as inner products.png|300]]
+![[../assets/matrix multiplication as inner products.png|300]]
 
 ## Interpret Matrix Multiplication as a Set of Matrix-vector Multiplications
 

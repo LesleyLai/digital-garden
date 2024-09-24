@@ -6,10 +6,8 @@ modified: 2024-09-16
 publish: true
 tags:
   - opinion
+title: My Thoughts and Opinions
 ---
-
-# My Thoughts and Opinions
-
 This page contains some half-backed personal thoughts.
 
 ## My Reviews
@@ -40,7 +38,6 @@ This page contains some half-backed personal thoughts.
 ## Uncategorized
 - [[./Eisenhower Matrix|Eisenhower Matrix]]
 - [[../Concepts/how to design flashcards|how to design flashcards]]
-- [[../index|index]]
 - [[my bullshit radar|my bullshit radar]]
 - [[./on brutalist and neobrutalist web design|on brutalist and neobrutalist web design]]
 - [[./on programming language complexity and bad features|on programming language complexity and bad features]]

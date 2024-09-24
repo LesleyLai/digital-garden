@@ -6,7 +6,7 @@ parent:
   - "[[message passing|message passing]]"
 publish: true
 tags:
-  - computer/Rust/concurrency
+  - computing/Rust/concurrency
 ---
 
 # Rust Message Passing
@@ -32,7 +32,7 @@ fn main() {
 
 ## See Also
 - [[actor model|actor model]]
-- [[active object|active object]]
+- [[./active object|active object]]
 
 ## References
 - [Using Message Passing to Transfer Data Between Threads - The Rust Programming Language](https://rust-book.cs.brown.edu/ch16-02-message-passing.html)

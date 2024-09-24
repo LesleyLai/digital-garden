@@ -4,7 +4,7 @@ modified: 2024-03-14
 parent: "[[vulkan]]"
 publish: true
 tags:
-  - computer/graphics/Vulkan
+  - computing/graphics/Vulkan
 ---
 - In Vulkan, [[descriptor sets|descriptor sets]] are collections of bindings described by set layouts.
 - Sets are allocated from descriptor pools

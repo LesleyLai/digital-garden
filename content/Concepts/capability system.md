@@ -8,7 +8,7 @@ parent:
   - "[[pl design|pl design]]"
 publish: true
 tags:
-  - computer/PL/idea
+  - computing/PL/idea
 ---
 # Capability System
 

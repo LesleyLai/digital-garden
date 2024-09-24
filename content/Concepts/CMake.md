@@ -1,11 +1,11 @@
 ---
 aliases:
-  - "#computer/cpp/cmake"
+  - "#computing/cpp/cmake"
 parent:
   - "[[C++|C++]]"
 publish: true
 tags:
-  - computer/cpp/cmake
+  - computing/cpp/cmake
 created: 2024-06-02
 modified: 2024-06-02
 ---

@@ -5,7 +5,7 @@ parent:
   - "[[Unix|Unix]]"
 publish: true
 tags:
-  - computer/Linux
+  - computing/Linux
 ---
 
 # Linux

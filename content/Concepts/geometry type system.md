@@ -2,8 +2,8 @@
 parent:
   - "[[pl design|pl design]]"
 tags:
-  - computer/PL/TypeTheory
-  - computer/PL/interesting_features
+  - computing/PL/TypeTheory
+  - computing/PL/interesting_features
 created: 2024-09-20
 modified: 2024-09-20
 publish: true

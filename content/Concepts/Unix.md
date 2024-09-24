@@ -2,10 +2,10 @@
 created: 2024-06-07
 modified: 2024-06-07
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - computer/unix
+  - computing/unix
 ---
 
 # Unix

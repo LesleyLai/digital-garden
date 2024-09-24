@@ -14,4 +14,4 @@ publish: true
 - [[./type theory|type theory]]
 
 ---
-tags: #computer/PL/TypeTheory #math/logic #stub
+tags: #computing/PL/TypeTheory #math/logic #stub

@@ -5,7 +5,7 @@ parent:
   - "[[vulkan|vulkan]]"
 publish: true
 tags:
-  - computer/graphics/Vulkan/synchronization
+  - computing/graphics/Vulkan/synchronization
 ---
 
 # Vulkan Synchronization

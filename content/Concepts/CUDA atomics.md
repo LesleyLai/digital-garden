@@ -5,7 +5,7 @@ parent:
   - "[[CUDA|CUDA]]"
 publish: true
 tags:
-  - computer/cuda
+  - computing/cuda
 ---
 
 # CUDA Atomics

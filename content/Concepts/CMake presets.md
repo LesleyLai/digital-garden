@@ -5,7 +5,7 @@ parent:
   - "[[CMake|CMake]]"
 publish: true
 tags:
-  - computer/cpp/cmake
+  - computing/cpp/cmake
 ---
 
 # CMake Presets

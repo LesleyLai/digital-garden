@@ -5,7 +5,7 @@ parent:
   - "[[concurrency|concurrency]]"
 publish: true
 tags:
-  - computer/concurrency
+  - computing/concurrency
 ---
 
 # Structured Concurrency

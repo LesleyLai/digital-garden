@@ -2,10 +2,10 @@
 created: 2024-01-18
 modified: 2024-06-27
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - computer/graphics
+  - computing/graphics
 ---
 ## Math
 - [[./coordinate systems in graphics programming|coordinate systems]]

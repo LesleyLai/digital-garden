@@ -6,4 +6,4 @@ modified: 2024-03-14
 publish: true
 ---
 
-#stub #computer/AlgorithmsAndDataStructures/graph
+#stub #computing/AlgorithmsAndDataStructures/graph

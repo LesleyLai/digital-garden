@@ -2,10 +2,10 @@
 created: 2024-08-04
 modified: 2024-08-25
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - computer/SQL
+  - computing/SQL
 ---
 
 **SQL** stands for **Standard Query Language** for relational databases. It is based on formal query languages such as [[relational algebra|relational algebra]] and [[tuple calculus|tuple calculus]].

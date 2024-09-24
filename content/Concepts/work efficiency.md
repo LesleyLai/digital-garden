@@ -3,7 +3,7 @@ parent:
   - "[[parallel algorithms|parallel algorithms]]"
 publish: true
 tags:
-  - computer/parallelism
+  - computing/parallelism
 created: 2024-06-05
 modified: 2024-06-05
 ---

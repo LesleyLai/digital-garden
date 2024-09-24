@@ -6,7 +6,7 @@ parent:
   - "[[./prefix sum|scan]]"
 publish: true
 tags:
-  - computer/AlgorithmsAndDataStructures/parallel
+  - computing/AlgorithmsAndDataStructures/parallel
 ---
 
 # Parallel Scan
@@ -24,14 +24,14 @@ There are `n-1` addition for an array of length `n`.
 This looks very sequential, but there are efficient parallel versions [^1].
 
 ## Naive Parallel Version
-![[../naive parallel scan.png|400]]
+![[../assets/naive parallel scan.png|400]]
 
 Pseudocode:
-![[../naive parallel scan code.png|300]]
+![[../assets/naive parallel scan code.png|300]]
 
 This is an inclusive scan. And each thread writes one sum and reads two values.
 
-![[../naive parallel scan 2.png|400]]
+![[../assets/naive parallel scan 2.png|400]]
 
 ## Work-Efficient Parallel Scan
 Work-efficient parallel scan use a [[balanced binary tree|balanced binary tree]] (in concept) to perform scan in two phases
@@ -42,7 +42,7 @@ Unlike the naive version, this is an exclusive scan.
 
 ## Up-Sweep
 Same as parallel reduction
-![[../work efficient parallel scan up sweep.png|400]]
+![[../assets/work efficient parallel scan up sweep.png|400]]
 
 At this stage, imaging array as a tree
 - Array stores **only left child**
@@ -51,17 +51,17 @@ At this stage, imaging array as a tree
   - Left child index = n / 2 (rounds down)
   - right child index = n
 
-![[../work efficient parallel scan up sweep 2.png|300]]
+![[../assets/work efficient parallel scan up sweep 2.png|300]]
 
 ### Down-Sweep
 - "Traverse" back down tree using **partial sums** to build the scan in place
   - Set root to zero
   - At each pass, a node passes its value to its left child, and sets the right child to the sum of the previous left child's value and its value
 
-![[../downsweep.png|400]]
+![[../assets/downsweep.png|400]]
 
 Pseudocode:
-![[../downsweep pseudocode.png|600]]
+![[../assets/downsweep pseudocode.png|600]]
 
 ## Complexities
 - Sequential Scan $O(n)$

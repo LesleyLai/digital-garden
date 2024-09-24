@@ -1,14 +1,14 @@
 ---
 aliases:
   - snapshot testing
-  - "#computer/testing/approval"
+  - "#computing/testing/approval"
 created: 2024-04-18
 modified: 2024-04-18
 parent:
   - "[[Software Testing|Software Testing]]"
 publish: true
 tags:
-  - computer/testing/approval
+  - computing/testing/approval
 ---
 
 # Approval Testing

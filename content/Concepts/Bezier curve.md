@@ -18,7 +18,7 @@ $$
 Those points $p_k$ are called *control points*.
 
 For n = 1, we just get a line segment. But for n = 3, we get "**cubic Bézier**":
-![[../cubic bezier.svg|400]]
+![[../assets/cubic bezier.svg|400]]
 
 There are some nice features about the cubic Bézier curve:
 1. endpoints are interpolated
@@ -28,7 +28,7 @@ There are some nice features about the cubic Bézier curve:
 The 3D version of a Bézier curve is a [[bézier patch|bézier patch]].
 ## Piecewise Bézier
 Since high-degree Bernstein polynomials don't interpolate well, we usually piece together many low-order Bézier curves. To get _seamless_ curves, we need _points_ and _tangents_ to line up:
-![[../piecewise bezier.png|400]]
+![[../assets/piecewise bezier.png|400]]
 
 ## Related
 - [[./spline|spline]]

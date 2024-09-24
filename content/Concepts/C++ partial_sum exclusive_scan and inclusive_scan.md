@@ -5,7 +5,7 @@ parent:
   - "[[STL algorithms|STL algorithms]]"
 publish: true
 tags:
-  - computer/cpp/stl
+  - computing/cpp/stl
 ---
 
 # C++ `std::partial_sum`, `exclusive_scan`, And `inclusive_scan`

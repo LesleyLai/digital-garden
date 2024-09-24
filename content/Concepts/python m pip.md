@@ -14,4 +14,4 @@ This is particular useful when there are multiple versions of Python installed o
 
 ---
 parent: [[./pip|pip]]
-tags: #computer/python/pip #computer/ci
+tags: #computing/python/pip #computing/ci

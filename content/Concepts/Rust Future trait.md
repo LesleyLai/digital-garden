@@ -6,7 +6,7 @@ parent:
   - "[[async Rust|async Rust]]"
 publish: true
 tags:
-  - "#computer/rust/async"
+  - "#computing/rust/async"
 ---
 The `Future` trait represent a value that is not yet available.
 

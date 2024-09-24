@@ -1,12 +1,12 @@
 ---
 aliases:
-  - "#computer/cpp/name_lookup"
+  - "#computing/cpp/name_lookup"
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/PL/semantics
-  - computer/cpp/name_lookup
+  - computing/PL/semantics
+  - computing/cpp/name_lookup
 ---
 When a C++ function get called, it go through several phases in order:
 1.  Name lookup

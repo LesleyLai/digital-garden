@@ -7,7 +7,7 @@ modified: 2024-03-14
 parent: 
 publish: true
 tags:
-  - computer/coroutine
+  - computing/coroutine
 ---
 
 # Fiber

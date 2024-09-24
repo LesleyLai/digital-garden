@@ -49,7 +49,7 @@ The Lagrange multipliers doesn't tell whether a solution is a maximum, minimum, 
 ## Intuition
 
 Lagrange multiplier is behind the observation that at maximum or minimum, the [[./level sets|level set]] of function $f(\mathbf{x})$ is [[./tangent space|tangent]] to the constraint $g(\mathbf{x})$. In other words, their gradients are parallel: $\nabla f \parallel \nabla g$, and thus $\nabla f = \lambda \nabla g$.
-![[../Lagrange example 2.png|300]]
+![[../assets/Lagrange example 2.png|300]]
 
 ## Proof
 Suppose that $f$ has a maximum at $P$ on the constraint surface.

@@ -3,8 +3,8 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - "#computer/compiler"
-  - computer/testing
+  - "#computing/compiler"
+  - computing/testing
 ---
 
 Debugging a compiler that output incorrect program is hard.

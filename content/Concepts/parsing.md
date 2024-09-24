@@ -1,12 +1,12 @@
 ---
 aliases:
-  - "#computer/AlgorithmsAndDataStructures/parsing"
+  - "#computing/AlgorithmsAndDataStructures/parsing"
   - parser
 created: 2023-05-30
 modified: 2024-06-09
 publish: true
 tags:
-  - computer/AlgorithmsAndDataStructures/parsing
+  - computing/AlgorithmsAndDataStructures/parsing
   - MOC
 ---
 

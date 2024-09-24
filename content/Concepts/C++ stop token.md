@@ -5,7 +5,7 @@ parent:
   - "[[C++ concurrency|C++ concurrency]]"
 publish: true
 tags:
-  - "#computer/cpp/concurrency"
+  - "#computing/cpp/concurrency"
 ---
 ## `std::stop_source`
 See: [stop_source - cppreference](https://en.cppreference.com/w/cpp/thread/stop_source)

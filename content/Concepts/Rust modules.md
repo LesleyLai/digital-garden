@@ -7,7 +7,7 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - computer/Rust
+  - computing/Rust
 ---
 
 # Rust Module System

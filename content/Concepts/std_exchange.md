@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/cpp 
+#computing/cpp 
 # C++ `std::exchange`
 `a = std::exchange(b, c)` in C++ is like `a, b = b, c` in Python
 

@@ -5,7 +5,7 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - computer/Rust/io
+  - computing/Rust/io
 created: 2024-05-03
 modified: 2024-05-03
 ---

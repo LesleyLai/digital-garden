@@ -4,7 +4,7 @@ modified: 2024-03-14
 parent: "[[parsing]]"
 publish: true
 tags:
-  - computer/AlgorithmsAndDataStructures/parsing
+  - computing/AlgorithmsAndDataStructures/parsing
 ---
 
 # Operator Precedence Parser

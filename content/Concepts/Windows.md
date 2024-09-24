@@ -1,9 +1,9 @@
 ---
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - computer/windows
+  - computing/windows
   - MOC
 created: 2024-06-24
 modified: 2024-09-17

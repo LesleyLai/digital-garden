@@ -9,6 +9,7 @@ publish: true
 tags:
   - signal
 ---
+
 A **signal** is a set of data or information. It is often a function of the independent variable time, but it is not always a case (for example, an image can be view as a signal, and it is a function in space).
 
 A signal can be either *discrete* or *continuous*.

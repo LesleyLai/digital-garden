@@ -12,7 +12,7 @@ parent:
   - "[[Python|Python]]"
 publish: true
 tags:
-  - computer/python
+  - computing/python
 ---
 
 # Python Virtual Environments

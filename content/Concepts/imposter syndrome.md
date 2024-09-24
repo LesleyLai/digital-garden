@@ -7,7 +7,7 @@ tags:
 ---
 
 One reason that cause the imposter syndrome is that we overestimate how  much others know:
-![[../imposter-syndrome.jpg|400]]
+![[../assets/imposter-syndrome.jpg|400]]
 
 My thought: Is a moderate amount of imposter syndrome a bad thing at all? It helps us to stay [[./intellectual humility|humble]]. And from my observation, people who claim that they never have imposter syndrome often overlap with overconfident jerks.
 

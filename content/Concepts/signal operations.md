@@ -20,13 +20,13 @@ To shift a signal $x(t)$ by $T$, we replace $t$ with $t - T$ in the signal and g
 - $T > 0$ shift to right (delay)
 - $T < 0$ shift to left (advance)
 
-![[../shifting a signal.png|300]]
+![[../assets/shifting a signal.png|300]]
 Shifting won't change the [[./size of a signal|size of the signal]].
 
 ## Scaling
 The compression or expansion of a signal in time is known as *time scaling*. To time scale a signal by a factor of $a$, we replace $t$ by $at$. If $a > 1$, the result is a compression. And if $a < 1$, the result is an expansion.
 
-![[../time scaling a signal.png|300]]
+![[../assets/time scaling a signal.png|300]]
 
 ## Reflection
 *Reflection* or *time reversal* can be seen as a special case of scaling with $a = -1$.

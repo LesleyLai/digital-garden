@@ -6,8 +6,8 @@ parent:
   - "[[./async Rust|async Rust]]"
 publish: true
 tags:
-  - computer/cpp/coroutine
-  - computer/rust/async
+  - computing/cpp/coroutine
+  - computing/rust/async
   - "#draft"
 ---
 

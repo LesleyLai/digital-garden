@@ -12,4 +12,4 @@ tags:
 
 **Synapses** (zh: 突触) are the connections between [[neuron|neurons]] that facilitate communication. Mental actions happens at these synapses where electrical pulses carrying messages leap across gaps between cells.
 
-![[../Blausen_0657_MultipolarNeuron.png|Blausen_0657_MultipolarNeuron.png]]
+![[../assets/Blausen_0657_MultipolarNeuron.png|Blausen_0657_MultipolarNeuron.png]]

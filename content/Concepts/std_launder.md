@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/cpp/stl #computer/cpp/17
+#computing/cpp/stl #computing/cpp/17
 `std::launder` is uses to avoid some undefined behavior when doing `reinterpret_cast` (due to [[strict aliasing rule|strict aliasing rule]] violation). It is useful when doing [[./Type Punning|type punning]].
 
 `launder` is used to getting a pointer to an object from a pointer of incompatible type that I know represent the address of the first byte of the object. [^1]

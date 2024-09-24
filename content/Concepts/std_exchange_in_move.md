@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/cpp 
+#computing/cpp 
 # Use `std::exchange` in Move Operations
 Example:
 ```cpp

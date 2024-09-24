@@ -5,7 +5,7 @@ parent:
   - "[[geometry processing|geometry processing]]"
 publish: true
 tags:
-  - computer/graphics/geometry
+  - computing/graphics/geometry
 ---
 There are many different representations of geometries. But we can divide them into two categories: _explicit_ and _implicit_.
 ## Implicit Representations

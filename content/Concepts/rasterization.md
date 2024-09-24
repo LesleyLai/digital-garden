@@ -1,11 +1,11 @@
 ---
 aliases:
-  - "#computer/graphics/Rasterization"
+  - "#computing/graphics/Rasterization"
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/graphics/Rasterization
+  - computing/graphics/Rasterization
 ---
 
 # Rasterization

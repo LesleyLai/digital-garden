@@ -9,7 +9,7 @@ tags:
 ---
 
 # Law of Sines
-![[../law of sine.svg|law of sine.svg]]
+![[../assets/law of sine.svg|law of sine.svg]]
 $$
 \begin{equation*}
   \frac{a}{\sin \alpha} = \frac{b}{\sin \beta} = \frac{c}{\sin \gamma}

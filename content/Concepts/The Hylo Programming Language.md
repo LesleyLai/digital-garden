@@ -5,10 +5,10 @@ aliases:
 created: 2023-05-30
 modified: 2024-03-14
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - computer/PL/experimental_languages
+  - computing/PL/experimental_languages
 ---
 
 # The Hylo Programming Language

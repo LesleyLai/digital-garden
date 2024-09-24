@@ -5,7 +5,7 @@ parent:
   - "[[note index|note index]]"
 publish: true
 tags:
-  - computer
+  - computing
 ---
 # Computer MOC
 ## Fields

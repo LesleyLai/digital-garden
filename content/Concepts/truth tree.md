@@ -21,7 +21,7 @@ The primary purpose of a truth tree is to determine whether a given set of propo
 ## Tree Rules in Proposition Logic
 We can reduce a proposition to its more basic form by using one of the tree rules. All the tree rule for propositional logic can be derived from the truth table. Note that $\alpha$ or $\neg \alpha$ are not reducible.
 
-![[../truth tree rules.png|truth tree rules.png]]
+![[../assets/truth tree rules.png|truth tree rules.png]]
 
 ## Uses of Trees
 ### Satisfiability
@@ -33,22 +33,22 @@ If an [[./argument|argument]] is [[./validity (logic)|validity]], it means that 
 > [!example]+
 > Is the following argument valid?
 > 
-![[../validity-tree-test-1-argument.png|validity-tree-test-1-argument.png]]
+![[../assets/validity-tree-test-1-argument.png|validity-tree-test-1-argument.png]]
 >
 > **Solution**
 > 
-![[../validity tree test 1.png|validity tree test 1.png]]
+![[../assets/validity tree test 1.png|validity tree test 1.png]]
 >
 > We can see that all path in the tree are closed, so the argument is *valid*.
 
 > [!example]+
 > Is the following argument valid?
 > 
-![[../validity-tree-test-2-argument.png|validity-tree-test-2-argument.png]]
+![[../assets/validity-tree-test-2-argument.png|validity-tree-test-2-argument.png]]
 >
 > **Solution**
 > 
-![[../validity-tree-test-2.png|validity-tree-test-2.png]]
+![[../assets/validity-tree-test-2.png|validity-tree-test-2.png]]
 >
 > We can see that some paths are open, so the argument is *invalid*.
 > For example, when $A = F, B = T, C = T$, we have true premises but false conclusion
@@ -58,7 +58,7 @@ To ask whether a proposition is a [[tautology|tautology]] is to ask whether it i
 ### Equivalence
 The formula $\alpha$ is [[./logical equivalence|equivalent]] to $\beta$ iff $(\alpha \leftrightarrow \beta)$ is tautology. In other word, iff $\neg (\alpha \leftrightarrow \beta)$ is not satisfiable.
 > [!example] Are $P$ and $P \lor P$ equivalent?+
-> ![[../equivalence tree test.png|equivalence tree test.png]]
+> ![[../assets/equivalence tree test.png|equivalence tree test.png]]
 > 
 > All paths close, so $P$ and $(P \lor P)$ are equivalent
 
@@ -70,24 +70,24 @@ In [[predicate logic|predicate logic]], we use trees similarly to how we do in p
 
 The existing rules from the propositional logic stay the same, but we need add some new rules for quantifiers in predicate logics:
 
-![[../truth tree rule in predicate logic.png|truth tree rule in predicate logic.png]]
+![[../assets/truth tree rule in predicate logic.png|truth tree rule in predicate logic.png]]
 
 > [!info] the $\alpha(\underline{a}/\underline{x})$ notation means to [[./substitution|substitute]] all variable $\underline{x}$ in $\alpha$ as $\underline{a}$
 
 The tree rules for negated quantifiers are simple: switch the existential quantifier to a universal one and vice versa, while also putting the negation inward. For unnegated quantifiers, we need to introduce variables.
 
 #### Existential Quantifier
-![[../existential quantifier tree rule.png|existential quantifier tree rule.png]]
+![[../assets/existential quantifier tree rule.png|existential quantifier tree rule.png]]
 
 For existential quantifiers, we introduce a name $\underline{a}$ which is [[fresh variable|new to the path]]. We then strip the quantifier, and substitute all the free occurrence of the variable $\underline{x}$ with $\underline{a}$.
 
 #### Universal Quantifier
-![[../universal quantifiers tree rule.png|universal quantifiers tree rule.png]]
+![[../assets/universal quantifiers tree rule.png|universal quantifiers tree rule.png]]
 
 For universal quantifiers, $\underline{a}$ can be any name and does not have to be new to the path. Note that when we applying this rule, we write a backslash instead of a check mark, since this rule can be repeatedly applied with different variable names  $\underline{a}, \underline{b}, \underline{c}\dots$
 
 We can technically apply the rule above an infinite number of times,
-![[../universal quantifier tree rule infinity.png|universal quantifier tree rule infinity.png]]
+![[../assets/universal quantifier tree rule infinity.png|universal quantifier tree rule infinity.png]]
 but we can stop when a path is _saturated_.
 
 We define "saturated" as
@@ -97,16 +97,16 @@ We define "saturated" as
 2. For every other formula, the relevant rule has been applied.
 
 > [!example]+ Example: the following tree is finished
-> ![[../truth tree saturated 1.png|truth tree saturated 1.png]]
+> ![[../assets/truth tree saturated 1.png|truth tree saturated 1.png]]
 
 > [!example]+ Example: the following tree is not finished
-> ![[../truth tree saturated 2.png|truth tree saturated 2.png]]
+> ![[../assets/truth tree saturated 2.png|truth tree saturated 2.png]]
 > 
 > because we can still apply $b$ to the universal quantifier $\forall x G x$.
 > 
 > Once we do that, the tree is finished
 > 
-> ![[../truth tree saturated 2.1.png|truth tree saturated 2.1.png]]
+> ![[../assets/truth tree saturated 2.1.png|truth tree saturated 2.1.png]]
 
 > [!example]+ Example: the following tree is not finished
 > 
@@ -114,7 +114,7 @@ We define "saturated" as
 > 
 > We need to apply the universal rule at least once:
 > 
-> ![[../truth tree saturated 3.png|truth tree saturated 3.png]]
+> ![[../assets/truth tree saturated 3.png|truth tree saturated 3.png]]
 
 #### Heuristics for Applying Tree Rules
 When applying tree rules, it is desirable to follow the following order:

@@ -3,8 +3,8 @@ parent:
   - "[[C++|C++]]"
 publish: true
 tags:
-  - computer/cpp/library_design
-  - computer/simd
+  - computing/cpp/library_design
+  - computing/simd
 created: 2024-04-04
 modified: 2024-04-04
 ---

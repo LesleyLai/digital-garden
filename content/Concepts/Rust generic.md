@@ -5,7 +5,7 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - computer/Rust/generic
+  - computing/Rust/generic
 ---
 
 # Rust Generic

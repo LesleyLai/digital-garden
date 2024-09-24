@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/cpp 
+#computing/cpp 
 # C++ "Swap And iterate" Pattern
 This pattern prevents invocation of callback invalidates the iterators in the loop (by modifying `callbacks`)
 ```cpp

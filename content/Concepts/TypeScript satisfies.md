@@ -5,7 +5,7 @@ publish: true
 parent:
   - "[[TypeScript|TypeScript]]"
 tags:
-  - "#computer/typescript"
+  - "#computing/typescript"
 ---
 TypeScript 4.9 introduces `satisfies` operator. It makes such that an expression satisfy an interface.
 

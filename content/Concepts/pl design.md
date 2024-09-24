@@ -9,7 +9,7 @@ parent:
   - "[[programming languages MOC|programming languages MOC]]"
 publish: true
 tags:
-  - computer/PL
+  - computing/PL
 title: Programming Language Design MOC
 ---
 ## Approachability

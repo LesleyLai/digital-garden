@@ -4,7 +4,7 @@ modified: 2024-03-14
 parent: "[[Rust]]"
 publish: true
 tags:
-  - computer/Rust
+  - computing/Rust
 ---
 
 Unlike [[C++ references|C++ references]], Rust references do not propagate mutability. It behaves like a C pointer in this regard. This should not be confused as [[./Rust interior mutability|interior mutability]].

@@ -5,7 +5,7 @@ parent:
   - "[[CSS|CSS]]"
 publish: true
 tags:
-  - computer/css/typography
+  - computing/css/typography
 ---
 
 `em`s are relative to their parent's font size

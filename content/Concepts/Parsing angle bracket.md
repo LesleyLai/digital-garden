@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/compiler/frontend #computer/AlgorithmsAndDataStructures/parsing  #todo/someday 
+#computing/compiler/frontend #computing/AlgorithmsAndDataStructures/parsing  #todo/someday 
 We need to solve certain ambiguities to parse angle brackets for generic parameters.
 
 One ambiguity raise where when we meet `>>`, whether to parse it as shift operator or two angle brackets.

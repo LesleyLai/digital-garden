@@ -5,7 +5,7 @@ parent:
   - "[[performance MOC|performance MOC]]"
 publish: true
 tags:
-  - computer/performance/cpu
+  - computing/performance/cpu
 ---
 
 # CPU Cache

@@ -4,8 +4,8 @@ modified: 2024-03-14
 parent: 
 publish: true
 tags:
-  - computer/graphics/Rasterization
-  - computer/graphics/shadow
+  - computing/graphics/Rasterization
+  - computing/graphics/shadow
 ---
 
 # Shadow Mapping
@@ -21,7 +21,7 @@ There are several techniques to mitigate those problems:
 - [[percentage closer filtering|percentage closer filtering]] (PCF) helps with aliasing
 
 We can employ a depth bias to combat [[./self-occlusion|self-occlusion]], but it can also introduces [[./detached shadow|Peter panning]] effect:
-![[../detached shadow.png|400]]
+![[../assets/detached shadow.png|400]]
 
 ## Extension to Shadow Maps
 - [[cascaded shadow mapping|cascaded shadow mapping]] helps with aliasing

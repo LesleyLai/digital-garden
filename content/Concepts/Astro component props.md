@@ -5,7 +5,7 @@ parent:
   - "[[Astro|Astro]]"
 publish: true
 tags:
-  - computer/webdev/ssg/astro
+  - computing/webdev/ssg/astro
 ---
 ## Typing
 To add TypeScript Types for props, we can add a TypeScript `Props` interface to the component frontmatter.

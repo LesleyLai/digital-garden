@@ -8,7 +8,7 @@ parent:
   - "[[C++ concurrency|C++ concurrency]]"
 publish: true
 tags:
-  - computer/cpp/concurrency
+  - computing/cpp/concurrency
 ---
 
 # C++ Latches and Barriers

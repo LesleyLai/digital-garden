@@ -3,7 +3,7 @@ created: 2023-05-30
 modified: 2024-03-30
 publish: true
 tags:
-  - computer/compiler/optimizations
+  - computing/compiler/optimizations
 ---
 
 # Reaching Definition

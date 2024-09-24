@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 tags:
   - math/calculus
-  - computer/graphics/pbr
+  - computing/graphics/pbr
 ---
 # Approximate Integral of Product as Product of Integral
 

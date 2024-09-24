@@ -5,7 +5,7 @@ parent:
   - "[[experimental Languages|experimental Languages]]"
 publish: true
 tags:
-  - computer/PL/experimental_languages/odin
+  - computing/PL/experimental_languages/odin
 ---
 
 # Odin

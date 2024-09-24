@@ -22,4 +22,4 @@ My question: Is each kind of objects getting their own arena?
 
 ---
 parent: [[./rustc architecture|rustc architecture]]
-tags: #computer/compiler #computer/Rust/rustc #computer/memory_management
+tags: #computing/compiler #computing/Rust/rustc #computing/memory_management

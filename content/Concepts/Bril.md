@@ -5,7 +5,7 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - "#computer/compiler"
+  - "#computing/compiler"
 ---
 - [Documentation](https://capra.cs.cornell.edu/bril/)
 - [GitHub repository](https://github.com/sampsyo/bril)

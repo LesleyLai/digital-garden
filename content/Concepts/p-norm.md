@@ -14,7 +14,6 @@ tags:
   - math/LinearAlgebra/norm
   - math/definitions
 ---
-
 # $L_{p}$ Norm of a Vector
 $$
 \begin{equation*}
@@ -23,4 +22,4 @@ x_{m-1} \vert^p} = \left( \sum_{i=0}^{m-1} \vert x_i
 \vert^p \right)^{1/p}.
 \end{equation*}
 $$
-![[../p-norm.png|300]]
+![[../assets/p-norm.png|300]]

@@ -4,7 +4,7 @@ aliases:
 created: 2024-02-20
 modified: 2024-05-16
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
   - tools/git
@@ -20,7 +20,7 @@ tags:
 - [[./Git objects|Objects]]
 - [[./Git branches|Branches]]
 - [[Git HEAD|HEAD]]
-![[../lifecycle.png|lifecycle.png]]
+![[../assets/lifecycle.png|lifecycle.png]]
 ## Commands
 - [[./git commit|git commit]]
 - [[./git rebase|git rebase]]

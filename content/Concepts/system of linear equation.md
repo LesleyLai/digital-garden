@@ -22,7 +22,7 @@ where we need to solve $\mathbf{x}$.
 ## Visualization
 For any linear system, there are some good mental models to visualize:
 
-![[../linear_equations.png|linear_equations.png]]
+![[../assets/linear_equations.png|linear_equations.png]]
 
 ## Solution
 Not all linear systems can be solved. A system of linear equations has either
@@ -30,7 +30,7 @@ Not all linear systems can be solved. A system of linear equations has either
 2. exactly one solution
 3. an infinite number of solutions
 
-![[../solutions_or_linear_system.png|400]]
+![[../assets/solutions_or_linear_system.png|400]]
 
 Whether the system of linear equations have a solution depends on the numbers of equations versus the number of unknowns. For a system of linear equation $A \mathbf{x} = \mathbf{b}$ where
 $$

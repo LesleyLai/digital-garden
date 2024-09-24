@@ -5,7 +5,7 @@ parent:
   - "[[Rust concurrency|Rust concurrency]]"
 publish: true
 tags:
-  - computer/Rust/concurrency
+  - computing/Rust/concurrency
 ---
 
 # Rust Send and Sync

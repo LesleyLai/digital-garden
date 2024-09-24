@@ -1,11 +1,11 @@
 ---
 aliases:
-  - "#computer/webdev/ssg"
+  - "#computing/webdev/ssg"
 created: 2024-04-01
 modified: 2024-04-07
 publish: true
 tags:
-  - "#computer/webdev/ssg"
+  - "#computing/webdev/ssg"
 ---
 
 There are two camps of static site generators - the traditional one generate a multi-paged static site, and some others generates [[single-page application|SPA]] that pretended to be a static site. The later camp need to use techniques such as the [[PRPL Pattern|PRPL Pattern]] to address some short-comings of SPA.

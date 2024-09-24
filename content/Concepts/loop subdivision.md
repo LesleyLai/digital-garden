@@ -5,7 +5,7 @@ parent:
   - "[[subdivision surface|subdivision surface]]"
 publish: true
 tags:
-  - computer/graphics/geometry/subdivision
+  - computing/graphics/geometry/subdivision
 ---
 
 # Loop Subdivision

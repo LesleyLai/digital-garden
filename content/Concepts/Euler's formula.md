@@ -44,7 +44,7 @@ $$
 There are two ways to represent complex numbers:
 - Cartesian form: $z = x + iy$
 - Polar form: $z = polar(r, \theta)$
-![[../complex-cartesian-polar.png|complex-cartesian-polar.png]]
+![[../assets/complex-cartesian-polar.png|complex-cartesian-polar.png]]
 From $z = x + iy$, if we substitute $x$ and $y$ with $r$ and $\theta$, we get
 $$
 z = r(\cos{\theta} + i\sin{\theta})

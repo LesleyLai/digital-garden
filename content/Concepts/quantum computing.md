@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "#computer/quantum"
+  - "#computing/quantum"
 created: 2024-04-18
 modified: 2024-05-30
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - computer/quantum
+  - computing/quantum
 ---
 
 # Quantum Computing

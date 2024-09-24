@@ -7,7 +7,7 @@ parent:
   - "[[pl design|pl design]]"
 publish: true
 tags:
-  - "#computer/Rust/PatternMatching"
+  - "#computing/Rust/PatternMatching"
 ---
 
 # Wildcard Import Enum Constants

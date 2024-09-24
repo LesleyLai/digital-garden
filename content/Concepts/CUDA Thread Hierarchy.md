@@ -5,7 +5,7 @@ parent:
   - "[[CUDA|CUDA]]"
 publish: true
 tags:
-  - computer/cuda
+  - computing/cuda
 ---
 
 # CUDA Thread Hierarchy
@@ -16,9 +16,9 @@ The CUDA thread hierarchy consists of two layers: threads organized into [[./thr
 ## Thread ID
 `ThreadIdx` is a built-in variable of CUDA that represents the thread identifier. If it is multi-dimensional, we can expand it to get the flattened id.
 
-![[../CUDA thread id.png|600]]
+![[../assets/CUDA thread id.png|600]]
 ## Thread Blocks
 See: [[./thread block|blocks]]
 There are two built-in variables for thread block, block indices `blockIdx` and dimension `blockDim`.
 
-![[../CUDA thread block.png|600]]
+![[../assets/CUDA thread block.png|600]]

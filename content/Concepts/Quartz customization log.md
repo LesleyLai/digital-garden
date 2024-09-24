@@ -25,7 +25,7 @@ GitHub Repository: [LesleyLai/digital-garden](https://github.com/LesleyLai/digit
 ## Adjust Style for the Recent Notes Component
 Commit: [LesleyLai/digital-garden@2f28ac3](https://github.com/LesleyLai/digital-garden/commit/2f28ac34871d730950e74c3cabb97231de8f738a)
 
-![[../recently edited notes screenshot.png|recently edited notes screenshot.png]]
+![[../assets/recently edited notes screenshot.png|recently edited notes screenshot.png]]
 ## Replaces Default Favicon and Og-image
 In `quartz/static`
 
@@ -118,3 +118,5 @@ export const sharedPageComponents: SharedLayout = {
 +    }),
   ],
 ```
+
+## Visible Properties

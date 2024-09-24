@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/c #computer/cpp #todo/someday 
+#computing/c #computing/cpp #todo/someday 
 - What is aliasing in C and C++?
 - [[type-based alias analysis|type-based alias analysis]]
 

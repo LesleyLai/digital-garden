@@ -4,8 +4,8 @@ modified: 2024-03-14
 parent: "[[Rust lifetime|Rust lifetime]], [[covariance and contravariance|covariance and contravariance]]"
 publish: true
 tags:
-  - "#computer/rust/lifetime"
-  - "#computer/PL/covariance"
+  - "#computing/rust/lifetime"
+  - "#computing/PL/covariance"
 ---
 
 # Lifetime Variance in Rust

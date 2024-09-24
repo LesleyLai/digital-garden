@@ -20,4 +20,4 @@ fn abort() -> ! { /* do something */ }
 [never - Rust](https://doc.rust-lang.org/std/primitive.never.html)
 
 ---
-tags: #computer/Rust
+tags: #computing/Rust

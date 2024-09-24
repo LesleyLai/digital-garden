@@ -7,7 +7,7 @@ parent:
   - "[[machine languages and bytecodes|machine languages and bytecodes]]"
 publish: true
 tags:
-  - computer/wasm
+  - computing/wasm
 ---
 
 # WebAssembly

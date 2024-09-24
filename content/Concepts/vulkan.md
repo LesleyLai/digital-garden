@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 tags:
   - MOC
-  - computer/graphics/Vulkan
+  - computing/graphics/Vulkan
 ---
 # Vulkan
 - [[./descriptor sets|descriptor sets]]

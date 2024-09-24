@@ -5,7 +5,7 @@ parent:
   - "[[design patterns|design patterns]]"
 publish: true
 tags:
-  - computer/design_patterns/RAII
+  - computing/design_patterns/RAII
 ---
 
 **RAII**, present in languages like C++ and Rust, automatically releases resources when they go out of scope, alleviating the need for manual management. This feature significantly reduces boilerplate code. Also, human are very bad at remembering releasing resources even with language facilities such as `defer` [^zig].

@@ -5,8 +5,8 @@ parent:
   - "[[abstract syntax tree|AST]]"
 publish: true
 tags:
-  - computer/compiler/frontend
-  - computer/AlgorithmsAndDataStructures/AST
+  - computing/compiler/frontend
+  - computing/AlgorithmsAndDataStructures/AST
 ---
 # Why Preserving Parenthesis in AST?
 

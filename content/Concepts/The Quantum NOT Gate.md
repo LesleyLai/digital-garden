@@ -5,7 +5,7 @@ parent:
   - "[[quantum logic gates|quantum logic gates]]"
 publish: true
 tags:
-  - computer/quantum/gates
+  - computing/quantum/gates
 ---
 
 # The Quantum NOT Gate
@@ -23,7 +23,7 @@ $$
 X(\alpha|0\rangle + \beta|1\rangle) = \alpha|1\rangle + \beta|0\rangle
 $$
 There’s an alternate representation, the _quantum circuit_ representation. In a quantum circuit we depict an $X$ gate as follows:
-![[../X_gate.png|X_gate.png]]
+![[../assets/X_gate.png|X_gate.png]]
 The line from left to right is what’s called a _quantum wire_. A quantum wire represents a single [[./qubits|qubit]].
 
 A third representation of the $X$ gate is the matrix notation:

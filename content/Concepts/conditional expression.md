@@ -8,8 +8,8 @@ parent:
   - "[[expression|expression]]"
 publish: true
 tags:
-  - computer/PL/syntax
-  - "#computer/AlgorithmsAndDataStructures/parsing"
+  - computing/PL/syntax
+  - "#computing/AlgorithmsAndDataStructures/parsing"
 ---
 
 # Syntax Design

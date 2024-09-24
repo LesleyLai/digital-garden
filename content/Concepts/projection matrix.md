@@ -1,11 +1,11 @@
 ---
 aliases:
-  - "#computer/graphics/projection"
+  - "#computing/graphics/projection"
 created: 2024-06-27
 modified: 2024-06-27
 publish: true
 tags:
-  - computer/graphics/projection
+  - computing/graphics/projection
 ---
 # Projection
 - [[orthographic projection|orthographic projection]]

@@ -6,8 +6,8 @@ created: 2023-05-30
 modified: 2024-04-18
 publish: true
 tags:
-  - computer/Rust/Testing
-  - computer/Rust/BestPractice
+  - computing/Rust/Testing
+  - computing/Rust/BestPractice
 ---
 
 # Testing in Rust

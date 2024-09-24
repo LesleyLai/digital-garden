@@ -8,7 +8,7 @@ sr-due: 2024-11-19
 sr-ease: 250
 sr-interval: 148
 tags:
-  - computer/performance/benchmark
+  - computing/performance/benchmark
   - review
 ---
 

@@ -10,7 +10,7 @@ parent:
   - "[[software engineering|software engineering]]"
 publish: true
 tags:
-  - computer/SoftwareEngineering
+  - computing/SoftwareEngineering
 ---
 
 # Cohesion and Coupling
@@ -18,7 +18,7 @@ tags:
 
 **Coupling** refers to the degree which different code depend on each other. It is suggested that all modules should be as independent as possible (low coupling) [^1]
 
-![[../cohesion and coupling.png|600]]
+![[../assets/cohesion and coupling.png|600]]
 
 
 

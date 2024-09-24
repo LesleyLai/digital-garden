@@ -11,7 +11,7 @@ tags:
 ---
 
 # Injective Function
-![[../Injection.svg|Injection.svg]]
+![[../assets/Injection.svg|Injection.svg]]
 ## See also
 - [[./surjection|surjection]]
 - [[bijection|bijection]]

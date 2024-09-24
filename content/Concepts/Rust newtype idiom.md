@@ -7,7 +7,7 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - computer/Rust
+  - computing/Rust
 ---
 
 In Rust, the **newtype idiom** wraps an underlying types with another type to enforce correct usage. E.g.

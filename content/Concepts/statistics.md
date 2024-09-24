@@ -6,7 +6,7 @@ created: 2024-07-29
 modified: 2024-08-28
 parent:
   - "[[math|math]]"
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
   - statisticsAndDataScience

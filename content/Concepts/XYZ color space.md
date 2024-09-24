@@ -12,7 +12,7 @@ modified: 2024-05-29
 # XYZ Color Space
 
 The Commission Internationale de l’Éclairage (CIE) standards body created the **CIE 1931 XYZ color space**, which is graphed in the following figure. [^2]
-![[../xyz color space.svg|xyz color space.svg]]
+![[../assets/xyz color space.svg|xyz color space.svg]]
 
 XYZ is a *device-independent* color space, which means that it does not describe the characteristics of a particular display or color measurement device. [^2]
 

@@ -51,7 +51,7 @@ $$
 \end{aligned}
 \end{equation*}
 $$
-![[../optimization example.png|200]]
+![[../assets/optimization example.png|200]]
 
 ## Methods to Solve Optimization Problems
 - finding [[./derivative|derivatives]] and performing [[./second derivative test|second derivative test]]

@@ -3,8 +3,8 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/graphics/RayTracing
-  - computer/graphics/AntiAliasing/TAA
+  - computing/graphics/RayTracing
+  - computing/graphics/AntiAliasing/TAA
 ---
 This "poor man's approach" of temporal reprojection 
 - multiply the camera space intersection point by [[camera and view matrix|inverse camera matrix]] of the current frame

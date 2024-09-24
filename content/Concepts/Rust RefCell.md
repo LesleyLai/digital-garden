@@ -5,7 +5,7 @@ parent:
   - "[[Rust smart pointers|Rust smart pointers]]"
 publish: true
 tags:
-  - computer/Rust/smart_pointers
+  - computing/Rust/smart_pointers
 ---
 
 # Rust `RefCell`

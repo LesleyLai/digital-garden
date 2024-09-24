@@ -96,7 +96,7 @@ In a tree diagram, the dependent variable sit on top, and independent variables 
 
 > [!example]-
 For example, to construct chain rule for a function $f(x_1, x_2, \dots, x_n)$ where each $x_i$ is depending on two variables $s$ and $t$, we can have the following diagram:
->![[../HEkGKdy68P-chain1b.gif|300]]
+>![[../assets/HEkGKdy68P-chain1b.gif|300]]
 
 ## Chain Rule and Coordinate Transformation
 

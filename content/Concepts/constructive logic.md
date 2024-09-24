@@ -12,6 +12,6 @@ publish: true
 # Constructive Logic
 Related to [[./propositions as types|propositions as types]]
 
-> [[De Morgan's laws|De Morgan's laws]] doesn't hold in constructive logic
+> [[./De Morgan's laws|De Morgan's laws]] doesn't hold in constructive logic
 
 [[./law of excluded middle|law of excluded middle]] does not hold in constructive logic

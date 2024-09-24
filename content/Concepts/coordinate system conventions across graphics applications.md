@@ -2,14 +2,14 @@
 parent:
   - "[[coordinate systems in graphics programming|coordinate systems in graphics programming]]"
 tags:
-  - computer/graphics/coordinateSystems
+  - computing/graphics/coordinateSystems
 created: 2024-09-22
 modified: 2024-09-22
 publish: true
 ---
 Various graphics applications use different coordinate system conventions, such as [[./coordinate system handedness|handedness]] or y-up vs z-up.
 
-![[../handedness.png|handedness.png]]
+![[../assets/handedness.png|handedness.png]]
 
 ## Graphics APIs
 Different graphics APIs have different convention for their definition of the [[./normalized device coordinate|normalized device coordinate]].

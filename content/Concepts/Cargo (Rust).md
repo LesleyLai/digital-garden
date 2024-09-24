@@ -7,7 +7,7 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - computer/Rust/Cargo
+  - computing/Rust/Cargo
 ---
 - [[./cargo workspaces|cargo workspaces]]
 - [[./Documentation in Rust|cargo docs]]

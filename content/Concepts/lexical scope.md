@@ -13,4 +13,4 @@ publish: true
 - [[dynamic scope|dynamic scope]]
 
 ---
-tags: #computer/PL/scope #stub
+tags: #computing/PL/scope #stub

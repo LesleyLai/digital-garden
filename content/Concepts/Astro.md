@@ -5,9 +5,9 @@ parent:
   - "[[static site generators|static site generators]]"
 publish: true
 tags:
-  - computer/webdev/ssg/astro
+  - computing/webdev/ssg/astro
 aliases:
-  - "#computer/webdev/ssg/astro"
+  - "#computing/webdev/ssg/astro"
 ---
 # Astro
 A static-site generator. Astro use a template language `.astro` kind of similar to [[jsx|jsx]], though it separates a JavaScript-based "header" and the markup. Unlike 

@@ -1,6 +1,6 @@
 ---
 Aliases:
-  - "#computer/PL/covariance"
+  - "#computing/PL/covariance"
   - covariant
   - contravariant
 created: 2023-05-30
@@ -18,4 +18,4 @@ publish: true
 
 ---
 parent: [[./programming languages MOC|programming languages MOC]]
-tags: #computer/PL/covariance #stub
+tags: #computing/PL/covariance #stub

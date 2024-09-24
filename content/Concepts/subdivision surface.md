@@ -4,7 +4,7 @@ modified: 2024-03-14
 parent: 
 publish: true
 tags:
-  - computer/graphics/geometry/subdivision
+  - computing/graphics/geometry/subdivision
 ---
 
 # Subdivision Surface

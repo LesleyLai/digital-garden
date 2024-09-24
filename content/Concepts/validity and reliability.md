@@ -15,7 +15,7 @@ tags:
 reliability: multiple tests reach same result
 validity: theory measures what it suppose to measure
 
-![[../Reliability-vs-Validity.jpg|Reliability-vs-Validity.jpg]]
+![[../assets/Reliability-vs-Validity.jpg|Reliability-vs-Validity.jpg]]
 
 ## Four types of reliabilities
 - [[test-retest reliability|test-retest reliability]] - same test over time

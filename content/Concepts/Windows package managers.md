@@ -9,7 +9,7 @@ parent:
   - "[[Windows|Windows]]"
 publish: true
 tags:
-  - computer/windows
+  - computing/windows
 ---
 
 # Package Managers on Windows

@@ -6,7 +6,7 @@ parent:
 publish: true
 tags:
   - radiometry
-  - computer/graphics/RayTracing
+  - computing/graphics/RayTracing
 ---
 
 # Radiance
@@ -24,7 +24,7 @@ $$
 
 The cosine term of the above definition is because that the projected area $A^\perp$ is the perpendicular of the surface orthogonal to the direction we are interested in.
 
-![[../Advanced_Global_Illumination_Figure_2_1.png|Advanced_Global_Illumination_Figure_2_1.png]]
+![[../assets/Advanced_Global_Illumination_Figure_2_1.png|Advanced_Global_Illumination_Figure_2_1.png]]
 Radiance is the quantity that captures the "appearance" of objects in the scene.
 
 ## Property of Radiance

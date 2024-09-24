@@ -8,7 +8,7 @@ modified: 2024-03-14
 publish: true
 tags:
   - math/NumberTheory/ModuloArithmetic
-  - "#computer/PL/semantics"
+  - "#computing/PL/semantics"
 ---
 
 # Modulo Operation

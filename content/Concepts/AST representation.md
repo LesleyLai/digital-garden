@@ -5,8 +5,8 @@ parent:
   - "[[abstract syntax tree|AST]]"
 publish: true
 tags:
-  - "#computer/AlgorithmsAndDataStructures/AST"
-  - "#computer/PL/syntax"
+  - "#computing/AlgorithmsAndDataStructures/AST"
+  - "#computing/PL/syntax"
 ---
 # AST Representation
 

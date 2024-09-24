@@ -3,8 +3,8 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - "#computer/best_practices"
-  - "#computer/database"
+  - "#computing/best_practices"
+  - "#computing/database"
 ---
 
 # Don't Commit Data until it is Ready

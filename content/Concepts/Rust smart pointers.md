@@ -5,7 +5,7 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - computer/Rust/smart_pointers
+  - computing/Rust/smart_pointers
 ---
 
 # Rust Smart Pointers

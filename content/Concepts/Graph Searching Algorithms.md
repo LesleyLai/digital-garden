@@ -1,11 +1,11 @@
 ---
 aliases:
-  - "#computer/AlgorithmsAndDataStructures/searching"
+  - "#computing/AlgorithmsAndDataStructures/searching"
 created: 2023-05-30
 modified: 2024-05-12
 publish: true
 tags:
-  - computer/AlgorithmsAndDataStructures/searching
+  - computing/AlgorithmsAndDataStructures/searching
 ---
 
 # Graph Searching Algorithms

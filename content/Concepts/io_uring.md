@@ -6,8 +6,8 @@ parent:
   - "[[asynchronous IO|asynchronous IO]]"
 publish: true
 tags:
-  - computer/asynchronous/io
-  - computer/Linux
+  - computing/asynchronous/io
+  - computing/Linux
 ---
 
 # io_uring

@@ -14,7 +14,7 @@ tags:
 
 The [[./orthogonal matrix|orthogonal matrix]] always represents [[./rotation|rotation]] or [[./reflection|reflection]]. And the positive-semidefinite matrix also represents (possibly none uniform) [[./scaling|scaling]].
 
-![[../polar_decomposition.png|polar_decomposition.png]]
+![[../assets/polar_decomposition.png|polar_decomposition.png]]
 
 ## Relationship with Singular Value Decomposition
 

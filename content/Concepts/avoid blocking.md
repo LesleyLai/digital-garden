@@ -7,8 +7,8 @@ parent:
   - "[[concurrency|concurrency]]"
 publish: true
 tags:
-  - computer/asynchronous
-  - computer/concurrency
+  - computing/asynchronous
+  - computing/concurrency
 ---
 Async code should never spend a long time without yielding as it can block the thread.
 

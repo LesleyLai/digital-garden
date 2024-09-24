@@ -1,12 +1,12 @@
 ---
 aliases:
-  - "#computer/rust/async"
+  - "#computing/rust/async"
 created: 2024-01-03
 modified: 2024-03-14
 parent: "[[Rust]]"
 publish: true
 tags:
-  - computer/rust/async
+  - computing/rust/async
 ---
 # Async Rust
 - [[./Rust Future trait|Future trait]]

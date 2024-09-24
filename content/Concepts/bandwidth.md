@@ -10,7 +10,7 @@ parent:
   - "[[computer networking|computer networking]]"
 publish: true
 tags:
-  - computer/networking
+  - computing/networking
 ---
 
 # Bandwidth

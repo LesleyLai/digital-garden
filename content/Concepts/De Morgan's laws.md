@@ -20,4 +20,4 @@ $$
 (A \cup B)^\complement = A^\complement \cap B^\complement \quad \text{and} \quad (A \cap B)^\complement = A^\complement \cup B^\complement
 $$
 
-![[../Demorganlaws.svg|Demorganlaws.svg]]
+![[../assets/Demorganlaws.svg|Demorganlaws.svg]]

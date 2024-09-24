@@ -9,7 +9,7 @@ parent:
   - "[[quantum computing|quantum computing]]"
 publish: true
 tags:
-  - computer/quantum
+  - computing/quantum
 ---
 **Qubit** is a short-hand for **quantum bit**.
 
@@ -29,7 +29,7 @@ $$
 $$
 Also, quantum states have the _normalization constraint_: the sum of the squares of the amplitudes constraint to $1$. i.e. for $\alpha|0\rangle + \beta|1\rangle$, $|\alpha|^2 + |\beta|^2 = 1$
 
-![[../cbs_redux.png|300]]
+![[../assets/cbs_redux.png|300]]
 
 In summary, the quantum state of a qubit is a vector of unit length in a two-dimensional complex vector space known as state space.
 

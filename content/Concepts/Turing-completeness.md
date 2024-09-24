@@ -6,4 +6,4 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/theory_of_computation #stub
+#computing/theory_of_computation #stub

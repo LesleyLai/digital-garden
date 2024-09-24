@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "#computer/networking"
+  - "#computing/networking"
 created: 2024-08-04
 modified: 2024-08-04
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - computer/networking
+  - computing/networking
 ---
 
 # Computer Networking

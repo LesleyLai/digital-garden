@@ -10,7 +10,7 @@ tags:
 
 A **sigmoid function** is any [[functions|functions]] whose graph has a characteristic S-shaped or **sigmoid curve**. [^1]
 
-![[../sigmoid.png|500]]
+![[../assets/sigmoid.png|500]]
 
 ## See Also
 - [[error function|error function]]

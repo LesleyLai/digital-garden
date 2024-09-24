@@ -24,7 +24,7 @@ $$
 
 Critical point can be view as a generalization of [[./extremum|extremum]] for single-variable function, but it does not necessary be an extremum. Instead, it may either be a [[./extremum|maximum]], [[./extremum|minimum]], or a [[saddle point|saddle point]].
 
-![[../min max and saddle.png|min max and saddle.png]]
+![[../assets/min max and saddle.png|min max and saddle.png]]
 
 We can use the [[./second derivative test|second derivative test]] to classify critical points.
 

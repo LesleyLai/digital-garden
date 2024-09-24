@@ -33,7 +33,7 @@ $$
 \mathbf{n} \cdot(\mathbf{x}-\mathbf{P})=a\left(x-x_0\right)+b\left(y-y_0\right)+c\left(z-z_0\right)=0
 $$
 
-![[../line-equation.png|400]]
+![[../assets/line-equation.png|400]]
 
 Alternatively, given three points $\mathbf{P_1}$, $\mathbf{P_2}$, and $\mathbf{P_3}$ on the plane, we can construct the normal vector with the [[./cross product|cross product]]: $\mathbf{n} = \mathbf{P_{1}P_{2}} \times \mathbf{P_{1}P_{3}}$, so we can have an equation of plane as $\mathbf{P_{1}P_{2}} \times \mathbf{P_{1}P_{3}} \cdot (\mathbf{x} - \mathbf{P_{1}})$ (or alternatively can be viewed as the [[determinant|determinant]] $\det\left(\mathbf{P_1P_2},\, \mathbf{P_1P_3},\, (\mathbf{x} - \mathbf{P_{1}})\right)$)
 

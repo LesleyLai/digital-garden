@@ -12,6 +12,6 @@ Parser combinators use a top-down [[recursive descent parsers|recursive descent 
 The advantage of parser combinators is that the result code is succinct, declarative, and closely related to the [[formal grammar|formal grammar]]. Each functions of a parser combinator can also be tested in isolation.[^1]
 
 ---
-tags: #computer/AlgorithmsAndDataStructures/parsing 
+tags: #computing/AlgorithmsAndDataStructures/parsing 
 
 [^1]: [[Error recovery with parser combinators (using nom)|Error recovery with parser combinators (using nom)]]

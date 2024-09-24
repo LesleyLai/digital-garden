@@ -5,7 +5,7 @@ parent:
   - "[[mesh shader|mesh shader]]"
 publish: true
 tags:
-  - computer/graphics/MeshShader
+  - computing/graphics/MeshShader
 ---
 
 # Meshlet
@@ -54,6 +54,6 @@ Given a meshlet, here is how to get the original index from those two buffers:
 indices[i] = vertex_indices[primitive_indices[i] + meshlet.primitive_offset] + meshlet.vertex_offset
 ```
 
-![[../meshlets_data.png|meshlets_data.png]]
+![[../assets/meshlets_data.png|meshlets_data.png]]
 ## References
 - [Introduction to Turing Mesh Shaders | NVIDIA Technical Blog](https://developer.nvidia.com/blog/introduction-turing-mesh-shaders/)

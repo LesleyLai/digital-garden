@@ -1,11 +1,11 @@
 ---
 aliases:
-  - "#computer/testing"
+  - "#computing/testing"
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - computer/testing
+  - computing/testing
 created: 2024-04-18
 modified: 2024-04-18
 ---

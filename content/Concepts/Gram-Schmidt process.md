@@ -16,7 +16,7 @@ The algorithm is following:
 - normalize the first vector
 - subtract any component of the 1st vector from the 2nd one (by subtracting the [[./vector projection|projection]])
 - repeat by normalize the kth vector, subtract components of first k vectors from vector k+1
-![[../Gram-Schmidt process.png|700]]
+![[../assets/Gram-Schmidt process.png|700]]
 
 ## Alternatives
 - In the case of 3D math, we can use [[./cross product|cross product]] to get an orthonormal basis.

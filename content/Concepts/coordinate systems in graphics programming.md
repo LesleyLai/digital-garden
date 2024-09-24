@@ -2,7 +2,7 @@
 parent:
   - "[[computer graphics MOC|computer graphics MOC]]"
 tags:
-  - computer/graphics/coordinateSystems
+  - computing/graphics/coordinateSystems
 created: 2024-09-20
 modified: 2024-09-22
 publish: true
@@ -38,7 +38,7 @@ Here are some common coordinate systems (spaces) used in computer graphics appli
   - perspective divide clip space by $w$
 - screen space
 
-![[../coordinate_systems.png|coordinate_systems.png]]
+![[../assets/coordinate_systems.png|coordinate_systems.png]]
 [^learnopengl]
 
 [^type]: The type system of normal programming languages or shading languages usually won't prevent the kind of "geometry bugs" by using vectors in wrong coordinate systems, but there are [[./geometry type system|active researches]] on how to solve this problem.

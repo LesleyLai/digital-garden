@@ -7,7 +7,7 @@ parent:
   - "[[algorithms|algorithms]]"
 publish: true
 tags:
-  - computer/AlgorithmsAndDataStructures/sequence
+  - computing/AlgorithmsAndDataStructures/sequence
 ---
 # Sequence Algorithms
 

@@ -38,13 +38,13 @@ The square root of $P_x$ is the [[root mean square|root mean square]] (RMS) valu
 
 ## Examples
 ### Example 1
-![[../signal size example 1.png|400]]
+![[../assets/signal size example 1.png|400]]
 This signal amplitude $\to 0$ when $|t| \to \infty$, so we can use signal energy
 $$
 E_x = \int_{-\infty}^{\infty} x^2(t) \, dt = \int_{-1}^{0} 2^2 \, dt + \int_{0}^{\infty} (2e^{-t/2})^2 \, dt = 4 + 4 = 8
 $$
 ### Example 2
-![[../signal size example 2.png|signal size example 2.png]]
+![[../assets/signal size example 2.png|signal size example 2.png]]
 This signal amplitude does not $\to 0$ when $|t| \to \infty$, so we cannot use signal energy. However, it is periodic, so we can use signal power. Since a periodic signal repeats regularly each period, averaging $|x(t)|^2$ over an infinitely large interval is identical to averaging this quantity over one period (2 seconds in this case).
 $$
 P(x) = \frac{1}{T} \int_{-T/2}^{T/2} |x(t)|^2 \, dt = \frac{1}{2} \int_{-1}^{1} t^2 \, dt = \frac{1}{3}

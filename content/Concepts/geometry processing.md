@@ -5,7 +5,7 @@ parent:
   - "[[computer graphics MOC|computer graphics MOC]]"
 publish: true
 tags:
-  - computer/graphics/geometry
+  - computing/graphics/geometry
 ---
 
 # Geometry Processing

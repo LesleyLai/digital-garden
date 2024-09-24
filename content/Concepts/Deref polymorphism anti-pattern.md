@@ -3,7 +3,7 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - "#computer/Rust"
+  - "#computing/Rust"
 ---
 
 Using the [[Rust deref|`Deref`]] trait to emulate inheritance in [[./Rust|Rust]] is an anti-pattern.

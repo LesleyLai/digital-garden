@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/javascript
+#computing/javascript
 
 # JavaScript `with` Statement
 The `with` statement is deprecated and should never be used.

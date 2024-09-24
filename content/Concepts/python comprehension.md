@@ -6,7 +6,7 @@ parent:
   - "[[Python|Python]]"
 publish: true
 tags:
-  - computer/python
+  - computing/python
 created: 2024-05-16
 modified: 2024-05-16
 ---

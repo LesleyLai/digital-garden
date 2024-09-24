@@ -20,7 +20,7 @@ When writing notes, there is a contention between *compression* and *context*. W
 - layer 3: highlight parts of layer 2
 - layer 4: small summary
 - layer 5: remix
-![[../progressive summarization.webp|600]]
+![[../assets/progressive summarization.webp|600]]
 
 Not all notes need all layers, and we also only summarize notes when we are already reviewing it. This is important since we don't want to spend time and energy on unimportant notes. In other words, [[design a system for the laziest version of yourself|design a system for the laziest version of yourself]].
 

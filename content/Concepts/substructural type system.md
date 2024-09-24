@@ -7,4 +7,4 @@ publish: true
 Related to [[substructural logics|substructural logics]]
 
 ---
-tags: #computer/PL/TypeTheory #stub
+tags: #computing/PL/TypeTheory #stub

@@ -3,7 +3,7 @@ created: 2023-05-30
 modified: 2024-05-17
 publish: true
 tags:
-  - computer/concurrency
+  - computing/concurrency
 ---
 
 

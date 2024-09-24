@@ -9,7 +9,7 @@ tags:
 
 Importance sampling is a [[./variance reduction methods|variance reduction methods]] technique for [[./Monte Carlo integration|Monte Carlo integration]]. The idea is to put more samples where the [[./probability density function|PDF]] $f(x)$ is bigger.
 
-![[../importance sampling.png|importance sampling.png]]
+![[../assets/importance sampling.png|importance sampling.png]]
 
 ## Process of Importance Sampling
   1. Having an integral $f(x)$ over the domain $[a, b]$

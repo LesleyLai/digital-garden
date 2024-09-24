@@ -5,7 +5,7 @@ parent:
   - "[[CUDA memory and cache architecture|CUDA memory and cache architecture]]"
 publish: true
 tags:
-  - computer/cuda/memory
+  - computing/cuda/memory
 ---
 
 # CUDA Global and Constant Memory

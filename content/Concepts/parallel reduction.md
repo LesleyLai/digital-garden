@@ -5,7 +5,7 @@ parent:
   - "[[parallel algorithms|parallel algorithms]]"
 publish: true
 tags:
-  - computer/AlgorithmsAndDataStructures/parallel
+  - computing/AlgorithmsAndDataStructures/parallel
 ---
 
 # Parallel Reduction
@@ -14,7 +14,7 @@ An [[reduction|reduction]] operation applies a binary operator to a sequence of 
 
 To apply parallel reduction, the binary operator must be *associative*.
 
-![[../parallel reduction.png|400]]
+![[../assets/parallel reduction.png|400]]
 
 Note that we can just modify the array in-place.
 

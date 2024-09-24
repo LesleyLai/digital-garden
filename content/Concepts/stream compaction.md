@@ -5,7 +5,7 @@ parent:
   - "[[parallel algorithms|parallel algorithms]]"
 publish: true
 tags:
-  - "#computer/AlgorithmsAndDataStructures/parallel"
+  - "#computing/AlgorithmsAndDataStructures/parallel"
 ---
 
 Given an array of elements, the *stream compaction* algorithm creates a new array with elements that meet a certain criteria, e.g. non null. It also preserve the order of original elements.
@@ -20,4 +20,4 @@ The [[./STL algorithms|C++ STL]] counterpart for stream compaction is `std::copy
 3. [[gather and scatter|scatter]]
   - result of scan is index into final array
   - only write an element if temporary array has a 1
-![[../stream compaction 1.png|500]]
+![[../assets/stream compaction 1.png|500]]

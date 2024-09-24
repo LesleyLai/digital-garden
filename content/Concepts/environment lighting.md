@@ -8,7 +8,7 @@ created: 2024-01-15
 modified: 2024-03-14
 publish: true
 tags:
-  - "#computer/graphics/pbr"
+  - "#computing/graphics/pbr"
 ---
 
 # Environment Lighting

@@ -7,7 +7,7 @@ parent:
   - "[[computer networking|computer networking]]"
 publish: true
 tags:
-  - computer/networking
+  - computing/networking
 ---
 
 **communication protocols** define format and order of messages sent and received among network entities, and actions taken on message transmission and receipt. 

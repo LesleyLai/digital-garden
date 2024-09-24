@@ -17,4 +17,4 @@ Continuous random variables describe _measurable_, infinite possible outcomes. I
 ## Functions on Random Variables
 - [[./probability density function|PDF]] and [[./probability mass function|PMF]]
 - [[./cumulative distribution function|CDF]]
-- [[quantile function
+- [[./quantile function|quantile function]]

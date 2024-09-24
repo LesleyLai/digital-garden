@@ -1,12 +1,12 @@
 ---
 aliases:
-  - "#computer/javascript"
+  - "#computing/javascript"
 created: 2023-05-30
 modified: 2024-03-14
-parent: "[[computer]]"
+parent: "[[computing]]"
 publish: true
 tags:
-  - computer/javascript
+  - computing/javascript
   - "#MOC"
 ---
 

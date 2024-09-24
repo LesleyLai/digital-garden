@@ -7,4 +7,4 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/system/DataRepresentaiton #stub
+#computing/system/DataRepresentaiton #stub

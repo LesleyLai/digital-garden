@@ -5,14 +5,14 @@ parent:
   - "[[concurrency|parallelism]]"
 publish: true
 tags:
-  - computer/gpu
+  - computing/gpu
   - MOC
 ---
 
 # GPU Programming
 ## Performance
 - [[GPU occupancy|GPU occupancy]]
-- [[./shared memory|shared memory]]
+- [[shared memory|shared memory]]
 - [[./bank conflicts|bank conflicts]]
 
 ## APIs

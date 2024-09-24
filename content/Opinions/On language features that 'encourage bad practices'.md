@@ -6,7 +6,7 @@ parent:
 publish: true
 tags:
   - "#opinion"
-  - computer/PL
+  - computing/PL
   - "#todo/in_progress"
 ---
 

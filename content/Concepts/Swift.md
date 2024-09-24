@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "#computer/swift"
+  - "#computing/swift"
 created: 2024-02-22
 modified: 2024-03-14
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - computer/swift
+  - computing/swift
 ---
 
 - [[swift implicit member syntax|swift implicit member syntax]]

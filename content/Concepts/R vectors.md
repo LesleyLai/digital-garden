@@ -2,10 +2,10 @@
 parent:
   - "[[R language|R]]"
 tags:
-  - computer/R
+  - computing/R
 title: R Vectors
 created: 2024-09-20
-modified: 2024-09-20
+modified: 2024-09-24
 publish: true
 ---
 Vectors in R can be created as the following:
@@ -13,6 +13,19 @@ Vectors in R can be created as the following:
 v <- c(1, 4, 9, 16, 25)
 ```
 
+## Generate Vectors
+Generate consecutive integers using the `:` notation
+```r
+1:10 # a vector from 1 to 10
+```
+Generate regular sequence of numbers
+```r
+seq(from = 1, to = 9, by = 2) # count up by 2
+```
+Repeat an element for x times
+```r
+rep(42, 5) # repeat 42 for 5 times
+```
 ## Extract Elements
 We can get the elements of a vector with the index operator (note that R indices start from 1)
 ```r

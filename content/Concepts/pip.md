@@ -1,6 +1,6 @@
 ---
 Aliases:
-  - "#computer/python/pip"
+  - "#computing/python/pip"
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
@@ -12,4 +12,4 @@ publish: true
 
 ---
 parent: [[./Python|Python]]
-tags: #computer/python/pip
+tags: #computing/python/pip

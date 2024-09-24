@@ -1,14 +1,14 @@
 ---
 aliases:
-  - "#computer/AlgorithmsAndDataStructures"
+  - "#computing/AlgorithmsAndDataStructures"
   - data structures
 created: 2024-05-12
 modified: 2024-06-09
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - computer/AlgorithmsAndDataStructures
+  - computing/AlgorithmsAndDataStructures
 title: Algorithms and Data Structures MOC
 ---
 - [[./sequence algorithms|Sequence Algorithms]]

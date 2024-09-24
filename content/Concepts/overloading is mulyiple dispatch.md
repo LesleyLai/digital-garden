@@ -12,4 +12,4 @@ function overloading is [[./multimethods|multiple dispatch]] since it allow you 
 
 ---
 parent: [[function overloading|function overloading]]
-tags: #computer/PL
+tags: #computing/PL

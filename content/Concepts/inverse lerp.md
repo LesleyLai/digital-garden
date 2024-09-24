@@ -15,7 +15,7 @@ inv_lerp( a, b, value ) = t
 ```
 Inverse lerp returns a number $t \in [0, 1]$ base on a value between $a$ and $b$. 
 
-![[../inverse_lerp.gif|400]]
+![[../assets/inverse_lerp.gif|400]]
 
 It can be implemented as the following:
 ```cpp

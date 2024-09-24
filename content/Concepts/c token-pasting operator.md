@@ -3,7 +3,7 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - "#computer/c/preprocessor"
+  - "#computing/c/preprocessor"
 ---
 # C Token-pasting Operator
 We can use `##` operator to concatenate two tokens, a process which is called _token pasting_.

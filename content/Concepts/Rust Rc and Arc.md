@@ -7,5 +7,5 @@ parent:
 publish: true
 tags:
   - "#stub"
-  - "#computer/Rust/smart_pointers"
+  - "#computing/Rust/smart_pointers"
 ---

@@ -4,7 +4,7 @@ modified: 2024-03-14
 parent: "[[type theory]]"
 publish: true
 tags:
-  - computer/PL/TypeTheory
+  - computing/PL/TypeTheory
   - "#stub"
 ---
 

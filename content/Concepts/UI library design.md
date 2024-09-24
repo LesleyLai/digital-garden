@@ -10,4 +10,4 @@ publish: true
 - [[How not to design a UI library|How not to design a UI library]]
 
 ---
-tags: #computer/UI #stub #computer/LibraryDesign
+tags: #computing/UI #stub #computing/LibraryDesign

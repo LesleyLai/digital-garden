@@ -6,7 +6,7 @@ parent:
 publish: true
 tags:
   - radiometry
-  - "#computer/graphics/RayTracing"
+  - "#computing/graphics/RayTracing"
 ---
 - **[[radiant energy|Radiant energy]]**
     - *Radiant energy* is "total # of hits" anywhere in the scene over the complete duration of the scene

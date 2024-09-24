@@ -9,4 +9,4 @@ A *common range* has the same iterator and sentinel type. It is checked by `std:
 
 ---
 parent: [[./C++ ranges|C++ ranges]], [[./cpp-concepts|C++ Concepts]]
-tags: #computer/cpp/concepts #computer/cpp/ranges
+tags: #computing/cpp/concepts #computing/cpp/ranges

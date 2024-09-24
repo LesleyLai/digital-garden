@@ -6,7 +6,7 @@ tags:
   - MOC
 ---
 # Areas of Interest
-- [[./computer|Computer]]
+- [[./computing|Computer]]
 - [[./math|Math]]
 - [[./physics|Physics]]
 - [[./learning|Learning]]

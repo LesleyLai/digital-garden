@@ -5,9 +5,9 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/java
-  - computer/c-sharp
-  - computer/PL/covariance
+  - computing/java
+  - computing/c-sharp
+  - computing/PL/covariance
 ---
 
 # Covariant Arrays in Java and C\#

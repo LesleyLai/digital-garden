@@ -9,7 +9,7 @@ parent:
   - "[[Graph Searching Algorithms|Graph Searching Algorithms]]"
 publish: true
 tags:
-  - "#computer/AlgorithmsAndDataStructures/searching"
+  - "#computing/AlgorithmsAndDataStructures/searching"
 ---
 
 # Iterative Deepening Depth-first search

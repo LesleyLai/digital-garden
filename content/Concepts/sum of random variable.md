@@ -2,9 +2,9 @@
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - math/probability
 ---
-
-# Sum of Random Variables
 We can calculate sum of random variables by using [[./moment generating functions|moment generating functions]].
 
 ## The Sum of Independent Poissons is Poisson
@@ -23,6 +23,3 @@ $$
    $$
    X_{1}, X_{2}, \ldots, X_{n} \stackrel{i i d}{\sim} \Gamma(\alpha, \beta) \Rightarrow \sum_{i=1}^{n} X_{i} \sim \Gamma(n \alpha, \beta) .
    $$
-
----
-tags: #math/probability

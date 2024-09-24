@@ -5,7 +5,7 @@ created: 2024-02-06
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/FunctionalProgramming/GADT
+  - computing/FunctionalProgramming/GADT
 ---
 
 # Generalized Algebraic Data Type (GADT)

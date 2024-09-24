@@ -24,10 +24,10 @@ We can use **level sets** to visualize functions  $f: R^N \rightarrow R$ with mu
 Level sets are often denoted as $f^{-1}(c) = \{ x:f\left(\underline{x}\right) = c \}$ even when the function $f$ is not invertible.
 
 In 2D, level sets look like curves on a plane. Those curves are often called contour line or isoline.
-![[../elliptic_paraboloid_level_curves.png|elliptic_paraboloid_level_curves.png]]
+![[../assets/elliptic_paraboloid_level_curves.png|elliptic_paraboloid_level_curves.png]]
 
 In 3D, level sets look liker surfaces in the space. Those surfaces are often called isosurface.
-![[../level set in 3d.png|400]]
+![[../assets/level set in 3d.png|400]]
 
 ## Related
 - [[implicit differentiation|implicit differentiation]]

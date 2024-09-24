@@ -8,20 +8,20 @@ publish: true
 sr-due: 2024-04-29
 tags:
   - math/geometry/HomogeneousCoordinates
-  - computer/graphics
+  - computing/graphics
 ---
 
 # Homogeneous Coordinates
 
-**Homogeneous coordinates** came from efforts of study [[./perspective projection|perspective]], but it shows up all over the places. It is invented by [[August Ferdinand Möbius|Möbius]].
+**Homogeneous coordinates** came from efforts of study [[perspective projection|perspective]], but it shows up all over the places. It is invented by [[August Ferdinand Möbius|Möbius]].
 
 ## Basic Ideas
 
 Consider a 2D plane that does not pass through the origin $\mathbf{o}$ in 3D. Then any line $L$ passing through the origin in 3D correspond to a point $\mathbf{p}$ on that 2D plane.
-![[../homogenous_coordinate_basic_idea_2d.jpg|homogenous_coordinate_basic_idea_2d.jpg]]
+![[../assets/homogenous_coordinate_basic_idea_2d.jpg|homogenous_coordinate_basic_idea_2d.jpg]]
 The idea is that any point $\widehat{\mathbf{p}}$ on the line $L$ can represent the point $\mathbf{p}$.
 
-The idea should naturally remind you of [[./perspective projection|perspective]].
+The idea should naturally remind you of [[perspective projection|perspective]].
 
 More explicitly, consider a point $\mathbf{p} = (x, y)$ and the plane $z = 1$ in 3D, then any $\widehat{\mathbf{p}} = (a, b, c)$ is the **homogeneous coordinate** of $\mathbf{p}$ if $(a/c, b/c) = (x, y)$. 
 
@@ -54,7 +54,7 @@ Homogeneous coordinate won't impact linear transformations such as scaling and r
  We can consider a vector an infinitely far-away point.
 
 ## Perspective Projection in Homogeneous Coordinate
-See: [[./perspective projection|perspective]]
+See: [[perspective projection|perspective]]
   - pinhole camera (divide by z)
   - we can build a matrix that copy the z-coordinate into the homogeneous coordinate
 $$

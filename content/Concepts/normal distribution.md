@@ -23,8 +23,8 @@ $$
 $$
 See [[./unpack the normal distribution|unpack the normal distribution]] for an intuition of the above equation.
 
-Statistically, [[68-95-99.7 rule|68%, 95%, and 99.7%]] of the values from a normal distribution lie within one, two, and three standard deviations of the mean:
-![[../normal_dist_68_rule.jpg|300]]
+Statistically, [[./68-95-99.7 rule|68%, 95%, and 99.7%]] of the values from a normal distribution lie within one, two, and three standard deviations of the mean:
+![[../assets/normal_dist_68_rule.jpg|300]]
 
 Normal distribution can be used to approximate [[./binomial distribution|binomial distribution]] (see [[./central limit theorem|central limit theorem]]).
 

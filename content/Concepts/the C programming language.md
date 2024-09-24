@@ -2,10 +2,10 @@
 created: 2024-01-07
 modified: 2024-03-14
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
-  - computer/c
+  - computing/c
   - MOC
 ---
 

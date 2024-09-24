@@ -4,8 +4,8 @@ modified: 2024-03-14
 parent: "[[vulkan]]"
 publish: true
 tags:
-  - "#computer/graphics/Vulkan"
-  - computer/graphics/bindless
+  - "#computing/graphics/Vulkan"
+  - computing/graphics/bindless
 ---
 
 # Vulkan Descriptor Indexing

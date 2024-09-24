@@ -3,7 +3,7 @@ created: 2024-02-22
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/PL/idea
+  - computing/PL/idea
   - "#wisdom"
 ---
 

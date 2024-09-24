@@ -1,11 +1,11 @@
 ---
 aliases:
-  - "#computer/PL/experimental_languages"
+  - "#computing/PL/experimental_languages"
 created: 2024-03-02
 modified: 2024-09-16
 publish: true
 tags:
-  - computer/PL/experimental_languages
+  - computing/PL/experimental_languages
 ---
 # Experimental Programming Languages
 

@@ -3,9 +3,9 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/cpp
-  - computer/python
-  - computer/puzzle
+  - computing/cpp
+  - computing/python
+  - computing/puzzle
 ---
 Here is a list of implementation of strictly/[[monotonic sequence|monotonic]] increasing/decresing checkers in different languages.
 All the implementation checks for strictly increasing, but they can be easily adapted.

@@ -5,7 +5,7 @@ parent:
   - "[[computer graphics MOC|computer graphics MOC]]"
 publish: true
 tags:
-  - computer/graphics
+  - computing/graphics
 ---
 
 We can use [[./octahedron encoding|octahedron encoding]] to compress normal

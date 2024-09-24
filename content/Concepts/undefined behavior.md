@@ -1,15 +1,15 @@
 ---
 aliases:
   - UB
-  - "#computer/UndefinedBehavior"
+  - "#computing/UndefinedBehavior"
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/UndefinedBehavior
-  - "#computer/c"
-  - computer/cpp
-  - computer/PL
+  - computing/UndefinedBehavior
+  - "#computing/c"
+  - computing/cpp
+  - computing/PL
 ---
 
 # Undefined Behavior

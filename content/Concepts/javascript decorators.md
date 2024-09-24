@@ -96,4 +96,4 @@ Example: [[./mimic bound method in JavaScript|mimic bound method in JavaScript]]
 - [Announcing TypeScript 5.0 - TypeScript](https://devblogs.microsoft.com/typescript/announcing-typescript-5-0/#decorators)
 ---
 parent: [[./JavaScript|JavaScript]], [[./TypeScript|TypeScript]]
-tags: #computer/typescript #computer/javascript
+tags: #computing/typescript #computing/javascript

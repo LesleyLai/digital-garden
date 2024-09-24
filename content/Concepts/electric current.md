@@ -15,7 +15,7 @@ tags:
 An **electric current** is a flow of charged particles.
 
 It is defined as the amount of charge passing through a specific point or boundary per unit of time. This can be represented mathematically as s $i = \frac{dq}{dt}$ where $q$ denotes [[electric charge|charge]].
-![[../current.svg|current.svg]]
+![[../assets/current.svg|current.svg]]
 
 The SI unit of current is Ampere ($A$). The unit of [[electric charge|charge]], coulomb, is derived from Ampere, with the following relationship:
 $$

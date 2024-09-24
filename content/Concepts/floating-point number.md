@@ -1,13 +1,13 @@
 ---
 aliases:
   - floating-point numbers
-  - "#computer/FloatingPointNumber"
+  - "#computing/FloatingPointNumber"
 created: 2023-02-01
 modified: 2024-04-07
 publish: true
 tags:
-  - computer/system/DataRepresentaiton
-  - computer/FloatingPointNumber
+  - computing/system/DataRepresentaiton
+  - computing/FloatingPointNumber
 ---
 
 **Floating-point numbers** are often described as "[[./real number|real numbers]]," but in reality [[floating-point number is a subset of rational number|they are subsets of rational numbers]].
@@ -30,7 +30,7 @@ In memory, an IEEE floating point number consists one _sign_ bit, $w$ _exponent_
 
 We can use bit operations to [[./bit operations cheat sheet|isolate sign bit, exponent bits, or mantissa bits]].
 
-![[../ieee-format.png|ieee-format.png]]
+![[../assets/ieee-format.png|ieee-format.png]]
 
 ## See also
 - [[subnormal numbers|subnormal numbers]]

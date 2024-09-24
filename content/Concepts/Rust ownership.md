@@ -5,7 +5,7 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - computer/rust/lifetime
+  - computing/rust/lifetime
 ---
 
 # Ownership in Rust

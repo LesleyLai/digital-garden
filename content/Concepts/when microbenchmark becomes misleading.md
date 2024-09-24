@@ -5,7 +5,7 @@ parent:
   - "[[benchmarking|benchmarking]]"
 publish: true
 tags:
-  - "#computer/performance/benchmark"
+  - "#computing/performance/benchmark"
 ---
 # How benchmark can go wrong
 ## the computation got optimized out

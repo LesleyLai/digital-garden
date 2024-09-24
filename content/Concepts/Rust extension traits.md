@@ -7,7 +7,7 @@ parent:
   - "[[Rust Traits|Rust Traits]]"
 publish: true
 tags:
-  - computer/Rust/traits
+  - computing/Rust/traits
 ---
 
 # Extension Trait in Rust

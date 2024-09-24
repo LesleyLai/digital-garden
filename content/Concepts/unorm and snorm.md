@@ -8,8 +8,8 @@ parent:
   - "[[./fixed-point number|fixed point]]"
 publish: true
 tags:
-  - computer/system/DataRepresentaiton
-  - "#computer/gpu"
+  - computing/system/DataRepresentaiton
+  - "#computing/gpu"
 ---
 
 # `unorm` And `snorm` Data Representation

@@ -5,8 +5,8 @@ parent:
   - "[[C++|C++]]"
 publish: true
 tags:
-  - computer/concurrency
-  - computer/cpp/concurrency
+  - computing/concurrency
+  - computing/cpp/concurrency
 ---
 
 # C++ Memory Model

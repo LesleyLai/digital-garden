@@ -3,7 +3,7 @@ created: 2024-01-28
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/concurrency/lockfree
+  - computing/concurrency/lockfree
   - "#stub"
 ---
 # Hazard Pointer

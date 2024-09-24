@@ -2,11 +2,11 @@
 created: 2024-01-19
 modified: 2024-03-14
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 publish: true
 tags:
   - "#MOC"
-  - "#computer/compiler"
+  - "#computing/compiler"
 ---
 # Compiler MOC
 - [[./parsing|parser]]

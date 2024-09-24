@@ -5,7 +5,7 @@ parent:
   - "[[C++|C++]]"
 publish: true
 tags:
-  - computer/cpp/stl
+  - computing/cpp/stl
 ---
 
 # STL Algorithms

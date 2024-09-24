@@ -3,7 +3,7 @@ parent:
   - "[[cargo plugins|cargo plugins]]"
 publish: true
 tags:
-  - computer/Rust/Cargo
+  - computing/Rust/Cargo
 created: 2024-03-29
 modified: 2024-03-29
 ---

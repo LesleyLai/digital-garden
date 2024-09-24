@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/graphics/RayTracing #computer/graphics/AntiAliasing/TAA 
+#computing/graphics/RayTracing #computing/graphics/AntiAliasing/TAA 
 Using the color of pixel (x, y), search the neighborhood for a similar color (Problem: requires color of pixel (x, y), which (for path tracing) is noisy in the current and the previous frames)
 
 Alternative, using additional data: using the world space position of the primary intersection point, search the neighborhood for the same position

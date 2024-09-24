@@ -13,7 +13,7 @@ tags:
 # Vector Reflection
 If we have a unit vector $\mathbf{a}$ and a vector $\mathbf{v}$, we can reflect the vector $\mathbf{v}$ by a plane perpendicular to $\mathbf{a}$.
 
-![[../vector reflection.png|vector reflection.png]]
+![[../assets/vector reflection.png|vector reflection.png]]
 
 This can be done by decomposing $\mathbf{v}$ into the perpendicular component $\mathbf{v}_\perp = (\mathbf{v} \cdot \mathbf{a}) \mathbf{a}$ and the parallel component $\mathbf{v}_\parallel = \mathbf{v} - \mathbf{v}_\perp = \mathbf{v} - (\mathbf{v} \cdot \mathbf{a})\mathbf{a}$.
 

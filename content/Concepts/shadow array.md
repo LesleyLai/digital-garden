@@ -5,7 +5,7 @@ parent:
   - "[[dynamic array|dynamic array]]"
 publish: true
 tags:
-  - computer/AlgorithmsAndDataStructures/DynamicArray
+  - computing/AlgorithmsAndDataStructures/DynamicArray
 ---
 
 # Shadow Array

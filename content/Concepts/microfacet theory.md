@@ -7,7 +7,7 @@ parent:
   - "[[BRDF|BRDF]]"
 publish: true
 tags:
-  - "#computer/graphics/pbr/microfacet"
+  - "#computing/graphics/pbr/microfacet"
 ---
 
 **Microfacet theory** is based on the idea that rough surfaces can be represented as a collection of [[./microgeometry|microfacets]], which are tiny, flat, and ideally smooth surfaces. These microfacets are statistically distributed, and their aggregate behavior determines the macroscopic surface's reflective properties.

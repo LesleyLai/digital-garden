@@ -7,7 +7,7 @@ parent:
 publish: true
 tags:
   - opinion
-  - computer/PL/syntax
+  - computing/PL/syntax
 ---
 
 # On "Viral Annotations"

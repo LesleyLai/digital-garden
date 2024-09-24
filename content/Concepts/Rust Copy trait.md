@@ -6,4 +6,4 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computer/rust/lifetime #computer/Rust/generic #stub
+#computing/rust/lifetime #computing/Rust/generic #stub

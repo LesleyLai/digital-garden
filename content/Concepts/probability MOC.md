@@ -2,7 +2,7 @@
 aliases:
   - "#math/probability"
 created: 2023-05-30
-modified: 2024-09-23
+modified: 2024-09-24
 parent:
   - "[[math|math]]"
 publish: true
@@ -44,12 +44,15 @@ see: [[./conditional probability|conditional probability]]
 
 ## Distributions
 ### Discrete
+- [[uniform distribution|Uniform]] (Discrete)
 - [[./binomial distribution|Binomial]]
+  - [[multinomial distribution|Multinomial]]
 - [[./Poisson distribution|Poisson]]
 - [[geometric distribution|Geometric]]
 ### Continuous
-- [[./uniform distribution|Uniform]]
-- [[./normal distribution|Gaussian]]
+- [[uniform distribution|Uniform]] (Continuous)
+- [[./normal distribution|Normal]] (also called Gaussian)
+  - [[log-normal distribution|Log-normal]]
 - [[./exponential random variable|Exponential]]
 
 ## Parameter Estimation

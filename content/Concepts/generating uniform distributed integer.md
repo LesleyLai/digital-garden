@@ -3,7 +3,7 @@ created: 2024-01-22
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/AlgorithmsAndDataStructures/PRNG
+  - computing/AlgorithmsAndDataStructures/PRNG
 ---
 
 # Generating Uniform Distributed Integer

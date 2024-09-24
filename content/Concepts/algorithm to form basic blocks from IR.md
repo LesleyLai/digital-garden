@@ -5,7 +5,7 @@ parent:
   - "[[control flow graph|control flow graph]]"
 publish: true
 tags:
-  - "#computer/compiler/optimizations"
+  - "#computing/compiler/optimizations"
 ---
 See: [[./basic blocks|basic blocks]]
 

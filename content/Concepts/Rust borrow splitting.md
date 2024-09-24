@@ -7,7 +7,7 @@ parent:
   - "[[Rust|Rust]]"
 publish: true
 tags:
-  - computer/Rust
+  - computing/Rust
 ---
 
 # Borrow Splitting

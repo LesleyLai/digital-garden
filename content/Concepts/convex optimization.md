@@ -13,7 +13,7 @@ Convex problems are a special class of [[./mathematical optimization|optimizatio
 
 A problem is _convex_ if it has a [[convex domain|convex domain]] and [[convex objective|convex objective]]
 
-![[../2022-10-30_11-04-39_convex_criteria.png|600]]
+![[../assets/2022-10-30_11-04-39_convex_criteria.png|600]]
 
 Convex problems has the following nice properties:
 - can make guarantees about solution (always the best)

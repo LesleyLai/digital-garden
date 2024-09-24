@@ -5,8 +5,8 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - computer/PL/idea
-  - computer/PL/semantics
+  - computing/PL/idea
+  - computing/PL/semantics
 ---
 
 **Value-oriented programming** is a [[programming paradigms|programming paradigms]] where first-class references are disallowed. The language still use references in implementation, but it is not exposed to programmers. Unlike pure [[functional programming|functional programming]], value-oriented programming allow mutation.

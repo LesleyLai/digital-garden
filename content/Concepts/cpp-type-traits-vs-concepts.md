@@ -13,4 +13,4 @@ Even though [[C++ Type Traits|type traits]] and [[./cpp-concepts|concepts]] shar
 Using concepts as another way to write traits, but that is not what they're supposed to be used for.
 
 ---
-tags: #computer/cpp/generic #computer/cpp/concepts #computer/cpp/20
+tags: #computing/cpp/generic #computing/cpp/concepts #computing/cpp/20

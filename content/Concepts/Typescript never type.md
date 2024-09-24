@@ -32,4 +32,4 @@ publish: true
 - [[noreturn attribute|noreturn attribute]]
 
 ---
-tags: #computer/typescript
+tags: #computing/typescript

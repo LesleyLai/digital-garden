@@ -10,7 +10,7 @@ parent:
   - "[[the C programming language|the C programming language]]"
 publish: true
 tags:
-  - computer/cpp/BestPractice
+  - computing/cpp/BestPractice
 ---
 `NULL` is an [[implementation-defined|implementation-defined]] macro that are consider problematic practice in C++.
 

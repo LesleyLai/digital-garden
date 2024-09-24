@@ -78,4 +78,4 @@ class Person {
 
 ---
 parent: [[./JavaScript bind()|bind]]
-tags: #computer/javascript
+tags: #computing/javascript

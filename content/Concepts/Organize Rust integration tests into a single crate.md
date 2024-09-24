@@ -5,8 +5,8 @@ parent:
   - "[[Testing in Rust|Testing in Rust]]"
 publish: true
 tags:
-  - computer/Rust/Testing
-  - computer/Rust/Cargo
+  - computing/Rust/Testing
+  - computing/Rust/Cargo
 ---
 
 # Organize Rust Integration Tests into a Single Crate

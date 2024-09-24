@@ -6,8 +6,8 @@ parent:
   - "[[approval testing|approval testing]]"
 publish: true
 tags:
-  - computer/Rust/Testing
-  - computer/testing/approval
+  - computing/Rust/Testing
+  - computing/testing/approval
 ---
 
 [insta](https://crates.io/crates/insta) is the most popular crate for snapshot testing in Rust.

@@ -5,7 +5,7 @@ parent:
   - "[[Rust IO|Rust IO]]"
 publish: true
 tags:
-  - computer/Rust/io
+  - computing/Rust/io
 ---
 
 Rust I/O operations are not buffered, and [BufReader](https://doc.rust-lang.org/std/io/struct.BufReader.html) add buffering to any [[Rust Read|readers]].

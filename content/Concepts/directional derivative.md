@@ -15,7 +15,7 @@ $$
 D_{\mathbf{u}}f(\mathbf{x}_{0}) = lim_{\epsilon \rightarrow 0} \frac{f(\mathbf{x}_{0} + \epsilon \mathbf{u}) - f(\mathbf{x}_{0})}{\epsilon}
 $$
 
-![[../directional_derivative.png|400]]
+![[../assets/directional_derivative.png|400]]
 
 It can be seen as a generalization of [[partial derivative|partial derivative]].
 

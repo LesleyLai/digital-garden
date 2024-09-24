@@ -26,9 +26,9 @@ $$
 | $\nabla \times \textcolor{green}{\mathbf{E}} = \frac{\partial \textcolor{yellow}{\mathbf{B}}}{\partial t}$                                                  | Faraday's Law                                                                  | 
 | $\nabla \times \textcolor{yellow}{\mathbf{B}} = \mu_{0}\left(\mathbf{J} + \varepsilon_{0}\frac{\partial \textcolor{green}{\mathbf{E}}}{\partial t} \right)$ |      Ampère's law with Maxwell's addition                                                                          |
 (1)
-![[../gauss law.jpg|400]]
+![[../assets/gauss law.jpg|400]]
 (2)
-![[../Gauss's law for magnetism.jpg|Gauss's law for magnetism.jpg]]
+![[../assets/Gauss's law for magnetism.jpg|Gauss's law for magnetism.jpg]]
 
 ---
 tags: #physics/electromagnetism

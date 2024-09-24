@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "#computer/cuda/memory"
+  - "#computing/cuda/memory"
 created: 2020-12-25
 modified: 2024-04-08
 parent:
   - "[[CUDA|CUDA]]"
 publish: true
 tags:
-  - computer/cuda/memory
+  - computing/cuda/memory
 ---
 
 # CUDA Memory and Cache

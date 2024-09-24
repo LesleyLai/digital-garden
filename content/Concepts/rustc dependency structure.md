@@ -13,4 +13,4 @@ publish: true
 
 ---
 parent: [[./rustc architecture|rustc architecture]]
-tags: #computer/compiler #computer/Rust/rustc
+tags: #computing/compiler #computing/Rust/rustc

@@ -5,7 +5,7 @@ parent:
   - "[[./C preprocessor|C preprocessor]]"
 publish: true
 tags:
-  - computer/c
+  - computing/c
 ---
 
 # Type-generic Macro

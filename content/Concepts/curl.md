@@ -12,11 +12,11 @@ Intuitively, the curl measures how much is a [[./vector field|vector field]] rot
 
 > [!example]+ Demonstrations
 > 
-> ![[../curl.jpg|600]]
+> ![[../assets/curl.jpg|600]]
 > 
 > The following situation also has a non-zero curl:
 > 
-> ![[../curl2.jpg|curl2.jpg]]
+> ![[../assets/curl2.jpg|curl2.jpg]]
 
 Curl is commonly written as [[./cross product|cross product]] $\nabla \times X$, where $\nabla$ is the [[./Del operator|Del operator]] ($\nabla=\left(\frac{\partial}{\partial u_{1}}, \frac{\partial}{\partial u_{2}}, \frac{\partial}{\partial u_{3}}\right)$) and $X$ as vector of three functions: $X(\mathbf{u})=\left(X_{1}(\mathbf{u}), X_{2}(\mathbf{u}), X_{3}(\mathbf{u})\right)$.
 

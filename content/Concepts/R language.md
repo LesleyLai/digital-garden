@@ -1,20 +1,22 @@
 ---
 parent:
-  - "[[computer|computer]]"
+  - "[[computing|computing]]"
 tags:
-  - "#computer/R"
+  - "#computing/R"
   - "#MOC"
 created: 2024-09-16
 modified: 2024-09-20
 publish: true
 aliases:
-  - "#computer/R"
+  - "#computing/R"
   - R
 ---
 # R Language
 - [[./R function|R Function]]
-- [[./R vectors|R Vectors]]
-- [[R functions cheat sheat|R Functions Cheat Sheet]]
+- [[./R functions cheat sheat|R Functions Cheat Sheet]]
+- Data Structures
+  - [[./R vectors|R Vectors]]
+  - [[./R data frames|R data frames]]
 - [[./probability distributions in R|probability distributions in R]]
 
 ## Packages

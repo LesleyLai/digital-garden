@@ -5,7 +5,7 @@ parent:
   - "[[computer graphics MOC|computer graphics MOC]]"
 publish: true
 tags:
-  - computer/graphics/pbr
+  - computing/graphics/pbr
 ---
 # Real-time PBR Rendering
 - [[./Geometrical optics|Geometrical optics]]

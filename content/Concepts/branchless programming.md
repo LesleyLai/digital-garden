@@ -4,7 +4,7 @@ modified: 2024-03-14
 parent: "[[performance MOC]]"
 publish: true
 tags:
-  - computer/performance/branchless
+  - computing/performance/branchless
 ---
 Branches that can't be effectively [[branch prediction|predicted]] by CPU are costly because they can cause long [[./pipeline hazard|pipeline stall]].
 

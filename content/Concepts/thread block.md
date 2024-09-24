@@ -4,7 +4,7 @@ modified: 2024-09-19
 parent:
   - "[[CUDA Thread Hierarchy|CUDA Thread Hierarchy]]"
 tags:
-  - computer/cuda
+  - computing/cuda
 publish: true
 aliases:
   - workgroup

@@ -7,7 +7,7 @@ parent:
   - "[[CUDA|CUDA]]"
 publish: true
 tags:
-  - computer/cuda
+  - computing/cuda
 ---
 
 CUDA allows threads in the same [[./thread block|block]] to coordinate their activities

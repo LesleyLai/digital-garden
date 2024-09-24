@@ -8,7 +8,7 @@ parent:
   - "[[concurrency|parallelism]]"
 publish: true
 tags:
-  - computer/parallelism
+  - computing/parallelism
 ---
 **Data parallelism**: independent evaluation of different
 pieces of data

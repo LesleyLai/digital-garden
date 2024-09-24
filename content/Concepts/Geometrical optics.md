@@ -26,4 +26,4 @@ Geometric optics cannot model such certain [[optical phenomena|optical phenomena
 ## Related
 - [[./ray tracing|ray tracing]]
 - [[optical phenomena|optical phenomena]]
-- [[../different models of optics.canvas|different models of optics]]
+- [[../assets/different models of optics.canvas|different models of optics]]
