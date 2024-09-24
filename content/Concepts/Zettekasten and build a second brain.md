@@ -14,7 +14,7 @@ While both Zettelkasten and Build a Second Brain (BASE) are note-taking methodol
 
 Where BASE ends, Zettelkasten begins. The [[./progressive summarization|progressive summarization]] technique of BASE never leave the source material. By contrast, Zettelkasten [[./concept notes|concept notes]] are always distinct from source materials.
 
-Another distinction is that Zettelkasten requires a significant initial effort to create concept notes but entails no ongoing maintenance. It's fine to leave your Zettelkasten untouched for months and return to it later. In contrast, [[./PARA framework|PARA]] demands lower initial effort and entails (relatively low) regular maintenance. However, [[design a system for the laziest version of yourself|both methods continue to function effectively even when we are at a low point]] due to their low maintenance requirements.
+Another distinction is that Zettelkasten requires a significant initial effort to create concept notes but entails no ongoing maintenance. It's fine to leave your Zettelkasten untouched for months and return to it later. In contrast, [[./PARA framework|PARA]] demands lower initial effort and entails (relatively low) regular maintenance. However, [[./design a system for the laziest version of yourself|both methods continue to function effectively even when we are at a low point]] due to their low maintenance requirements.
 
 ## References
 - [[PARA vs Zettelkasten The False Binary|PARA vs Zettelkasten The False Binary]]
