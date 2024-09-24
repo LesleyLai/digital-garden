@@ -8,7 +8,7 @@ tags:
   - computing/SQL
 ---
 
-**SQL** stands for **Standard Query Language** for relational databases. It is based on formal query languages such as [[relational algebra|relational algebra]] and [[tuple calculus|tuple calculus]].
+**SQL** stands for **Standard Query Language** for relational databases. It is based on formal query languages such as [[./relational algebra|relational algebra]] and [[tuple calculus|tuple calculus]].
 
 SQL was originally developed in the 1970s as part of the IBM System R project. IBM originally called it "SEQUEL" (Structured English Query Language). The
 name changed in the 1980s to just "SQL".
@@ -28,7 +28,7 @@ Some details:
     - `'working'` is valid, while `"bad"` is not.
 
 ## SQL and Relational Algebra
-SQL is based on [[relational algebra|relational algebra]], but there are some notable differences. One of the big differences is that relational algebra is based on sets (no duplicate), where SQL is based on bags (duplicates allowed).
+SQL is based on [[./relational algebra|relational algebra]], but there are some notable differences. One of the big differences is that relational algebra is based on sets (no duplicate), where SQL is based on bags (duplicates allowed).
 
 Another difference is the choice of terminology. Notably, the select operator ($\sigma$) in relational algebra corresponds to the `where` clause in SQL, while the project operator ($\pi$) corresponds to the `select` clause in SQL.
 
