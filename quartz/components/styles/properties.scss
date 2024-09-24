@@ -1,0 +1,23 @@
+div.properties {
+  border: 1px solid var(--border);
+  background-color: var(--bg);
+  border-radius: 5px;
+  padding: 0 1rem;
+  overflow-y: hidden;
+  transition: max-height 0.3s ease;
+  box-sizing: border-box;
+
+  & > ul {
+    list-style: none;
+    padding-left: 0;
+  }
+
+  &>*:nth-child(2) {
+    margin-top: 0;
+  }
+
+  --color: #00b0ff;
+  --border: #00b0ff44;
+  --bg: #00b0ff10;
+  --callout-icon: var(--callout-icon-abstract);
+}
