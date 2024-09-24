@@ -1,12 +1,15 @@
 ---
 created: 2023-05-30
-modified: 2024-09-16
+modified: 2024-09-25
 publish: true
 tags:
   - math
   - MOC
+aliases:
+  - mathematics
+title: Mathematics
 ---
-# Mathematics
+## Meta
 - [[./learning math|learning math]]
 
 ## Fields of Mathematics
