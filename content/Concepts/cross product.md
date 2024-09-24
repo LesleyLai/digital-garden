@@ -24,7 +24,7 @@ In 3D, a *cross product* takes two vectors and returns a vector. Geometrically, 
 6. $k(\mathbf{u} \times \mathbf{v}) = (k\mathbf{u}) \times \mathbf{v} = \mathbf{u} \times (k\mathbf{v})$ ([[associativity|associativity]])
 
 ## Cross Product, Determinant, and Angle
-We can have a precise definition of the cross product without the right hand rule by using [[determinant|determinant]]:
+We can have a precise definition of the cross product without the right hand rule by using [[./determinant|determinant]]:
 $$
 \sqrt{\det{(\mathbf{u}, \mathbf{v}, \mathbf{u} \times \mathbf{v})}} = |\mathbf{u}| |\mathbf{v}| \sin(\theta)
 $$
@@ -40,6 +40,6 @@ cross product with a unit vector $\mathbf{N}$ is equivalent to quarter-rotation 
 This insight is important for [[Rodrigues' rotation formula|axis-angle rotation]], as we can using $\mathbf{u}$ and $\mathbf{n} \times \mathbf{u}$ as basis vectors and use trig to find arbitrary rotation of $\mathbf{u}$ around $\mathbf{n}$.
 ## See Also
 - [[./scalar triple product|scalar triple product]]
-- [[exterior product|wedge product]]
+- [[./exterior product|wedge product]]
 ## Reference
 - [Chapter 4: The Vector Product (Immersive Linear Algebra)](http://immersivemath.com/ila/ch04_vectorproduct/ch04.html)
