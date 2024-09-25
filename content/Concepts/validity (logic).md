@@ -7,10 +7,8 @@ publish: true
 tags:
   - logic
   - math/logic
+title: Validity
 ---
-
-# Validity
-
 In [[./deductive reasoning|deductive reasoning]] and [[./propositional logic|propositional logic]], an [[./argument|argument]] is **valid** [[./logical equivalence|if and only if]] the truth of [[premise|premises]] [[./entailment|entails]] the truth of conclusion. [^1]
 
 ## Relationship with NTP
