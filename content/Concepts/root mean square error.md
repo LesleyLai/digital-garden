@@ -4,7 +4,7 @@ parent:
 tags:
   - statisticsAndDataScience
 created: 2024-08-28
-modified: 2024-09-17
+modified: 2024-09-25
 aliases:
   - RMS Error
 publish: true
@@ -15,6 +15,9 @@ $$
 \text{RMS}_{\text{error}} = \sqrt{ \frac{\sum_{i=1}^n e_i^2}{n} }
 $$
 where $e_i$ are the [[residual (statistics)|residuals]] (difference between the observed value and the estimated value) for each data point.
+
+> [!hint] 
+> Similar to [[./variance|variance]], RMS error use the mean of the squared residuals. Using just the mean of the residuals in linear regression would always result in zero.
 
 > [!example]+ Given data of size 2, where the 2 values have residuals of 9 and 6, what is the population RMS error?
 >$$
