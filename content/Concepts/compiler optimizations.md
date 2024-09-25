@@ -7,7 +7,6 @@ publish: true
 tags:
   - "#computing/compiler/optimizations"
 ---
-# Compiler Optimizations
 ## Categories
 - *Local optimization* works on a single [[./basic blocks|basic blocks]], and does not deal with [[./control flow graph|control flow]]
 - *Global optimization* works with a single function, and deal with control flow
