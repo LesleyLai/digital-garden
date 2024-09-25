@@ -8,8 +8,6 @@ tags:
   - logic/propositional
   - math/logic
 ---
-# Logical Argument
-
 A **logical argument** is a sequence of propositions, with the last being the conclusion and the others being premises. [^1]
 
 It can be written as the following:
