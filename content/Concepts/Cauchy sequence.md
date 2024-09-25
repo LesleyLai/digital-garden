@@ -2,6 +2,11 @@
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - "#math/analysis"
+  - "#math/sequences_and_series"
+parent:
+  - "[[real analysis|real analysis]]"
 ---
 # Cauchy Sequence
 
@@ -19,7 +24,3 @@ A metric space where all Cauchy sequences converges is called a [[./complete met
 
 ## Relationship with Subsequence and Convergent
 Let  $(x^{(n)})^\infty_{n=m}$ be a Cauchy sequence. Suppose that there is some [[./subsequence|subsequence]]  $(x^{(n_j)})^\infty_{j=1}$ of this sequence which converges to a limit $x_0$, then the original sequence $(x^{(n)})^\infty_{n=m}$ also converges to $x_0$.
-
----
-parent: [[./real analysis|real analysis]]
-tags: #math/analysis  #math/sequences_and_series

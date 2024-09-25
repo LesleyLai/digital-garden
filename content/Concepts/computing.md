@@ -1,13 +1,13 @@
 ---
 created: 2023-05-30
-modified: 2024-09-16
+modified: 2024-09-25
 parent:
   - "[[note index|note index]]"
 publish: true
 tags:
   - computing
+title: Computing MOC
 ---
-# Computer MOC
 ## Fields
 - [[./algorithms|Algorithms and Data Structures]]
 - [[./concurrency|Concurrency]]

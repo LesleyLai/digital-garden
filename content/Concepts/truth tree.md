@@ -11,7 +11,6 @@ publish: true
 tags:
   - logic
 ---
-
 In Logic, a **truth tree**, also called an **semantic tableau**, (/tæˈbloʊ, ˈtæbloʊ/; plural: tableaux), an **analytic tableau**, is a method of testing for various properties of a set of [[premise|premises]] or an [[./argument|argument]].
 
 Compare to a [[truth table|truth table]], a truth tree can often to be faster to work with. An argument with $n$ basic premises need $2^n$ rows in a truth table, so it quickly gets unpractical. Also, it is possible to extend truth tree to [[predicate logic|predicate logic]] while truth table is limited to [[./propositional logic|propositional logic]].
@@ -64,7 +63,7 @@ The formula $\alpha$ is [[./logical equivalence|equivalent]] to $\beta$ iff $(\a
 
 ## In Predicate Logic
 
-In [[predicate logic|predicate logic]], we use trees similarly to how we do in propositional logic — for testing [[satisfiability|satisfiability]]. In predicate logic, a tree tell us whether there is a [[model (predicate logic)|model]] that satisfies the formulas at the top of the tree exists. We read off such as model from an open path. If no such models exist, then all paths of the tree will be closed.
+In [[predicate logic|predicate logic]], we use trees similarly to how we do in propositional logic — for testing [[satisfiability|satisfiable]]. In predicate logic, a tree tell us whether there is a [[model (logic)|model]] that satisfies the formulas at the top of the tree exists. We read off such as model from an open path. If no such models exist, then all paths of the tree will be closed.
 
 ### Tree Rules
 
@@ -125,7 +124,7 @@ When applying tree rules, it is desirable to follow the following order:
 This heuristics usually result in a shorter tree proof.
 
 ## Reference
-- Smith, Nicholas J.J.. _Logic : The Laws of Truth_, Princeton University Press, 2012. Chapter 7, Chapter 10
+- Smith, Nicholas J.J.. _Logic : The Laws of Truth_, Princeton University Press, 2012. Chapter 7 and Chapter 10
 
 ## See Also
 - [Tree Proof Generator](https://www.umsu.de/trees/) - An online program to construct tree proofs

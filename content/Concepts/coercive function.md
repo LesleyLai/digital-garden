@@ -6,5 +6,4 @@ tags:
   - "#math/functions"
   - "#stub"
 ---
-
 A **coercive function** is a function that "grows rapidly" at the extremes of the space on which it is defined.

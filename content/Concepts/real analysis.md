@@ -9,9 +9,8 @@ publish: true
 tags:
   - math/analysis
   - MOC
+title: Real Analysis
 ---
-
-# Real Analysis
 ## Natural Numbers
 main article: [[natural numbers|natural numbers]]
 - [[Peano axioms|Peano axioms]]

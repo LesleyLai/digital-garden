@@ -1,14 +1,14 @@
 ---
 created: 2024-09-16
-modified: 2024-09-24
+modified: 2024-09-25
 publish: true
 title: Home
 ---
-Hi there! I’m Lesley Lai, and this is my little corner of the web where I share my notes that I accumulated since 2023, mostly focused on math and programming. I also post a few informal articles sharing my personal opinions here.
+Hi there! I’m Lesley Lai, and this is my [[./Concepts/digital gardens|little corner of the web]] where I share my notes that I accumulated since 2023, mostly focused on math and programming. I also post a few informal articles sharing my personal opinions here.
 
 Most of the notes and articles here are incomplete and unpolished, reflecting my limited understanding. I usually don’t proofread them, and if you come across any errors, feel free to leave a comment on that page.
 
-I keep a [[./Concepts/Quartz customization log|customization log]] for this site.
+If you are interested in the features and styles of this site, I keep a [[./Concepts/Quartz customization log|customization log]] for this site.
 
 ## How to Navigate This Site?
 I primarily follow a note-taking method inspired by the [[./Concepts/Zettelkasten|Zettelkasten]] system, and as a result the site uses a mostly flat folder structure. To navigate this site, you'll mainly rely on links and backlinks. However, I do try to incorporate some hierarchy back by using a `parent:` property in Obsidian and create [[./Concepts/map of concepts|map of concepts]] pages to organize related ideas.

@@ -55,6 +55,7 @@ title: Calculus MOC
   - [[./Lagrange multiplier|Lagrange multiplier]]
 
 ## See also
+- [[./special functions|special functions]]
 - [[./real analysis|real analysis]]
 - [[complex analysis|complex analysis]]
 ## References

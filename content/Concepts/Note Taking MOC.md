@@ -32,3 +32,4 @@ tags:
 ## Others
 - [[./different format of notes|different format of notes]]
 - [[./highlighting in note taking|highlighting in note taking]]
+- [[./digital gardens|digital gardens]]

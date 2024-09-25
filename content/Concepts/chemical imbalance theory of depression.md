@@ -10,9 +10,6 @@ publish: true
 tags:
   - mental_health/depression/SerotoninTheory
 ---
-
-# Chemical Imbalance Theory of Depression
-
 **"Chemical imbalance"** is a long discarded hypothesis [^1] that low [[./serotonin|serotonin]]-level causes depression. Modern researches found that depression is not generally linked with serotonin deficiency [^review].
 
 This idea was heavily pushed by drug companies to sell [[serotonin-selective reuptake inhibitor|serotonin-selective reuptake inhibitor]] (SSRI) compounds [^1].

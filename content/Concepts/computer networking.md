@@ -9,8 +9,6 @@ publish: true
 tags:
   - computing/networking
 ---
-
-# Computer Networking
 - [[./communication protocol|communication protocol]]
 - [[./network topology|network topology]]
 

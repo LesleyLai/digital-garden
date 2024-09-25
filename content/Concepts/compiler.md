@@ -12,5 +12,5 @@ tags:
 - [[./parsing|parser]]
 - [[./compiler optimizations|compiler optimizations]]
 
-## Miscs.
+## Case Studies
 - [[./rustc architecture|rustc architecture]]

@@ -5,8 +5,6 @@ publish: true
 tags:
   - music_theory/circle_of_fifths
 ---
-
-# Circle of Fifths
 **circle of fifths** connects all 12 [[musical tone|tones]]. In the circle, each note is separated by intervals of [[perfect fifth|perfect 5ths]].
 
 ![[../assets/Circle_of_fifths_deluxe_4.svg|500]]

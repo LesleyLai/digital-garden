@@ -9,7 +9,6 @@ publish: true
 tags:
   - logic/propositional
 ---
-
 **Biconditional**, also called **material equivalence**, is a logical connective that means "$P$ if and only if $Q$".
 
 > [!info] Not to be confused with [[./equivalence relation|equivalence relation]] and [[./logical equivalence|logical equivalence]]

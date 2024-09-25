@@ -8,8 +8,6 @@ tags:
   - math/analysis
   - math/topology
 ---
-
-# Compact Metric Space
 There are multiple definition on whether a [[./metric space|metric space]] is compact.
 
 ## Sequentially Compact

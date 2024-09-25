@@ -6,7 +6,6 @@ tags:
   - computing/concurrency/lockfree
   - "#stub"
 ---
-# Hazard Pointer
 **Hazard pointer** solves problem in a [[lock-free programming|lock-free]] data structures.
 
 ## Related
