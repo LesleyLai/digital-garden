@@ -9,9 +9,6 @@ publish: true
 tags:
   - "#math/algebra"
 ---
-
-# Completing the Square
-
 **Completing the square** is a technique to convert a [[quadratic function|quadratic function]] from the form of $ax^2 + bx + c$ into $a(x - h)^2 + k$.
 
 > [!example]-
