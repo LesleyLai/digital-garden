@@ -1,11 +1,13 @@
 ---
 tags:
-  - "#learning/NoteTaking/softwares"
+  - learning/NoteTaking/softwares
   - opinion/softwareReview
 aliases:
   - 思源
 link: https://b3log.org/siyuan/
 publish: true
+created: 2024-04-01
+modified: 2024-04-01
 ---
 # SiYuan
 
