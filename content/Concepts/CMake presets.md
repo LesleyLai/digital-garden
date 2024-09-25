@@ -7,9 +7,6 @@ publish: true
 tags:
   - computing/cpp/cmake
 ---
-
-# CMake Presets
-
 **CMake Presets** are json files to store build configurations for CMake. IDEs such as [[VS Code|VS Code]] or CLion can utilize those file.
 
 There are two files:
