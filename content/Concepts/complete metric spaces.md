@@ -2,10 +2,9 @@
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
----
-
-#math/topology #math/analysis 
-
+tags:
+  - math/topology
+  - math/analysis
 ---
 In some [[./metric space|metric space]], not every [[./Cauchy sequence|Cauchy sequence]] have a limit (e.g. $(\mathbb{Q}, d)$).
 
