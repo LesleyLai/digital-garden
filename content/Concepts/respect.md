@@ -1,8 +1,10 @@
 ---
 tags:
-  - "#wisdom"
-  - "#quote"
+  - wisdom
+  - quote
 publish: true
+created: 2024-03-31
+modified: 2024-03-31
 ---
 > [!quote]
 > "Sometimes people use “respect” to mean “treating someone like a person” and sometimes they use “respect” to mean “treating someone like an authority”

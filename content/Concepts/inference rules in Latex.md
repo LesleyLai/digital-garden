@@ -2,10 +2,12 @@
 parent:
   - "[[latex|latex]]"
 tags:
-  - "#tools/latex"
+  - tools/latex
 aliases:
   - logical argument in latex
 publish: true
+created: 2024-04-18
+modified: 2024-04-18
 ---
 There are multiple ways to write [[./argument|logical argument]] or [[inference rules|inference rules]] in Latex, but [bussproofs](https://ctan.org/pkg/bussproofs) is a great package that also works with [[MathJax|MathJax]].
 
