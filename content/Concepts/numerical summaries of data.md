@@ -1,15 +1,15 @@
 ---
 created: 2024-08-28
-modified: 2024-09-17
+modified: 2024-09-25
 parent:
   - "[[statistics|statistics]]"
 publish: true
 tags:
   - statisticsAndDataScience
-aliases:
-  - statistic
 ---
-A numerical summary reduces all the data to simple numbers ("**statistic**"). This loses a lot of information. However, it allows for easy communication and comparisons.
+A numerical summary reduces all the data to simple numbers. This loses a lot of information. However, it allows for easy communication and comparisons.
+
+Depending on whether we are referring to a population or a sample, these numbers will either be [[./statistical parameters and estimates|parameters or estimates]].
 
 Major features that we can use include:
 - center: [[mean|mean]] and [[median|median]]
