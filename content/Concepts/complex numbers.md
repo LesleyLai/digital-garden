@@ -9,7 +9,5 @@ publish: true
 tags:
   - math/complex
 ---
-
-# Complex Numbers
 - [[complex conjugate|complex conjugate]]
 - [[./Euler's formula|complex exponential]]
