@@ -9,9 +9,7 @@ publish: true
 tags:
   - tools/latex
 ---
-
-# Latex
 - [[./latex cheat sheet|latex cheat sheet]]
 - [[./annotate terms in Latex|annotate terms in Latex]]
 - [[./matrices in latex|matrices in latex]]
-- [[inference rules in Latex|inference rules in Latex]]
+- [[./inference rules in Latex|inference rules in Latex]]
