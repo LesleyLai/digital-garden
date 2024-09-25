@@ -18,7 +18,7 @@ tags:
 ## Formal Fallacies
 
 ### Propositional Fallacies
-- [[affirming the consequent|affirming the consequent]]: "if A, then B; B, therefore A"
+- [[./affirming the consequent|affirming the consequent]]: "if A, then B; B, therefore A"
 - [[affirming a disjunct|affirming a disjunct]] - "Given A or B, and A is true, therefore B is false"
 - [[denying the antecedent|denying the antecedent]] - "If A, then B; not B, therefore not A"
 - [[association fallacy|association fallacy]] - asserts that properties of one thing must also be properties of another thing, if both things belong to the same group
@@ -51,7 +51,6 @@ tags:
 - [[false equivalence|false equivalence]]
 - [[moralistic fallacy|moralistic fallacy]] - assuming that an aspect of nature which has socially unpleasant consequences cannot exist
 - [[nirvana fallacy|nirvana fallacy]] - comparing actual things with unrealistic, idealized alternatives or assume there is a perfect solution to a particular problem
-- [[cherry picking|cherry picking]] - pointing to individual cases of data that confirm a position while ignoring the rest
 - [[psychologist's fallacy|psychologist's fallacy]] - assume subjective experience reflects the true nature of an even
 - [[retrospective determinism|retrospective determinism]] - because something happened under some circumstances, it was therefore bound to happen due to those circumstances
 - [[courtier's reply|courtier's reply]] - respondent to criticism claims that the critic lacks sufficient expertise to pose any criticism
@@ -65,7 +64,7 @@ tags:
 - [[hasty generalization|hasty generalization]] - reaching an generalization based on insufficient evidence
 - [[./argument from anecdote|argument from anecdote]] - Anecdote arguments are presented as arguments
 - [[./base rate fallacy|base rate fallacy]] - Conflation between prior and posterior probability
-
+- [[cherry picking|cherry picking]] - pointing to individual cases of data that confirm a position while ignoring the rest
 ### Questionable Causes
 ![[./questionable cause|questionable cause]] 
 
