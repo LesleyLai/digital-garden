@@ -9,9 +9,6 @@ tags:
   - "#learning"
   - "#psychology/cognitive"
 ---
-
-# Chunking
-
 **Chunks** are pieces of information in memory that bond together by usage or meaning. Chunking bypass the limited capacity of [[working memory|working memory]].
 
 The chunking process follows the following steps:
