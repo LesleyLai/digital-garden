@@ -11,7 +11,7 @@ title: Computing MOC
 ## Fields
 - [[./algorithms|Algorithms and Data Structures]]
 - [[./concurrency|Concurrency]]
-- [[./statistics|Data Science and Statistics]]
+- [[./data science|Data Science]]
 - [[./database|Databases]]
 - [[./computer graphics MOC|Computer Graphics]] and [[./GPU Programming|GPU Programming]]
 - [[./programming languages MOC|Programming Languages]] and [[./compiler|Compilers]]

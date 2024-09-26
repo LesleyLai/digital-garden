@@ -4,7 +4,7 @@ parent:
 tags:
   - learning/NoteTaking
 created: 2024-09-17
-modified: 2024-09-25
+modified: 2024-09-26
 publish: true
 aliases:
   - personal wiki
@@ -22,3 +22,8 @@ Here are some examples of interesting digital gardens that I came across:
 - [EDAV Garden](https://edav-garden.netlify.app/) - "Exploratory data analysis and visualization (EDAV)"
 - [Discrete Structures for Computer Science](https://publish.obsidian.md/discretecs)
 - [The Garden of Maggie Appleton](https://maggieappleton.com/garden)
+- [Computer Science & Thinkering Garden](https://notes.yxy.ninja/)
+- [Ellie's Notes](https://ellie.wtf/)
+- [Data Glossary 🧠](https://glossary.airbyte.com/)
+- [Aster's notebook](https://notes.asterhu.com/) - mainly [[./data science|data science]]
+- [Second Brain](https://www.ssp.sh/brain/)

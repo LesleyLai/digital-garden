@@ -1,6 +1,7 @@
 ---
 parent:
   - "[[computing|computing]]"
+  - "[[data science|data science]]"
 tags:
   - "#computing/R"
   - "#MOC"
