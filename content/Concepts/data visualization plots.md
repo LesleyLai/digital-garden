@@ -5,6 +5,7 @@ created: 2024-08-07
 modified: 2024-09-23
 parent:
   - "[[statistics|statistics]]"
+  - "[[data visualization|data visualization]]"
 publish: true
 tags:
   - statisticsAndDataScience/dataviz
