@@ -19,12 +19,12 @@ For functions that are not periodic, we need to use [[Fourier transform|Fourier 
 > [!definition] Fourier Series, Trigonometric Form
 > The Fourier series of a periodic function $f(x)$ of period $T$ is
 > $$
-f(x) = \frac{a_0}{2} + \sum_{k = 1}^\infty \left( a_k \cos{\frac{2\pi kx}{T}} + b_k \sin{\frac{2\pi kx}{T}} \right)
+>f(x) = \frac{a_0}{2} + \sum_{k = 1}^\infty \left( a_k \cos{\frac{2\pi kx}{T}} + b_k \sin{\frac{2\pi kx}{T}} \right)
 > $$
+>
 > for some set of **Fourier coefficients** $a_k$ and $b_k$ defined by the integrals
-> $$
-a_k = \frac{2}{T}\int_{x = 0}^T f(x) \cos\left( \frac{2\pi kx}{t} \right),\quad b_k = \frac{2}{T}\int_{x = 0}^T f(x) \sin\left( \frac{2\pi kx}{t} \right) \, dx 
-> $$
+> 
+> $a_k = \frac{2}{T}\int_{x = 0}^T f(x) \cos\left( \frac{2\pi kx}{t} \right)$ and $b_k = \frac{2}{T}\int_{x = 0}^T f(x) \sin\left( \frac{2\pi kx}{t} \right) \, dx$
 
 Some sources simplify the [[angular frequency|angular frequency]] $\frac{2\pi}{T}$ as $\omega$: 
 $$
