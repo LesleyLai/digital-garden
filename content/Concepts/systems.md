@@ -2,19 +2,14 @@
 aliases:
   - system
 created: 2024-08-13
-modified: 2024-08-27
+modified: 2024-09-28
 parent:
   - "[[signal processing|signal processing]]"
 publish: true
 tags:
   - signal/systems
 ---
-
-# Systems
-
 A **system** can be viewed as a black box that takes [[./signal|signals]] as input and produces signals as output.
-
-
 
 ## Classification of Systems
 - [[./linear system|linear vs nonlinear]]
@@ -22,3 +17,8 @@ A **system** can be viewed as a black box that takes [[./signal|signals]] as inp
 - [[./causal system|causal vs noncausal]]
 - continuous vs [[discrete signals and systems|discrete]]
 - [[internal and external stability of a system|stable vs unstable]]
+
+## System Response
+- [[zero-input response and zero-state response|zero-input response and zero-state response]]
+- [[impulse response|impulse response]]
+- [[transfer function|transfer function]]

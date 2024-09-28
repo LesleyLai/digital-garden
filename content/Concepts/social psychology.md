@@ -1,15 +1,16 @@
 ---
-Aliases:
+aliases:
   - "#psychology/social"
 created: 2023-05-30
-modified: 2024-03-14
+modified: 2024-09-28
 publish: true
+tags:
+  - psychology/social
 ---
-
-# Social Psychology
-
 - [[./fundamental attribution error|fundamental attribution error]]
 - [[./mere exposure effect|mere exposure effect]]
+- [[./proximity principle|proximity principle]]
+- [[./The chameleon effect|The chameleon effect]]
 
----
-tags: #psychology/social
+## Related
+- [[replication crisis|replication crisis]] - most severe in social psychology

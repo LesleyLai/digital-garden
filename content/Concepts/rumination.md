@@ -6,7 +6,6 @@ tags:
   - psychology/abnormal
   - mental_health/depression
 ---
-
 # Rumination
 **Rumination** involves *repetitive* negative thinking focused on the causes and effects of one's distress. This pattern can intensify feelings of depression and anxiety.
 

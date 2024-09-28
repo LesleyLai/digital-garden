@@ -8,9 +8,9 @@ parent:
 publish: true
 tags:
   - "#math/geometry/curve"
+specializations:
+  - "[[NURBS|NURBS]]"
 ---
-
-# Spline
 A **spline** is any piecewise polynomial function.
 
 Splines that are most commonly used for [[interpolation|interpolation]] are [[cubic spline|cubic spline]].

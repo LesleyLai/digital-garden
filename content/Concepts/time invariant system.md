@@ -7,8 +7,6 @@ publish: true
 tags:
   - signal/systems
 ---
-
-# Time Invariant System
 Given a system with a time-dependent output function $y(t)$ and an input function $x(t)$, the system is system is **time invariant** if a time-delay on the input $x(t - T)$ directly equates to a time-delay of the output $y(t - T)$ function.
 
 ![[../assets/Time_invariance_block_diagram_for_a_SISO_system.png|Time_invariance_block_diagram_for_a_SISO_system.png]]
