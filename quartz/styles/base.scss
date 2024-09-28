@@ -250,11 +250,9 @@ a {
 
     & .center,
     & footer {
-      /*
-      Lesley: the following two lines seems to cause trouble for pages that doesn't have enough content
+      min-width: 100%;
       margin-left: auto;
       margin-right: auto;
-      */
       @media all and ($desktop) {
         margin-right: 0;
       }
