@@ -12,7 +12,7 @@ tags:
 specializations:
   - "[[rational number|rational number]]"
 ---
-A real number can be defined as a [[./Cauchy sequence|Cauchy sequence]].
+A **real number** can be defined as a [[./Cauchy sequence|Cauchy sequence]].
 
 An advantage of real number over rational numbers is the [[./least upper bound property|least upper bound property]].
 
