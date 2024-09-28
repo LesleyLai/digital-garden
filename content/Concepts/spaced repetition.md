@@ -10,9 +10,6 @@ tags:
   - "#memory/spaced_repetition"
   - "#learning"
 ---
-
-# Spaced Repetition
-
 **Spaced repetition** is the learning practice of [[./retrieval practice|reviewing material]] at increasing intervals over time. It exploits the [[./spacing effect|spacing effect]] and has been proved to increase rate of learning. [^1] One technique to perform spaced repetition is with [[./flashcards|flashcards]].
 
 [[Barbara Oakley|Barbara Oakley]] highlights one reason of spaced repetition's effectiveness: learning involves [[neuroplasticity|fostering new neural connections]], which requires time to develop. The intervals between study sessions provide time for neural growth. [^2]
