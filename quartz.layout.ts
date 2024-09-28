@@ -11,10 +11,10 @@ export const sharedPageComponents: SharedLayout = {
       { titles: ["Home"] },
       Component.RecentNotes({
         showTags: false,
-        linkToMore: "/tags" as SimpleSlug,
+        linkToMore: "/Concepts" as SimpleSlug,
         limit: 10,
         title: "Recently Edited Notes:",
-        filter: (f) => f.relativePath !== "index.md",
+        filter: (f) => f.relativePath?.startsWith("Concepts/") ?? false,
       }),
     ),
     Component.Comments({
