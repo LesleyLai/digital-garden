@@ -3,7 +3,7 @@ tags:
   - tools/obsidian
   - tools/quartz
 created: 2024-09-17
-modified: 2024-09-25
+modified: 2024-09-28
 publish: true
 ---
 Here are the changes I've made to my Quartz setup. While I can't promise to include everything or keep it constantly updated, this should give you a good idea of how I've customized this digital garden website.
@@ -20,6 +20,15 @@ GitHub Repository: [LesleyLai/digital-garden](https://github.com/LesleyLai/digit
 +        comments: false,
 +        enableInHtmlEmbed: false,
 +      }),
+```
+
+## Make Page Titles Larger and also Capitalize Them
+`quartz\styles\custom.scss`
+```css
+.article-title {
+    font-size: 2rem;
+    text-transform: capitalize;
+}
 ```
 
 ## Adjust Style for the Recent Notes Component
