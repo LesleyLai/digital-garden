@@ -10,6 +10,5 @@ tags:
 created: 2024-07-09
 modified: 2024-07-09
 ---
-# Voxel MOC
 - [[./isosurface extraction|isosurface extraction]]
 - [[./rendering voxels|rendering voxels]]
