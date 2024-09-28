@@ -28,6 +28,7 @@ export const LesleyRemoveDrafts: QuartzFilterPlugin<{}> = () => ({
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "Lesley's Digital Garden",
+    pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
     analytics: null,
