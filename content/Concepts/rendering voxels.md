@@ -7,7 +7,7 @@ publish: true
 tags:
   - computing/graphics/voxel
 ---
-
-# Rendering Voxels
 Method 1: [[./isosurface extraction|meshing]] (with methods such as [[marching cubes|marching cubes]] or [[dual contouring|dual contouring]]) and then render using traditionally graphics pipeline
 Method 2: ray marching (as shown in the game Teardown)
+- See: [[DDA algorithm|DDA algorithm]]
+
