@@ -16,9 +16,6 @@ publish: true
 tags:
   - math/calculus
 ---
-
-# Level Sets
-
 We can use **level sets** to visualize functions  $f: R^N \rightarrow R$ with multiple inputs and one output. A level set is a subset of the domain given by the implicit equations $f\left(\underline{x}\right) = c$.
 
 Level sets are often denoted as $f^{-1}(c) = \{ x:f\left(\underline{x}\right) = c \}$ even when the function $f$ is not invertible.
