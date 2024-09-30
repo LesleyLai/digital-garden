@@ -11,15 +11,14 @@ publish: true
 tags:
   - math/topology
   - math/analysis
+title: Interior, Exterior, and Boundary Points
 ---
-
-# Interior, Exterior, and Boundary Points
-Let $(X, d)$ be a metric space, let $E$ be a subset of $X$, and let $x_0$ be a point in $X$.
-- $x_0$ is an *interior point* of E if $\exists \; r > 0$ s.t. $B(x_0, r) \subseteq E$  (The notation $B(x_0, r)$ is a [[./ball (topology)|ball]]).
-- that $x_0$ is an *exterior point* of E if $\exists \; r > 0$ s.t. $B(x_0, r) \cap E = \emptyset$.
-- $x_0$ is a *boundary point* of E if it is neither an interior point nor an exterior point.
+Let $(X, d)$ be a [[./metric space|metric space]], let $E$ be a subset of $X$, and let $x_0$ be a point in $X$.
+- $x_0$ is an **interior point** of E if $\exists \; r > 0$ s.t. $B(x_0, r) \subseteq E$  (The notation $B(x_0, r)$ is a [[./ball (topology)|ball]]).
+- that $x_0$ is an **exterior point** of E if $\exists \; r > 0$ s.t. $B(x_0, r) \cap E = \emptyset$.
+- $x_0$ is a **boundary point** of E if it is neither an interior point nor an exterior point.
 ![[../assets/interior_point.png|interior_point.png]]
 
-The set of all interior points of E is called the *interior* of E and is denoted as $\text{int}(E)$.
-The set of all exterior points of E is called the *exterior* of E and is denoted as $\text{ext}(E)$.
-The set of all boundary points of E is called the *boundary* of E and is denoted as $\partial E$.
+The set of all interior points of $E$ is called the **interior** of $E$ and is denoted as $\text{int}(E)$.
+The set of all exterior points of $E$ is called the **exterior** of $E$ and is denoted as $\text{ext}(E)$.
+The set of all boundary points of $E$ is called the **boundary** of $E$ and is denoted as $\partial E$.
