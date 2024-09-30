@@ -2,7 +2,7 @@
 aliases:
   - "#signal"
 created: 2024-08-07
-modified: 2024-09-24
+modified: 2024-09-30
 parent:
   - "[[note index|note index]]"
 publish: true
@@ -12,6 +12,7 @@ tags:
 ---
 - [[./signal|Signal]]
 - [[./systems|Systems]]
-- [[./convolution|Convolution]]
-- [[Laplace transform|Laplace Transform]]
-- [[./Fourier series|Fourier series]]
+- system analysis
+  - [[time domain analysis of LTIC systems|Time domain analysis of LTIC systems]]
+  - [[Laplace transform|Laplace Transform]]
+  - [[./Fourier series|Fourier series]] and [[Fourier transform|Fourier transform]]
