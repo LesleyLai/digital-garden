@@ -12,8 +12,6 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 ---
-# Barnum Effect
-
 The **Barnum Effect** is the phenomenon that people give high accuracy rating to rating describing their personalities. This effect can be use to explain the popularity of [[astrology|astrology]], [[cold reading|cold reading]], or some [[pseudoscience|pseudoscientific]] [[personality tests|personality tests]]. It can be seen as a form of [[confirmation bias|confirmation bias]]. [^1]
 
 The effect is also sometimes called **Forer effect**. In 1948, psychologist [[Bertram Forer|Bertram Forer]] administrated a fake personality test and gives all his student the following [[./falsifiability|vague]] description, and most students rate the descriptions as accurate. [^2]
