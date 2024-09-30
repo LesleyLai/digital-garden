@@ -10,9 +10,6 @@ publish: true
 tags:
   - math/functions
 ---
-
-# Even and Odd Functions
-
 ## Properties
 $$
 \begin{align}
