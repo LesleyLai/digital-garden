@@ -10,10 +10,9 @@ publish: true
 tags:
   - "#math/eulers_number"
 ---
-
-# Euler's Number
 There are multiple ways to define $e$, one was is to [[./limit definition of e|use limits]]
 ![[./limit definition of e#^b18ef4|limit definition of e > ^b18ef4]]
 
+## Index
 - [[./Euler's formula|Euler's formula]]
 - [[e (Euler's Number) is seriously everywhere|e (Euler's Number) is seriously everywhere]]
