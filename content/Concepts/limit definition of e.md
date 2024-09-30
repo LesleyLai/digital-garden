@@ -9,12 +9,12 @@ tags:
   - "#math/calculus/limits"
   - math/definitions
 ---
-
 [[Jacob Bernoulli|Jacob Bernoulli]] introduced $e$ to address [[compound interest|continuous compounding of interest]], and defined $e$ as the following[^1]. ^ab5755
-> [!definition] limit definition of $e$
->$$
+
+The limit definition of $e$ is the following:
+$$
 e = \lim_{ n \to \infty } \left( 1 + \frac{1}{n} \right)^n
->$$
+$$
 
 ^b18ef4
 
@@ -35,8 +35,6 @@ $$
 &= e^a
 \end{align}
 $$
-
-
 
 [^1]: [e (mathematical constant) - Wikipedia](https://en.wikipedia.org/wiki/E_(mathematical_constant))
 [^2]: [Why can't the 1/(3x) be replaced with 0? Reddit calculus limit r/calculus - YouTube](https://youtu.be/1ebqYv1DGbI?si=UVaDhkuO3UmtnMzl)
