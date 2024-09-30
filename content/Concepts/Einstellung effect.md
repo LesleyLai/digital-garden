@@ -9,9 +9,6 @@ publish: true
 tags:
   - "#learning"
 ---
-
-# Einstellung Effect
-
 **Einstellung effect** refers to people's predisposition to a problem can prevent a better idea or solution from being found.
 
 ## Related
