@@ -5,7 +5,6 @@ publish: true
 tags:
   - memory
 ---
-
 # Human Memory
 - [[./encoding (memory)|encoding]]
 - [[./spaced repetition|spaced repetition]]
