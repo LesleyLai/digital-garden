@@ -7,7 +7,5 @@ publish: true
 tags:
   - computing/performance/cpu
 ---
-
-# CPU Cache
 - [[./cache line|cache line]]
 - [[false sharing|false sharing]]
