@@ -8,8 +8,6 @@ publish: true
 tags:
   - math/analysis
 ---
-
-# Least Upper-bound Property
 ## Least Upper Bound
 Definition: Let $E$ be a subset of $\mathbb{R}$, and $M$ be a real number. We say that $M$ is a _least upper bound_ for $E$ iff
 - $M$ is an upper bound for $E$
