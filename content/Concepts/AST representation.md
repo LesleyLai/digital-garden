@@ -8,14 +8,11 @@ tags:
   - "#computing/AlgorithmsAndDataStructures/AST"
   - "#computing/PL/syntax"
 ---
-# AST Representation
-
 There are several ways to have typed information to AST [^typed]:
 - mutable AST (with optional type field later field)
 - having a separated typed AST
 - generic AST
-- relational AST (akin to [[data oriented design|data oriented design]])
-
+- relational AST (akin to a [[relational model|relational database]] or in [[data oriented design|data oriented design]])
 
 Here is various pages describing AST representation in production systems:
 - [Persistence, façades and Roslyn’s red-green trees | Fabulous adventures in coding](https://ericlippert.com/2012/06/08/red-green-trees/)
