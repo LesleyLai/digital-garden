@@ -9,8 +9,6 @@ publish: true
 tags:
   - math/calculus/differentiation
 ---
-
-# D Notation
 The **D notation** uses a **differential operator** denoted as $D$. When applied to a function $f(x)$, it is defined as
 $$
 (Df)(x) = \frac{df(x)}{dx}
