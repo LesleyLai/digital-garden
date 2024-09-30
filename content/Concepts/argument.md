@@ -5,8 +5,7 @@ parent:
   - "[[propositional logic|propositional logic]]"
 publish: true
 tags:
-  - logic/propositional
-  - math/logic
+  - logic
 ---
 A **logical argument** is a sequence of propositions, with the last being the conclusion and the others being premises. [^1]
 
@@ -28,11 +27,11 @@ $$
 \end{align}
 $$
 ## Properties
-- [[./necessarily truth-preserving|necessarily truth-preserving]] (NTP) and [[./validity (logic)|validity]] (NTP just by form)
+- [[./necessarily truth-preserving|necessarily truth-preserving]] (NTP) and [[./valid argument|validity]] (NTP just by form)
 - [[./deductive soundness|soundness]]
 
 ## Related
-- [[inference rules|inference rules]]
+- [[./inference rules|inference rules]]
 
 
 [^1]: Smith, Nicholas J.J.. _Logic : The Laws of Truth_, Princeton University Press, 2012. Section 1.3
