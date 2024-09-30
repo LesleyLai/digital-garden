@@ -10,6 +10,4 @@ publish: true
 tags:
   - computing/testing/approval
 ---
-
-# Approval Testing
 - [[./Snapshot Test in Rust|Snapshot Test in Rust]]
