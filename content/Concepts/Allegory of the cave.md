@@ -5,7 +5,7 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - "#philosophy"
+  - philosophy/skepticism
 ---
 [[Plato|Plato]] tells the allegory of the Cave in his work _[[Republic (plato)|Republic]]_.
 

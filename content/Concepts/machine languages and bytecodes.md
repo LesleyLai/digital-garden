@@ -7,7 +7,5 @@ publish: true
 tags:
   - computing
 ---
-
-# Machine Languages and Bytecodes
 - [[./webassembly|webassembly]]
 - [[x86 assembly|x86 assembly]]

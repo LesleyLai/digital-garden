@@ -14,7 +14,7 @@ tags:
 # Equation of Planes
 
 ## Implicit Form
-A plane can be given by implicit equation
+A plane can be given by [[implicit equation|implicit equation]]
 $$
 ax + by + cz = d
 $$

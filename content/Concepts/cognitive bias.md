@@ -4,6 +4,7 @@ modified: 2024-03-14
 publish: true
 tags:
   - cognitive_bias
+  - "#psychology"
 ---
 
 - [[./sunk cost|sunk cost]]

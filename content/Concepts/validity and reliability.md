@@ -9,8 +9,7 @@ parent:
 publish: true
 tags: 
 ---
-
-> [!tip] Not to be confused with [[./validity (logic)|validity (logic)]]
+> [!tip] Not to be confused with [[./validity (disambiguous)|validity (disambiguous)]]
 
 reliability: multiple tests reach same result
 validity: theory measures what it suppose to measure

@@ -9,8 +9,6 @@ tags:
   - computing/cuda
   - MOC
 ---
-
-# CUDA
 - [[./streaming multiprocessor|streaming multiprocessor]]
 - [[./CUDA memory and cache architecture|CUDA memory and cache architecture]]
   - [[./CUDA register|Registers]]

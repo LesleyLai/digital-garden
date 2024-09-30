@@ -7,9 +7,6 @@ publish: true
 tags:
   - "#computing/compiler/optimizations"
 ---
-
-# Control Flow Graph
-
 The control flow graph is a [[directed graph|directed graph]] where each vertex is an instruction and each edge indicates a *possible* flow of control. It has exactly *one entry* vertex and *one exit* vertex.
 
 We can combine sequence of instructions without label or jump into [[./basic blocks|basic blocks]]. We can only jump to top of a basic block and won't be able to jump until the end of it.

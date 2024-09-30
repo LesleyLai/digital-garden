@@ -7,8 +7,6 @@ tags:
 created: 2024-03-30
 modified: 2024-03-30
 ---
-# Don't Always Study in One Location
-
 Studies indicate that studying in a fixed location can impede learning. Our brain makes subtle connection between environmental cues and learned information, making it challenging to [[./recall|recall]] information in different settings. [^1]
 
 ## See Also

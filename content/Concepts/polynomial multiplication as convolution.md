@@ -5,7 +5,7 @@ parent:
   - "[[./convolution|convolution]]"
 publish: true
 tags:
-  - math/functions/convolution
+  - math/convolution
 ---
 
 Multiplication of [[polynomials|polynomials]] can be view as the discrete [[./convolution|convolution]] of its coefficients [^1]

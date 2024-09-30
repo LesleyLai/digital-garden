@@ -13,7 +13,7 @@ $$
 $$
 such that $\mathbf{D}$ is diagonal and $\mathbf{U}$ is an [[./orthogonal matrix|orthogonal matrix]] (and thus $\mathbf{U}^{-1} = \mathbf{U}^T$).
 
-It also happens that $\mathbf{D}$'s diagonal contains the [[eigenvalues|eigenvalues]] of $\mathbf{A}$ and the columns of $\mathbf{U}$ are eigen vectors.
+It also happens that $\mathbf{D}$'s diagonal contains the [[./eigenvalues|eigenvalues]] of $\mathbf{A}$ and the columns of $\mathbf{U}$ are eigen vectors.
 
 ## Eigenvalue Decomposition of Asymmetric Matrix
   If we allow eigenvalues and eigenvectors to be complex (numbers),

@@ -10,8 +10,6 @@ publish: true
 tags:
   - computing/Rust/Cargo
 ---
-
-# Documentation in Rust
 ## Build and Open Local Rust Documentation
 `cargo doc --open`
 ## Doctest

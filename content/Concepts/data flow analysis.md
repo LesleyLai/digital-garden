@@ -7,8 +7,6 @@ publish: true
 tags:
   - computing/compiler/optimizations
 ---
-
-# Data Flow Analysis
 The data flow framework:
 1.  Figure out the thing you want to know at the entry and exit of a block
 2.  Write an equation for every block relating the entry to the exit

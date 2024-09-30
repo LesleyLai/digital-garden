@@ -8,15 +8,11 @@ tags:
   - "#math/LinearAlgebra/decomposition"
   - "#math/LinearAlgebra/LinearSolver"
 ---
-# LU Factorization
-
 **LU factorization** decomposes a matrix into a [[./triangular matrix|lower-triangular matrix]] $L$ and an upper-triangular matrix $\mathrm{U}$.
 
 We get the lower-triangular matrix $\mathrm{L}$ by multiplying the inverse of [[./elementary matrix|elementary matrices]] we get from [[./Gaussian elimination|Gaussian elimination]]. And the remaining matrix in [[./row echelon form|row echelon form]] is the upper-triangular matrix $\mathrm{U}$.
 
->[!example]- Find the LU decomposition of $\left[\begin{array}{ccc}
-3 & -7 & -2 \\
--3 & 5 & 1 \\6 & -4 & 0\end{array}\right]$
+>[!example]- Find the LU decomposition of $\left[\begin{array}{ccc}3 & -7 & -2 \\-3 & 5 & 1 \\6 & -4 & 0\end{array}\right]$
 > We can perform Gaussian elimination and write down the elementary matrices.
 > First, add row 1 to row 2:
 > $$\mathrm{A_1}=\left(\begin{array}{rrr}

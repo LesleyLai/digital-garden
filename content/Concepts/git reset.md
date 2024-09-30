@@ -7,9 +7,6 @@ publish: true
 tags:
   - tools/git/commands
 ---
-
-# `git reset`
-
 ## Mix Reset
 By default, git performs a `--mixed` reset, which revert back index alone with `HEAD`. The main difference with `--soft` is that `reset --soft` won't revert the index.
 ```bash

@@ -7,6 +7,9 @@ publish: true
 parent:
   - "[[functions|functions]]"
 ---
+- [[exponential function|exponential function]]
 - [[./sigmoid function|sigmoid function]]
 - [[error function|error function]]
 - [[./sinc function|sinc function]]
+- [[./unit step function|unit step function]]
+- [[./Dirac delta|Dirac delta function]] (also called unit impulse)

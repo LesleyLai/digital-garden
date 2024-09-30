@@ -7,9 +7,6 @@ tags:
 created: 2024-04-08
 modified: 2024-04-08
 ---
-
-# CUDA Local Memory
-
 Local memory refers to memory where registers and other thread-data are *[[register spilling|spilled]]*.
 - usually when one runs out of [[./streaming multiprocessor|SM]] resources
 - "Local" because each thread has its own private area

@@ -13,7 +13,7 @@ tags:
 - [[./proposition|Proposition]]: something that can be true or false
   - can be [[premise|premises]] or conclusion
 - Truth Value: each of a proposition have a **truth value** of either **true** and **false**
-  - [[truth assignment|Truth Assignment]]: a function assigning a truth value to each of the proposition constants
+  - [[interpretations (logic)|Truth Assignment]]: a function assigning a truth value to each of the proposition constants
 - [[./logical connective|Connectives]]: relationships (such as *and* and *or*) between propositions
 - [[./argument|Argument]]: a sequence of propositions, with the last being the conclusion and the others being premises
 

@@ -9,8 +9,6 @@ publish: true
 tags:
   - math/complex
 ---
-
-# Euler's Formula
 > [!definition] Definition: Euler's formula
 > For any real $\theta$
 > $$

@@ -2,10 +2,10 @@
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - computing/cpp
+title: C++ "Swap And iterate" Pattern
 ---
-
-#computing/cpp 
-# C++ "Swap And iterate" Pattern
 This pattern prevents invocation of callback invalidates the iterators in the loop (by modifying `callbacks`)
 ```cpp
 // All events are dispatched when we call process

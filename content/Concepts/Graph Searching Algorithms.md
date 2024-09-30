@@ -17,7 +17,7 @@ tags:
 -   [[breadth-first search|breadth-first search]]
 -   [[uniform-cost search|uniform-cost search]]
 -   [[./iterative deepening depth-first search|iterative deepening search]]
--   [[bidirectional search|bidirectional search]]
+-   [[./bidirectional search|bidirectional search]]
 
 ## Informed (heuristic) Searching Strategies
 - [[a-star search|A* search algorithm]]

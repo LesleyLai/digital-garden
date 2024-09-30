@@ -1,6 +1,5 @@
 ---
 tags:
-  - psychology
   - myth
 modified: 2024-03-30
 created: 2024-02-24

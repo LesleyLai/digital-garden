@@ -11,7 +11,6 @@ tags:
   - computing/PL/syntax
   - "#computing/AlgorithmsAndDataStructures/parsing"
 ---
-
-# Syntax Design
+## Syntax Design
 - [[./parentheses around the condition|parentheses around the condition]]
 - [[./dangling else problem|dangling else problem]] for languages supporting optional `else` branch

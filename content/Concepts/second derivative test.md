@@ -10,8 +10,6 @@ tags:
   - math/calculus
   - math/optimization
 ---
-
-# Second Derivative Test
 **Second derivative test** can be used to decide whether a [[./critical point|critical point]] is local [[./extremum|minimum]], maximum, or [[saddle point|saddle point]].
 
 ## Second Derivative Test for Functions of One Variable
@@ -33,7 +31,7 @@ $$
 - If $\frac{1}{2} \mathbf{h}^T [D^2f]_{\mathbf{a}} \mathbf{h} > 0$ for all $\mathbf{h} \neq \mathbf{0}$, local minimum
 - If $\frac{1}{2} \mathbf{h}^T [D^2f]_{\mathbf{a}} \mathbf{h} < 0$ for all $\mathbf{h} \neq \mathbf{0}$, local maximum
 
-We can use [[eigenvalues|eigenvalues]] to figure out the above condition.
+We can use [[./eigenvalues|eigenvalues]] to figure out the above condition.
 
 ### Second Derivative Test for Functions of Two Variables
 For a function of just two variables, we can use the "trace-determinant method" to perform second derivative test for function $f(x: \mathbb{R}, y: \mathbb{R}): \mathbb{R}$.

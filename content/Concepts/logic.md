@@ -2,8 +2,7 @@
 aliases:
   - "#logic"
 created: 2024-08-01
-dg-publish: true
-modified: 2024-09-25
+modified: 2024-09-29
 parent:
   - "[[philosophy|philosophy]]"
   - "[[math|math]]"
@@ -17,25 +16,7 @@ tags:
   - [[premise|premise]] and conclusion
 - [[./logical fallacies|logical fallacies]]
 - [[./argument|argument]]
-- [[rule of inference|rule of inference]]
 - [[well-formed formula|well-formed formula]]
-
-## Logical Properties
-### For A Single Propositions
-- [[tautology|tautology]]/logical truth
-- non-tautology
-- [[satisfiability|satisfiable]]
-- [[contradiction|contradiction]]/logical falsehood/unsatisfiable
-## For Multiple Propositions
-- [[./logical equivalence|logical equivalence]]
-- (jointly) satisfiable/unsatisfiable
-- [[logical consistency|logical consistency]]
-- [[contradiction|contradictory]]
-- [[contraries|contraries]]
-- [[./entailment|entailment]]
-
-### For Arguments
-- [[./validity (logic)|validity]] and [[./deductive soundness|soundness]]
 
 ## Languages
 - [[./propositional logic|propositional logic]]
@@ -44,10 +25,37 @@ tags:
   - "IF **x** is a parent of **y**, then **x** is older than **y**"
 - [[higher-order logic|higher-order logic]]
 
+## Proof Systems
+See [[./formal system|formal system]], [[./proof system|proof system]]
+
+### Concepts
+- [[./axiom schemas|axiom schemas]]
+- [[./inference rules|rule of inference]]
+- [[./soundness (formal system)|soundess]] and [[./completeness|completeness]]
+
 ## Proof Methods
 - [[truth table|truth table]]
 - [[./truth tree|truth tree]] (semantic tableau)
-- [[direct proofs|direct proofs]]
+- [[./direct proofs|direct proofs]]
+
+## Logical Properties
+### For A Single Formula
+- [[./valid formula|validity]]
+  - [[./tautology|tautology]]
+- [[satisfiability|satisfiable]]
+- [[contradiction|contradiction]]/logical falsehood/unsatisfiable
+
+## For Two Formulas
+- [[./logical equivalence|logical equivalence]]
+- [[./entailment and provability|entailment and provability]]
+### For A Set of Formulas
+- (jointly) satisfiable/unsatisfiable
+- [[logical consistency|logical consistency]]
+- [[contradiction|contradictory]]
+- [[contraries|contraries]]
+
+### For Arguments
+- [[./validity (disambiguous)|validity]] and [[./deductive soundness|soundness]]
 
 ## Types of Reasoning
 - [[./deductive reasoning|deductive reasoning]]

@@ -8,9 +8,8 @@ publish: true
 tags:
   - math/set_theory
   - math/functions
+title: Injective Function
 ---
-
-# Injective Function
 ![[../assets/Injection.svg|Injection.svg]]
 ## See also
 - [[./surjection|surjection]]

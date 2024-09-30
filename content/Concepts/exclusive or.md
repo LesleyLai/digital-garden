@@ -8,7 +8,7 @@ parent:
   - "[[./logical connective|logical operator]]"
 publish: true
 tags:
-  - math/logic
+  - logic
 ---
 **Exclusive or**, or **exclusvie disjunction**, abbreviated as **XOR**, is a [[./logical connective|logical operator]] with the following truth table:
 

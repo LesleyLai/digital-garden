@@ -7,9 +7,6 @@ publish: true
 tags:
   - computing/cuda/memory
 ---
-
-# CUDA Global and Constant Memory
-
 - Long latency
 - Off-chip, read/write access
 - Random access causes performance hit (sequential access is better)

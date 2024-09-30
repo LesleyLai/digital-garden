@@ -11,10 +11,8 @@ tags:
   - computing/cpp/generic
   - computing/cpp/concepts
   - computing/cpp/20
+title: C++ Concepts and Constraints
 ---
-
-# C++ Constraints and Concepts
-
 ## Standard Concepts
 - [[./cpp_regular_and_semiregular_types|Regular and Semiregular Types]]
 
