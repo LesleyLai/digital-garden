@@ -1,17 +1,14 @@
 ---
-Aliases:
+aliases:
   - the four horsemen
   - Gottman's four horsemen
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - psychology/love
+title: Gottman's Four Horsemen
 ---
-
-#relationship #psychology/love 
-
----
-# Gottman's Four Horsemen
-
 The Psychologist [[John Gottman|John Gottman]] developed "**the four horsemen**" [^1] that detriments relationship.
 
 The four horsemen are particular types of negative interactions during conflict, which involves criticism, [[contempt|contempt]], defensiveness, and stonewalling.
