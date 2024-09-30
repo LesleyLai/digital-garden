@@ -4,7 +4,7 @@ parent:
 tags:
   - computing/database/theory
 created: 2024-09-20
-modified: 2024-09-20
+modified: 2024-09-27
 publish: true
 ---
 In database theory, **functional dependencies (FDs)** are a tool to capture semantic relationships between attributes and detect and eliminate bad design.
@@ -31,13 +31,17 @@ In most cases, we use the semantic meaning. And if we use the actual data, this 
 > This is the same idea as how unit tests can never guarantee eliminating of bugs.
 
 ## Inference Rules
-Given $A$, $B$, and $C$ as sets of attributes in a relation $R$, there are several properties of functional dependencies. The most important three are [[Armstrong's axioms|Armstrong's axioms]]:
+Given $A$, $B$, and $C$ as sets of attributes in a relation $R$, there are several properties of functional dependencies. The most important three are [[Armstrong's axioms|Armstrong's axioms]]
 1. **Reflexivity**: If $B \subseteq A$, then $A \to B$
   - These are called *trivial* functional dependencies
 2. **Augmentation**: If $A \to B$, then $AC \to BC$ for any set of attributes $C$
 3. **Transitivity**: If $A \to B$ and $B \to C$, then $A \to C$
 
-## Closure
+### Closure
 Given a set of functional dependencies $F$, we call the set of all functional dependences that can be deduced form the set $F$ a **closure** and denote it as $F^+$.
+
+Using the definition of closure, we can say that the Armstrong's axioms is [[./soundness (formal system)|sound]] and [[./completeness|complete]].
+- sound: they generate only functional dependencies in $F^+$
+- complete: they generate all functional dependencies in $F^+$
 
 [^1]: [Functional dependency - Wikipedia](https://en.wikipedia.org/wiki/Functional_dependency)
