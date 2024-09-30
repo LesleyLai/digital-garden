@@ -8,8 +8,6 @@ tags:
   - math/analysis
   - math/calculus/limits
 ---
-
-# Limit point
 ## Limit point of Sets
 $x \in \mathbb{R}$ is a *limit point* of $S \in \mathbb{R}$ if it is [[./adherent point|adhere to]] $S - \{x\}$.
 
