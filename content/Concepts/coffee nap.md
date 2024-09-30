@@ -8,4 +8,4 @@ tags:
 parent:
   - "[[napping|napping]]"
 ---
-Drink a small cup of coffee before nap and set timer to 25 min
+Drink a small cup of coffee before nap and set timer to 25 min. This prevent prolonged napping, which can reduce [[./adenosine|sleep pressure]] at night.
