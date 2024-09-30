@@ -8,9 +8,6 @@ tags:
   - math/sequences_and_series
   - math/calculus
 ---
-
-# Comparison Test
-
 Let $\sum_{n=m}^\infty a_n$ and $\sum_{n=m}^\infty b_n$ to be 2 formal series of real numbers, and suppose that $|a_n| < b_n$ for all $n \ge m$.
 
 Then if $\sum_{n=m}^\infty b_n$ convergent, $\sum_{n=m}^\infty a_n$ [[./absolute convergence of series|absolute convergent]], and
