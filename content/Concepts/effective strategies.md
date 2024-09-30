@@ -8,8 +8,6 @@ tags:
   - MOC
   - life/self_improvement/strategies
 ---
-
-# Effective Strategies
 **Effective strategies** are proven approaches to solving life's problems. [[do what is already works|Consistently applying these strategies]] can lead to significant outcomes.
 
 This page lists various strategies in different areas.
@@ -30,7 +28,6 @@ See: [[./habit|habit]]
 ### Note Taking
 - [[./Note Taking MOC|take note]]
   - [[./Zettelkasten|Zettelkasten]]
-  - [[./second brain|Build a Second Brain]]
   - [[./elaborative interrogation|elaborative interrogation]]
 
 ## Socializing
