@@ -3,15 +3,12 @@ created: 2023-05-30
 modified: 2024-03-14
 parent:
   - "[[control flow graph|control flow graph]]"
+  - "[[basic blocks|basic blocks]]"
 publish: true
 tags:
   - "#computing/compiler/optimizations"
 ---
-# An Algorithm to Create CFG from Basic Blocks
-
-See: [[./basic blocks|basic blocks]]
-
-``` Scala
+```scala
 def blocks_to_cfg(labels_to_blocks: Map<Label, Block>) {
   // CFG contains mapping from the label of a block to label of its successor blocks
   var cfg : Map<Label, List of Labels> = {}
