@@ -1,6 +1,6 @@
 ---
 parent:
-  - "[[./series|sum]]"
+  - "[[series|series]]"
   - "[[Fourier analysis|Fourier analysis]]"
   - "[[signal processing|signal processing]]"
 tags:
@@ -9,7 +9,7 @@ created: 2024-09-24
 modified: 2024-09-24
 publish: true
 ---
-A **Fourier series** is a way to representing a [[periodic function|periodic function]] as a [[./series|sum]] of sine and cosine functions. It is analogous to a [[./Taylor series|Taylor series]], which expresses functions as a sum of monomial terms.
+A **Fourier series** is a way to representing a [[periodic function|periodic function]] as a sum of sine and cosine functions. It is analogous to a [[./Taylor series|Taylor series]], which expresses functions as a sum of monomial terms.
 
 ![[../assets/Fourier series.gif|A sawtooth wave represented by a successively larger sum of trigonometric terms]]
 
