@@ -9,9 +9,6 @@ publish: true
 tags:
   - "#math/LinearAlgebra"
 ---
-
-# Cross Product
-
 In 3D, a *cross product* takes two vectors and returns a vector. Geometrically, the magnitude of the result equals to parallelogram area and the direction is orthogonal to both vectors.
 ![[../assets/cross_product.png|cross_product.png]]
 
