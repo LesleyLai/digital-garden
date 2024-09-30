@@ -7,7 +7,6 @@ publish: true
 tags:
   - signal
 ---
-
 # Size of a Signal
 
 The size of a signal indicates the largeness or strength of a signal. Such a measurement must consider not only the signal magnitude, but also signal duration.
@@ -30,7 +29,7 @@ Signal energy must be finite for it to be a meaningful measure of signal size, a
 However, another type of signals we are interested in are *periodic* functions such as $x(t) = \sin(t)$, which have infinite energy. A more meaningful measure of the signal size in such a case would be the time average of the
 energy, if it exists. We can define signal power as the following:
 $$
-P_x = \lim_{T \rightarrow \infty} { \frac{1}{T} \int _{x = -T/2}^{T/2} |x(t)|^2 \, dt } 
+P_x = \lim_{T \rightarrow \infty} { \frac{1}{T} \int _{t = -T/2}^{T/2} |x(t)|^2 \, dt } 
 $$
 
 ### RMS Value
