@@ -29,7 +29,7 @@ Two propositions are **logically equivalent** if they share the same truth value
 ## Relationship with Biconditional
 See: [[./logical biconditional|logical biconditional]]
 
-$P$ and $Q$ are logical equivalent [[if and only if|if and only if]] when the biconditional $P \leftrightarrow Q$ is always true (a [[tautology|tautology]]).
+$P$ and $Q$ are logical equivalent if and only if when the biconditional $P \leftrightarrow Q$ is always true (a [[./tautology|tautology]]).
 
 ## Substitutability
 In [[./propositional logic|propositional logic]], if a proposition $P$ is logically equivalent to a propositional $Q$, then we can substitute $P$ for $Q$ and the result will be logically equivalent to the original sentence. However, this is no longer true in [[predicate logic|predicate logic]].
