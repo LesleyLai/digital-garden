@@ -12,14 +12,12 @@ publish: true
 tags:
   - computing/SoftwareEngineering
 ---
-
 # Cohesion and Coupling
 **Cohesion** refers to related code should be close to each other.
 
 **Coupling** refers to the degree which different code depend on each other. It is suggested that all modules should be as independent as possible (low coupling) [^1]
 
 ![[../assets/cohesion and coupling.png|600]]
-
 
 
 [^1]: [oop - What does 'low in coupling and high in cohesion' mean - Stack Overflow](https://stackoverflow.com/questions/14000762/what-does-low-in-coupling-and-high-in-cohesion-mean/14000957#14000957)
