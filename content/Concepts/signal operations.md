@@ -11,8 +11,6 @@ publish: true
 tags:
   - signal
 ---
-
-# Signal Operations
 Some essential operations for manipulating signals include _shifting_, _scaling_, and _reflection_. When we talk about a signal in time domain, those are called *time shifting*, *time scaling*, and *time reversal* (reflection).
 
 ## Shifting
