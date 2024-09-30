@@ -7,9 +7,6 @@ publish: true
 tags:
   - computing/javascript
 ---
-
-# Javascript Variable Hoisting
-
 In Javascript, variables declared with `var` are implicitly "hoisted" to the beginning of a block.
 
 > [!example]
