@@ -20,7 +20,7 @@ When we conduct a survey, there are many possible sources of possible [[bias of 
 > [!warning]
 > When a selection process is bias, taking a larger sample does not reduce bias!
 > 
-> In 1936 U.S. election, the magazine _Literary Digest_ predicted a landslide victory for Alfred Landon over Franklin Roosevelt, based on a poll of 2.4 million people. However, Roosevelt ended up winning by a wide margin, 62% to 38%!
+> For example, in 1936 U.S. election, the magazine _Literary Digest_ predicted a landslide victory for Alfred Landon over Franklin Roosevelt, based on a poll of 2.4 million people. However, Roosevelt ended up winning by a wide margin, 62% to 38%!
 
 ## See Also
 - [[./statistic bias|statistic bias]]
