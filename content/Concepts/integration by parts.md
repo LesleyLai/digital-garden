@@ -9,8 +9,6 @@ publish: true
 tags:
   - math/calculus/integration
 ---
-
-# Integration by Parts
 **Integration by parts** or **partial integration** is a process that finds the integral of a product of functions. The rule can be thought of as the [[./product rule|product rule]] in reverse.
 
 The integration by parts formula states:
