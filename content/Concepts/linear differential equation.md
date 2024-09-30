@@ -10,8 +10,6 @@ tags:
   - math/DifferentialEquations
   - math/definitions
 ---
-
-# Linear Differential Equation
 A **linear differential equation** is a differential equation in the form of
 $$
 a_0(x)y + a_1(x)y' + a_2(x)y'' \cdots + a_n(x)y^{(n)} = b(x)
