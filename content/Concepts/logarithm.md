@@ -6,8 +6,6 @@ tags:
   - math/arithmetic
   - cheatsheet
 ---
-
-# Logarithm
 $a^x = y \Leftrightarrow \log_{a}y = x$
 
 For $f(x) = \log_{b} x$, $b > 0$, $b \ne 1$, $x > 0$
