@@ -12,8 +12,6 @@ specializations:
 tags:
   - math/LinearAlgebra
 ---
-
-# Linear Transformation
 A function $f$ is **linear** if it maps _vectors to vectors_, and if for all vectors $\mathbf{u}$, $\mathbf{v}$ and scalers $a$ we have
 $$
 \begin{align*}
@@ -27,7 +25,7 @@ In other word, whether we add the vectors and then apply the map, or apply the m
 
 The above property is sometimes called the **superposition principle** in physics and engineering.
 
-For example, the function $f(x)=ax+bf(x)=ax+b$ is not a linear function, but instead an [[affine function|affine function]].
+For example, the function $f(x)=ax+bf(x)=ax+b$ is not a linear function, but instead an [[./affine function|affine function]].
 
 ## Geometric Intuition
 A linear map must have a _fixed origin_ and _lines must map into lines_.
