@@ -7,9 +7,6 @@ publish: true
 tags:
   - physics/electromagnetism
 ---
-
-# Electric Power
-
 **Electric power** is defined as [[voltage|voltage]] ($V$) times [[./electric current|current]] ($I$).
 
 $$
