@@ -7,8 +7,6 @@ publish: true
 tags:
   - computing/PL/experimental_languages
 ---
-# Experimental Programming Languages
-
 Here are several relatively new programming languages that, while I wouldn't use them in production, may offer valuable insight and learning opportunities.
 ## System Programming Languages
 - [[./The Hylo Programming Language|Hylo]]
