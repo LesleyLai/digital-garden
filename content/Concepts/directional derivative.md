@@ -7,9 +7,6 @@ publish: true
 tags:
   - "#math/calculus/differentiation"
 ---
-
-# Directional Derivative
-
 **Directional derivative** of a multi-variable function is the single-variable derivative on that direction.
 $$
 D_{\mathbf{u}}f(\mathbf{x}_{0}) = lim_{\epsilon \rightarrow 0} \frac{f(\mathbf{x}_{0} + \epsilon \mathbf{u}) - f(\mathbf{x}_{0})}{\epsilon}
