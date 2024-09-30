@@ -8,8 +8,6 @@ tags:
   - "#math/DifferentialEquations"
   - "#MOC"
 ---
-
-# Differential Equations
 - [[./ordinary differential equation|ODE]] and [[./partial differential equation|PDE]]
 - [[./linear differential equation|linear]] vs nonlinear
 - [[./numerical methods for ordinary differential equations|numerical ODEs]]
