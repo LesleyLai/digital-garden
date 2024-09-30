@@ -6,6 +6,8 @@ parent:
 publish: true
 tags:
   - signal/systems
+specializations:
+  - "[[linear time-invariant system|linear time-invariant system]]"
 ---
 Given a system with a time-dependent output function $y(t)$ and an input function $x(t)$, the system is system is **time invariant** if a time-delay on the input $x(t - T)$ directly equates to a time-delay of the output $y(t - T)$ function.
 
