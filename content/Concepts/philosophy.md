@@ -9,8 +9,6 @@ publish: true
 tags:
   - "#philosophy"
 ---
-
-# Philosophy
 - [[./logic|logic]]
 - [[./philosophy of science and metascience|philosophy of science]]
 - [[./skepticism|skepticism]]
