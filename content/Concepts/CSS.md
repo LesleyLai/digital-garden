@@ -10,8 +10,6 @@ tags:
   - "#computing/css"
   - "#computing/webdev"
 ---
-
-# CSS
 ## Typography
 - [[./em vs rem|em vs rem]]
 
