@@ -1,6 +1,6 @@
 ---
 created: 2024-09-05
-modified: 2024-09-15
+modified: 2024-09-30
 parent:
   - "[[ordinary differential equation|ODE]]"
 publish: true
@@ -30,7 +30,7 @@ a_n r^{n} + a_{n-1} r^{n-1} + \cdots + a_1 r + a_0 = 0
 $$
 
 ## Formation of the General Solution
-Solving the characteristic equation allow one to find the general solution of the differential equation. The solution depends on whether the roots are real or complex, and whether there are repeated roots.
+Solving the characteristic equation allow one to find the general solution of the differential equation. The solution depends on where the roots are at the [[./complex exponential function|complex frequency plane]], and whether there are repeated roots.
 
 ### Distinct Real Root
 The [[./linear transformation|superposition principle]] of a linear system says that if $u_1, u_2, \dots$ are $n$ [[./linear independence|linearly independent]] solutions to a linear differential equation, then $c_1u_1 + c_2u_2 + \dots + c_nu_n$ is also a solution for all constant values $c_1, c_2, \dots, c_n$. Thus, if the characteristic equation has distinct real roots $r_1, \dots, r_n$, then a general solution will be of the form
@@ -69,7 +69,10 @@ y = c_1 x e^{-2x} + c_2 e^{-2x}
 > $$
 
 ### Complex Root
-What if a root $r = \frac{-B \pm \sqrt{ B^2 - 4AC }}{2A}$ is complex? If a second-order differential equation has a characteristic equation with [[complex conjugate|complex conjugate]] roots $r_1 = a + bi$ and $r_2 = a - bi$, then the general solution is $y(x) = c_1e^{(a + bi)x} + c_2e^{(a - bi)x}$. We can simplify it further with [[./Euler's formula|Euler's formula]]:
+What if a root $r = \frac{-B \pm \sqrt{ B^2 - 4AC }}{2A}$ is complex? If a second-order differential equation has a characteristic equation with [[complex conjugate|complex conjugate]] roots $r_1 = a + bi$ and $r_2 = a - bi$, then the general solution is the following:
+$$y(x) = c_1e^{(a + bi)x} + c_2e^{(a - bi)x}.$$
+
+We can simplify it further with [[./Euler's formula|Euler's formula]]:
 $$
 \begin{align}
 y(x) &= c_1e^{(a + bi)x} + c_2e^{(a - bi)x} \\
