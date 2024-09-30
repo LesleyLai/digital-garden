@@ -4,7 +4,7 @@ parent:
 tags:
   - computing/database
 created: 2024-08-08
-modified: 2024-09-20
+modified: 2024-09-27
 aliases:
   - database
   - "#computing/database"
@@ -19,11 +19,13 @@ A **database-management system** (DBMS) is a collection of interrelated data and
 - [[./relational algebra|relational algebra]]
 - [[./database models|data models]]
   - [[relational model|relational model]]
+    - [[./keys in relational database|super keys and candidate keys]]
 - [[database schema|database schema]]
 - [[database integrity constraint|integrity constraint]]
 - [[./functional dependency|functional dependency]] and [[database normalization|normalization]]
 
 ## Database Design
 - [[entity-relationship model|entity-relationship model]]
+
 ## Database Languages
 - [[./SQL|SQL]]
