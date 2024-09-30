@@ -7,8 +7,6 @@ publish: true
 tags:
   - math/probability
 ---
-
-# Conditional Probability
 **Conditional probability** is the [[./probability|chance]] that a certain [[event (probability)|event]] occurs, given another event has occurred.
 
 It is defined as the [[joint probability|joint probability]] divided by the prior probability:
