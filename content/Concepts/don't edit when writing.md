@@ -7,8 +7,6 @@ publish: true
 tags:
   - writing/BestPractices
 ---
-
-# Don't Edit when Writing
 According to writing coach [[Daphne Gray-Grant|Daphne Gray-Grant]], the primary error many writers make is attempting to edit while writing at the same time. She explains that editing requires a [[./focused and diffuse modes of thinking|diffuse mode of thinking]], while writing demands a [[./focused and diffuse modes of thinking|focused mode]]. This abrupt context switch can severely hinder productivity. [^1]
 
 
