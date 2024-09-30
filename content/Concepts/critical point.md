@@ -8,8 +8,6 @@ tags:
   - "#math/definitions"
   - "#math/calculus"
 ---
-
-# Critical point
 For a multi-input function $f: \mathbb{R}^n \rightarrow \mathbb{R}$, the **critical point** $\mathbf{x}$ of the function is where its [[./multi-variable derivative|derivative]]/[[./gradient|gradient]] is zero or when the derivative/gradient doesn't exist:
 $$
 \begin{array}{r}
