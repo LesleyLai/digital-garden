@@ -6,6 +6,5 @@ tags:
   - "#psychology/cognitive"
   - learning/metacognition
 ---
-
 # Metacognition
 **Metacognition** is the awareness and understanding one's own thought process.
