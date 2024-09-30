@@ -10,8 +10,6 @@ publish: true
 tags:
   - physics/electromagnetism
 ---
-
-# Electric Current
 An **electric current** is a flow of charged particles.
 
 It is defined as the amount of charge passing through a specific point or boundary per unit of time. This can be represented mathematically as s $i = \frac{dq}{dt}$ where $q$ denotes [[electric charge|charge]].
