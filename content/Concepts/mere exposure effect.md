@@ -8,7 +8,6 @@ publish: true
 tags:
   - psychology/social
 ---
-
 # The Mere-Exposure Effect
 **The mere-exposure effect** is a psychological phenomenon where we tend to prefer things that we are more familiar with. It is also sometimes called the **familiarity principle** in [[./social psychology|social psychology]].
 
