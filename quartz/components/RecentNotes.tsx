@@ -78,7 +78,7 @@ export default ((userOpts?: Partial<Options>) => {
           })}
         </ul>
         {opts.linkToMore && remaining > 0 && (
-          <p>
+          <p class="link-to-more">
             <a href={resolveRelative(fileData.slug!, opts.linkToMore)}>
               {i18n(cfg.locale).components.recentNotes.seeRemainingMore({ remaining })}
             </a>

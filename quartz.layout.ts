@@ -12,9 +12,19 @@ export const sharedPageComponents: SharedLayout = {
       Component.RecentNotes({
         showTags: false,
         linkToMore: "/Concepts" as SimpleSlug,
-        limit: 10,
+        limit: 7,
         title: "Recently Edited Notes:",
         filter: (f) => f.relativePath?.startsWith("Concepts/") ?? false,
+      }),
+    ),
+    Component.OnlyFor(
+      { titles: ["Home"] },
+      Component.RecentNotes({
+        showTags: false,
+        linkToMore: "/Writings" as SimpleSlug,
+        limit: 5,
+        title: "Latest Writings:",
+        filter: (f) => f.relativePath?.startsWith("Writings/") ?? false,
       }),
     ),
     Component.Comments({

@@ -6,3 +6,18 @@
   font-size: 2rem;
   text-transform: capitalize;
 }
+
+/* capitalize recent notes title */
+.recent-notes {
+  & > ul.recent-ul {
+    margin-bottom: 0rem;
+
+    & h3 {
+      text-transform: capitalize;
+    }
+  }
+
+  & > .link-to-more {
+    margin: 0 0 2rem;
+  }
+}
