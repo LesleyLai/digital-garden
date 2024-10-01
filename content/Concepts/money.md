@@ -7,8 +7,6 @@ publish: true
 tags:
   - finance/currency
 ---
-
-# Money
 - [[./bank note|bank note]]
 - [[./legal tenders|legal tenders]]
 - [[./fiat money|fiat money]]
