@@ -32,22 +32,22 @@ If an [[./argument|argument]] is [[./validity (disambiguous)|validity]], it mean
 > [!example]+
 > Is the following argument valid?
 > 
-![[../assets/validity-tree-test-1-argument.png|validity-tree-test-1-argument.png]]
+> ![[../assets/validity-tree-test-1-argument.png|validity-tree-test-1-argument.png]]
 >
 > **Solution**
 > 
-![[../assets/validity tree test 1.png|validity tree test 1.png]]
+> ![[../assets/validity tree test 1.png|validity tree test 1.png]]
 >
 > We can see that all path in the tree are closed, so the argument is *valid*.
 
 > [!example]+
 > Is the following argument valid?
 > 
-![[../assets/validity-tree-test-2-argument.png|validity-tree-test-2-argument.png]]
+> ![[../assets/validity-tree-test-2-argument.png|validity-tree-test-2-argument.png]]
 >
 > **Solution**
 > 
-![[../assets/validity-tree-test-2.png|validity-tree-test-2.png]]
+> ![[../assets/validity-tree-test-2.png|validity-tree-test-2.png]]
 >
 > We can see that some paths are open, so the argument is *invalid*.
 > For example, when $A = F, B = T, C = T$, we have true premises but false conclusion
