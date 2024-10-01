@@ -10,8 +10,6 @@ tags:
   - math/LinearAlgebra/norm
   - "#math/definitions"
 ---
-
-# L2 Norm
 **L2 norm** is also called **Euclidean norm**.
 
 ## In Cartesian Coordinates
