@@ -11,9 +11,6 @@ specializations:
 tags:
   - math/LinearAlgebra/orthogonality
 ---
-
-# Unitary Matrix
-
 An invertible complex [[square matrix|square matrix]] $U$ is **unitary** if its [[./matrix inverse|matrix inverse]] $U^{-1}$ equals to its [[conjugate transpose|conjugate transpose]] $U^*$, that is, if $U^*U = UU^* = I$.
 
 In physics, especially in quantum mechanics, the conjugate transpose is denoted by a dagger ($\dagger$), so the above equation become $U^{\dagger}U = UU^{\dagger} = I$.
