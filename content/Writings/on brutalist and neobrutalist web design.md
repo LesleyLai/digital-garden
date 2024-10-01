@@ -2,7 +2,7 @@
 created: 2024-04-21
 modified: 2024-04-21
 parent:
-  - "[[my opinions|my opinions]]"
+  - "[[Writings/index|Writings/index]]"
 publish: true
 tags:
   - opinion
