@@ -9,8 +9,6 @@ publish: true
 created: 2024-04-01
 modified: 2024-04-01
 ---
-# SiYuan
-
 An note-taking tool that shares a lot of looks and feels of [[./Obsidian MOC|Obsidian]]. 
 
 Some major differences:
