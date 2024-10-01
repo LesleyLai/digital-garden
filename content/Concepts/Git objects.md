@@ -7,8 +7,6 @@ publish: true
 tags:
   - tools/git/internals
 ---
-
-# Git Objects
 There are three kinds of git objects: blob, tree, and commit.
 - [[./git blob object|Blob]]
   - analogous to a *file*
