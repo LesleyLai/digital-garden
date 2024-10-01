@@ -8,8 +8,6 @@ tags:
 parent:
   - "[[real analysis|real analysis]]"
 ---
-# Cauchy Sequence
-
 ## In Metric Space
 Let $(x^{(n)})^\infty_{n=m}$ be a sequence of points in the [[./metric space|metric space]] $(X, d)$. We say that this sequence is a **Cauchy sequence** iff for every $\epsilon > 0$, there exists an $N \ge m$ such that $d(x^{(j)}, x^{(k)}) < \epsilon$ for all $j, k \ge N$.
 
