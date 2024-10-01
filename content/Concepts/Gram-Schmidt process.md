@@ -6,8 +6,6 @@ tags:
   - math/LinearAlgebra/orthogonality
   - "#math/numerical"
 ---
-
-# Gram-Schmidt Process
 The **Gram-Schmidt process** is an algorithm to convert a [[./basis|basis]] $\{ \mathbf{a}_{1}, \mathbf{a}_{2}, \cdots, \mathbf{a}_{n} \}$ for some [[./vector space|vector space]] to an [[./orthonormal basis|orthonormal basis]] $\{ \mathbf{e}_{1}, \mathbf{e}_{2}, \cdots, \mathbf{e}_{n} \}$.
 
 The step is first find an orthogonal basis and then normalize.
