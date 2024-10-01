@@ -10,8 +10,6 @@ publish: true
 tags:
   - computing/PL/idea
 ---
-
-# Implicit Parameters
 Use case:
 - Avoid passing annoy-to-pass "context information" (allocator, loggers, etc)
 - passing additional parameters to an implementation of a generic interface
