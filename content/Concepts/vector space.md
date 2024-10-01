@@ -20,7 +20,7 @@ Informally, when we add or multiply vectors in a **vector space**, the result ve
 
 > [!definition]
 > 
-**vector spaces** are a set of objects $V$, called *vectors*, with the operations *scalars multiplication* and *addition*, and a special member *zero* $\mathbf{0} \in V$, that satisfy the following properties:
+> **vector spaces** are a set of objects $V$, called *vectors*, with the operations *scalars multiplication* and *addition*, and a special member *zero* $\mathbf{0} \in V$, that satisfy the following properties:
 >
 > For any vectors $\mathbf{u}$, $\mathbf{v}$, $\mathbf{w}$, and scalars $a$, $b$:
 >- $a \mathbf{v} \in V$ and $\mathbf{u} + \mathbf{v} \in V$ ([[./closure property of vectors|closure property]])
