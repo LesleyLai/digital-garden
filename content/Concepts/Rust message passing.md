@@ -8,9 +8,6 @@ publish: true
 tags:
   - computing/Rust/concurrency
 ---
-
-# Rust Message Passing
-
 Rust implements [[message passing|message passing]] between threads via channels. For example:
 
 ```rust
