@@ -7,9 +7,6 @@ publish: true
 tags:
   - computing/rust/lifetime
 ---
-
-# Rust Drop Order
-
 Local variables (including function argument) are dropped in reverse order, while nested values (like `struct` fields) are dropped in source code order.
 
 This behavior is different from C++ destruction order, where nested values are destructed in reverse order too.
