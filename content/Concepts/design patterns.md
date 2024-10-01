@@ -6,9 +6,8 @@ parent:
 publish: true
 tags:
   - "#computing/design_patterns"
+title: Design Patterns and Idioms
 ---
-
-# Design Patterns and Idioms
 - [[./Iterator Pattern|Iterator Pattern]]
 - [[./RAII|RAII]]
 
