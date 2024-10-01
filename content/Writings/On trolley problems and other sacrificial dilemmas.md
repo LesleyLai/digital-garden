@@ -4,7 +4,7 @@ aliases:
 created: 2024-04-09
 modified: 2024-04-09
 parent:
-  - "[[my opinions|my opinions]]"
+  - "[[Writings/index|Writings/index]]"
 publish: true
 tags:
   - opinion

@@ -30,4 +30,4 @@ Convolution has several nice properties:
 Convolutions has 
 - [[./polynomial multiplication as convolution|multiplication of polynomials as convolution]]
 - [[convolution of probability distributions|sum of probability distributions as convolution]]
-- convolution can be used to express the output of a [[linear time-invariant system|linear time-invariant system]] when [[zero-input response and zero-state response|zero-state response]] and input is given
+- convolution can be used to express the output of a [[./linear time-invariant system|linear time-invariant system]] when [[zero-input response and zero-state response|zero-state response]] and input is given

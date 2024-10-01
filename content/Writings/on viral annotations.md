@@ -3,7 +3,7 @@ created: 2024-04-25
 modified: 2024-05-17
 parent:
   - "[[pl design|pl design]]"
-  - "[[my opinions|my opinions]]"
+  - "[[Writings/index|Writings/index]]"
 publish: true
 tags:
   - opinion

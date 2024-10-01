@@ -2,14 +2,14 @@
 created: 2024-03-14
 modified: 2024-03-14
 parent:
-  - "[[my opinions|my opinions]]"
+  - "[[Writings/index|Writings/index]]"
 publish: true
 tags:
   - "#opinion"
   - computing/PL
   - "#todo/in_progress"
+title: On language features that "encourages bad practices"
 ---
-
 People often lament that certain programming language features "facilitate the creation of poor code too easily." In my opinion, certain design choices that make it significantly easier to write bug (such as `goto` statement, nullable default, or lack of [[memory safety|memory safety]]) should be seriously avoided, but "people can abuse it" is not sufficient for vetoing a feature, especially if it offers substantial value.
 
 Moreover, it is often the case that a feature being excluded under the pretext of "potential user misuse," yet the core language and standard library employ such features in a hardcoded manner regardless. I find this attitude condescending and hypocritical. [^1] Examples including the ubiquitous presence of hardcoded versions of operator overloading across nearly all programming languages including C and Java, and the lacking of generic in Go for years.

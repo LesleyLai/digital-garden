@@ -7,7 +7,7 @@ publish: true
 tags:
   - signal/systems
 specializations:
-  - "[[linear time-invariant system|linear time-invariant system]]"
+  - "[[./linear time-invariant system|linear time-invariant system]]"
 ---
 A system is **linear** if it follows the [[./linear transformation|superposition property]]:
 - Additivity
@@ -15,7 +15,7 @@ A system is **linear** if it follows the [[./linear transformation|superposition
 - Homogeneity (scaling)
   If $x \to y$, then for all real or imaginary k, $kx \to ky$
 
- If a linear system is also [[./time invariant system|time invariant]], it is called a [[linear time-invariant system|linear time-invariant system]].
+ If a linear system is also [[./time invariant system|time invariant]], it is called a [[./linear time-invariant system|linear time-invariant system]].
 
 ## Response of a Linear System
 A system's output for $t > 0$ is the result of two independent causes:

@@ -21,6 +21,8 @@ A **system** can be viewed as a black box that takes [[./signal|signals]] as inp
 - [[invertible systems|invertible vs noninvertible]]
 - [[internal and external stability of a system|stable vs unstable]]
 
+One of the most widely studied type of systems is the [[./linear time-invariant system|linear time-invariant (LTI) system]].
+
 ## System Response
 - [[zero-input response and zero-state response|zero-input response and zero-state response]]
 - [[impulse response|impulse response]]

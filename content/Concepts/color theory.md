@@ -2,7 +2,7 @@
 created: 2024-05-04
 modified: 2024-05-16
 parent:
-  - "[[note index|note index]]"
+  - "[[Concepts/index|Concepts/index]]"
 publish: true
 tags:
   - color

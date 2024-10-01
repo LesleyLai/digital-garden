@@ -13,10 +13,13 @@ tags:
 ## Typography
 - [[./em vs rem|em vs rem]]
 
+## Selectors
+- [[./CSS selectors cheatsheet|CSS selectors cheatsheet]]
+
 ## Layout
 - [[./flexbox|flexbox]]
 
-## At-rules
+## Responsive
 - [[CSS media queries|Media queries]]
 - [[./CSS container queries|Container queries]]
 
