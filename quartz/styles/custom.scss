@@ -1,4 +1,5 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
 // put your custom CSS here!
 
@@ -19,5 +20,25 @@
 
   & > .link-to-more {
     margin: 0 0 2rem;
+  }
+}
+
+/* Make the sidebar narrower on tablet */
+@media all and ($tablet) {
+  .page {
+    & > #quartz-body {
+      grid-template-columns: 240px auto !important;
+
+      & > .sidebar {
+        padding-left: 0;
+        padding-right: 1em;
+        padding-top: 2rem;
+      }
+
+      // Also makes both sidebar and content to pad less space on top
+      & .page-header {
+        margin-top: 2rem;
+      }
+    }
   }
 }
