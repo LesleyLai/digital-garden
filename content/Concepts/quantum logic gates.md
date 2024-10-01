@@ -9,8 +9,6 @@ publish: true
 tags:
   - computing/quantum/gates
 ---
-
-# Quantum Logic Gates
 Many quantum logic gates are based on classic [[logic gate|logic gates]], but there are some differences.
 
 ## Single-Qubit Gates
