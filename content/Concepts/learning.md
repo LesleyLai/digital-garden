@@ -9,8 +9,6 @@ tags:
   - learning
   - MOC
 ---
-
-# Learning MOC
 ## Strategies
 - [[./interleaving vs blocking in study|interleaving vs blocking in study]]
 - passive vs active learning
