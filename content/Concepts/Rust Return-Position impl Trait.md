@@ -12,9 +12,6 @@ publish: true
 tags:
   - "#computing/Rust/generic"
 ---
-
-# Rust Return Position-impl Trait
-
 Similar to [[./cpp-concepts|C++'s constrained return]], Rust functions can use `impl Trait` to return an "abstract" return type. This **Return Position-impl Trait** enable us to return closures as unnamed type in Rust.
 ```rust  
 fn f(a: f32) -> impl Fn(f32) -> f32 {
