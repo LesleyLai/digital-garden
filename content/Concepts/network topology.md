@@ -7,8 +7,6 @@ publish: true
 tags:
   - computing/networking
 ---
-
-# Network Topology
 **Network topology** is the arrangement of different nodes and edges in a computer network. 
 
 ![[../assets/NetworkTopologies.svg|NetworkTopologies.svg]]
