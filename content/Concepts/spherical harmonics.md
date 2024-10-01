@@ -9,6 +9,6 @@ tags:
 ---
 Spherical harmonics is a set of 2D [[./basis functions|basis functions]] $B_i(\omega)$ defined on the sphere. It is analogous to [[./Fourier series|Fourier series]] in 1D.
 
-> [!image]
 ![[../assets/spherical harmonics.png|spherical harmonics.png]]
+
 In the above graph, blue portions represent regions where the function is positive, and yellow portions represent where it is negative
