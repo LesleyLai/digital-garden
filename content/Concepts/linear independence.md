@@ -15,9 +15,9 @@ tags:
 # Linear Independence
 > [!definition]
 > 
-Let $\mathbf{v}_1, \cdots, \mathbf{v}_n$ be vectors in a [[./vector space|vector space]] V. If the only [[./linear combination|linear combination]] of the vectors satisfying
+> Let $\mathbf{v}_1, \cdots, \mathbf{v}_n$ be vectors in a [[./vector space|vector space]] V. If the only [[./linear combination|linear combination]] of the vectors satisfying
 > $$
-a_1 \mathbf{v}_1 + \cdots + a_n \mathbf{v}_n = \mathbf{0}
+> a_1 \mathbf{v}_1 + \cdots + a_n \mathbf{v}_n = \mathbf{0}
 > $$
 > is the trivial linear combination (all the a's is zero), then the vectors are **linearly independent**.
 
