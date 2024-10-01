@@ -37,6 +37,6 @@ title: Programming Language Design MOC
 - [[./law of exclusivity|law of exclusivity]]
 
 ## Thoughts
-- [[../Opinions/on viral annotations|on viral annotations]]
-- [[../Opinions/On language features that 'encourage bad practices'|On language features that 'encourage bad practices']]
-- [[../Opinions/On access control|On access control]]
+- [[../Writings/on viral annotations|on viral annotations]]
+- [[../Writings/On language features that 'encourage bad practices'|On language features that 'encourage bad practices']]
+- [[../Writings/On access control|On access control]]

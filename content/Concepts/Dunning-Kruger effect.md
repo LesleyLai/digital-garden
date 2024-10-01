@@ -21,6 +21,6 @@ This widely circulated interpretation significantly diverges from the original s
 
 ## Related
 - [[./people lack the metacognitive skills to learn effectively|people lack the metacognitive skills to learn effectively]]
-- [[../Opinions/On the IQ bell curve meme|On the IQ bell curve meme]]
+- [[../Writings/On the IQ bell curve meme|On the IQ bell curve meme]]
 
 [^1]: [The Dunning-Kruger Effect is Autocorrelation – Economics from the Top Down](https://economicsfromthetopdown.com/2022/04/08/the-dunning-kruger-effect-is-autocorrelation/)

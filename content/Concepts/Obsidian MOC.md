@@ -27,7 +27,7 @@ tags:
 - [[./obsidian mathlinks|Mathlinks]]
 - [[./Obsidian Tasks|Tasks]]
 - [[./Obsidian Excalidraw|Excalidraw]]
-- [[../Opinions/Obsidian spaced repetition|Spaced Repetition]]
+- [[../Writings/Obsidian spaced repetition|Spaced Repetition]]
 
 ## Tips
 - [[./Journaling in Obsidian|Journaling]]

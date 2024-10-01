@@ -13,7 +13,7 @@ tags:
 ---
 **Proof by assertion** is an informal fallacy in which a proposition is repeatedly restated regardless of contradiction and refutation. [^1] 
 
-Proof by assertion is *very* common in day-to-day conversation. At times, employing it serves its purpose by sparing us from endless cycles of [[../Opinions/debating is unproductive|debate]]. For instance, it's far simpler for me to ask a bigot STFU than to engage in futile attempts at persuasion. Nonetheless, proof by assertion often arises when individuals fail to engage in critical thinking or, even worse, as a manipulative tactic.
+Proof by assertion is *very* common in day-to-day conversation. At times, employing it serves its purpose by sparing us from endless cycles of [[../Writings/debating is unproductive|debate]]. For instance, it's far simpler for me to ask a bigot STFU than to engage in futile attempts at persuasion. Nonetheless, proof by assertion often arises when individuals fail to engage in critical thinking or, even worse, as a manipulative tactic.
 
 This is very different from establishing initial [[axiom|axioms]] when building a mathematical or logical framework.
 

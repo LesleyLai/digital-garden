@@ -16,7 +16,7 @@ tags:
 
 ## Software
 - [[./Anki|Anki]]
-- [[../Opinions/Obsidian spaced repetition|Obsidian spaced repetition]]
+- [[../Writings/Obsidian spaced repetition|Obsidian spaced repetition]]
 
 ## Related People
 The following people write blog posts and [[./spaced repetition|spaced repetition]] and flashcards
