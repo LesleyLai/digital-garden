@@ -12,11 +12,11 @@ tags:
 > [!definition] Definition of Convolution
 > For continuous functions, we have
 > $$
-f(t) * g(t) = \int_{\tau = -\infty}^{\infty} f(\tau) g(t - \tau) \, d\tau 
+> f(t) * g(t) = \int_{\tau = -\infty}^{\infty} f(\tau) g(t - \tau) \, d\tau 
 > $$
 > For discrete signals, we have convolution defined as
 > $$
-(a * b)_n = \sum_{i=1}^n a_i \cdot b_{n - i}
+> (a * b)_n = \sum_{i=1}^n a_i \cdot b_{n - i}
 > $$
 
 ## Properties of Convolution
