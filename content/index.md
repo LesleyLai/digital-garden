@@ -1,6 +1,6 @@
 ---
 created: 2024-09-16
-modified: 2024-09-25
+modified: 2024-10-01
 publish: true
 title: Home
 ---
@@ -13,12 +13,10 @@ If you are interested in the features and styles of this site, I keep a [[./Conc
 ## How to Navigate This Site?
 I primarily follow a note-taking method inspired by the [[./Concepts/Zettelkasten|Zettelkasten]] system, and as a result the site uses a mostly flat folder structure. To navigate this site, you'll mainly rely on links and backlinks. However, I do try to incorporate some hierarchy back by using a `parent:` property in Obsidian and create [[./Concepts/map of concepts|map of concepts]] pages to organize related ideas.
 
-Not sure where to start? Check the [[./Concepts/note index|note index]] or [[./Writings/my opinions|my opinions]].
+Not sure where to start? Check the [[./Concepts/index|note index]] or [[./Writings/index|my writings]].
 
 ## What You Will Find Here?
 - [[./Concepts/math|Mathematics]]: ranging from different branches such as [[./Concepts/logic|logic]], [[./Concepts/calculus|calculus]], [[./Concepts/linear algebra|linear algebra]], and [[./Concepts/probability MOC|probability]]
 - [[./Concepts/computing|Computing]]: topic ranging from programming languages like [[./Concepts/C++|C++]] and [[./Concepts/Rust|Rust]], and fields such as [[./Concepts/computer graphics MOC|computer graphics]] and [[./Concepts/programming languages MOC|programming languages]]
-- Notes in various other areas that capture my interest
-- Personal opinions and rants
-
-If you prefer more structured writing, be sure to check out [my blog](https://lesleylai.info/) as well.
+- Notes in various other areas that capture my interest, such as [[./Concepts/learning|how to learn]]
+- [[./Writings/index|Personal opinions and rants]]
