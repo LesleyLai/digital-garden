@@ -7,8 +7,6 @@ publish: true
 tags:
   - computing/cpp/stl
 ---
-
-# STL Algorithms
 C++ standard algorithms are in `<algorithm>`, `<numeric>`, and `memory` header. The "classic" algorithms operate on [[./C++ iterators|iterators]], while there are now also versions operating on [[./C++ ranges|ranges]] for some of the algorithms.
 
-- [[./C++ partial_sum exclusive_scan and inclusive_scan|std::partial_sum vs std::exclusive_scan vs std::inclusive_scan]]
+- [[./C++ partial_sum exclusive_scan inclusive_scan|std::partial_sum vs std::exclusive_scan vs std::inclusive_scan]]
