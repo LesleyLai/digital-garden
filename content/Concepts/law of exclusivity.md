@@ -1,12 +1,10 @@
 ---
 created: 2023-05-30
-modified: 2024-03-14
+modified: 2024-10-02
 publish: true
 tags:
   - computing/concurrency
 ---
-
-# Law of Exclusivity
 **Law of exclusivity** means that we need exclusive access when mutating an object.
 
 Consequences:
@@ -18,7 +16,7 @@ With law of exclusivity hold, we don't need explicit synchronization since we ca
 [[./value-oriented programming|Value-oriented programming]] is a paradigm that enforce the law of exclusivity, and [[./Rust borrow checker|Rust borrow checker]] also enforce that.
 
 ## Related Languages
-- [[./Rust|Rust]]
+- [[./Rust disallow simultaneous aliasing and mutation|Rust]]
 - [[./Swift|Swift]]
 - [[./The Hylo Programming Language|Hylo]]
 
