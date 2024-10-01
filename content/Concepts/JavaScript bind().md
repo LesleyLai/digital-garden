@@ -2,10 +2,11 @@
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - computing/javascript
+parent:
+  - "[[JavaScript|JavaScript]]"
 ---
-
-# JavaScript bind()
-
 ## Losing This
 JavaScript doesn't have [[bound method|bound method]] and we can easily lose `this` when we store or pass a method as a variable. We can use `bind` to fix this:
 ```javascript
@@ -21,7 +22,3 @@ greet2(); // ok
 - [[JavaScript this|this]]
 - [[JavaScript call()|call()]]
 - [[JavaScript apply()|apply()]]
-
----
-parent: [[./JavaScript|JavaScript]]
-tags: #computing/javascript
