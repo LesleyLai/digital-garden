@@ -9,9 +9,6 @@ tags:
   - computing/Rust/Testing
   - computing/Rust/BestPractice
 ---
-
-# Testing in Rust
-
 Rust tests can be defined as nested modules or as standalone files.
 
 Nest modules defines *unit tests*. They can be defined by a separate module annotated by some attributes:
