@@ -8,7 +8,6 @@ tags:
   - math/DifferentialEquations
   - math/numerical
 ---
-# Numerical Methods for Ordinary Differential Equations
 See [[./ordinary differential equation|ordinary differential equation]]
 
 ## First Order
