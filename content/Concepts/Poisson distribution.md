@@ -1,12 +1,13 @@
 ---
-Aliases:
+aliases:
   - Poisson random variable
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - math/probability/distribution
+  - math/definitions
 ---
-
-# Poisson Distribution
 A discrete random variable $X$ is $\text{Poisson}(\lambda)$ for $\lambda > 0$ when the PMF
 $$
 P(X = x) = \frac{e^{-\lambda} \lambda^x}{x!}, \quad x = 0, 1, 2, \cdots
@@ -24,6 +25,3 @@ $$
 
 ## Properties
 - [[./sum of random variable#|the sum of Poisson random variables is Poisson]]
-
----
-tags: #math/probability/distribution #math/definitions
