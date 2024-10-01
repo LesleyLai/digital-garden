@@ -41,13 +41,13 @@ $$
 
 > [!example]- Example: Solve $y'' + 5y' + 6y = 0$
 > $$
-\begin{align}
-r^2 + 5r + 6 &= 0 & \text{(charastristic equation)} \\
-(r + 2)(r + 3) &= 0 \\
-r_1 = -2, r_2 = -3 \\
-y = c_1 e^{-2x} + c_2 e^{-3x}
-\end{align}
->$$
+> \begin{align}
+> r^2 + 5r + 6 &= 0 & \text{(charastristic equation)} \\
+> (r + 2)(r + 3) &= 0 \\
+> r_1 = -2, r_2 = -3 \\
+> y = c_1 e^{-2x} + c_2 e^{-3x}
+> \end{align}
+> $$
 
 ### Repeated Real Root
 If the characteristic equation has a root $r_1$ that repeated $k$ times, the general solution that corresponding to $r_1$ is
@@ -57,15 +57,15 @@ $$
 
 > [!example]+ Example $y'' + 4y' + 4y = 0$
 > $$
-\begin{align}
-r^2 + 4r + 4 &= 0 \\
-(r + 2)^2 &= 0 \\
-r_1 = r_2 = -2
-\end{align}
+> \begin{align}
+> r^2 + 4r + 4 &= 0 \\
+> (r + 2)^2 &= 0 \\
+> r_1 = r_2 = -2
+> \end{align}
 > $$
 > thus
 > $$
-y = c_1 x e^{-2x} + c_2 e^{-2x}
+> y = c_1 x e^{-2x} + c_2 e^{-2x}
 > $$
 
 ### Complex Root
@@ -89,18 +89,18 @@ Note that both $C_1$ and $C_2$ may be complex numbers.
 > [!example]- *Example*: $y'' + 4y' + 5y = 0,\ y(0) = 1,\ y'(0) = 0$
 > Solve characteristic equation
 > $$
-\begin{align}
-r^2 + 4r + 5 = 0 \\
-r = \frac{-4 + \sqrt{ 16 - 4 \cdot 1 \cdot 5 }}{2} = -2 \pm i
-\end{align}
+> \begin{align}
+> r^2 + 4r + 5 = 0 \\
+> r = \frac{-4 + \sqrt{ 16 - 4 \cdot 1 \cdot 5 }}{2} = -2 \pm i
+> \end{align}
 > $$
 > Thus,
 > $$
-y = e^{-2x}(c_1 \cos(x) + c_2 \sin(x))
+> y = e^{-2x}(c_1 \cos(x) + c_2 \sin(x))
 > $$
 > Applying initial values $c_1 = 1$, $c_2 = 2$,
 > $$
-y(x) = e^{-2x}(\cos(x) + 2 \sin(x))
+> y(x) = e^{-2x}(\cos(x) + 2 \sin(x))
 > $$
 
 
