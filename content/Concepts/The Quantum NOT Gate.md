@@ -7,8 +7,6 @@ publish: true
 tags:
   - computing/quantum/gates
 ---
-
-# The Quantum NOT Gate
 For historical reasons, people usually use $X$ to represent the quantum Not gate (see [[Pauli matrices|Pauli matrices]]).
 
 When taking  $|0\rangle$ and $|1\rangle$ states, the quantum Not gate does the same thing as the classic NOT gate:
