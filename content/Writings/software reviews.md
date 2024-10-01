@@ -1,6 +1,6 @@
 ---
 parent:
-  - "[[my opinions|my opinions]]"
+  - "[[Writings/index|Writings/index]]"
 publish: true
 tags:
   - opinion/softwareReview
@@ -13,5 +13,8 @@ modified: 2024-09-25
 ## Flashcards
 - [[my evaluation on Anki|Anki]]
 - [[./Obsidian spaced repetition|Obsidian spaced repetition]]
+
+## LLM
+- [[./my evaluation on Perplexity|Perplexity]]
 
 ## Uncategorized
