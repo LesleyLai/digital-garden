@@ -1,6 +1,6 @@
 ---
 parent:
-  - "[[note index|note index]]"
+  - "[[Concepts/index|Concepts/index]]"
 tags:
   - psychology
   - MOC
@@ -16,7 +16,7 @@ publish: true
 
 ## Self
 - [[./self-perception theory|self-perception theory]]
-- [[self-efficacy|self-efficacy]]
+- [[./self-efficacy|self-efficacy]]
 
 ## Personality
 - [[./Big Five personality traits|Big Five personality traits]]
