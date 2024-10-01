@@ -2,6 +2,8 @@
 created: 2024-02-14
 modified: 2024-03-14
 publish: true
+parent:
+  - "[[spherical coordinates|spherical coordinates]]"
 ---
 
 Note that there are two set of convention for spherical coordinates, "physics convention" or "mathematical convention":
