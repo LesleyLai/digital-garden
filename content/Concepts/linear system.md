@@ -38,6 +38,7 @@ $$
 
 For example, for an arbitrary input $x(t)$, we can approximate it with a sum of [[rectangular function|rectangular pulses]] of width $\Delta t$ and of varying heights. Alternatively, we can also approximate it with [[./unit step function|unit step functions]]:
 ![[../assets/signal representation in terms of impulse and step components.png|signal representation in terms of impulse and step components.png]]
+
 Time-domain analysis of linear systems uses the above approach. And when performing frequency domain analysis using [[Laplace transform|Laplace transform]] or [[Fourier transform|Fourier transform]], we instead use [[sinusoid|sinusoids]] or [[./complex exponential function|exponentials]] as [[./basis functions|basis]].
 
 ## References
