@@ -7,27 +7,24 @@ tags:
   - math/definitions
   - statisticsAndDataScience
 ---
-
-# Variance and Standard Deviation
-
 In probability and statistics, **variance** measure "how far are the samples from average, on average." It can be defined in term of [[expectation|expectation]]:
 
 > [!definition]
 > Given a random variable $X$,
->$$Var[X]=E\left[(X-E[X])^2\right]$$
+> $$Var[X]=E\left[(X-E[X])^2\right]$$
 
 ## An Equivalent Definition
 An equivalent way to define variant is the following equation
 $$\operatorname{Var}(X)=E\left[X^2\right]-E[X]^2$$
 > [!derivation]-
 > $$
-\begin{align}  
-\operatorname{Var}(X) &= \operatorname{E}\left[(X - \operatorname{E}[X])^2\right] \\[4pt]  
-&= \operatorname{E}\left[X^2 - 2X\operatorname{E}[X] + \operatorname{E}[X]^2\right] \\[4pt]  
-&= \operatorname{E}\left[X^2\right] - 2\operatorname{E}[X]\operatorname{E}[X] + \operatorname{E}[X]^2 & (\text{By linearity of expectation}) \\[4pt]  
-&= \operatorname{E}\left[X^2\right] - 2\operatorname{E}[X]^2 + \operatorname{E}[X]^2 \\[4pt]  
-&= \operatorname{E}\left[X^2 \right] - \operatorname{E}[X]^2  
-\end{align}
+> \begin{align}  
+> \operatorname{Var}(X) &= \operatorname{E}\left[(X - \operatorname{E}[X])^2\right] \\[4pt]  
+> &= \operatorname{E}\left[X^2 - 2X\operatorname{E}[X] + \operatorname{E}[X]^2\right] \\[4pt]  
+> &= \operatorname{E}\left[X^2\right] - 2\operatorname{E}[X]\operatorname{E}[X] + \operatorname{E}[X]^2 & (\text{By linearity of expectation}) \\[4pt]  
+> &= \operatorname{E}\left[X^2\right] - 2\operatorname{E}[X]^2 + \operatorname{E}[X]^2 \\[4pt]  
+> &= \operatorname{E}\left[X^2 \right] - \operatorname{E}[X]^2  
+> \end{align}
 > $$
 > See [[linearity of expectation|linearity of expectation]]
 
@@ -45,7 +42,8 @@ $$
 ## Variance is not Linear
 
 Unlike [[linearity of expectation|expectation]], variance is not linear:
-$$\begin{aligned}
+$$
+\begin{aligned}
 V[a f(x)] & =a^2 V[f(x)]
 \end{aligned}
 $$
