@@ -5,8 +5,6 @@ publish: true
 tags:
   - computing/compiler/optimizations
 ---
-# Chain of Recurrences
-
 **Chains of recurrences** can be used as compiler optimization to transform loops/recursion/fold into closed form calculation.
 
 ## Reference
