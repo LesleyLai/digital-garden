@@ -10,9 +10,6 @@ tags:
   - math/LinearAlgebra/VectorSpace
   - math/definitions
 ---
-
-# Column Space
-
 > [!definition] The **Column Space** $Col(A)$ of a matrix $A$ is the [[./linear span|span]] (set of all possible [[./linear combination|linear combinations]]) of its column vectors.
 
 The column space is also called the **image**.

@@ -1,15 +1,13 @@
 ---
 created: 2024-04-01
-modified: 2024-05-03
+modified: 2024-10-02
 parent:
   - "[[./flashcards|flashcards]]"
 publish: true
 tags:
   - memory/spaced_repetition/software
 ---
-
-# Anki
-Anki is a [[./flashcards|flashcards]] & [[./spaced repetition|spaced repetition]] software that I use daily.
+**Anki** is a [[./flashcards|flashcards]] & [[./spaced repetition|spaced repetition]] software that I use daily.
 
 - [[./Anki conditional replacement|conditional replacement]]
 - [[my evaluation on Anki|my evaluation on Anki]]

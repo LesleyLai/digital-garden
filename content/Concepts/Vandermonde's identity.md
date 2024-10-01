@@ -5,9 +5,6 @@ publish: true
 tags:
   - "#math/combinatorics"
 ---
-
-# Vandermonde's Identity
-
 The **Vandermonde's identity** states that the [[./binomial coefficient|binomial coefficient]]
 
 $${m+n \choose r}=\sum_{k=0}^r{m \choose k}{n \choose r-k}$$

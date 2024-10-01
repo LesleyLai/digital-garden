@@ -8,9 +8,6 @@ publish: true
 tags:
   - computing/AlgorithmsAndDataStructures/parallel
 ---
-
-# Parallel Scan
-
 For a single threaded [[./prefix sum|scan]] algorithm, we can do a for loop like this:
 ```cpp
 out[0] = in[0];

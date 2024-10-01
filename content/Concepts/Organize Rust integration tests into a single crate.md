@@ -8,9 +8,6 @@ tags:
   - computing/Rust/Testing
   - computing/Rust/Cargo
 ---
-
-# Organize Rust Integration Tests into a Single Crate
-
 It is beneficial to put Rust integration tests (those standalone tests in `/tests`) folder into a single crate.
 
 In other word, instead of doing

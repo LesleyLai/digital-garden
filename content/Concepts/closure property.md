@@ -9,10 +9,7 @@ tags:
   - math/set_theory
   - math/definitions
 ---
-
-# Closure Property
-
->[!tip] Not to be confused with: [[./adherent point|closure (topology)]], [[closure (programming)|closure (programming)]]
+>[!tip] Not to be confused with: [[./adherent point|closure (topology)]] or [[closure (programming)|closure (programming)]]
 
 > [!definition]
 A set is said to be **closed under certain operation** if performing that operation on members of the set always return another member of the set.

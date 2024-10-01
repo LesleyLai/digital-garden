@@ -10,8 +10,6 @@ tags:
   - math/functions
   - math/continuity
 ---
-
-# Continuous Functions
 Let $X$ be a subset of $\mathbb{R}$, and let $f: X \rightarrow R$ be a function. Let $x_0$ be an element of $X$. We say that the [[./functions|function]] $f$ is **continuous at** $x_0$ iff we have
 
 $$

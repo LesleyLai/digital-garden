@@ -11,8 +11,6 @@ tags:
   - math/numerical
   - math/optimization
 ---
-
-# Newton's Method
 Newton's method is an iterative method to find root.
 
 ## Newton's Method in N Dimension

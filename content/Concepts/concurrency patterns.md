@@ -5,9 +5,9 @@ parent:
   - "[[design patterns|design patterns]]"
   - "[[concurrency|concurrency]]"
 publish: true
-tags: 
+tags:
+  - "#computing/concurrency"
+  - computing/design_patterns
 ---
-
-# Concurrency Pattern
 - [[./active object|active object]]
 - [[./multiple buffering|multiple buffering]]

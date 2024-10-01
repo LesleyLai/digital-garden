@@ -7,9 +7,6 @@ publish: true
 tags:
   - computing/cuda
 ---
-
-# CUDA Task Graph
-
 CUDA task graph can save snapshot of task invocations and replay later.
 It has way faster relaunching time compare to launching via [[./CUDA stream|stream]] every time.
 

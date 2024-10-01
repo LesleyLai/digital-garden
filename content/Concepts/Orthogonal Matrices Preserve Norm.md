@@ -5,8 +5,6 @@ publish: true
 tags:
   - "#math/LinearAlgebra/orthogonality"
 ---
-
-## Orthogonal Matrices Preserve Norm
 Another property is that [[./orthogonal matrix|orthogonal matrices]] preserve [[./norm|norm]] of a vector ($||Q\mathbf{x}|| = ||\mathbf{x}||$). This is why it represents either [[./rotation|rotation]] or [[./reflection|reflection]] geometrically.
 ### Proof
 $$

@@ -22,9 +22,9 @@ What makes this first order is that we only need to know the most recent previou
 
 > [!example]
 > $$
-y_{n+1} = 3y_n + 1
->$$
->Sometimes we use a different notation:
->$$
-y[n + 1] = 3y[n] + 1
-$$
+> y_{n+1} = 3y_n + 1
+> $$
+> Sometimes we use a different notation:
+> $$
+> y[n + 1] = 3y[n] + 1
+> $$

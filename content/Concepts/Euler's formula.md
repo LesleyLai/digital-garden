@@ -12,30 +12,30 @@ tags:
 > [!definition] Definition: Euler's formula
 > For any real $\theta$
 > $$
-e^{i\theta} = \cos{\theta} + i \sin{\theta}
+> e^{i\theta} = \cos{\theta} + i \sin{\theta}
 > $$
 
 The **Euler's formula** can be seen as a definition of the **complex exponential**.
 
 ## Trig Functions to Exponential Functions
 We can derive $e^{-i\theta} = \cos{\theta} - i \sin{\theta}$. Adding or subtracting it with the original Euler's formula:
-$$
-\begin{aligned}
-& \cos (\theta)=\frac{\left(e^{i \theta}+e^{-i \theta}\right)}{2} \\
-& \sin (\theta)=\frac{\left(e^{i \theta}-e^{-i \theta}\right)}{2i}
-\end{aligned}
-$$
+> $$
+> \begin{aligned}
+> & \cos (\theta)=\frac{\left(e^{i \theta}+e^{-i \theta}\right)}{2} \\
+> & \sin (\theta)=\frac{\left(e^{i \theta}-e^{-i \theta}\right)}{2i}
+> \end{aligned}
+> $$
 
 > [!example]- Example: Use the Euler's formula to compute $\int \sin^2(t) \ dt$
 > $$
-\begin{align}
-\int \sin^2(t) \ dt  &= \int \left( \frac{e^{it} - e^{-it}}{2i} \right)^2 \, dt  \\
-&= -\frac{1}{4} \int e^{2it} + e^{-2it} - 2 \, dt  \\
-&= -\frac{1}{4}\left( \frac{e^{2it}}{2i} - \frac{e^{-2it}}{2i} + 2t \right) + C \\
-&= -\frac{1}{4} \left( \frac{\cos(2t) + i\sin(2t)}{2i} + \frac{\cos(-2t) + i\sin(-2t)}{-2i} \right) - \frac{1}{2}t + C \\
-&= -\frac{1}{4} \left( \frac{\cos(2t) + i\sin(2t)}{2i} -\frac{\cos(2t) - i\sin(2t)}{2i} \right) + \frac{1}{2}t + C \\
-&= -\frac{1}{4} \sin(2t) + \frac{1}{2}t + C
-\end{align}
+> \begin{align}
+> \int \sin^2(t) \ dt  &= \int \left( \frac{e^{it} - e^{-it}}{2i} \right)^2 \, dt  \\
+> &= -\frac{1}{4} \int e^{2it} + e^{-2it} - 2 \, dt  \\
+> &= -\frac{1}{4}\left( \frac{e^{2it}}{2i} - \frac{e^{-2it}}{2i} + 2t \right) + C \\
+> &= -\frac{1}{4} \left( \frac{\cos(2t) + i\sin(2t)}{2i} + \frac{\cos(-2t) + i\sin(-2t)}{-2i} \right) - \frac{1}{2}t + C \\
+> &= -\frac{1}{4} \left( \frac{\cos(2t) + i\sin(2t)}{2i} -\frac{\cos(2t) - i\sin(2t)}{2i} \right) + \frac{1}{2}t + C \\
+> &= -\frac{1}{4} \sin(2t) + \frac{1}{2}t + C
+> \end{align}
 > $$
 
 ## Some Intuition

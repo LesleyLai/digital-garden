@@ -19,31 +19,31 @@ It does that by finding [[./critical point|critical point]] at $\nabla f = \lamb
 > [!example]- Find the maximum and minimum values of $f(x, y) = x^2 + x + 2y^2$ on the unit circle
 > Answer: The objective function is $f(x, y)$. The constraint is $g(x, y)=x^2+y^2=1$.
 > Lagrange equations:
->$$
-\begin{aligned}
-& f_x=\lambda g_x \quad \Leftrightarrow \quad 2 x+1=\lambda 2 x \\
-& f_y=\lambda g_y \quad \Leftrightarrow \quad 4 y=\lambda 2 y \\
-& x^2+y^2=1
-\end{aligned}
->$$
+> $$
+> \begin{aligned}
+> & f_x=\lambda g_x \quad \Leftrightarrow \quad 2 x+1=\lambda 2 x \\
+> & f_y=\lambda g_y \quad \Leftrightarrow \quad 4 y=\lambda 2 y \\
+> & x^2+y^2=1
+> \end{aligned}
+> $$
 >
->Constraint:
->The second equation shows $y=0$ or $\lambda=2$.
->$$
-\begin{aligned}
-& \lambda=2 \Rightarrow x=1 / 2, y= \pm \sqrt{3} / 2 . \\
-& y=0 \Rightarrow x= \pm 1 .
-\end{aligned}
->$$
+> Constraint:
+> The second equation shows $y=0$ or $\lambda=2$.
+> $$
+> \begin{aligned}
+> & \lambda=2 \Rightarrow x=1 / 2, y= \pm \sqrt{3} / 2 . \\
+> & y=0 \Rightarrow x= \pm 1 .
+> \end{aligned}
+> $$
 >
->Thus, the critical points are $(1 / 2, \sqrt{3} / 2),(1 / 2,-\sqrt{3} / 2),(1,0)$, and $(-1,0)$.
->$$
-\begin{aligned}
-& f(1 / 2, \pm \sqrt{3 / 2})=9 / 4 \text { (maximum) } \\
-& f(1,0)=2 \text { (neither min. nor max) } \\
-& f(-1,0)=0 \text { (minimum). }
-\end{aligned}
->$$
+> Thus, the critical points are $(1 / 2, \sqrt{3} / 2),(1 / 2,-\sqrt{3} / 2),(1,0)$, and $(-1,0)$.
+> $$
+> \begin{aligned}
+> & f(1 / 2, \pm \sqrt{3 / 2})=9 / 4 \text { (maximum) } \\
+> & f(1,0)=2 \text { (neither min. nor max) } \\
+> & f(-1,0)=0 \text { (minimum). }
+> \end{aligned}
+> $$
 
 The Lagrange multipliers doesn't tell whether a solution is a maximum, minimum, or a [[saddle point|saddle point]], but we can use the [[./second derivative test|second derivative test]].
 ## Intuition

@@ -6,11 +6,10 @@ modified: 2024-08-25
 parent:
   - "[[database|database]]"
 publish: true
-tags: 
+tags:
+  - computing/database
 ---
-
-# Data Models
-The **data model** is a collection of concepts for describing the data in a database.
+A **data model** is a collection of concepts for describing the data in a database.
 
 Examples of data models includes:
 - [[relational model|relational]]

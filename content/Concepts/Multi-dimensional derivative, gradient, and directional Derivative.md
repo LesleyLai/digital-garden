@@ -7,8 +7,6 @@ publish: true
 tags:
   - math/calculus/vector
 ---
-
-# Multi-Dimensional Derivative, Gradient, and Directional Derivative
 see: [[./multi-variable derivative|multi-variable derivative]], [[./gradient|gradient]], and [[./directional derivative|directional derivative]]
 
 ## Multi-Dimensional Derivative and Gradient

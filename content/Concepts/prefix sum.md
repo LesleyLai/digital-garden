@@ -21,7 +21,7 @@ tags:
 - Outputs the array
   - $[I, a_0, (a_0 \bigoplus a_1), , (a_0 \bigoplus a_1 \bigoplus a_2), \dots, (a_0 \bigoplus a_1 \bigoplus a_2 \bigoplus \dots \bigoplus a_{n-2})]$
 
-C++ STL's `std::partial_sum`, `std::exclusive_scan`, and `std::inclusive_scan` are example implementation of the scan algorithm. Note that the difference of `partial_sum` and `inclusive_scan` is that `partial_sum` [[./C++ partial_sum exclusive_scan and inclusive_scan|additionally guarantee evaluation order]].
+C++ STL's `std::partial_sum`, `std::exclusive_scan`, and `std::inclusive_scan` are example implementation of the scan algorithm. Note that the difference of `partial_sum` and `inclusive_scan` is that `partial_sum` [[./C++ partial_sum exclusive_scan inclusive_scan|additionally guarantee evaluation order]].
 
 ### Exclusive Vs Inclusive Scan
 Exclusive: element $j$ of the result does not include element $j$ of the input

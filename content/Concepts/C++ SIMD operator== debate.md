@@ -8,7 +8,6 @@ tags:
 created: 2024-04-04
 modified: 2024-04-04
 ---
-# C++ SIMD `operator==` Debate
 Here is the brief summarized debate of whether [[SIMD|SIMD]] vectors should have `operator==` return a SIMD vector or a boolean
 ## `operator==` Should Returns a SIMD Vector Camp
 - That's what state-of-arts C++ libraries do

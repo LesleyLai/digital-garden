@@ -18,21 +18,21 @@ Geometrically, we can view determinant as [[./geometric intuitions of determinan
 ## Recursive Definition
 > [!definition]
 > We can define **determinant** by *Laplace expansion:
->$$
-\begin{align}  
-\det(a) &= a & (\text{for one dimensional matrix $a$}) \\
-\det(B)&= \sum_{j=1}^{n} (-1)^{i+j}  B_{i,j} m_{i, j},
-\end{align}
+> $$
+> \begin{align}  
+> \det(a) &= a & (\text{for one dimensional matrix $a$}) \\
+> \det(B)&= \sum_{j=1}^{n} (-1)^{i+j}  B_{i,j} m_{i, j},
+> \end{align}
 > $$
 where $B_{i, j}$ is element at the $i$th row and $j$th column of $B$, and $m_{i, j}$ is the determinant of the submatrix obtained by removing the $i$th row and $j$th columns from B.
 
 > [!example]-
->$$
-\begin{align}
-B &= \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix} \\
-\det{B} &= 1 \cdot \begin{vmatrix} 5 & 6 \\ 8 & 9 \end{vmatrix} - 2 \cdot \begin{vmatrix} 4 & 6 \\ 7 & 9 \end{vmatrix} + 3 \cdot \begin{vmatrix} 4 & 5 \\ 7 & 8 \end{vmatrix} \\[5pt]  
-& = 1 \cdot (-3) - 2 \cdot (-6) + 3 \cdot (-3) = 0
-\end{align}
+> $$
+> \begin{align}
+> B &= \begin{bmatrix} 1 & 2 & 3 \\ 4 & 5 & 6 \\ 7 & 8 & 9 \end{bmatrix} \\
+> \det{B} &= 1 \cdot \begin{vmatrix} 5 & 6 \\ 8 & 9 \end{vmatrix} - 2 \cdot \begin{vmatrix} 4 & 6 \\ 7 & 9 \end{vmatrix} + 3 \cdot \begin{vmatrix} 4 & 5 \\ 7 & 8 \end{vmatrix} \\[5pt]  
+> & = 1 \cdot (-3) - 2 \cdot (-6) + 3 \cdot (-3) = 0
+> \end{align}
 > $$
 
 ## Definition Based on Properties

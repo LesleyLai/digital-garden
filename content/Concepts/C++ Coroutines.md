@@ -6,8 +6,6 @@ publish: true
 tags:
   - "#computing/cpp/coroutine"
 ---
-
-# C++ Coroutines
 A coroutine in C++ is an [[finite state machine|finite state machine]] that can be controlled and customized by the `promise_type`.
 
 ## Promise Type

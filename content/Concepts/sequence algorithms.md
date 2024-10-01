@@ -9,8 +9,6 @@ publish: true
 tags:
   - computing/AlgorithmsAndDataStructures/sequence
 ---
-# Sequence Algorithms
-
 This page contains algorithms on sequences like arrays or lists. Note that a lot of those algorithms have [[./parallel algorithms|parallel versions]].
 
 - [[reduction|reduction]]

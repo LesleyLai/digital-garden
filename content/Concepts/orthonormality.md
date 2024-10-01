@@ -9,5 +9,4 @@ tags:
   - math/LinearAlgebra/orthogonality
   - "#math/definitions"
 ---
-
 Two vectors are orthonormal if they are [[./orthogonal|orthogonal]] to each other and are unit vectors.

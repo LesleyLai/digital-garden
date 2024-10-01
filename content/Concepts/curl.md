@@ -6,8 +6,6 @@ tags:
   - math/calculus/vector
   - math/definitions
 ---
-# Curl
-
 Intuitively, the curl measures how much is a [[./vector field|vector field]] rotating or spinning around a point.
 
 > [!example]+ Demonstrations

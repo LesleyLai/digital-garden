@@ -6,9 +6,8 @@ parent:
 publish: true
 tags:
   - computing/Rust/Testing
+title: Testing Command Line Applications in Rust
 ---
-
-# Testing Command Line Applications in Rust
 - Handwriting with `Command` API: versatile but verbose
 - [assert_cmd](https://docs.rs/assert_cmd/latest/assert_cmd/index.html): some nice helpers
 

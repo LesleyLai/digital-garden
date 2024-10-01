@@ -9,8 +9,6 @@ publish: true
 tags:
   - math/linearalgebra/matrices
 ---
-
-# Matrix Multiplication
 Similar to [[./matrix-vector multiplication|matrix-vector multiplication]], there are multiple ways to interpret matrix-matrix multiplication. The most common one (and by definition) is the [[./inner product|inner product]] interpretation:
 $$
 C=A B=\left[\begin{array}{ccc}

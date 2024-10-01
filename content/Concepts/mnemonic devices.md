@@ -10,8 +10,6 @@ publish: true
 tags:
   - "#memory/mnemonic"
 ---
-
-# Mnemonic Devices
 ## Psychology
 - [[./Big Five personality traits|Big Five personality traits]]: "OCEAN"
   - **O**penness to experience, **C**onscientiousness, **E**xtraversion, **A**greeableness, **N**euroticism

@@ -9,8 +9,6 @@ tags:
   - math/topology
   - math/definitions
 ---
-
-# Metric Space
 A **metric space** $(X, d)$ is a space $X$ of objects (called points) together with a distance function or metric $d : X \times X \rightarrow [0, \infty)$:
 
 which associates to each pair $x, y$ of points in $X$ a non-negative real number $d(x, y) \ge 0$.
@@ -23,17 +21,19 @@ Further more, the metric must satisfy the following properties:
 
 > [!example]+ Example: Euclidean Space
 > see: [[./Euclidean vector space|Euclidean vector space]]
+> 
    $(\mathbf{R}^n, d_{l^2})$, the Euclidean space of dimension, use Euclidean distance as the metric.
 
 > [!example]+ Example: Taxicab Space
 > $(\mathbf{R}^n, d_{l^1})$ uses [[./manhattan distance|manhattan distance]] as the metric (taxicab metric).
 >
 > The metric satisfy the inequality $$
-d_{l^2}(x, y) \le d _{l^1} \le \sqrt{n} d_{l^2}
->$$
+> d_{l^2}(x, y) \le d _{l^1} \le \sqrt{n} d_{l^2}
+> $$
 
 > [!example]+ Example: Sup norm metric
 > see also: [[./infinity norm|infinity norm]]
+> 
 > We can have metric space $(\mathbf{R}^n, d_{l^\infty})$ where 
 >$$ d_{l^\infty}( \mathbf{x}, \mathbf{y} ) = \sup\{ \left| x_1 - y_1 \right| : 1 \le i \le n \}$$
 >
@@ -42,4 +42,5 @@ d_{l^2}(x, y) \le d _{l^1} \le \sqrt{n} d_{l^2}
 
 > [!info]+ $l^p$ space
 > see also: [[./p-norm|p-norm]]
+> 
 > The above $l^1$, $l^2$, and $l^\infty$ metric spaces are special case of the $l^p$ metrics, where $p \in [1, +\infty]$

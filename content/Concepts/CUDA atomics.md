@@ -7,9 +7,8 @@ publish: true
 tags:
   - computing/cuda
 ---
-
-# CUDA Atomics
 ## Compare and Swap
+See: [[compare and swap|compare and swap]]
 ```cpp
 int atomicCAS(int* address, int compare, int val);
 ```

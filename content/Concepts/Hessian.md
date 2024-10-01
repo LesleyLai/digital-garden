@@ -9,10 +9,7 @@ publish: true
 tags:
   - math/calculus/vector
 ---
-
-# Hessian
-
-The Hessian is the matrix of all second [[partial derivative|partial derivative]]
+The Hessian is the matrix of all second [[./partial derivative|partial derivative]]
 
 $$
 \begin{equation}

@@ -7,8 +7,6 @@ publish: true
 tags:
   - computing/cuda/memory
 ---
-
-# CUDA Registers
 **CUDA registers** are private to each [[CUDA thread|thread]], which means registers assigned to each thread are not visible to other thread. The compiler makes decisions about register utilization.
 
 ## Related

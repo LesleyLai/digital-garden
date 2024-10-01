@@ -7,8 +7,6 @@ tags:
   - cheatsheet
   - tools/obsidian/plugins
 ---
-
-# Obsidian Latex Suite
 [GitHub Repository](https://github.com/artisticat1/obsidian-latex-suite)
 
 Type `mk` for `$` and `dm` for `$$`.

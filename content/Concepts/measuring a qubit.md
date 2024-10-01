@@ -8,8 +8,6 @@ publish: true
 tags:
   - computing/quantum/gates
 ---
-
-# Measuring a Qubit
 The quantum state of any state is not directly observable.
 
 For a qubit in the state $\alpha|0\rangle + \beta|1\rangle$, when we measure this qubit in the computational basis, it gives outcome 0 with probability $|\alpha|^2$ and outcome 1 with probability $|\beta|^2$.

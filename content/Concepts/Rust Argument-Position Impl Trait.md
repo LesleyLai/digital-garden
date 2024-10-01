@@ -10,9 +10,6 @@ publish: true
 tags:
   - computing/Rust/generic
 ---
-
-# Rust Argument-Position Impl Trait
-
 Rust **Argument-Position Impl Trait** (also called **anonymous type parameter**) is a [[syntactic sugar|syntactic sugar]] that simplify generic function code when we don't need to use the same generic type parameter twice.
 
 For example, the following codes are equivalent:

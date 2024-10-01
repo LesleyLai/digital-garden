@@ -7,8 +7,6 @@ publish: true
 tags:
   - math/LinearAlgebra
 ---
-
-# Homogeneous System of Linear Equation
 A [[./system of linear equation|system of linear equation]] such that $A\mathbf{x} = \mathbf{0}$ is called *homogeneous*. 
 
 The solutions of a homogeneous system forms the [[./null space|null space]].

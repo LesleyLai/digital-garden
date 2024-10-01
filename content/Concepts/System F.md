@@ -1,15 +1,17 @@
 ---
-Aliases:
+aliases:
   - polymorphic typed lambda calculus
   - polymorphic lambda calculus
   - second-order lambda calculus
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - computing/PL/TypeTheory
+parent:
+  - "[[type theory|type theory]]"
+  - "[[ABI|ABI]]"
 ---
-
-# System F
-
 **System F** is a kind of [[typed lambda calculus|typed lambda calculus]] that introduces [[universal quantification|universal quantification]] of types.
 
 >  Girard under the name System F and by Reynolds under the name polymorphic typed λ-calculus
@@ -75,7 +77,3 @@ $$
 - [System F - Wikipedia](https://en.wikipedia.org/wiki/System_F)
 - [[Practical Foundations for Programming Languages#Chapter 16: System F of Polymorphic Types|Practical Foundations for Programming Languages > Chapter 16: System F of Polymorphic Types]]
 - [[Foundations of Programming Languages Polymorphic Lambda-Calculus|Foundations of Programming Languages Polymorphic Lambda-Calculus]]
-
----
-parent: [[./type theory|type theory]]
-tags: #computing/PL/TypeTheory

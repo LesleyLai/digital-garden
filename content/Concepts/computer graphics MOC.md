@@ -27,11 +27,12 @@ tags:
 - [[./rendering equation|rendering equation]]
 - [[./scene graph|scene graph]]
 - [[./culling|culling]]
-- [[./mipmapping|mipmapping]]
+- [[mipmapping|mipmapping]]
 - [[./real-time PBR rendering|real-time PBR rendering]]
 - [[./environment lighting|environment lighting]]
 - [[normal map|normal map]]
 - [[perspective projection|perspective projection]]
+- [[./color theory|Color Science]]
 
 ## Optimization
 - [[./vertex buffer compression|vertex buffer compression]]

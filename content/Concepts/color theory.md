@@ -7,7 +7,6 @@ publish: true
 tags:
   - color
 ---
-
 - [[./spectral power distribution|spectral distribution]]
 - [[./color space and color model|color space and color model]]
   - [[./XYZ color space|XYZ color space]]

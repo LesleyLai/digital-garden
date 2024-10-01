@@ -27,18 +27,18 @@ We can also use well known result such as the [[./sinc function|sinc function]] 
 > [!example]+ Solve $\lim_{ x \to 0+ } x^{\tan{x}}$
 > Note that we have the indeterminate form $0^0$.
 > $$
-\begin{align}
-& \lim_{ x \to 0+ } x^{\tan{x}}  \\
-=& \lim_{ x \to 0+ }(e^{\ln{x}})^{\tan{x}} \\
-=& \lim_{ x \to 0+ }(e^{(\ln{x}) \cdot \tan{x}}) \\
-=&\ e^{\lim_{ x \to 0+ }\, (\ln{x}) \cdot \tan{x}} \\
-=&\ e^{\lim_{ x \to 0+ }\, \ln{x}/\cot{x}} \\
-=&\ e^{\lim_{ x \to 0+ }\, x^{-1}/-\csc^2{x}} & (\text{L'Hospital's rule}) \\
-=&\ e^{-\lim_{ x \to 0+ }\, \sin^2{x}/x} \\
-=&\ e^{-\lim_{ x \to 0+ }\, \sin{x}/x \, \cdot \, \lim_{ x \to 0+ }\,\sin{x}} \\
-=&\ e^{-1 \cdot 0} & \left( \lim_{ x \to 0 }\, \frac{\sin{x}}{x} = 1 \right) \\
-=&\ 1
-\end{align}
+> \begin{align}
+> & \lim_{ x \to 0+ } x^{\tan{x}}  \\
+> =& \lim_{ x \to 0+ }(e^{\ln{x}})^{\tan{x}} \\
+> =& \lim_{ x \to 0+ }(e^{(\ln{x}) \cdot \tan{x}}) \\
+> =&\ e^{\lim_{ x \to 0+ }\, (\ln{x}) \cdot \tan{x}} \\
+> =&\ e^{\lim_{ x \to 0+ }\, \ln{x}/\cot{x}} \\
+> =&\ e^{\lim_{ x \to 0+ }\, x^{-1}/-\csc^2{x}} & (\text{L'Hospital's rule}) \\
+> =&\ e^{-\lim_{ x \to 0+ }\, \sin^2{x}/x} \\
+> =&\ e^{-\lim_{ x \to 0+ }\, \sin{x}/x \, \cdot \, \lim_{ x \to 0+ }\,\sin{x}} \\
+> =&\ e^{-1 \cdot 0} & \left( \lim_{ x \to 0 }\, \frac{\sin{x}}{x} = 1 \right) \\
+> =&\ 1
+> \end{align}
 > $$
 > Also, note that even though we get $1$ from this limits. Not all limits in the form $0^0$ has one as a result.
 

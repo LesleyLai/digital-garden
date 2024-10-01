@@ -6,9 +6,6 @@ publish: true
 tags:
   - math/geometry
 ---
-
-# Spherical Coordinates
-
 **Spherical coordinates** uses two angles $\theta, \phi$ to specify the direction of a 3d vector and its length to locate a point in space.
 
 The relationship between the spherical coordinates and the 3D [[Cartesian coordinates|Cartesian coordinates]] is the following:

@@ -7,9 +7,6 @@ publish: true
 tags:
   - computing/Rust/generic
 ---
-
-# Rust Generic
-
 ## In Function Definitions
 We can parameterize types in functions, but we also needs to explicitly states the [[./Rust Traits|trait]] that a type need to support:
 

@@ -9,8 +9,6 @@ tags:
   - economy
   - MOC
 ---
-
-# Economy and Finance MOC
 - [[./money|money]]
 - [[./solvency|solvency]]
 - [[./security (finance)|securities]]

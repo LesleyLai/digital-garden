@@ -7,8 +7,6 @@ publish: true
 tags:
   - computing/PL/experimental_languages/odin
 ---
-
-# Odin
 ## Interesting Features
 - [[./distinct types|distinct types]]
 - [[./implicit parameters|implicit context]]

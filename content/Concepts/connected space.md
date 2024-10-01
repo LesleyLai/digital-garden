@@ -10,8 +10,6 @@ tags:
   - math/topology
   - math/analysis
 ---
-
-# Connected Space
 A [[./metric space|metric space]] $X$ is said to be **disconnected** if it is the union of two disjoint non-empty [[./open and closed sets|open set]]. Otherwise, X is said to be **connected**.
   In other word, if  we can find two open sets $U$ and $V$ such that $U \cap V = \emptyset$ and $U \cup V = X$, then $X$ is disconnected.
 

@@ -5,8 +5,6 @@ publish: true
 tags:
   - computing/AlgorithmsAndDataStructures/parsing
 ---
-
-# Context-free Grammar
 ## Characteristics
 Restricting *heads* to a single symbol is a definite character of the context-free grammar. For more unrestricted grammar, the head can have multiple symbols. For example:
 ```

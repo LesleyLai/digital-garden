@@ -8,9 +8,6 @@ publish: true
 tags:
   - computing/cuda
 ---
-
-## Steaming Multiprocessor
-
  The execution resources of [[./CUDA|CUDA]] are organized in **streaming multiprocessors** (SM). Multiple [[./thread block|thread block]] can be assigned to each SM.
 
 One SM contains multiple streaming processors (SPs).

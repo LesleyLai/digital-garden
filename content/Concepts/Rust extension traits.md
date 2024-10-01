@@ -8,10 +8,8 @@ parent:
 publish: true
 tags:
   - computing/Rust/traits
+title: Extension Trait in Rust
 ---
-
-# Extension Trait in Rust
-
 We can't add "extension methods" to external struct or traits because of Rust's [[./orphan rule|orphan rule]].
 
 For example, say we want to add additional methods to `insta::Settings`, an external type, we can't do it directly. But we can create another trait:

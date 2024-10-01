@@ -5,9 +5,6 @@ publish: true
 tags:
   - computing/cpp
 ---
-
-# Passing Overload Set in C++
-
 The following `LIFT` macro can be used 
 ```cpp
 #define FWD(...) std::forward<decltype(__VA_ARGS__)>(__VA_ARGS__)

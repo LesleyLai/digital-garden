@@ -17,25 +17,25 @@ tags:
 
 > [!example]+
 > $$
-\begin{aligned}
-& 3 \times 2: \quad &B=\left(\begin{array}{ll}
-a & b \\
-c & d \\
-e & f
-\end{array}\right) \\
-& 2 \times 3: &C=\left(\begin{array}{lll}
-a & b & c \\
-d & e & f
-\end{array}\right)
-\end{aligned}
+> \begin{aligned}
+> & 3 \times 2: \quad &B=\left(\begin{array}{ll}
+> a & b \\
+> c & d \\
+> e & f
+> \end{array}\right) \\
+> & 2 \times 3: &C=\left(\begin{array}{lll}
+> a & b & c \\
+> d & e & f
+> \end{array}\right)
+> \end{aligned}
 > $$
 
-Properties of a matrix: [[./rank of matrices|rank]], [[./trace of matrices|trace]], and [[determinant|determinant]]
+Properties of a matrix: [[./rank of matrices|rank]], [[./trace of matrices|trace]], and [[./determinant|determinant]]
 
 ## Operations
 - [[./matrix-vector multiplication|matrix-vector multiplication]]
 - [[./matrix multiplication|matrix multiplication]]
-- [[transpose|transpose]]
+- [[./transpose|transpose]]
 - [[permutation matrix|permutation]]
 
 ## Special Types

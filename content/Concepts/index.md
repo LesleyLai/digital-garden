@@ -1,21 +1,24 @@
 ---
 created: 2024-01-18
-modified: 2024-09-28
+modified: 2024-10-02
 publish: true
 tags:
   - MOC
+title: Notes by Area of Interest
 ---
-# Areas of Interest
+## STEM
 - [[./computing|Computing]]
 - [[./math|Math]]
 - [[./physics|Physics]]
+- [[./signal processing|Signal Processing]]
 - [[./psychology|Psychology]]
-- [[./learning|Learning]]
-- [[./life MOC|Life]]
-- [[./inclusion|Inclusion]]
+
+## Humanity
 - [[./philosophy|Philosophy]] and [[./philosophy of science and metascience|Metascience]]
 - [[./economy and finance|Economy and Finance]]
 
-### Misc Topics
-- [[./color theory|Color Theory]]
-- [[./signal processing|Signal Processing]]
+## Personal Life
+- [[./learning|Learning]]
+- [[./life MOC|Life]]
+- [[./inclusion|Inclusion]]
+

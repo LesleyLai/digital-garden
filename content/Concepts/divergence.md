@@ -6,9 +6,6 @@ tags:
   - math/calculus/vector
   - math/definitions
 ---
-
-# Divergence
-
 **Divergence** is a [[vector operator|vector operator]] that represents the volume density of the outward [[./flux|flux]] of a [[./vector field|vector field]]. 
 
 Divergence takes in a vector-valued function $\mathbf{f}(\mathbf{x}: \mathbb{R}^n): \mathbb{R}^n$ defining this vector field, and outputs a scalar-valued function $\nabla \cdot \mathbf{f}(\mathbf{x}: \mathbb{R}^n): \mathbb{R}$, where the $\nabla$ is the [[./Del operator|Del operator]] ($\left(\frac{\partial}{\partial u_{1}}, \frac{\partial}{\partial u_{2}}, \frac{\partial}{\partial u_{3}}\right)$) and $\mathbf{F}(\mathbf{X})$ is the vector field.
@@ -18,7 +15,7 @@ Divergence takes in a vector-valued function $\mathbf{f}(\mathbf{x}: \mathbb{R}^
 > [!definition] Divergence
 > For a vector function $\overrightarrow{\mathbf{v}}(\mathbf{x})=\left[\begin{smallmatrix}v_1(\mathbf{x}) \\v_2(\mathbf{x}) \\\cdots\end{smallmatrix}\right]$, its divergence is
 > $$
-\nabla \cdot \overrightarrow{\mathbf{v}}=\frac{\partial v_1}{\partial x}+\frac{\partial v_2}{\partial y} + \cdots
+> \nabla \cdot \overrightarrow{\mathbf{v}}=\frac{\partial v_1}{\partial x}+\frac{\partial v_2}{\partial y} + \cdots
 > $$
 
 ## Intuition of Divergence

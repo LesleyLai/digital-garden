@@ -7,8 +7,6 @@ publish: true
 tags:
   - computing/cuda
 ---
-
-# CUDA Stream
 **Stream** is a series of operation that are executed in issued order.
 They allow multiple CUDA kernels to launch concurrently.
 

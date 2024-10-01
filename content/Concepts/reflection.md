@@ -9,8 +9,6 @@ publish: true
 tags:
   - math/LinearAlgebra
 ---
-
-# Vector Reflection
 If we have a unit vector $\mathbf{a}$ and a vector $\mathbf{v}$, we can reflect the vector $\mathbf{v}$ by a plane perpendicular to $\mathbf{a}$.
 
 ![[../assets/vector reflection.png|vector reflection.png]]

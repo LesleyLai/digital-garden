@@ -14,7 +14,7 @@ publish: true
 > [!definition]
 >For a [[square matrix|square matrix]] $A$, **eigenvalues** are scalars $\lambda$ that satisfies the equation
 > $$
-\lambda \mathbf{u} = A \mathbf{u}
+> \lambda \mathbf{u} = A \mathbf{u}
 > $$
 > and those $\mathbf{u}$ are **eigenvectors**.
 
@@ -31,24 +31,24 @@ $$
 P(t) = \det(tI - A)
 $$
 
->[!example]- Example: Find the eigenvalues for the  matrix $A = \begin{bmatrix}  2 & 1\\  1 & 2  \end{bmatrix}$
->$$
-\begin{align}
-\det(A - \lambda I)
-&= \left|\begin{bmatrix}  
-2 & 1 \\  
-1 & 2  
-\end{bmatrix} - \lambda\begin{bmatrix}  
-1 & 0 \\  
-0 & 1  
-\end{bmatrix}\right| = \begin{vmatrix}  
-2 - \lambda & 1 \\  
-1 & 2 - \lambda  
-\end{vmatrix} \\[6pt]  
-&= 3 - 4\lambda + \lambda^2 \\[6pt]  
-&= (\lambda - 3)(\lambda - 1).  
-\end{align}
->$$
+> [!example]- Example: Find the eigenvalues for the  matrix $A = \begin{bmatrix}  2 & 1\\  1 & 2  \end{bmatrix}$
+> $$
+> \begin{align}
+> \det(A - \lambda I)
+> &= \left|\begin{bmatrix}  
+> 2 & 1 \\  
+> 1 & 2  
+> \end{bmatrix} - \lambda\begin{bmatrix}  
+> 1 & 0 \\  
+> 0 & 1  
+> \end{bmatrix}\right| = \begin{vmatrix}  
+> 2 - \lambda & 1 \\  
+> 1 & 2 - \lambda  
+> \end{vmatrix} \\[6pt]  
+> &= 3 - 4\lambda + \lambda^2 \\[6pt]  
+> &= (\lambda - 3)(\lambda - 1).  
+> \end{align}
+> $$
 Thus we have eigen values $\lambda = 3$ and $\lambda = 1$.
 
 ## Eigenvalues and Similar Matrices
@@ -71,7 +71,7 @@ However, having equal eigenvalues does not force matrices to be similar.
 > [!theorem]
 > Let $\lambda_1, \dots, \lambda_n$ be the eigenvalues, count with multiplicity, of a matrix $A$. Then
 > $$
-\det(A) = \lambda_1 \dots \lambda_n
+> \det(A) = \lambda_1 \dots \lambda_n
 > $$
 
 We need to "count with multiplicity" because a polynomial can have a root that must be counted more than once (i.e. $(x - 2)^2$ has the single root $2$ which we want to count twice)

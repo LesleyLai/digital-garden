@@ -7,8 +7,6 @@ publish: true
 tags:
   - computing/AlgorithmsAndDataStructures/searching
 ---
-
-# Graph Searching Algorithms
 ## Concepts
 -   **frontier**: the set of leaf node waiting to be expanded (usually stored in a queue)
 

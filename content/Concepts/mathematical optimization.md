@@ -10,7 +10,6 @@ publish: true
 tags:
   - math/calculus
 ---
-# Mathematical Optimization
 It is natural human desire to find the best solution among all possibilities,
 though it is usually subject to *certain constraints*.
 

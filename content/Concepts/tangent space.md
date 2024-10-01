@@ -31,12 +31,12 @@ $$z(x, y) = f(x_{0}, y_{0})+f_x(x_{0}, y_{0})(x-x_{0})+f_y(x_{0}, y_{0})(y-y_{0}
 > [!example]- Example: find the tangent plane to $z = f(x, y) = x^2 + y^3$ at $(-1, 2)$
 > ![[../assets/tangent-plane.png|200]]
 > $$
-  \begin{align}
-z &= f(-1, 2) + f_{x}(-1, 2)(x + 1) + f_{y}(-1, 2)(y - 2) \\
-&= 9 + \left(2x)\right|_{x = -1}(x + 1) + \left(3y^2)\right|_{y = 2}(y - 2) \\
-&= 9 - 2(x + 1) + 12(y - 2) \\
-&= -17 - 2x + 2y
-  \end{align}
+> \begin{align}
+> z &= f(-1, 2) + f_{x}(-1, 2)(x + 1) + f_{y}(-1, 2)(y - 2) \\
+> &= 9 + \left(2x)\right|_{x = -1}(x + 1) + \left(3y^2)\right|_{y = 2}(y - 2) \\
+> &= 9 - 2(x + 1) + 12(y - 2) \\
+> &= -17 - 2x + 2y
+> \end{align}
 > $$
 
 ## Tangent Space for Implicitly Surface
@@ -60,11 +60,11 @@ $$
 > [!example]- find the tangent plane of the surface $x^3 - yz + \sin(x) = \pi - 20$ at $(\pi, 4, 5)$
 > Find all the first order partials
 > $$
-\begin{aligned}
-&F_x=3 x^2+\cos (x)=3 \pi^2-1\\
-&F_y=-z=-5\\
-&F_z=-y=-4
-\end{aligned}
+> \begin{aligned}
+> &F_x=3 x^2+\cos (x)=3 \pi^2-1\\
+> &F_y=-z=-5\\
+> &F_z=-y=-4
+> \end{aligned}
 > $$
 > Putting together, we get
 > $$(3 \pi^2-1)(x- \pi) - 5(y - 4) -4(z - 5) = 0$$

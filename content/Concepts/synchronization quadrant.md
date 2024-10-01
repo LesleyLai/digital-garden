@@ -9,8 +9,6 @@ publish: true
 tags:
   - computing/concurrency
 ---
-
-# Synchronization Quadrant
-
 ![[../assets/the synchronisation quadrant.png|the synchronisation quadrant.png]]
+
 Above image from [[Kevlin Henney|Kevlin Henney]]'s talk [Thinking Outside the Synchronisation Quadrant - Kevlin Henney [ACCU 2017] - YouTube](https://www.youtube.com/watch?v=UJrmee7o68A)
