@@ -1,6 +1,6 @@
 ---
 parent:
-  - "[[my opinions|my opinions]]"
+  - "[[Writings/index|Writings/index]]"
 publish: true
 tags:
   - opinion
