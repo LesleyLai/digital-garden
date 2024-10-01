@@ -7,11 +7,9 @@ publish: true
 tags:
   - "#math/calculus/differentiation"
 ---
-
-# Jacobian Matrix
 See also [[./divergence|divergence]] and [[./curl|curl]]
 
-For a function $f : \mathbb{R}^n \rightarrow \mathbb{R}^m$, *the derivative of the function* can be viewed as an $m \times n$ matrix that takes all the [[partial derivative|partial derivatives]]:
+For a function $f : \mathbb{R}^n \rightarrow \mathbb{R}^m$, *the derivative of the function* can be viewed as an $m \times n$ matrix that takes all the [[./partial derivative|partial derivatives]]:
 
 $$
 Df =
