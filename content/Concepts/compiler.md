@@ -8,7 +8,6 @@ tags:
   - "#MOC"
   - "#computing/compiler"
 ---
-# Compiler MOC
 - [[./parsing|parser]]
 - [[./compiler optimizations|compiler optimizations]]
 
