@@ -5,7 +5,6 @@ publish: true
 tags:
   - "#computing/c/preprocessor"
 ---
-# C Token-pasting Operator
 We can use `##` operator to concatenate two tokens, a process which is called _token pasting_.
 
 For example,
