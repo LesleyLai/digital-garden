@@ -8,8 +8,6 @@ tags:
   - computing/concurrency
   - computing/cpp/concurrency
 ---
-
-# C++ Memory Model
 A [[memory model|memory model]] is an abstraction on how threads should interreact with shared memory.
 
 By definition: at any given time active threads may see different values for the shared data.
