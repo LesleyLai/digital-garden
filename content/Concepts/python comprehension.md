@@ -9,8 +9,8 @@ tags:
   - computing/python
 created: 2024-05-16
 modified: 2024-05-16
+title: Python List/Dict Comprehension
 ---
-# Python List/Dict Comprehension
 Something like this
 ```python
 new_list = [expression for member in iterable if conditional]
