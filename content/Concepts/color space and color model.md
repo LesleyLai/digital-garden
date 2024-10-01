@@ -8,8 +8,6 @@ publish: true
 tags:
   - color
 ---
-
-# Color Space and Color Model
 There are a lot of ways to specify colors. In general, we want to specify colors from a **color space** using a **color model**.
 
 **Color space** decides the range of color to draw from while **color model** decides how the color is represented.
