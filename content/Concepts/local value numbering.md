@@ -20,9 +20,9 @@ Let's consider some challenges in local optimization. What do these different fo
 > 
 >```bril
 > main {
- > a: int = const 100; // can be deleted
- > a: int = const 42;
- > print a;
+> a: int = const 100; // can be deleted
+> a: int = const 42;
+> print a;
 >}
 >```
 
@@ -59,12 +59,12 @@ Let's consider some challenges in local optimization. What do these different fo
 Value numbering stores pairs of value and canonical variable name into a table. When building up values, we can refers to previous values by number in expression.
 
 > [!example]
-| number | value(expression) | Canonical Variable Name |
-| ------ | ----------------- | ----------------------- |
-| 1      |                   | x                       |
-| 2      | `(+, #1, #1)`       | a                       |
-| 3      | `(*, #2, #1)`       | d                       |
-| 4      | `(+, #3, #2)`       | c                       |
+> | number | value(expression) | Canonical Variable Name |
+> | ------ | ----------------- | ----------------------- |
+> | 1      |                   | x                       |
+> | 2      | `(+, #1, #1)`       | a                       |
+> | 3      | `(*, #2, #1)`       | d                       |
+> | 4      | `(+, #3, #2)`       | c                       |
 
 We also need to interpret the basic block. Though unlike an actual interpreter, instead of calculating the actual values, we calculate values as the numbers shown above. (since we don't know the actual inputs)
 
@@ -100,14 +100,14 @@ We also need to interpret the basic block. Though unlike an actual interpreter, 
 >Every time when we processed on instruction, we will reconstruct the instruction base on the table. This process happens on-the-fly with the construction of the table. Thus, when the construction of the table is completed, we should get the following instructions
 >
 >```bril
-main {
-  a: int = const 4;
-  b: int = const 2;
-  sum1: int = add a b;
-  sum2: int = id sum1; // Now sum2 is never used
-  prod: int = mul sum1 sum1;
-  print prod;
-}
+> main {
+>   a: int = const 4;
+>   b: int = const 2;
+>   sum1: int = add a b;
+>   sum2: int = id sum1; // Now sum2 is never used
+>   prod: int = mul sum1 sum1;
+>   print prod;
+> }
 >```
 >
 > Now we can run the trivial [[./dead code elimination|dead code elimination]] pass to get rid of `sum2`.
@@ -122,37 +122,37 @@ For example, the basic implementation of LVN can't optimize out our **copy propa
 
 > [!example]-
 >```bril
-main {
-  x: int = const 4;
-  copy1: int = id x;
-  copy2: int = id copy1;
-  copy3: int = id copy2;
-  print copy3; // can delete all the copies and print x
-}
+> main {
+>   x: int = const 4;
+>   copy1: int = id x;
+>   copy2: int = id copy1;
+>   copy3: int = id copy2;
+>   print copy3; // can delete all the copies and print x
+> }
 >```
 >
 >We can replace our original code with
 >
 >```bril
-main {
-  x: int = const 4;
-  copy1: int = id x;
-  copy2: int = id x;
-  copy3: int = id x;
-  print x;
+> main {
+>   x: int = const 4;
+>   copy1: int = id x;
+>   copy2: int = id x;
+>   copy3: int = id x;
+>   print x;
 >}
 >```
 >
 >In this particular example, since we know the value of `x` as a constant, we can even apply _constant propagation_ and we can get
 >
 >```bril
-main {
-  x: int = const 4;
-  copy1: int = const 4;
-  copy2: int = const 4;
-  copy3: int = const 4;
-  print x;
-}
+> main {
+>   x: int = const 4;
+>   copy1: int = const 4;
+>   copy2: int = const 4;
+>   copy3: int = const 4;
+>   print x;
+> }
 >```
 
 #### Commutativity
@@ -163,12 +163,12 @@ We can achieve that by _canonicalizing_ values in instruction.
 
 > [!example]-
 > ```bril
-a: int = const 4;
-b: int = const 2;
-sum1: int = add a b;
-sum2: int = add b a;
-prod: int = mul sum1 sum2;
-print prod;
+> a: int = const 4;
+> b: int = const 2;
+> sum1: int = add a b;
+> sum2: int = add b a;
+> prod: int = mul sum1 sum2;
+> print prod;
 >```
 > can be transformed into
 > ```bril
@@ -205,31 +205,31 @@ It is possible to achieve _constant folding_ with LVN by combining all the above
 
 > [!example]-
 >```bril
-@main {
-  a: int = const 4;
-  b: int = const 2;
+> @main {
+>   a: int = const 4;
+>   b: int = const 2;
 >
-  sum1: int = add a b;
-  sum2: int = add a b;
-  prod1: int = mul sum1 sum2;
+>   sum1: int = add a b;
+>   sum2: int = add a b;
+>   prod1: int = mul sum1 sum2;
 >
-  sum1: int = const 0;
-  sum2: int = const 0;
+>   sum1: int = const 0;
+>   sum2: int = const 0;
 >
-  sum3: int = add a b;
-  prod2: int = mul sum3 sum3;
+>   sum3: int = add a b;
+>   prod2: int = mul sum3 sum3;
 >
-  print prod2;
-}
+>   print prod2;
+> }
 >```
 >
 >can be reduced into
 >
 >```bril
-@main {
-  prod2: int = const 36;
-  print prod2;
-}
+> @main {
+>   prod2: int = const 36;
+>   print prod2;
+> }
 >```
 
 ### Pseudocode for Basic LVN
