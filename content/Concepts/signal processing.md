@@ -4,7 +4,7 @@ aliases:
 created: 2024-08-07
 modified: 2024-09-30
 parent:
-  - "[[note index|note index]]"
+  - "[[Concepts/index|Concepts/index]]"
 publish: true
 tags:
   - signal
