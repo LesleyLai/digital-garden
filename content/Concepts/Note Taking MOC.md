@@ -9,7 +9,6 @@ tags:
   - learning/NoteTaking
   - MOC
 ---
-# Note Taking
 ## Frameworks
 - [[./Zettelkasten|Zettelkasten]] - creating [[./principle of atomicity|small]], original, and interconnected notes
 - [[./second brain|second brain]]
