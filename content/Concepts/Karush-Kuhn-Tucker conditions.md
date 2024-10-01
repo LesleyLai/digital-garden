@@ -6,8 +6,6 @@ publish: true
 tags:
   - math/optimization
 ---
-
-# Karush-Kuhn-Tucker Conditions
 $$
 \begin{aligned}
 \nabla f_0\left(x^*\right)&=-\sum_{i=1} \lambda_i \nabla f_i\left(x^*\right) & \text { (stationarity) } \\
