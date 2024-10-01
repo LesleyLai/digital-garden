@@ -10,10 +10,7 @@ publish: true
 tags:
   - computing/PL/experimental_languages
 ---
-
-# The Hylo Programming Language
-
-**Hylo**, which used to be called **Val**,  is based on [[./Swift|Swift]], but enforce [[./value-oriented programming|value-oriented programming]] by disallowing features like classes (which is [[reference counting|ref counted]]) and closures with mutable capture.
+**Hylo**, which used to be called **Val**, is based on [[./Swift|Swift]], but enforce [[./value-oriented programming|value-oriented programming]] by disallowing features like classes (which is [[reference counting|ref counted]]) and closures with mutable capture.
 
 # Links
 - [Hylo | The Hylo Programming Language](https://www.hylo-lang.org/)
