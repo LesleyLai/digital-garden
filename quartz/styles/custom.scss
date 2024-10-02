@@ -13,8 +13,13 @@
   & > ul.recent-ul {
     margin-bottom: 0rem;
 
-    & h3 {
-      text-transform: capitalize;
+    & > .recent-li { 
+      margin: 0;
+
+      & h3 {
+        font-size: 1rem;
+        text-transform: capitalize;
+      }
     }
   }
 

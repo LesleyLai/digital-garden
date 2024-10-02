@@ -24,7 +24,10 @@ export const sharedPageComponents: SharedLayout = {
         linkToMore: "/Writings" as SimpleSlug,
         limit: 5,
         title: "Latest Writings:",
-        filter: (f) => f.relativePath?.startsWith("Writings/") ?? false,
+        filter: (f) =>
+          !!f.relativePath &&
+          f.relativePath.startsWith("Writings/") &&
+          f.relativePath != "Writings/index.md",
       }),
     ),
     Component.Comments({

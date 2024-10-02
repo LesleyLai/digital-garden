@@ -4,7 +4,7 @@ modified: 2024-10-02
 publish: true
 tags:
   - MOC
-title: Notes by Area of Interest
+title: Notes
 ---
 ## STEM
 - [[./computing|Computing]]
