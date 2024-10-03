@@ -6,7 +6,7 @@ modified: 2024-10-01
 publish: true
 tags:
   - opinion
-title: My Writings
+title: Writings
 ---
 This page contains some half-backed personal thoughts and other writing. If you prefer more structured writing, be sure to check out [my blog](https://lesleylai.info/) as well.
 
