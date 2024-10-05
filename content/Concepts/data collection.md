@@ -2,7 +2,7 @@
 parent:
   - "[[data science|data science]]"
 tags:
-  - statisticsAndDataScience/dataCollection
+  - statistics/dataCollection
 created: 2024-09-26
 modified: 2024-09-27
 publish: true
