@@ -3,7 +3,7 @@ tags:
   - tools/obsidian
   - tools/quartz
 created: 2024-09-17
-modified: 2024-09-28
+modified: 2024-10-02
 publish: true
 ---
 Here are the changes I've made to my Quartz setup. While I can't promise to include everything or keep it constantly updated, this should give you a good idea of how I've customized this digital garden website.
@@ -140,3 +140,20 @@ See [the commit](https://github.com/LesleyLai/digital-garden/commit/fc2e513565c4
 
 It is mostly copied from [michelepapucci/quartz-visible-obsidian-property](https://github.com/michelepapucci/quartz-visible-obsidian-property "https://github.com/michelepapucci/quartz-visible-obsidian-property"), but I also fixed some bugs and type errors, and made a few style adjustments. I also makes visible properties opt-in rather than opt-out.
 ![[../assets/visible properties.png|visible properties.png]]
+
+## Making Sidebar Narrower on Tablet
+By default, the sidebar occupies too much screen space on tablets.
+```css
+@media all and ($tablet) {
+  .page {
+    & > #quartz-body {
+      grid-template-columns: 240px auto !important;
+
+      & > .sidebar {
+        padding-left: 0;
+        padding-right: 1em;
+      }
+    }
+  }
+}
+```
