@@ -2,7 +2,7 @@
 parent:
   - "[[logic|logic]]"
 tags:
-  - "#logic"
+  - logic/property
 created: 2024-09-29
 modified: 2024-09-29
 publish: true
