@@ -7,7 +7,7 @@ parent:
   - "[[linear algebra|linear algebra]]"
 publish: true
 tags:
-  - math/linearalgebra/matrices
+  - math/LinearAlgebra/matrices
 ---
 Similar to [[./matrix-vector multiplication|matrix-vector multiplication]], there are multiple ways to interpret matrix-matrix multiplication. The most common one (and by definition) is the [[./inner product|inner product]] interpretation:
 $$
