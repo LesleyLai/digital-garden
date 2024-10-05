@@ -5,7 +5,7 @@ parent:
   - "[[statistics|statistics]]"
 publish: true
 tags:
-  - statisticsAndDataScience
+  - statistics
 ---
 A numerical summary reduces all the data to simple numbers. This loses a lot of information. However, it allows for easy communication and comparisons.
 
@@ -17,6 +17,7 @@ Major features that we can use include:
 - [[quantile|quantile]] beside median: [[percentile|percentile]]
 
 ## Correlation
+See: [[./correlation|correlation]]
 - [[./Pearson correlation coefficient|Pearson correlation coefficient]]
 
 ## Errors
