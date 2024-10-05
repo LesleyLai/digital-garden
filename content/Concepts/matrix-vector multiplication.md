@@ -5,7 +5,7 @@ parent:
   - "[[linear algebra|linear algebra]]"
 publish: true
 tags:
-  - math/linearalgebra/matrices
+  - math/LinearAlgebra/matrices
 created: 2024-04-06
 modified: 2024-04-06
 ---
