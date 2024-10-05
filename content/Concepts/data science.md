@@ -2,14 +2,14 @@
 parent:
   - "[[./computing|computing]]"
 tags:
-  - statisticsAndDataScience
+  - statistics
   - MOC
 created: 2024-09-26
 modified: 2024-09-26
 publish: true
 title: Data Science
 ---
-**Data science** is an interdisciplinary area that combines [[./statistics|statistics]], [[./computing|computing]], and domain knowledges.
+**Data science** is an interdisciplinary area that combines [[./statistics|statistics]], [[./computing|computing]], and domain knowledge.
 
 ## Related Math
 - [[./statistics|Statistics]]
@@ -25,4 +25,4 @@ title: Data Science
 - [[./SQL|SQL]]
 
 ## Others
-- [[data collection|Data Collection]]
+- [[./data collection|Data Collection]]
