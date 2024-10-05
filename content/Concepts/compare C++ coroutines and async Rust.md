@@ -10,7 +10,6 @@ tags:
   - computing/rust/async
   - "#draft"
 ---
-
 Both [[./C++ Coroutines|C++ Coroutines]] and [[./async Rust|async Rust]] uses [[stackless coroutines|stackless coroutines]], but they have some differences:
 
 C++ coroutines always dynamically allocate, where Rust's coroutine state are allocated on stack by default. See [[./why C++ coroutines allocate on the heap|why C++ coroutines allocate on the heap]]
