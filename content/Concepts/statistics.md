@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "#statisticsAndDataScience"
+  - "#statistics"
 created: 2024-07-29
 modified: 2024-08-28
 parent:
@@ -8,7 +8,7 @@ parent:
   - "[[computing|computing]]"
 publish: true
 tags:
-  - statisticsAndDataScience
+  - statistics
 ---
 # Data Science and Statistics MOC
 - [[./numerical summaries of data|numerical summaries of data]]
@@ -20,4 +20,4 @@ tags:
 ## Related
 - [[./probability MOC|probability MOC]]
 - [[./data science|data science]]
-- [[data collection|data collection]]
+- [[./data collection|data collection]]
