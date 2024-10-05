@@ -9,7 +9,7 @@ parent:
   - "[[logical fallacies|logical fallacy]]"
 publish: true
 tags:
-  - statisticsAndDataScience/bias
+  - statistics/bias
   - math/probability
 ---
 # Bias and Fallacies in Statistics and Probability
@@ -21,7 +21,7 @@ tags:
 - [[consent bias|consent bias]] - participants choose whether or not they take part in the experiment
 - [[survivorship bias|survivor bias]] - when only certain types of participants finish the study
 - [[adherence bias|adherer]] - when participants who adhere to a study protocol or intervention differ from those who do not adhere
-- [[sampling bias|sampling bias]]
+- [[./sampling bias|sampling bias]]
 - [[./ecological correlation|ecological fallacy]] - the interpretation of statistical data that occurs when inferences about the nature of individuals are deduced from inferences about the group to which those individuals belong
 
 ## Probability Bias
