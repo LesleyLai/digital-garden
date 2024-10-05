@@ -2,7 +2,7 @@
 created: 2024-05-04
 modified: 2024-05-16
 parent:
-  - "[[Concepts/index|Concepts/index]]"
+  - "[[computer graphics MOC|computer graphics MOC]]"
 publish: true
 tags:
   - color
