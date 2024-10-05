@@ -5,7 +5,7 @@ parent:
   - "[[./confounding variable|confounding variables]]"
 publish: true
 tags:
-  - statisticsAndDataScience
+  - statistics
 ---
 
 # Simpson’s Paradox
