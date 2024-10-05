@@ -1,25 +1,26 @@
 ---
 aliases:
   - eigenvectors
-  - eigenvalues and eigenvectors
   - 特征值
+  - eigenvalues
 tags:
   - math/LinearAlgebra
   - math/definitions
 created: 2023-05-30
-modified: 2024-06-15
+modified: 2024-10-04
 publish: true
 ---
-# Eigenvalues and Eigenvectors
 > [!definition]
 >For a [[square matrix|square matrix]] $A$, **eigenvalues** are scalars $\lambda$ that satisfies the equation
 > $$
-> \lambda \mathbf{u} = A \mathbf{u}
+> A \mathbf{u} = \lambda \mathbf{u}
 > $$
 > and those $\mathbf{u}$ are **eigenvectors**.
 
 Geometrically, a vector $v$ is an eigenvector of the linear transformation $T$ with eigenvalue $\lambda$ if $T$ stretches $v$ by a factor of $\lambda$.
 ![[../assets/eigen vector transformation.png|200]]
+
+The prefix **eigen-** comes from the German word "eigen," meaning 'proper,' 'characteristic,' or 'own.'[^1] Consequently, eigenvectors are also referred to as **characteristic vectors**, while eigenvalues can be called **characteristic values** or **characteristic roots**.
 
 ## Solutions to Eigenvalues
 To find solution for eigenvalues, we can rewrite the equation in the form of
@@ -85,3 +86,8 @@ For a [[matrix polynomial|matrix polynomial]] $f(A) = c_k A^k + c_{k - 1} A^{k -
 - there is a [[./injection|one-to-one]] mapping between $A$'s eigenvalue $\{ \lambda_1, \lambda_2, \dots, \lambda_n \}$ and $f(A)$'s eigenvalue  $\{ f(\lambda_1), f(\lambda_2), \dots, f(\lambda_n) \}$
 
 An important application of this is the [[spectral radius|spectral radius]] (maximum of the absolute values of the eigenvalues of a matrix). (Spectral radius is useful to see whether an algorithm converges)
+
+## See Also
+- [[./characteristic equation|characteristic equations of linear differential equaitons]]
+
+[^1]: [Eigenvalues and eigenvectors - Wikipedia](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)

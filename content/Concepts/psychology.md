@@ -1,6 +1,6 @@
 ---
 parent:
-  - "[[Concepts/index|Concepts/index]]"
+  - "[[Concepts/index|note index]]"
 tags:
   - psychology
   - MOC

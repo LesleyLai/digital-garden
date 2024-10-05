@@ -5,15 +5,12 @@ aliases:
 created: 2024-08-26
 modified: 2024-08-29
 parent:
-  - "[[numerical summaries of data|numerical summaries of data]]"
+  - "[[correlation|correlation]]"
 publish: true
 tags:
-  - statisticsAndDataScience/correlation
+  - statistics/correlation
 ---
-
-# Pearson Correlation Coefficient
-
-the **Pearson correlation coefficient**, also known as _Pearson's r_, is a correlation coefficient that measures linear correlation between two sets of data. [^1]
+the **Pearson correlation coefficient**, also known as _Pearson's r_, is a correlation coefficient that measures **linear correlation** between two sets of data. [^1]
 
 ![[../assets/linear-correlation-coefficient.png|linear-correlation-coefficient.png]]
 

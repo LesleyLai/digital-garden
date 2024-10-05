@@ -8,7 +8,7 @@ parent:
   - "[[statistic bias|statistic bias]]"
 publish: true
 tags:
-  - statisticsAndDataScience
+  - statistics
 ---
 One way to deal with confounders is to split samples into **subgroups** with respect to the confounder.
 

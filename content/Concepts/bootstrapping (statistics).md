@@ -2,7 +2,7 @@
 parent:
   - "[[frequentist inference|frequentist inference]]"
 tags:
-  - statisticsAndDataScience/frequentist
+  - statistics/frequentist
 title: Bootstrapping
 created: 2024-09-26
 modified: 2024-09-30

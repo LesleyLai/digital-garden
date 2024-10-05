@@ -4,7 +4,7 @@ aliases:
 created: 2024-05-01
 modified: 2024-05-17
 parent:
-  - "[[Concepts/index|Concepts/index]]"
+  - "[[Concepts/index|note index]]"
 publish: true
 tags:
   - inclusion

@@ -2,7 +2,7 @@
 parent:
   - "[[data visualization plots|data visualization plots]]"
 tags:
-  - statisticsAndDataScience/dataviz
+  - statistics/dataviz
 aliases:
   - box plot
 created: 2024-09-18

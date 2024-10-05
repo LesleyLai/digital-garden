@@ -2,7 +2,7 @@
 aliases:
   - Hessian test
 created: 2024-02-04
-modified: 2024-03-14
+modified: 2024-10-05
 parent:
   - "[[mathematical optimization|mathematical optimization]]"
 publish: true
@@ -10,7 +10,7 @@ tags:
   - math/calculus
   - math/optimization
 ---
-**Second derivative test** can be used to decide whether a [[./critical point|critical point]] is local [[./extremum|minimum]], maximum, or [[saddle point|saddle point]].
+**Second derivative test** can be used to decide whether a [[./critical point|critical point]] is local [[extremum|minimum]], maximum, or [[saddle point|saddle point]].
 
 ## Second Derivative Test for Functions of One Variable
 To find local maximum and minimum of a function $f(x)$, we
@@ -31,7 +31,7 @@ $$
 - If $\frac{1}{2} \mathbf{h}^T [D^2f]_{\mathbf{a}} \mathbf{h} > 0$ for all $\mathbf{h} \neq \mathbf{0}$, local minimum
 - If $\frac{1}{2} \mathbf{h}^T [D^2f]_{\mathbf{a}} \mathbf{h} < 0$ for all $\mathbf{h} \neq \mathbf{0}$, local maximum
 
-We can use [[./eigenvalues|eigenvalues]] to figure out the above condition.
+We can use [[./eigenvalues and eigenvectors|eigenvalues]] to figure out the above condition.
 
 ### Second Derivative Test for Functions of Two Variables
 For a function of just two variables, we can use the "trace-determinant method" to perform second derivative test for function $f(x: \mathbb{R}, y: \mathbb{R}): \mathbb{R}$.
@@ -77,3 +77,6 @@ w_y = 3y^2 - 12x = 0
 > And we get $(x, y) = (0, 0)$ and $(1, 2)$.
 > At $(0, 0)$, we have $\det \left[D^2 w\right] = -144 < 0$, so it is a saddle point
 > At $(1, 2)$, we have $\det \left[D^2 w\right] = 144$ and $Tr \left[D^2 f\right] = w_{xx} w_{yy} > 0$, so it is a minimum point.
+
+## See Also
+- Taking second derivative is also useful to decide whether a real function is [[./convex and concave function|convex or concave]] at a point

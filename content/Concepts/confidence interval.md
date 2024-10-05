@@ -2,7 +2,7 @@
 parent:
   - "[[frequentist inference|frequentist inference]]"
 tags:
-  - statisticsAndDataScience/frequentist
+  - statistics/frequentist
 created: 2024-09-25
 modified: 2024-09-26
 publish: true

@@ -2,7 +2,7 @@
 parent:
   - "[[statistic bias|statistic bias]]"
 tags:
-  - statisticsAndDataScience
+  - statistics
 created: 2024-08-25
 modified: 2024-09-01
 publish: true

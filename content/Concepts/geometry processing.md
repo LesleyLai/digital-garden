@@ -9,6 +9,6 @@ tags:
 ---
 
 # Geometry Processing
-Geometry processing is an area for manipulation and analysis of [[./geometry representation|3d geometry]].
+Geometry processing is an area for manipulation and analysis of [[./geometry representations|3d geometry]].
 
 A lot of geometry processing tasks are similar to traditional [[./signal processing|signal processing]] tasks such as filtering, reconstruction, down sampling, up sampling, and compression. However, there are also unique tasks such as flattening a surface and resampling.

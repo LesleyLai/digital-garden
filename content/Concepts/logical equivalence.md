@@ -5,7 +5,7 @@ parent:
   - "[[./propositional logic|propositional logic]]"
 publish: true
 tags:
-  - logic/propositional
+  - logic/property
 ---
 Two propositions are **logically equivalent** if they share the same truth value across all possible scenarios.
 

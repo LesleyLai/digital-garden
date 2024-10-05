@@ -9,7 +9,7 @@ parent:
   - "[[logic|logic]]"
 publish: true
 tags:
-  - logic
+  - logic/property
 ---
 In logic, the concept where one kinds of rule leads to another is called **entailment** (also called **logical consequence**). For example, "If A is true, B must follow. A necessarily leads to B."
 

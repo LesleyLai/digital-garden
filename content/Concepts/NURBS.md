@@ -2,7 +2,7 @@
 created: 2024-01-25
 modified: 2024-03-14
 parent:
-  - "[[geometry representation|geometry representation]]"
+  - "[[geometry representations|geometry representations]]"
 publish: true
 tags:
   - Spline_patch

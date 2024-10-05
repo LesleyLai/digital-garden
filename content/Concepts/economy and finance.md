@@ -2,7 +2,7 @@
 created: 2024-05-22
 modified: 2024-05-22
 parent:
-  - "[[Concepts/index|Concepts/index]]"
+  - "[[Concepts/index|note index]]"
 publish: true
 tags:
   - finance

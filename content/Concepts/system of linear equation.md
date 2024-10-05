@@ -8,9 +8,6 @@ tags:
   - math/LinearAlgebra
   - math/definitions
 ---
-
-# System of Linear Equation
-
 A **system of linear equation** is a bunch of equations where the left hand side is a [[linear function|linear function]] and the right hand side is a constant.
 
 A linear system can be written in the format
@@ -56,4 +53,9 @@ $$
 - $m = n$, one solution if $A$ is [[./matrix inverse|invertible]]
 
 ## Solvers
-There are two types of linear solvers: [[direct solvers for linear equation|direct]] and [[iterative solvers for linear equation|iterative]].
+There are two types of linear solvers: direct and iterative.
+
+A direct solvers find the exact solution in a finite number of steps, without relying on iterative approximation. [[./Gaussian elimination|Gaussian elimination]], [[./LU factorization|LU factorization]], and [[./Cramer's rule|Cramer's rule]] are all considered direct methods. [^1] [^2]
+
+[^1]: [Direct Methods for Solving Linear Systems of Equations](https://johnfoster.pge.utexas.edu/numerical-methods-book/LinearAlgebra_DirectSolvers.html)
+[^2]: [ljll.fr/\~frey/cours/UPMC/linear-systems.pdf](https://www.ljll.fr/~frey/cours/UPMC/linear-systems.pdf)

@@ -10,7 +10,6 @@ tags:
   - computing/PL/TypeTheory
 parent:
   - "[[type theory|type theory]]"
-  - "[[ABI|ABI]]"
 ---
 **System F** is a kind of [[typed lambda calculus|typed lambda calculus]] that introduces [[universal quantification|universal quantification]] of types.
 

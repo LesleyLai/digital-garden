@@ -7,7 +7,6 @@ publish: true
 tags:
   - "#learning"
 ---
-
 **Glancing solutions** without doing it is an ineffective learning methods which can foster [[./illusion of progress|illusion of learning]].
 
 ## Related

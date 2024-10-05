@@ -9,7 +9,6 @@ aliases:
   - recurrence relation
   - recurrence equation
 ---
-
 The **difference equation** is the discrete analog to [[./differential equations|differential equations]]. They are great ways to model discrete [[./systems|systems]].
 
 > [!definition] Definition: First Order Difference Equation

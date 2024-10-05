@@ -3,6 +3,7 @@ parent:
   - "[[./propositional logic|propositional logic]]"
 tags:
   - logic/propositional
+  - logic/property
 aliases:
   - tautologies
 created: 2024-09-08
