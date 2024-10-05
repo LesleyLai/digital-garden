@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "#statisticsAndDataScience/dataviz"
+  - "#statistics/dataviz"
 created: 2024-08-07
 modified: 2024-09-23
 parent:
@@ -8,7 +8,7 @@ parent:
   - "[[data visualization|data visualization]]"
 publish: true
 tags:
-  - statisticsAndDataScience/dataviz
+  - statistics/dataviz
 ---
 ## Types
 - [[bar plot|bar plot]]
