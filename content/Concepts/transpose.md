@@ -2,6 +2,7 @@
 modified: 2024-03-29
 aliases:
   - 转置
+  - matrix transpose
 tags:
   - math/LinearAlgebra
 created: 2023-05-30
