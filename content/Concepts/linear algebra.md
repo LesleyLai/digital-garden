@@ -22,6 +22,7 @@ Linear Algebra is the study of [[./vector space|vector spaces]] and the [[./line
 Main: [[./system of linear equation|system of linear equation]]
 - [[./Gaussian elimination|Gaussian elimination]]
 - [[./LU factorization|LU decomposition]]
+- [[./Cramer's rule|Cramer's rule]]
 
 ## Matrices
 Main: [[./matrix|matrices]]
@@ -45,12 +46,12 @@ Main: [[./vector space|vector spaces]]
 - [[./orthogonal|orthogonality]]
   - [[./Gram-Schmidt process|Gram-Schmidt process]]
   - [[./QR decomposition|QR decomposition]]
-- [[determinant|Determinant]]
+- [[./determinant|Determinant]]
 - [[least-squares|Least-Squares Problem]]
 - [[Cramer’s rule|Cramer’s rule]]
-- [[eigenvalues|Eigenvalues and Eigenvectors]]
+- [[./eigenvalues and eigenvectors|Eigenvalues and Eigenvectors]]
 - [[./definite matrix|Positive-definite Matrix]]
-- [[singular value decomposition|Singular value decomposition]]
+- [[./singular value decomposition|Singular value decomposition]]
 
 ## Matrix Calculus
 - [[./multi-variable derivative|Multi-Variable Derivative]] and [[./Jacobian|Jacobian]]
