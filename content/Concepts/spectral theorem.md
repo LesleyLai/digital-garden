@@ -11,7 +11,7 @@ tags:
 # Spectral Theorem
 
 A [[./symmetric matrix|symmetric matrix]] $A = A^T$ with
-	- [[./orthonormality|orthonormal]] [[eigenvalues|eigenvectors]], $e_1, \cdots, e_n \in \mathbb{R}^n$
+	- [[./orthonormality|orthonormal]] [[./eigenvalues and eigenvectors|eigenvectors]], $e_1, \cdots, e_n \in \mathbb{R}^n$
 	- real eigenvalues $\lambda_1,\lambda_n \in \mathbb{R}$
 	can also written as $AR = RD$, where $$R = [e_1 \cdots e_n] \qquad D=\left[\begin{array}{lll}
 \lambda_1 && \\
