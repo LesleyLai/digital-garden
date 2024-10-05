@@ -1,6 +1,6 @@
 ---
 created: 2024-09-05
-modified: 2024-09-30
+modified: 2024-10-04
 parent:
   - "[[ordinary differential equation|ODE]]"
 publish: true
@@ -103,5 +103,62 @@ Note that both $C_1$ and $C_2$ may be complex numbers.
 > y(x) = e^{-2x}(\cos(x) + 2 \sin(x))
 > $$
 
+#### Real Solutions
+Sometimes we want to only find real solutions, in this case we can simplify the formula a bit further.
+
+$y(x)$ will only be real when $c_1$ and $c_2$ are [[complex conjugate|complex conjugate]] (so $c_1 - c_2$ will be a pure imaginary and $i (c_1 - c_2))$ will be real). In that case, let
+$$
+c_1 = \frac{c}{2}e^{i\theta} \qquad \text{and} \qquad c_2 = \frac{c}{2}e^{-i\theta}
+$$
+This yields
+$$
+\begin{align}
+y(x) &= \frac{c}{2}e^{i\theta} e^{(a + bi)x} + \frac{c}{2}e^{-i\theta} e^{(a - bi)x} \\
+&= \frac{c}{2} e^{ax}\left[e^{i(\theta + bx)} + e^{-i(\theta + bx)}\right] \\
+&= ce^{ax} \cos{(bx + \theta)}
+\end{align}
+$$
+[^3]
+
+## Relation with Eigenvectors and Eigenvalues
+In linear algebra, we also have the characteristic equation in the form of
+$$
+A \mathbf{u} = \lambda \mathbf{u}
+$$
+where $\lambda$ and $\mathbf{u}$ are called [[./eigenvalues and eigenvectors|eigenvalues and eigenvectors]] of the matrix $A$, respectively. This concept is closely linked to characteristic equations in differential equations.
+
+For a linear, homogeneous differential equation with constant coefficients:
+$$a_n y^{(n)} + a_{n-1} y^{(n-1)} + \cdots + a_1 y' + a_0 y = 0$$
+
+The characteristic equation is
+$$a_n r^{n} + a_{n-1} r^{n-1} + \cdots + a_1 r + a_0 = 0$$
+
+We can turn this nth order differential equation into a first-order [[system of differential equation|system of differential equation]] by setting $x_0 = y, x_1 = y', \dots, x_{n - 1} = y^{(n-1)}$.
+
+This gives us:
+$$x_0^{\prime}=x_1,\, x_1^{\prime}=x_2,\, \ldots,\, x_{n-2}^{\prime}=x_{n-1}$$
+and
+$$x_{n-1}^{\prime}=y^{(n)}=-a_{n-1} y^{(n-1)}-a_{n-2} y^{(n-2)}$$.
+
+For example. for the equation $y^{\prime \prime \prime}+2 y^{\prime \prime}+3 y^{\prime}-\mathrm{y}=0$, we get the following system:
+$$
+\mathbf{x}^{\prime}=\left(\begin{array}{ccc}
+0 & 1 & 0 \\
+0 & 0 & 1 \\
+1 & -3 & -2
+\end{array}\right) \mathbf{x}
+$$
+The characteristic polynomial of this matrix is:
+
+$$
+\operatorname{det}\left(\begin{array}{ccc}
+-\lambda & 1 & 0 \\
+0 & -\lambda & 1 \\
+1 & -3 & -2-\lambda
+\end{array}\right)=-\left(\lambda^3+2 \lambda^2+3 \lambda-1\right)
+$$
+We get back the characteristic equation of the original differential equation (up to a multiplication of -1), demonstrating the direct link between the two concepts. [^2]
 
 [^1]: [Characteristic equation (calculus) - Wikipedia](https://en.wikipedia.org/wiki/Characteristic_equation_(calculus))
+[^2]: [What is the relation between the characteristic equation in linear algebra and the characteristic equation discussed in differential equations? - Quora](https://www.quora.com/What-is-the-relation-between-the-characteristic-equation-in-linear-algebra-and-the-characteristic-equation-discussed-in-differential-equations)
+[^3]: - Linear Systems and Signals, 3rd Edition, 2.2
