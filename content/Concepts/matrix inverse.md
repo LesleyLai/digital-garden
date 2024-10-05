@@ -10,9 +10,6 @@ tags:
   - math/LinearAlgebra
   - math/definitions
 ---
-
-# Matrix Inverse
-
 Not all [[./matrix|matrices]] have inverse, and we call non-invertible matrices **singular**.
 
 One way to calculate matrix inverse is by the [[./Gauss–Jordan elimination|Gauss–Jordan elimination]]. 
@@ -22,12 +19,12 @@ There are a lot of equivalent conditions for invertible:
 
 Let $A$ be an $n×n$ matrix. Then the following are equivalent:
 - $A$ is invertible
-- $\det{A} \neq 0$ (see [[determinant|determinant]])
+- $\det{A} \neq 0$ (see [[./determinant|determinant]])
 - $\ker(A) = \{ \mathbf{0} \}$ (see [[./null space|nullspace (kernel)]])
 - If $\mathbf{b}$ is a column vector in $\mathbb{R}^n$, there is a unique column vector $\mathbf{x}$ in $\mathbb{R}^n$ satisfying $A\mathbf{x} = \mathbf{b}$
 - All the rows and columns of $A$ are linearly independent
-- The [[transpose|transpose]] $A^t$ of $A$ is invertible
-- All of the [[eigenvalues|eigenvalues]] of $A$ are non-zero
+- The [[./transpose|transpose]] $A^t$ of $A$ is invertible
+- All of the [[./eigenvalues and eigenvectors|eigenvalues]] of $A$ are non-zero
 - Its [[./rank of matrices|rank]] is equal to $n$
 
 ## Some Theorems about Invertible Matrices
