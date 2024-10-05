@@ -5,8 +5,6 @@ publish: true
 tags:
   - "#computing/cpp/library_design"
 ---
-
-# Customization Point Object
 **Customization point objects** are [[./cpp_regular_and_semiregular_types|semiregular]] function objects (by definition) that handles constraint ADL dispatch.
 
 A customization point object looks like the following:
