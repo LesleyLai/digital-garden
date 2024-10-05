@@ -2,7 +2,7 @@
 parent:
   - "[[./normal approximation|approximate a discrete distribution by the Normal distribution]]"
 tags:
-  - statisticsAndDataScience
+  - statistics
 publish: true
 created: 2024-09-15
 modified: 2024-09-17
