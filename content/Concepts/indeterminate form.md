@@ -40,6 +40,6 @@ We can also use well known result such as the [[./sinc function|sinc function]] 
 > =&\ 1
 > \end{align}
 > $$
-> Also, note that even though we get $1$ from this limits. Not all limits in the form $0^0$ has one as a result.
+> Also, note that even though we get $1$ from this limits, not all limits in the form $0^0$ has one as a result.
 
 [^1]: [Indeterminate form - Wikipedia](https://en.wikipedia.org/wiki/Indeterminate_form)
