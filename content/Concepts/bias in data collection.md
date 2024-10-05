@@ -2,8 +2,8 @@
 parent:
   - "[[data collection|data collection]]"
 tags:
-  - statisticsAndDataScience/bias
-  - statisticsAndDataScience/dataCollection
+  - statistics/bias
+  - statistics/dataCollection
 created: 2024-09-26
 modified: 2024-09-26
 publish: true
