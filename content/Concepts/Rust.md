@@ -8,8 +8,6 @@ publish: true
 tags:
   - computing/Rust
 ---
-
-# Rust MOC
 - [[./ref keyword in Rust|ref keyword in Rust]]
 - [[./Rust borrow checker|borrow checker]]
 - [[./Rust cloning vs copying|cloning vs copying]]
@@ -26,7 +24,7 @@ tags:
 - [[./Rust borrowing|Borrowing]]
   - [[./rust references does not propagate mutability|rust references does not propagate mutability]]
 - [[./Rust smart pointers|Smart Pointers]]
-- [[./Rust IO|I/O]]
+- [[./Rust IO|IO]]
 
 ## Generic Programming
 - [[./Rust Argument-Position Impl Trait|Argument-Position Impl Trait]]
