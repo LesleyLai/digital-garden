@@ -8,7 +8,4 @@ tags:
   - computing/cpp/20
   - computing/cpp/constexpr
 ---
-
-# C++ `constinit`
-
 The `constinit` keyword ensure that a variable with *static storage duration* is initialized at compile-time, and that the _static initialization order fiasco_ cannot take place.
