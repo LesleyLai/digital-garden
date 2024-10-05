@@ -9,7 +9,4 @@ publish: true
 tags:
   - "#learning"
 ---
-
-# Illusion of Progress
-
-Certain ineffective learning strategies such as [[./overlearning|overlearning]] or [[./glancing solutions without practices|glancing solutions without practices]] can cause **illusion of progress**. To mitigate that, we can employ various strategies such as [[./retrieval practice|testing]], minimizing [[highlighting is ineffective|highlighting]], and [[./deliberate practice|deliberate practice]].
+Certain ineffective learning strategies such as [[./overlearning|overlearning]] or [[./glancing solutions without practices|glancing solutions without practices]] can cause **illusion of progress**. To mitigate that, we can employ various strategies such as [[./retrieval practice|testing]], minimizing [[./highlighting is ineffective|highlighting]], and [[./deliberate practice|deliberate practice]].
