@@ -2,10 +2,11 @@
 parent:
   - "[[numerical summaries of data|numerical summaries of data]]"
 tags:
-  - statisticsAndDataScience
+  - statistics
 aliases:
   - statistical parameter
   - statistic
+  - sample statistic
 created: 2024-09-25
 modified: 2024-09-25
 publish: true
