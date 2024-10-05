@@ -4,11 +4,13 @@ modified: 2024-09-23
 publish: true
 tags:
   - math/probability
+aliases:
+  - random variables
 ---
 **Random variable** represents the distribution of potential outcomes. There are two kind of random variables: discrete and continuous.
 
 ## Discrete Random Variable
-Discrete random variables contains [[./countability|countable]] set of [[./outcome|outcome]]. It can be represented by [[./probability mass function|probability mass function]].
+Discrete random variables contains [[./countability|countable]] set of [[outcome|outcome]]. It can be represented by [[./probability mass function|probability mass function]].
 
 ## Continuous Random Variable
 
