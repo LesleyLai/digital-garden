@@ -10,7 +10,7 @@ created: 2024-07-29
 modified: 2024-08-11
 publish: true
 tags:
-  - statisticsAndDataScience/dataCollection
+  - statistics/dataCollection
 ---
 A **randomized controlled trial** (**RCT**) is a form of scientific experiment used to control factors not under direct experimental control. [^1] It is commonly used in medical research.
 
