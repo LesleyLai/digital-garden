@@ -5,5 +5,4 @@ publish: true
 tags:
   - math/sampling
 ---
-
 **Reconstruction** is the process of generating continuous signal from a discrete set of samples. It is the opposite process of [[./sampling|sampling]].
