@@ -7,6 +7,8 @@ tags:
 created: 2024-09-27
 modified: 2024-09-27
 publish: true
+aliases:
+  - beginners and experts learn in different ways
 ---
 **Expertise reversal effect** refers to the reversal of the effectiveness of instructional techniques on learners with differing levels of prior knowledge. [^1]
 
