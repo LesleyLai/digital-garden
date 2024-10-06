@@ -34,8 +34,5 @@ see: [[lock-free programming|lock-free programming]]
 - [[./ABA problem|ABA problem]]
   - [[./hazard pointer|hazard pointer]]
 
-## Unsorted
-- [[Stratus Multithreading and Async|Stratus Multithreading and Async]]
-- [['Teaching-Concurrency' note|'Teaching-Concurrency' note]]
-- [[./multiple buffering|multiple buffering]]
+## Related
 - [[./GPU Programming|GPU Programming]]

@@ -75,7 +75,9 @@ Copied from [Quartz customization log | Eilleen's e-Notebook](https://quartz.eil
   modified ||= file.data.frontmatter["last-modified"] as MaybeDate
   published ||= file.data.frontmatter.publishDate as MaybeDate
 ```
+
 Show both created and modified date on the page
+
 `ContentMeta.tsx`
 ```js
 if (fileData.dates) {
@@ -98,7 +100,8 @@ I use certain [MathJax](https://en.wikipedia.org/wiki/MathJax) plugins in my not
 ```
 
 ## Disable Reading Time in Content Pages
-Useless IMHO
+[[../Writings/on estimated reading times|Reading time is useless IMHO]].
+
 `quartz.layout.ts`
 ```js
 -    Component.ContentMeta(),

@@ -58,21 +58,21 @@ Then
 - If $\det \left[D^2 f\right] > 0$ and $Tr \left[D^2 f\right] = f_{xx} f_{yy} < 0$, we have a local maximum
 - Otherwise, we have a degenerated critical point and the test fail
 
->[!example]- Example: find the critical points of $w = 12x^2 + y^3 - 12xy$ and determine their type
->**Solution**:
->$$
-\begin{align}
-w_x &= 24x - 12y & w_{xx} = 24 \\
-w_y &= 3y^2 - 12x & w_{xy} = -12 \\
-&& w_{yy} = 6y
-\end{align}
->$$
+> [!example]- Example: find the critical points of $w = 12x^2 + y^3 - 12xy$ and determine their type
+> **Solution**:
+> $$
+> \begin{align}
+> w_x &= 24x - 12y & w_{xx} = 24 \\
+> w_y &= 3y^2 - 12x & w_{xy} = -12 \\
+> && w_{yy} = 6y
+> \end{align}
+> $$
 > To find the critical points we need to solve
 > $$
-\left\{\begin{array}{l}
-w_x = 24x - 12y =0 \\
-w_y = 3y^2 - 12x = 0
-\end{array}\right.
+> \left\{\begin{array}{l}
+> w_x = 24x - 12y =0 \\
+> w_y = 3y^2 - 12x = 0
+> \end{array}\right.
 > $$
 > And we get $(x, y) = (0, 0)$ and $(1, 2)$.
 > At $(0, 0)$, we have $\det \left[D^2 w\right] = -144 < 0$, so it is a saddle point

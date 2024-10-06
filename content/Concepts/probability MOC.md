@@ -23,12 +23,14 @@ see: [[./conditional probability|conditional probability]]
 - [[partition of sample space|partition of sample space]]
 - [[./independent events|independent events]]
 - [[./mutually exclusive events|mutually exclusive events]]
+
 ## Random Variables
 - [[./random variable|random variable]]
 - [[moments of the distribution|moments of the distribution]]
 - [[./variance|variance]]
 - [[Chebyshev’s inequality|Chebyshev’s inequality]]
 - [[sum of random variables|sum of random variables]]
+- [[./Wald's equation|Wald's equation]]
 
 ### Functions on Probability Distributions
 - [[./probability density function|PDF]] and [[./probability mass function|PMF]]

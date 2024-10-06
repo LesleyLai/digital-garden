@@ -12,6 +12,7 @@ tags:
 ---
 - [[./signal|Signal]]
 - [[./systems|Systems]]
+- [[./time and frequency domain|Time and Frequency Domain]]
 - system analysis
   - [[time domain analysis of LTIC systems|Time domain analysis of LTIC systems]]
   - [[Laplace transform|Laplace Transform]]

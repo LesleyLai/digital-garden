@@ -7,9 +7,6 @@ publish: true
 tags:
   - learning/deliberate_practice
 ---
-
-# Deliberate Practice
-
 Regular practice entails [[./overlearning|mindless repetition]], while **deliberate practice** involves focused, goal-driven performance improvement.
 
 With deliberate practice, we need to be aware about the components of the skill we want to improve. [^3] Identifying what constitutes expert-level performance can be challenging and is often overlooked. [^1].

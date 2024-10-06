@@ -38,11 +38,14 @@ This page contains some half-backed personal thoughts and other writing. If you 
 ## Inclusion
 - [[./RTFM|On "RTFM"]]
 
+## UI & UX
+- [[./on brutalist and neobrutalist web design|on brutalist and neobrutalist web design]]
+- [[./on estimated reading times|on estimated reading times]]
+
 ## Uncategorized
 - [[./Eisenhower Matrix|Eisenhower Matrix]]
 - [[../Concepts/how to design flashcards|how to design flashcards]]
 - [[my bullshit radar|my bullshit radar]]
-- [[./on brutalist and neobrutalist web design|on brutalist and neobrutalist web design]]
 - [[On C++ STL|On C++ STL]]
 - [[./on programming language complexity and bad features|on programming language complexity and bad features]]
 - [[../Concepts/proof by assertion|proof by assertion]]

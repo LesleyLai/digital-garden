@@ -6,6 +6,9 @@ parent:
 publish: true
 tags:
   - signal
+aliases:
+  - signal energy
+  - signal power
 ---
 # Size of a Signal
 
