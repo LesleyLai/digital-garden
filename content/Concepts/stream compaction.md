@@ -7,7 +7,6 @@ publish: true
 tags:
   - "#computing/AlgorithmsAndDataStructures/parallel"
 ---
-
 Given an array of elements, the *stream compaction* algorithm creates a new array with elements that meet a certain criteria, e.g. non null. It also preserve the order of original elements.
 
 Stream compaction is widely used in path tracing, collision detection, sparse matrix compression, etc. It can also *reduce data* transferred from GPU to CPU.
