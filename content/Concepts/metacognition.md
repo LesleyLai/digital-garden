@@ -16,5 +16,8 @@ Unfortunately, most [[./people lack the metacognitive skills to learn effectivel
 
 Metacognitive skills can also be somewhat domain-specific, and proficiency in one area doesn't necessarily transfer fully to others without additional training. [^2]
 
+## Related
+- [[./deliberate practice|deliberate practice]]
+
 [^1]: [Mastering Metacognition: The What, Why, and How](https://www.activelylearn.com/post/metacognition)
 [^2]: [Domain-General and Domain-Specific Patterns of Activity Supporting Metacognition in Human Prefrontal Cortex - PMC](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5895040/)
