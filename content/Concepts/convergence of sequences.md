@@ -1,18 +1,15 @@
 ---
-Aliases:
+aliases:
   - convergent sequence
   - divergent sequence
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+parent:
+  - "[[sequences|sequences]]"
+tags:
+  - math/sequences_and_series
 ---
-
-parent: [[./sequences|sequences]]
-tags: #math/sequences_and_series 
-
----
-# Convergence of Sequences
-
 A sequence $x_n$ **converges** if $\lim_{x \to \infty }x_n$ exists.
 
 We can use the [[./monotone convergence theorem|monotone convergence theorem]] to prove the convergence of a sequence.
