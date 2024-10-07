@@ -1,6 +1,6 @@
 ---
 parent:
-  - "[[probability MOC|probability MOC]]"
+  - "[[expectation|expectation]]"
 tags:
   - "#math/probability"
 created: 2024-10-06
@@ -11,6 +11,5 @@ Suppose [[./random variable|random variables]] $X_1, X_2, \cdots$ are identicall
 $$
 E[\sum_{i=1}^N X_i] = E[N] \cdot E[X_i]
 $$
-
 ## Related
 - [[linearity of expectation|linearity of expectation]]
