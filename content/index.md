@@ -6,7 +6,7 @@ title: Home
 ---
 Hi there! I’m Lesley Lai, and this is my [[./Concepts/digital gardens|little corner of the web]] where I share my notes that I accumulated since 2023, mostly focused on math and programming. I also post a few informal articles sharing my personal opinions here.
 
-Most of the notes and articles here are incomplete and unpolished, reflecting my limited understanding. I usually don’t proofread them, and if you come across any errors, feel free to leave a comment on that page.
+Most of the notes and articles here are incomplete and unpolished, reflecting my limited understanding. I also usually don’t proofread them, and if you come across any errors, feel free to leave a comment on that page.
 
 If you are interested in the features and styles of this site, I keep a [[./Concepts/Quartz customization log|customization log]] for this site.
 
