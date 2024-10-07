@@ -1,7 +1,7 @@
 ---
 parent:
   - "[[./correlation|correlation]]"
-  - "[[statistic bias|statistic bias]]"
+  - "[[biases in statistics|biases in statistics]]"
 tags:
   - "#statistics/correlation"
 created: 2024-09-13
