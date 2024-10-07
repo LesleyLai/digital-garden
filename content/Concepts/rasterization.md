@@ -10,4 +10,4 @@ tags:
 
 # Rasterization
 
-Rasterization is a process of converting continuous objects into discrete representation on a raster grid. It can be seen as an example of a [[./sampling|sampling]] problem, where we sample the middle points of pixels.
+Rasterization is a process of converting continuous objects into discrete representation on a raster grid. It can be seen as an example of a [[./sampling (signal processing)|sampling (signal processing)]] problem, where we sample the middle points of pixels.
