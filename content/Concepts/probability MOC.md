@@ -2,48 +2,41 @@
 aliases:
   - "#math/probability"
 created: 2023-05-30
-modified: 2024-09-24
+modified: 2024-10-07
 parent:
   - "[[math|math]]"
 publish: true
 tags:
   - math/probability
 ---
-# Probability MOC
-- [[sample space|sample space]]
-- [[event (probability)|event (probability)]]
+## Basic Probability
+- [[event (probability)|event]]
+  - [[./independent events|independent events]]
+  - [[./mutually exclusive events|mutually exclusive events]]
+- [[./probability|probability]] (chance)
 - [[axioms of probability|axioms of probability]]
-- [[permutation|permutation]] and [[combination|combination]]
-- [[./Vandermonde's identity|Vandermonde's identity]]
-- [[./law of large numbers|law of large numbers]]
-
-## Conditional Probability
-see: [[./conditional probability|conditional probability]]
-- [[Bayes' theorem|Bayes' theorem]]
-- [[partition of sample space|partition of sample space]]
-- [[./independent events|independent events]]
-- [[./mutually exclusive events|mutually exclusive events]]
+- [[sample space|sample space]]
+- [[outcome|outcome]]
 
 ## Random Variables
-- [[./random variable|random variable]]
-- [[moments of the distribution|moments of the distribution]]
+- [[./random variable|random variables]]
+- [[./expectation|expectation]]
 - [[./variance|variance]]
-- [[Chebyshev’s inequality|Chebyshev’s inequality]]
-- [[sum of random variables|sum of random variables]]
-- [[./Wald's equation|Wald's equation]]
+- [[independent random variables|independent random variables]]
 
-### Functions on Probability Distributions
+## Functions on Probability Distributions
 - [[./probability density function|PDF]] and [[./probability mass function|PMF]]
 - [[./cumulative distribution function|CDF]]
 - [[./quantile function|quantile function]]
 
-## Jointly Distributed Random Variables
-- [[./conditional probability|conditional probability density function]]
-- [[independent random variables|independent random variables]]
-- [[./marginal probability|marginal probability]]
-- distribution of a sum of independent random variables
-- [[covariance|covariance]] and [[./Pearson correlation coefficient|correlation coefficient]]
+## Joint and Marginal Probability
+See [[joint probability|joint probability]] and [[marginal probability|marginal probability]]
+- [[covariance|covariance]] and [[./correlation|correlation]]
 
+## Conditional Probability
+See [[./conditional probability|conditional probability]]
+- [[Bayes' theorem|Bayes' theorem]]
+- [[law of total probability|law of total probability]]
 ## Distributions
 ### Discrete
 - [[uniform distribution|Uniform]] (Discrete)
@@ -58,14 +51,16 @@ see: [[./conditional probability|conditional probability]]
 - [[./exponential random variable|Exponential]]
 
 ## Parameter Estimation
-- [[./sampling|sampling]]
+- [[./sampling (signal processing)|sampling (signal processing)]]
 - [[estimator|estimator]]
 - [[bias of an estimator|bias of an estimator]]
 - [[sample mean and variance|sample mean and variance]]
 - [[./central limit theorem|central limit theorem]]
-
+- [[./confidence interval|confidence interval]]
+- [[./law of large numbers|law of large numbers]]
 ## Fallacies
-- [[./statistic bias|probability fallacies]]
+- [[./biases in statistics|probability fallacies]]
 
 ## Related
+- [[combinatorics|combinatorics]]
 - [[./statistics|statistics]]
