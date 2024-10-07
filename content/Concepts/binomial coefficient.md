@@ -6,7 +6,7 @@ tags:
   - math/probability
   - math/combinatorics
 ---
-For any nonnegative integers $k$ and $n$, the binomial coefficient $\left(\begin{array}{l}n \\ k\end{array}\right)$, read as " $n$ choose $k$ ", is the number of subsets of size $k$ for a set of size $n$.
+For any non-negative integers $k$ and $n$, the binomial coefficient $\left(\begin{array}{l}n \\ k\end{array}\right)$, read as " $n$ choose $k$ ", is the number of subsets of size $k$ for a set of size $n$.
 
 For any $k \le n$, $\left(\begin{array}{l}n \\ k\end{array}\right) = \frac{n!}{k! (n-k)!}$
 For $k > n$, $\left(\begin{array}{l}n \\ k\end{array}\right) = 0$
