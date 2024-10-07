@@ -27,3 +27,6 @@ One of the most widely studied type of systems is the [[./linear time-invariant 
 - [[zero-input response and zero-state response|zero-input response and zero-state response]]
 - [[impulse response|impulse response]]
 - [[transfer function|transfer function]]
+
+## System Analysis
+- [[time domain analysis of LTIC systems|time domain analysis of LTIC systems]]
