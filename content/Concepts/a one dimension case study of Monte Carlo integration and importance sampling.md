@@ -7,7 +7,7 @@ publish: true
 tags:
   - math/monte_carlo
   - math/numerical
-  - math/sampling
+  - signal/sampling
 ---
 This is a one dimensional case study of Monte Carlo integration from the [[ray tracing the rest of your life|Ray Tracing: the Rest of Your Life]] book.
 
