@@ -12,6 +12,4 @@ tags:
   - "#math/definitions"
   - math/set_theory
 ---
-
-# Support (mathematics)
 For a real function, the **support** of the function is a subset of the function domain where the element does not map to zero.
