@@ -7,7 +7,6 @@ publish: true
 tags:
   - cognitive_bias
 ---
-# Availability Heuristic
 The **availability heuristic** or **availability bias** is a mental shortcut wherein people lean on readily accessible examples that coming to mind when assessing a particular subject, idea, or choice.
 
 One factor that strongly impact accessibility of information is its [[./vividness bias|vividness]].
