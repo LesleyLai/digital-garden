@@ -4,10 +4,10 @@ aliases:
 created: 2023-05-30
 modified: 2024-09-23
 parent:
-  - "[[sampling|sampling]]"
+  - "[[sampling (signal processing)|sampling]]"
 publish: true
 tags:
-  - math/sampling
+  - signal/sampling
   - math/probability
 ---
 **Inverse transform sampling** can be used to transform samples from the [[uniform distribution|uniform distribution]] to another by inverting the target distribution’s [[./cumulative distribution function|CDF]] (a.k.a. computing the [[./quantile function|quantile function]]). It is one of the most important techniques to generate samples from a distribution.
@@ -42,7 +42,7 @@ $$
 
 ## Intuition
 > [!example]- A Discrete Example
->  We will use a discrete example for demonstration purpose. To draw a sample from the distribution, we need to take a sample $\xi$ from the [[canonical uniform random variable|canonical uniform random variable]] and use it to select one of the [[./outcome|outcomes]] in CDF s.t. the probability of choosing that outcome is equal to the probability of the outcome itself. From the CDF, we can see that we generated the y axis (from uniform random variable) of a [[./cumulative distribution function|CDF]] and we want to map it to the x-axis.
+>  We will use a discrete example for demonstration purpose. To draw a sample from the distribution, we need to take a sample $\xi$ from the [[canonical uniform random variable|canonical uniform random variable]] and use it to select one of the [[outcome|outcomes]] in CDF s.t. the probability of choosing that outcome is equal to the probability of the outcome itself. From the CDF, we can see that we generated the y axis (from uniform random variable) of a [[./cumulative distribution function|CDF]] and we want to map it to the x-axis.
 >  
 > ![[../assets/discrete-cdf.svg|discrete-cdf.svg]]
 > 

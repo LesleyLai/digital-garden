@@ -7,7 +7,7 @@ tags:
   - math/definitions
   - statistics
 ---
-In probability and statistics, **variance** measure "how far are the samples from average, on average." It can be defined in term of [[expectation|expectation]]:
+In probability and statistics, **variance** measure "how far are the samples from average, on average." It can be defined in term of [[./expectation|expectation]]:
 
 > [!definition]
 > Given a random variable $X$,
@@ -29,7 +29,7 @@ $$\operatorname{Var}(X)=E\left[X^2\right]-E[X]^2$$
 > See [[linearity of expectation|linearity of expectation]]
 
 ## Variance for Discrete Random Variable
-This definition applies to both discrete and continuous random variables. For a discrete random variable $X$, where each outcome $x_i$ has a corresponding [[./probability mass function|probability]] $p_i$, we can get the variance are:
+This definition applies to both discrete and continuous random variables. For a discrete random variable $X$, where each outcome $x_i$ has a corresponding [[./probability mass function|probability]] $p_i$, we can get the variance as:
 $$
 \operatorname{Var}(X)=\frac{1}{n}\sum_{i = 1}^n p_i \cdot (x_i - E[X])^2
 $$

@@ -9,7 +9,6 @@ publish: true
 tags:
   - math/probability
 ---
-# Probability
 > [!definition] frequentist definition
 > The **probability** or **chance** is the percentage of time a certain [[event (probability)|event]] is expected to happen, if the same process is repeated long-term
 

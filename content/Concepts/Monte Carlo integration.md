@@ -7,7 +7,7 @@ tags:
   - math/monte_carlo
   - math/numerical
 ---
-**Monte Carlo integration** uses [[Monte Carlo method|Monte Carlo method]] to perform [[./numerical integration|numerical integration]]. With Monte Carlo integration, we estimate value of integral using random sampling of function
+**Monte Carlo integration** uses [[Monte Carlo methods|Monte Carlo methods]] to perform [[./numerical integration|numerical integration]]. With Monte Carlo integration, we estimate value of integral using random sampling of function
 - Value of estimate depends on random samples used
 - But algorithm gives the correct value of integral "on average"
 

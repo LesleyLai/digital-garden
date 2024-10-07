@@ -4,7 +4,7 @@ parent:
 tags:
   - learning/NoteTaking
 created: 2024-09-17
-modified: 2024-09-26
+modified: 2024-10-07
 publish: true
 aliases:
   - personal wiki
@@ -16,7 +16,7 @@ It sits at the intersection of a notebook and a blog, where digital gardeners sh
 Another feature of a digital garden is its navigation structure. While blogs are typically arranged chronologically, digital gardens are more loosely organized and rely heavily on hyperlinks for navigation, just like traditional wikis.
 
 ## Examples
-Here are some examples of interesting digital gardens that I came across:
+Here are some examples of interesting digital gardens that I came across and liked:
 - This site
 - [Gwern Branwen](https://gwern.net) - topics ranging from AI, psychology, and statistics
 - [EDAV Garden](https://edav-garden.netlify.app/) - "Exploratory data analysis and visualization (EDAV)"
@@ -27,3 +27,5 @@ Here are some examples of interesting digital gardens that I came across:
 - [Data Glossary 🧠](https://glossary.airbyte.com/)
 - [Aster's notebook](https://notes.asterhu.com/) - mainly [[./data science|data science]]
 - [Second Brain](https://www.ssp.sh/brain/)
+- [The Stats Map · Home](https://thestatsmap.com/) - Advanced grad-level statistics
+- [Alex' Garden](https://alexanderweichart.de/)

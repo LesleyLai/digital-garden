@@ -12,7 +12,6 @@ tags:
   - math/LinearAlgebra
   - math/definitions
 ---
-# Linear Independence
 > [!definition]
 > 
 > Let $\mathbf{v}_1, \cdots, \mathbf{v}_n$ be vectors in a [[./vector space|vector space]] V. If the only [[./linear combination|linear combination]] of the vectors satisfying

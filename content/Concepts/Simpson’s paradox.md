@@ -8,8 +8,6 @@ tags:
   - statistics
 ---
 
-# Simpson’s Paradox
-
 **Simpson’s paradox** is a phenomenon in which a trend appears in several groups of data but disappears or reverses when the groups are combined. It is caused by [[./confounding variable|confounding variables]].
 
 ## Example

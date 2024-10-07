@@ -1,6 +1,6 @@
 ---
 parent:
-  - "[[statistic bias|statistic bias]]"
+  - "[[biases in statistics|biases in statistics]]"
 tags:
   - statistics
 created: 2024-08-25

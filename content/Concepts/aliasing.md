@@ -3,10 +3,10 @@ created: 2023-05-30
 modified: 2024-08-07
 publish: true
 tags:
-  - math/sampling
+  - signal/sampling
   - computing/graphics/AntiAliasing
 ---
-**Aliasing** is the high frequencies in original [[./signal|signal]] masquerade as low frequencies after [[./sample reconstruction|reconstruction]]. (due to undersampling)
+**Aliasing** is the high frequencies in original [[./signal|signal]] masquerade as low frequencies after [[./sample reconstruction|reconstruction]] (due to [[undersampling|undersampling]])
 
 ![[../assets/aliasing.png|600]]
 

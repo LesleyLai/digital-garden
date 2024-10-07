@@ -11,5 +11,5 @@ publish: true
 - [[./randomized controlled trials|randomized controlled trials]] (RCTs)
 - [[./observational study|observational study]]
 
-## Bias in Data Collection
-See [[./bias in data collection|bias in data collection]]
+## See Also
+See [[./biases in statistics#Data Collection Bias|biases in data collection]]

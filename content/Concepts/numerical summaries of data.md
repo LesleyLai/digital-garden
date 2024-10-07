@@ -1,6 +1,6 @@
 ---
 created: 2024-08-28
-modified: 2024-09-25
+modified: 2024-10-07
 parent:
   - "[[statistics|statistics]]"
 publish: true
@@ -23,3 +23,9 @@ See: [[./correlation|correlation]]
 ## Errors
 - [[residual (statistics)|residual]]
 - [[./root mean square error|root mean square error]]
+- [[./standard error|standard error]]
+- [[./confidence interval|confidence interval]]
+
+## Hypothesis Test
+- [[p-value|p-value]]
+- [[test statistic|test statistic]]

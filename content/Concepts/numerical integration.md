@@ -2,11 +2,15 @@
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+parent:
+  - "[[calculus|calculus]]"
+  - "[[numerical analysis|numerical analysis]]"
+tags:
+  - math/numerical
+  - math/calculus/integration
 ---
-# Numerical Integration
-
 Basic idea:
-  - [[./sampling|Sample]] the function at many points
+  - [[./sampling (signal processing)|Sample]] the function at many points
   - integral is approximated as weighted sum
 
 ## Integration in 1D
@@ -29,7 +33,3 @@ How much does it cost to apply trapezoidal rule as we go up in dimension?
 
  An important way to avoid the curse of dimensionality is to use
  [[./Monte Carlo integration|Monte Carlo integration]]
-
----
-parent: [[./calculus|calculus]], [[./numerical analysis|numerical analysis]]
-tags: #math/numerical #math/calculus/integration
