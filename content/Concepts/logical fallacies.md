@@ -84,7 +84,7 @@ tags:
 - [[./cognitive bias|cognitive bias]]
 
 ## Subpages
-- [[./statistic bias|statistic bias]]
+- [[./biases in statistics|biases in statistics]]
 
 ## References
 - [List of fallacies - Wikipedia](https://en.m.wikipedia.org/wiki/List_of_fallacies)
