@@ -130,6 +130,9 @@ User-agent: yoozBot
 User-agent: YoudaoBot
 # crawling rule(s) for above bots
 Disallow:
+# Archive
+User-agent: archive.org_bot
+Disallow:
 # disallow all other bots
 User-agent: *
 Disallow: /
