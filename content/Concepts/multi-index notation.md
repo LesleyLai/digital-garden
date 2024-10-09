@@ -11,7 +11,7 @@ tags:
   - math/notations
   - math/calculus/vector
 ---
-Multi-index notation generalizes integer index into ordered tuple of indices. It is useful when we have a function with a lot of input variables.
+Multi-index notation generalizes integer index into [[tuple|ordered tuple]] of indices. It is useful when we have a function with a lot of input variables.
 
 A multi-index is $n$ ordered indices $I = (i_1, i_2, \dots, i_n)$ of non-negative integers
 

@@ -21,7 +21,7 @@ A system is **linear** if it follows the [[./linear transformation|superposition
 A system's output for $t > 0$ is the result of two independent causes:
 - the initial conditions of the system (or the system state) at $t = 0$ 
 - the input $x(t)$ for $t \ge 0$. 
-If the system is linear, the we can decompose the output into the sum of [[zero-input response and zero-state response|those two components]]:
+If the system is linear, the we can decompose the output into the sum of [[./zero-input response and zero-state response|those two components]]:
 - zero-input response: result only from initial system state
 - zero-state response: result only from the system input
 This property of linear systems, which allows the separation of an output into components from the initial conditions and from the input, is called the _decomposition property_.

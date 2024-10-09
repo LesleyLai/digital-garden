@@ -9,9 +9,11 @@ tags:
 aliases:
   - "#computing/webdev/ssg/astro"
 ---
-# Astro
-A static-site generator. Astro use a template language `.astro` kind of similar to [[jsx|jsx]], though it separates a JavaScript-based "header" and the markup. Unlike 
-Everything in Astro are compiled to 
+Astro is a static-site generator.
+
+It uses a template language `.astro`, which is kind of similar to [[jsx|jsx]], though it separates a JavaScript-based "header" and the markup.
+
+## Subtopics
 - [[./Astro component props|component props]]
 
 ## Upgrade Astro

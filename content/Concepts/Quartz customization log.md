@@ -41,6 +41,13 @@ In `quartz/static`
 ## Adds `robots.txt`
 From [Robots.txt template - allowlist | DITig](https://www.ditig.com/publications/robots-txt-template)
 
+The above `robots.txt` does not allow access from the [Internet Archive](https://archive.org/), so I add it back
+```txt
+# Archive
+User-agent: archive.org_bot
+Disallow:
+```
+
 TBH I don't really expect most scrappers to respect `robots.txt`, though.
 
 ## An `OnlyFor` Component
