@@ -13,7 +13,7 @@ tags:
 ---
 In Logic, a **truth tree**, also called an **semantic tableau**, (/tæˈbloʊ, ˈtæbloʊ/; plural: tableaux), an **analytic tableau**, is a method of testing for various properties of a set of [[premise|premises]] or an [[./argument|argument]].
 
-Compare to a [[truth table|truth table]], a truth tree can often to be faster to work with. An argument with $n$ basic premises need $2^n$ rows in a truth table, so it quickly gets unpractical. Also, it is possible to extend truth tree to [[predicate logic|predicate logic]] while truth table is limited to [[./propositional logic|propositional logic]].
+Compare to a [[./truth table|truth table]], a truth tree can often to be faster to work with. An argument with $n$ basic premises need $2^n$ rows in a truth table, so it quickly gets unpractical. Also, it is possible to extend truth tree to [[predicate logic|predicate logic]] while truth table is limited to [[./propositional logic|propositional logic]].
 
 The primary purpose of a truth tree is to determine whether a given set of propositions is [[satisfiability|satisfiable]]. However, with some adjustments, it can also be used to test other properties, such as [[./validity (disambiguous)|validity]].
 
