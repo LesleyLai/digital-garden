@@ -9,7 +9,7 @@ publish: true
 aliases:
   - "#statistics/frequentist"
 ---
-**Frequentist inference** involves using observed data samples to infer properties of an underlying population.
+**Frequentist inference** involves using observed [[sampling (statistics)|data samples]] to infer properties of an underlying [[./statistical population|population]].
 
 ## Index
 - [[point estimator|Point Estimator]]
