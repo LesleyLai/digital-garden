@@ -20,11 +20,6 @@ title: Bias and Fallacies in Statistics and Probability
 ## Data Collection Bias
 When we conduct a experiment or survey, there are many possible sources of possible bias. For example:
 - [[./sampling bias|sampling bias]] - sample is collected in such a way that some members of the intended population have a lower or higher sampling probability than others
-  - [[consent bias|consent bias]] - participants choose whether or not they take part in the experiment
-  - [[selection bias|selection bias]] - a systematic tendency to exclude or include one type of person from the sample
-  - [[survivorship bias|survivor bias]] - when only certain types of participants finish the study
-  - [[adherence bias|adherer]] - when participants who adhere to a study protocol or intervention differ from those who do not adhere
-  - social desirability bias: people may not tell the truth for questions like "do you use drugs"
 - [[observer bias|observer bias]] - when the participants or investigators are aware of the identity of the 2 groups, and so we can get bias in either the responses or evaluations
   - [[placebo effect|placebo effect]]
 
