@@ -17,5 +17,5 @@ tags:
   - [[time domain analysis of LTIC systems|Time domain analysis of LTIC systems]]
   - [[Laplace transform|Laplace Transform]]
   - [[./Fourier series|Fourier series]] and [[Fourier transform|Fourier transform]]
-- Continuous and Discrete signals
+- Continuous and [[./discrete signals and systems|discrete signal]]
   - [[./sampling (signal processing)|sampling]] and [[./sample reconstruction|reconstruction]]

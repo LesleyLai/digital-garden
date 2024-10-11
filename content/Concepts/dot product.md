@@ -2,7 +2,7 @@
 created: 2023-05-30
 generalizations:
   - "[[inner product|inner product]]"
-modified: 2024-03-14
+modified: 2024-10-11
 parent:
   - "[[Euclidean vector space|Euclidean vectors]]"
 publish: true
@@ -10,9 +10,6 @@ tags:
   - math/LinearAlgebra/InnerProduct
   - math/definitions
 ---
-
-# Dot Product
-
 **Dot product** is denoted as $\mathbf{u} \cdot \mathbf{v}$.
 
 > [!definition] Geometric Definition
@@ -26,7 +23,7 @@ $$
 \mathbf{u}\cdot \mathbf{v} = \mathbf{0} \iff \mathbf{u} \perp \mathbf{v}
 $$
 
-
+The dot product can be getting from the [[./L2 norm|Euclidean norm]].
 ## Properties
 Dot product satisfies the following properties:
 - $\mathbf{u}\cdot \mathbf{v} = \mathbf{v}\cdot\mathbf{u}$ ([[commutativity|Commutativity]])

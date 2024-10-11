@@ -5,7 +5,7 @@ aliases:
 created: 2024-02-05
 modified: 2024-03-14
 parent:
-  - "[[color theory|color theory]]"
+  - "[[color science|color science]]"
   - "[[radiometry|radiometry]]"
 publish: true
 tags:

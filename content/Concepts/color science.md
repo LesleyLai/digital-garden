@@ -6,6 +6,8 @@ parent:
 publish: true
 tags:
   - color
+aliases:
+  - color theory
 ---
 - [[./spectral power distribution|spectral distribution]]
 - [[./color space and color model|color space and color model]]

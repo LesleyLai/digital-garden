@@ -6,27 +6,83 @@ parent:
 tags:
   - math/fourier
 created: 2024-09-24
-modified: 2024-09-24
+modified: 2024-10-11
 publish: true
 ---
-A **Fourier series** is a way to representing a [[periodic function|periodic function]] as a sum of sine and cosine functions. It is analogous to a [[./Taylor series|Taylor series]], which expresses functions as a sum of monomial terms.
+A **Fourier series** is a way to representing a [[periodic function|periodic function]] as a [[./linear combination|linear combination]] of [[harmonic|harmonically related]] [[sinusoid|sine and cosine functions]]. It is analogous to a [[./Taylor series|Taylor series]], which expresses functions as a sum of monomial terms.
 
 ![[../assets/Fourier series.gif|A sawtooth wave represented by a successively larger sum of trigonometric terms]]
 
 For functions that are not periodic, we need to use [[Fourier transform|Fourier transform]]. For functions of two variables that are periodic in both variables, the trigonometric basis in the Fourier series is replaced by the [[./spherical harmonics|spherical harmonics]].
 
-## Definition
+## Key Features
+The sinusoidal functions in Fourier series are integer multiples of a _fundamental frequency_ related to the period of the original function. Sine waves with this characteristic are referred to as [[harmonic|harmonics]].
+
+The sine and cosine functions used in the Fourier series are [[./orthogonal functions|orthogonal]] to each other, meaning they are [[./linear independence|linearly independent]] over the interval of periodicity.
+
+## Definition: Trigonometric Form
+
+The Fourier series can be defined in several different ways. The most common way is as a sum of sine and cosine terms.
+
 > [!definition] Fourier Series, Trigonometric Form
-> The Fourier series of a periodic function $f(x)$ of period $T$ is
+> The Fourier series of a periodic function $f(x)$ of [[frequency and period of waves|period]] $T$ is
 > $$
->f(x) = \frac{a_0}{2} + \sum_{k = 1}^\infty \left( a_k \cos{\frac{2\pi kx}{T}} + b_k \sin{\frac{2\pi kx}{T}} \right)
+>f(x) = \frac{A_0}{2} + \sum_{n = 1}^\infty \left( A_n \cos{\left( 2\pi   \frac{n}{T} x\right)} + B_n \sin{\left( 2\pi \frac{ n }{T} x \right)} \right)
 > $$
 >
-> for some set of **Fourier coefficients** $a_k$ and $b_k$ defined by the integrals
-> 
-> $a_k = \frac{2}{T}\int_{x = 0}^T f(x) \cos\left( \frac{2\pi kx}{t} \right)$ and $b_k = \frac{2}{T}\int_{x = 0}^T f(x) \sin\left( \frac{2\pi kx}{t} \right) \, dx$
+> for some set of **Fourier coefficients** $A_n$ and $B_n$ defined by the integrals
+> $$
+> \begin{aligned}
+> A_n &= \frac{2}{T}\int_{x = 0}^T f(x) \cos{\left( 2\pi \frac{n}{T} x\right)}dx \\
+> B_n &= \frac{2}{T}\int_{x = 0}^T f(x) \sin\left( 2\pi \frac{ n }{T} x \right) \, dx
+> \end{aligned}
+> $$
 
-Some sources simplify the [[angular frequency|angular frequency]] $\frac{2\pi}{T}$ as $\omega$: 
-$$
-f(x) = \frac{a_0}{2} + \sum_{k = 1}^\infty \left( a_k \cos{(k\omega t)} + b_k \sin{(k\omega t)} \right)
-$$
+We often refer to the cosine terms as the "even part" and the sine terms as the "odd part". An insight from decomposing [[./even and odd functions#Even and Odd Decomposition|decomposing Fourier series into even and odd components]] is that when $f$ is even or odd, we can simplify the Fourier series:
+- for even functions, $B_n = 0$ and $f(x) = \frac{A_0}{2} + \sum_{n = 1}^\infty A_n \cos{\left( 2\pi   \frac{n}{T} x\right)}$
+- for odd functions, $A_n = 0$ and $f(x) = \sum_{n = 1}^\infty A_n \sin{\left( 2\pi \frac{n}{T} x\right)}$
+
+> [!info]+ Notation Variations
+> Different sources may use alternative notations:
+> 1. Some use $t$ instead of $x$ as the variable.
+> 2. Lowercase letters $a_n$ and $b_n$ may be used instead of $A_n$ and $B_n$.
+> 3. $A_0$ is sometimes defined as $\frac{1}{T}\int_{0}^T f(x)dx$ to avoid dividing by 2 in the main series.
+> 4. The integration limits may be from $-\frac{T}{2}$ to $\frac{T}{2}$ rather than from $0$ to $T$.
+> 5. The [[angular frequency|angular frequency]] $\omega = \frac{2\pi}{T}$ may be used for simplification.
+>
+> An equivalent formulation incorporating some of these variations is:
+> $$
+> f(t) = a_0 + \sum_{n = 1}^\infty \left( a_n \cos{(n\omega t)} + b_n \sin{(n\omega t)} \right)
+> $$
+> where
+> $$
+> \begin{align}
+> a_0 &= \frac{1}{T} \int_{x = -\frac{T}{2}}^{\frac{T}{2}} f(t) dt \\
+> a_n &= \frac{2}{T}\int_{x = -\frac{T}{2}}^{\frac{T}{2}} f(t) \cos{\left( 2\pi \omega x\right)}dt \\
+> a_n &= \frac{2}{T}\int_{x = -\frac{T}{2}}^{\frac{T}{2}} f(t) \sin{\left( 2\pi \omega x\right)}dt
+> \end{align}
+> $$
+
+## Alternative Representations
+### Compact Trigonometric Form
+If we perform some phase shift, we can combine the sine and cosine terms
+> [!definition] Fourier Series, Compact Trigonometric Form
+> $$
+> f(x) = C_0 + \sum_{n = 1}^\infty C_n \cos{\left( 2\pi \frac{n}{T} x + \theta_{n} \right)}
+> $$
+> where 
+> - $C_0 = 2A_0$
+> - $C_n = \sqrt{ A_n^2 + B_n^2 }$
+> - $\theta_n = \arctan(-B_n/A_n)$
+
+This form direct represent the amplitude ($C_n$) and [[phase (waves)|phase]] ($\theta_n$) for each harmonic.
+
+### Compact Exponential Form
+Another way to represent the Fourier series is by combining terms via the [[./Euler's formula|Euler's formula]]:
+
+> [!definition] Fourier Series, Compact Exponential Form
+> $$
+> f(x) = \sum_{n = -\infty}^{\infty} D_n e^{i \ 2\pi\frac{n}{T} x}
+> $$
+> where
+> - $D_n = \frac{1}{T} \int_{x = 0}^{T} f(x)  e^{i \ 2\pi\frac{n}{T} x} dx$

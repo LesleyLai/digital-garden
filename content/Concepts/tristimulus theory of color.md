@@ -6,7 +6,7 @@ aliases:
 created: 2024-05-04
 modified: 2024-05-04
 parent:
-  - "[[color theory|color theory]]"
+  - "[[color science|color science]]"
 publish: true
 tags:
   - color

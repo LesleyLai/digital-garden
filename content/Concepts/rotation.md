@@ -10,9 +10,7 @@ tags:
   - math/LinearAlgebra/orthogonality
   - math/geometry/transformation/rotation
 ---
-
-# Rotation
-[[rotation|Rotation]] holds three invariants:
+[[rotation|Rotation]] holds three invariant:
 - Keeps origin fixed
 - preserves distances between points: $(f(\mathbf{x}) - f(\mathbf{y})) = \mathbf{x} - \mathbf{y}$
 - preserves orientation ($det(f) > 0$)
@@ -22,7 +20,6 @@ Rotation matrix is [[./orthogonal matrix|orthogonal]], which means [[./Inverse o
 
 Rotation maps the [[standard basis|standard basis]] to [[./orthonormal basis|ONB]] $e_1,\, e_2,\, e_3$.
 
-
 ## Ways to Specify Rotations
 - [[Euler angles|Euler angles]]
 - rotation matrix
@@ -30,3 +27,6 @@ Rotation maps the [[standard basis|standard basis]] to [[./orthonormal basis|ONB
   - [[Rodrigues' rotation formula|axis-angle rotation]]
 - [[./complex numbers|complex numbers]]/[[quaternions|quaternions]]
 - [[./rotors|rotors]]
+
+## See Also
+- [[./two reflections gives a rotation|rotation as a double reflection]]
