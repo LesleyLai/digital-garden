@@ -32,7 +32,7 @@ tags:
 - [[./environment lighting|environment lighting]]
 - [[normal map|normal map]]
 - [[perspective projection|perspective projection]]
-- [[./color theory|Color Science]]
+- [[./color science|Color Science]]
 
 ## Optimization
 - [[./vertex buffer compression|vertex buffer compression]]
