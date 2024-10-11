@@ -1,6 +1,6 @@
 ---
 created: 2024-08-08
-modified: 2024-08-11
+modified: 2024-10-11
 parent:
   - "[[signal|signal]]"
 publish: true
@@ -10,15 +10,13 @@ aliases:
   - signal energy
   - signal power
 ---
-# Size of a Signal
-
-The size of a signal indicates the largeness or strength of a signal. Such a measurement must consider not only the signal magnitude, but also signal duration.
+The **size of a signal** indicates the largeness or strength of a signal. Such a measurement must consider not only the signal magnitude, but also signal duration.
 
 Signal size can be measured in two ways: energy and power. Energy is used to measure aperiodic signals, while power is used for periodic signals.
 
 ## Signal Energy
 
-If we just integrate a signal $x(t)$, the positive and negative areas might cancel each other out. To address this, we define the signal size as the area under $|x(t)|^2$. This leads to the equation for *signal energy*:
+If we just integrate a signal $x(t)$, the positive and negative areas might cancel each other out. To address this, we define the signal size as the area under $|x(t)|^2$. This leads to the equation for **signal energy**:
 
 $$
 E_x = \int_{t = -\infty}^\infty |x(t)|^2 \, dt 
@@ -27,10 +25,9 @@ $$
 > The signal energy as described above does not indicate the actual energy (in the conventional sense) of the signal because the signal energy depends not only on the signal, but also on the load
 ## Signal Power
 
-Signal energy must be finite for it to be a meaningful measure of signal size, and a necessary condition for signal energy to be finite is that $x(t) \to 0$ when $|t| \to \infty$. Otherwise the integral will not converge.
+Signal energy must be finite for it to be a meaningful measure of signal size, and a necessary condition for signal energy to be finite is that $x(t) \to 0$ when $|t| \to \infty$. Otherwise [[improper Integrals|the integral will not converge]].
 
-However, another type of signals we are interested in are *periodic* functions such as $x(t) = \sin(t)$, which have infinite energy. A more meaningful measure of the signal size in such a case would be the time average of the
-energy, if it exists. We can define signal power as the following:
+However, another type of signals we are interested in are [[periodic function|periodic functions]] such as $x(t) = \sin(t)$, which have infinite energy. In such cases, a more useful measure of signal size is the time-averaged energy, if it exists. This measure is called **signal power**, and it is defined as follows:
 $$
 P_x = \lim_{T \rightarrow \infty} { \frac{1}{T} \int _{t = -T/2}^{T/2} |x(t)|^2 \, dt } 
 $$
