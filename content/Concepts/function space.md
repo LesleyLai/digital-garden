@@ -14,3 +14,6 @@ For example, for real functions, we can certainly add/scale functions
  - $(f + g)(x) = f(x) + g(x)$
  - $(af)(x) = a(f(x))$
 And we can prove that the properties for vector space all hold.
+
+## Subtopics
+- [[./orthogonal functions|orthogonal functions]]
