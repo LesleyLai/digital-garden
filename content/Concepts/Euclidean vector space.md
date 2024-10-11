@@ -12,9 +12,6 @@ publish: true
 tags:
   - math/LinearAlgebra/VectorSpace
 ---
-
-# Euclidean Vector Space
-
 The most common [[./vector space|vector space]] is the n-dimension **Euclidean vector space**, which is typically denoted as $\mathbb{R}^n$. A Euclidean vector represent an **oriented length**.
 
 ## Operations
