@@ -29,3 +29,4 @@ Here are some examples of interesting digital gardens that I came across and lik
 - [Second Brain](https://www.ssp.sh/brain/)
 - [The Stats Map · Home](https://thestatsmap.com/) - Advanced grad-level statistics
 - [Alex' Garden](https://alexanderweichart.de/)
+- [Index - Data Engineering Wiki](https://dataengineering.wiki/Index)
