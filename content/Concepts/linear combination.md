@@ -10,9 +10,6 @@ publish: true
 tags:
   - math/LinearAlgebra
 ---
-
-# Linear Combination
-
 A **linear combination** of vectors $\mathbf{v}_1, \cdots, \mathbf{v}_n$ is an expression of the form
 $$
   a_1 \mathbf{v}_1 \cdots a_n \mathbf{v}_n
