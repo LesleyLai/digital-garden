@@ -6,10 +6,10 @@ parent:
 tags:
   - math/fourier
 created: 2024-09-24
-modified: 2024-10-11
+modified: 2024-10-12
 publish: true
 ---
-A **Fourier series** is a way to representing a [[periodic function|periodic function]] as a [[./linear combination|linear combination]] of [[harmonic|harmonically related]] [[sinusoid|sine and cosine functions]]. It is analogous to a [[./Taylor series|Taylor series]], which expresses functions as a sum of monomial terms.
+A **Fourier series** is a way to representing a [[periodic function|periodic function]] as a [[./linear combination|linear combination]] of (potentially infinite amount of) [[harmonic|harmonically related]] [[sinusoid|sine and cosine functions]]. It is analogous to a [[./Taylor series|Taylor series]], which expresses functions as a sum of monomial terms.
 
 ![[../assets/Fourier series.gif|A sawtooth wave represented by a successively larger sum of trigonometric terms]]
 
@@ -18,9 +18,17 @@ For functions that are not periodic, we need to use [[Fourier transform|Fourier 
 ## Key Features
 The sinusoidal functions in Fourier series are integer multiples of a _fundamental frequency_ related to the period of the original function. Sine waves with this characteristic are referred to as [[harmonic|harmonics]].
 
-The sine and cosine functions used in the Fourier series are [[./orthogonal functions|orthogonal]] to each other, meaning they are [[./linear independence|linearly independent]] over the interval of periodicity.
+The sine and cosine functions used in the Fourier series are [[./orthogonal functions|orthogonal]] to each other, meaning they are [[./linear independence|linearly independent]] over the interval of periodicity [^1]:
 
-## Definition: Trigonometric Form
+$$
+\begin{gather}
+\displaystyle{\frac{1}{\pi}\int \limits_{-\pi}^{\pi} {\color{black}\sin({\color{red}n} x)}{\color{black} \sin({\color{blue}m} x)} dx = \begin{cases} 1, & {\color{red}n} = {\color{blue}m} \\ 0, & {\color{red}n} \neq {\color{blue}m}\end{cases}} \\
+\displaystyle{\frac{1}{\pi}\int \limits_{-\pi}^{\pi} {\color{black}\cos({\color{red}n} x)}{\color{black} \cos({\color{blue}m} x)} dx = \begin{cases} 1, & {\color{red}n} = {\color{blue}m} \\ 0, & {\color{red}n} \neq {\color{blue}m}\end{cases}} \\
+\displaystyle{\frac{1}{\pi}\int \limits_{-\pi}^{\pi} {\color{red}\sin({\color{red}n} x)}{\color{blue} \cos({\color{blue}m} x)} dx =0}
+\end{gather}
+$$
+
+## Trigonometric Form
 
 The Fourier series can be defined in several different ways. The most common way is as a sum of sine and cosine terms.
 
@@ -85,4 +93,44 @@ Another way to represent the Fourier series is by combining terms via the [[./Eu
 > f(x) = \sum_{n = -\infty}^{\infty} D_n e^{i \ 2\pi\frac{n}{T} x}
 > $$
 > where
-> - $D_n = \frac{1}{T} \int_{x = 0}^{T} f(x)  e^{i \ 2\pi\frac{n}{T} x} dx$
+> - $D_n = \frac{1}{T} \int_{x = 0}^{T} f(x)  e^{-i \ 2\pi\frac{n}{T} x} dx$
+
+## Complex Fourier Series
+One of the great advantage of the compact exponential form of the Fourier series is that it gives us new insight of the Fourier Series as a [[./linear combination|linear combination]] of [[circular motion|circular motions]] on a complex plane. [^2]
+
+Consider a single term in the Fourier series: $D_n e^{i2\pi\frac{n}{T}x}$:
+- the Fourier coefficient $D_n$ is the radius of the circle
+- the term $2\pi\frac{n}{T}$ is the [[angular frequency|angular frequency]] of the circular motion
+- As $x$ increase, the term $e^{i2\pi\frac{n}{T}x}$ causes a rotation in the complex plane. Positive $n$ values result in counterclockwise rotation, while negative $n$ values lead to clockwise rotation.
+
+![[../assets/complex Fourier series.png|complex Fourier series.png]]
+## Where Do Fourier Coefficients Come from
+We can most easily understand the origin of Fourier coefficients by examining the compact exponential form of the Fourier series.
+
+We know that $D_0 = \frac{1}{T} \int_{0}^{T} f(x) dx$. Let's see how this integral yields $D_0$:
+$$
+\begin{align}
+&\int_{x = 0}^{T} f(x) dx = \int_{x = 0}^{T} \sum_{n = -\infty}^{\infty} D_{{\color{green} n}} e^{i \ 2\pi\frac{{\color{green} n}}{T} x} dx \\
+&= \dots +  \int_{x = 0}^{T} D_{{\color{green} -1}} e^{i \ 2\pi\frac{{\color{green} -1}}{T} x} dx + \int_{x = 0}^{T} D_{\color{green} 0} dx + \int_{x = 0}^{T} D_{{\color{green} 1}} e^{i \ 2\pi\frac{{\color{green} 1}}{T} x} dx + \dots
+\end{align}
+$$
+All the terms except $\int_{x = 0}^{T} D_{\color{green} 0} dx$ will be zero because they complete at least one full cycle and we know that the average of a point on the circle is the origin.
+
+Therefore:
+$$
+\frac{1}{T} \int_{x = 0}^{T} f(x) = \frac{1}{T}\int_{x = 0}^{T} D_{\color{green} 0} dx = D_{\color{green} 0}
+$$
+
+If we want to calculate other coefficients such as $D_2$, notice that
+$D_2 = \frac{1}{T} \int_{x = 0}^{T} f(x)  e^{i \ 2\pi\frac{2}{T} x} dx$ which shifts all the above integrals by $e^{{\color{red} -}i \ 2\pi\frac{{\color{red} 2}}{T} x}$. And we get
+$$
+\begin{align}
+&\int_{x = 0}^{T} f(x)  e^{i \ 2\pi\frac{2}{T} x}  = \int_{x = 0}^{T} \sum_{n = -\infty}^{\infty} D_{{\color{green} n}} e^{i \ 2\pi\frac{{\color{green} n} {\color{red} -  2}}{T} x} dx \\
+&= \dots +  \int_{x = 0}^{T} D_{{\color{green} 1}} e^{i \ 2\pi\frac{{\color{red} -1}}{T} x} dx + \int_{x = 0}^{T} D_{\color{green} 2} dx + \int_{x = 0}^{T} D_{{\color{green} 3}} e^{i \ 2\pi\frac{{\color{red} 1}}{T} x} dx + \dots \\
+&= T D_{\color{green} 2}
+\end{align}
+$$
+[^2]
+
+[^1]: [Purrier Series (Meow) and Making Images Speak – Bilim Ne Güzel Lan](https://bilimneguzellan.net/en/purrier-series-meow-and-making-images-speak/)
+[^2]: [3blue1brown - But what is a Fourier series? From heat flow to circle drawings](https://www.3blue1brown.com/lessons/fourier-series)
