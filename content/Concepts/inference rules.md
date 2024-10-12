@@ -6,6 +6,7 @@ tags:
 aliases:
   - rule of inference
   - rules of inference
+  - inference rule
 created: 2024-09-29
 modified: 2024-09-30
 publish: true

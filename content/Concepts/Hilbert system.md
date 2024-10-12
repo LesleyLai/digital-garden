@@ -20,7 +20,7 @@ $$
 \BIC{$\psi$}
 \end{prooftree}
 $$
-- ([[implication introduction|A1]]) $\varphi \to (\psi \to \varphi)$
+- (A1) $\varphi \to (\psi \to \varphi)$
 - ([[implication distribution|A2]])  $(\varphi \to (\psi \to \chi)) \to ((\varphi \to \psi) \to (\varphi \to \chi))$
 - ([[implication reversal|A3]]) $(\neg \psi \to \neg \varphi) \to (\varphi \to \psi)$
 

@@ -10,7 +10,6 @@ publish: true
 tags:
   - "#tools/latex"
 ---
-
 `\underbrace`
 E.g.
 $$

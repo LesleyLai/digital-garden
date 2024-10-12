@@ -13,3 +13,4 @@ tags:
 - [[./annotate terms in Latex|annotate terms in Latex]]
 - [[./matrices in latex|matrices in latex]]
 - [[./inference rules in Latex|inference rules in Latex]]
+- [[./color in Latex|color in Latex]]

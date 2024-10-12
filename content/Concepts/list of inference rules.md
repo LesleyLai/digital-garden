@@ -4,19 +4,20 @@ parent:
 tags:
   - logic
 created: 2024-09-29
-modified: 2024-09-30
+modified: 2024-10-12
 publish: true
 ---
 Here are some commonly used [[./inference rules|inference rules]]
 ## In Propositional Logic
 ### Conditional
-- [[implication introduction|implication introduction]]
+- implication introduction
 $$
 \begin{prooftree}
 \AXC{$\alpha$}
 \UIC{$\beta \to \alpha$}
 \end{prooftree}
 $$
+(not to be confused with [[conditional proofs|conditional proofs]])
 
 - [[implication elimination|implication elimination]] (modus ponens, affirming the antecedent): "If X implies Y, and X is true, then Y is true"
 $$
