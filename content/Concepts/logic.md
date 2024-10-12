@@ -34,9 +34,11 @@ See [[./formal system|formal system]], [[./proof system|proof system]]
 - [[./soundness (formal system)|soundess]] and [[./completeness|completeness]]
 
 ## Proof Methods
-- [[truth table|truth table]]
+- [[./truth table|truth table]]
 - [[./truth tree|truth tree]] (semantic tableau)
 - [[./direct proofs|direct proofs]]
+- [[natural deduction|natural deduction]]
+  - [[conditional proofs|conditional proofs]]
 
 ## Logical Properties
 ### For A Single Formula
