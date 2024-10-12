@@ -19,12 +19,12 @@ The **Euler's formula** can be seen as a definition of the **complex exponential
 
 ## Trig Functions to Exponential Functions
 We can derive $e^{-i\theta} = \cos{\theta} - i \sin{\theta}$. Adding or subtracting it with the original Euler's formula:
-> $$
-> \begin{aligned}
-> & \cos (\theta)=\frac{\left(e^{i \theta}+e^{-i \theta}\right)}{2} \\
-> & \sin (\theta)=\frac{\left(e^{i \theta}-e^{-i \theta}\right)}{2i}
-> \end{aligned}
-> $$
+$$
+\begin{aligned}
+& \cos (\theta)=\frac{\left(e^{i \theta}+e^{-i \theta}\right)}{2} \\
+& \sin (\theta)=\frac{\left(e^{i \theta}-e^{-i \theta}\right)}{2i}
+\end{aligned}
+$$
 
 > [!example]- Example: Use the Euler's formula to compute $\int \sin^2(t) \ dt$
 > $$
