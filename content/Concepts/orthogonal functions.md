@@ -12,7 +12,7 @@ publish: true
 ---
 For functions $f$ and $g$ defined on $[a, b]$, we can define their [[L2 inner product of functions|inner product]] as
 $$
-\langle f,\, g \rangle = \int_a^b f_1(x) f_2(x) \, dx 
+\langle f,\, g \rangle = \int_a^b f(x) g(x) \, dx 
 $$
 
 And two functions are **orthogonal** on $[a, b]$ if
