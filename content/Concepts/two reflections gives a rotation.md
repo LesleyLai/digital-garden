@@ -14,7 +14,7 @@ If we apply two successive [[./reflection|reflections]] to a vector $\mathbf{v}$
 
 ![[../assets/two reflection gives a rotation.png|two reflection gives a rotation.png]]
 
-The angle of this rotation is twice the angle between the reflection vectors $\mathbf{a}$ and $\mathbf{b}$.
+The angle of this rotation is **twice** the angle between the reflection vectors $\mathbf{a}$ and $\mathbf{b}$.
 
 ## Intuition
 One way to think about this property is the following: both reflection and rotations are [[./orthogonal transformation|orthogonal transformations]]. The difference is that rotation preserve orientation while reflection flip it. If we apply the reflection twice, the first reflection flip the orientation and the second reflection flip it back. Also, if we apply multiple orthogonal transformation, the combined transformation is still orthogonal. Thus, at the end we get an orthogonal transformation that is orientation-preserving, which is a rotation.
