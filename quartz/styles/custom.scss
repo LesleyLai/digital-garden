@@ -47,3 +47,8 @@
     }
   }
 }
+
+:root[saved-theme="dark"] #quartz-body img {
+  background-color: white;
+  filter: brightness(.85) contrast(1.1);
+}
