@@ -10,7 +10,6 @@ publish: true
 tags:
   - "#math/sequences_and_series"
 ---
-# Convergence of Series
 Let $\sum_{n=m}^\infty a_n$ be a formal infinite series of [[./real number|real numbers]]. For any integer $N \ge m$, we define the $N^{th}$ partial sum $S_N$ of this series to be $S_n := \sum_{n=m}^N a_n$.
 
 If the sequence $(S_N)^{\infty}_{N=m}$ [[./convergence of sequences|converges]] to some limit L as $N \rightarrow \infty$, then we say the infinite series $\sum_{n=m}^\infty a_n$ is **convergent**, or **converges** to $L$.
