@@ -55,7 +55,8 @@ $$
 ## Methods to Solve Optimization Problems
 - finding [[./derivative|derivatives]] and performing [[./second derivative test|second derivative test]]
 - [[./Lagrange multiplier|Lagrange multiplier]]
-- [[gradient descent|gradient descent]]
+- [[./Newton's method|Newton's method]]
+- [[./descent methods|descent methods]] ([[gradient descent|gradient descent]])
 
 ## Local Vs Global Minima
 _Global_ minimum is the absolute best among all possibilities,
