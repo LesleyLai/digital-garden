@@ -6,7 +6,7 @@ parent:
 tags:
   - math/fourier
 created: 2024-09-24
-modified: 2024-10-12
+modified: 2024-10-13
 publish: true
 ---
 A **Fourier series** is a way to representing a [[periodic function|periodic function]] as a [[./linear combination|linear combination]] of (potentially infinite amount of) [[harmonic|harmonically related]] [[sinusoid|sine and cosine functions]]. It is analogous to a [[./Taylor series|Taylor series]], which expresses functions as a sum of monomial terms.
@@ -22,8 +22,8 @@ The sine and cosine functions used in the Fourier series are [[./orthogonal func
 
 $$
 \begin{gather}
-\displaystyle{\frac{1}{\pi}\int \limits_{-\pi}^{\pi} {\color{black}\sin({\color{red}n} x)}{\color{black} \sin({\color{blue}m} x)} dx = \begin{cases} 1, & {\color{red}n} = {\color{blue}m} \\ 0, & {\color{red}n} \neq {\color{blue}m}\end{cases}} \\
-\displaystyle{\frac{1}{\pi}\int \limits_{-\pi}^{\pi} {\color{black}\cos({\color{red}n} x)}{\color{black} \cos({\color{blue}m} x)} dx = \begin{cases} 1, & {\color{red}n} = {\color{blue}m} \\ 0, & {\color{red}n} \neq {\color{blue}m}\end{cases}} \\
+\displaystyle{\frac{1}{\pi}\int \limits_{-\pi}^{\pi} \sin({\color{red}n} x)\sin({\color{blue}m} x) dx = \begin{cases} 1, & {\color{red}n} = {\color{blue}m} \\ 0, & {\color{red}n} \neq {\color{blue}m}\end{cases}} \\
+\displaystyle{\frac{1}{\pi}\int \limits_{-\pi}^{\pi} \cos({\color{red}n} x)\cos({\color{blue}m} x) dx = \begin{cases} 1, & {\color{red}n} = {\color{blue}m} \\ 0, & {\color{red}n} \neq {\color{blue}m}\end{cases}} \\
 \displaystyle{\frac{1}{\pi}\int \limits_{-\pi}^{\pi} {\color{red}\sin({\color{red}n} x)}{\color{blue} \cos({\color{blue}m} x)} dx =0}
 \end{gather}
 $$
@@ -66,8 +66,8 @@ We often refer to the cosine terms as the "even part" and the sine terms as the 
 > $$
 > \begin{align}
 > a_0 &= \frac{1}{T} \int_{x = -\frac{T}{2}}^{\frac{T}{2}} f(t) dt \\
-> a_n &= \frac{2}{T}\int_{x = -\frac{T}{2}}^{\frac{T}{2}} f(t) \cos{\left( 2\pi \omega x\right)}dt \\
-> a_n &= \frac{2}{T}\int_{x = -\frac{T}{2}}^{\frac{T}{2}} f(t) \sin{\left( 2\pi \omega x\right)}dt
+> a_n &= \frac{2}{T}\int_{x = -\frac{T}{2}}^{\frac{T}{2}} f(t) \cos{\left( n \omega x\right)}dt \\
+> a_n &= \frac{2}{T}\int_{x = -\frac{T}{2}}^{\frac{T}{2}} f(t) \sin{\left( n \omega x\right)}dt
 > \end{align}
 > $$
 
