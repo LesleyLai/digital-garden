@@ -15,7 +15,7 @@ tags:
   - Writes invalidate the cache
 
 Host can access global and constant variables with
-- `cudaGetSymbolAddress()
+- `cudaGetSymbolAddress()`
 - `cudaGetSymbolSize()`
 - `cudaMemcpyToSymbol()`
 - `cudaMemcpyFromSymbol()`
