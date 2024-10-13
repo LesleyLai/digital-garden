@@ -26,3 +26,4 @@ title: Data Science
 
 ## Others
 - [[./data collection|Data Collection]]
+- [[ethics and privacy of data science|Ethics and Privacy]]
