@@ -12,7 +12,6 @@ publish: true
 tags:
   - computing/SoftwareEngineering
 ---
-# Cohesion and Coupling
 **Cohesion** refers to related code should be close to each other.
 
 **Coupling** refers to the degree which different code depend on each other. It is suggested that all modules should be as independent as possible (low coupling) [^1]
