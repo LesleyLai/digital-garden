@@ -11,8 +11,6 @@ parent:
   - "[[geometric algebra|geometric algebra]]"
 publish: true
 ---
-# Exterior Product
-
 > [!warning] not to be confused with [[./outer product|outer product]]. Note that the exterior product is sometimes called outer product in literatures.
 
 The **exterior product**, also called **wedge product**, $\mathbf{u} \wedge \mathbf{v}$ of vectors $\mathbf{u}$ and $\mathbf{v}$ constructs a [[./bivector|bivector]] represents the parallelogram formed by the the vectors  $\mathbf{a}$  and $\mathbf{b}$ , in the plane they span together. [^1]

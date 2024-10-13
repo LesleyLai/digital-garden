@@ -8,6 +8,8 @@ publish: true
 tags:
   - computing/system/DataRepresentaiton
   - computing/FloatingPointNumber
+parent:
+  - "[[system programming|system programming]]"
 ---
 **Floating-point numbers** are often described as "[[./real number|real numbers]]," but in reality [[floating-point number is a subset of rational number|they are subsets of rational numbers]].
 

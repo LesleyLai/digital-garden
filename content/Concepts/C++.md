@@ -9,7 +9,6 @@ tags:
   - computing/cpp
   - MOC
 ---
-# C++
 ## Core Language
 - [[./C declaration syntax|C declaration syntax]]
 - [[./cpp-concepts|Concepts]]

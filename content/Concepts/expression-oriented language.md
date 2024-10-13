@@ -5,5 +5,4 @@ publish: true
 tags:
   - "#computing/PL/syntax"
 ---
-
 In *expression-oriented languages*, most construction is an expression and yields a value.

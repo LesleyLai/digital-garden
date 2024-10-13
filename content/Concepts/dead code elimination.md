@@ -9,8 +9,6 @@ publish: true
 tags:
   - "#computing/compiler/optimizations"
 ---
-
-# Dead Code Elimination
 ## Trivial Dead Code Elimination
 
 > [!example]+ Example: trivial dead code elimination

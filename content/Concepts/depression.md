@@ -1,13 +1,12 @@
 ---
 created: 2024-02-07
 modified: 2024-03-14
-parent: 
+parent:
+  - "[[mental health|mental health]]"
 publish: true
 tags:
   - mental_health/depression
 ---
-
-# Depressions
 - [[./how to support people who have depression|how to support people who have depression]]
 - [[./chemical imbalance theory of depression|chemical imbalance theory of depression]] is not empirically substantial
 - [[./rumination|rumination]]
@@ -20,10 +19,10 @@ tags:
 - [[atypical depression|atypical depression]]
 
 ## References
-- [['7 Common Types of Depression' note|'7 Common Types of Depression' note]]
-- [['A Popular Theory About Depression Wasn’t Debunked by a New Review' note|'A Popular Theory About Depression Wasn’t Debunked by a New Review' note]]
-- [['How the Chemical Imbalance Metaphor Harms Patients' note|'How the Chemical Imbalance Metaphor Harms Patients' note]]
-- [['What to Say to Someone Who Is Depressed' note|'What to Say to Someone Who Is Depressed' note]]
-- [['When Depression Meets OCD Understanding Rumination' note|'When Depression Meets OCD Understanding Rumination' note]]
 - [['Why There's Reason for Hope for Those With Depression' note|'Why There's Reason for Hope for Those With Depression' note]]
+- [['When Depression Meets OCD Understanding Rumination' note|'When Depression Meets OCD Understanding Rumination' note]]
+- [['What to Say to Someone Who Is Depressed' note|'What to Say to Someone Who Is Depressed' note]]
+- [['How the Chemical Imbalance Metaphor Harms Patients' note|'How the Chemical Imbalance Metaphor Harms Patients' note]]
+- [['A Popular Theory About Depression Wasn’t Debunked by a New Review' note|'A Popular Theory About Depression Wasn’t Debunked by a New Review' note]]
+- [['7 Common Types of Depression' note|'7 Common Types of Depression' note]]
 `

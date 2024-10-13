@@ -10,7 +10,9 @@ tags:
   - tools/latex
 ---
 - [[./latex cheat sheet|latex cheat sheet]]
+- [[./aligning equations in Latex|aligning equations in Latex]]
 - [[./annotate terms in Latex|annotate terms in Latex]]
 - [[./matrices in latex|matrices in latex]]
 - [[./inference rules in Latex|inference rules in Latex]]
 - [[./color in Latex|color in Latex]]
+- [[./evaluated at in Latex|evaluated at in Latex]]

@@ -8,14 +8,14 @@ publish: true
 tags:
   - computing/performance
 ---
-
-# Computer Performance MOC
 - [[loop fission and fusion|loop fission and fusion]]
 - [[./branchless programming|branchless programming]]
 - [[SIMD|SIMD]]
+
 ## CPU
 - [[./CPU cache|CPU cache]]
 - [[./pipeline hazard|pipeline hazard]]
+
 ## Memory
 - [[Decreasing the Number of Memory Accesses|Decreasing the Number of Memory Accesses]]
 - [[Morton order|Morton order]]

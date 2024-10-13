@@ -2,7 +2,7 @@
 aliases:
   - "#opinion"
 created: 2024-02-06
-modified: 2024-10-01
+modified: 2024-10-13
 publish: true
 tags:
   - opinion
@@ -41,6 +41,9 @@ This page contains some half-backed personal thoughts and other writing. If you 
 ## UI & UX
 - [[./on brutalist and neobrutalist web design|on brutalist and neobrutalist web design]]
 - [[./on estimated reading times|on estimated reading times]]
+
+## Education
+- [[../Fleeting/weeding courses are bad teaching|weeding courses are bad teaching]]
 
 ## Uncategorized
 - [[./Eisenhower Matrix|Eisenhower Matrix]]

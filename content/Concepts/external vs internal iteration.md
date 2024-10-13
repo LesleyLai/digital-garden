@@ -11,9 +11,6 @@ publish: true
 tags:
   - computing/design_patterns/iterator
 ---
-
-# External Vs Internal Iteration
-
 **External iterator** give you an iterator to step over [^stackoverflow]:
 
 ```java

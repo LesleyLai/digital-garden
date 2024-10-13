@@ -23,6 +23,7 @@ Just like vectors that shares the same line, coplanar bivectors with the same no
 Just like the [[./Euclidean vector space|Euclidean vectors]] $\mathbb{R}^n$, Bivectors forms a [[./vector space|vector space]], with the scalar multiplication multiplies their area. 
 
 For parallel bivectors, vector addition just sum their areas. For non-parallel bivectors, vector addition gives back the result of something like following
+
 ![[../assets/bivector_addition.png|bivector_addition.png]]
 
 ## In 2D

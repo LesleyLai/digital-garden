@@ -9,8 +9,6 @@ publish: true
 tags:
   - computing/coroutine
 ---
-
-# Fiber
 Fibers are also called *green thread* or *stackful* [[./coroutines|coroutines]]. [[threads|Threads]] are typically the smallest unit of scheduling supported by operating systems, and fibers are OS construct built on top of threads.
 
 Each fiber has their own user-space stack. And fibers can support 1:M or N:M configurations where each thread can support multiple fibers or even where M fibers are multiplexed over N threads.

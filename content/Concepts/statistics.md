@@ -9,11 +9,10 @@ parent:
 publish: true
 tags:
   - statistics
-title: Data Science and Statistics MOC
+title: Statistics MOC
 ---
 - [[./numerical summaries of data|numerical summaries of data]]
 - [[./data visualization plots|data visualization plots]]
-- [[ethics and privacy of data science|ethics and privacy]]
 - [[./biases in statistics|biases in statistics]]
 - [[./frequentist inference|frequentist inference]]
 
@@ -21,7 +20,7 @@ title: Data Science and Statistics MOC
 - [[sampling (statistics)|sampling]]
 
 ## Hypothesis Testing
-- [[hypothesis testing|hypothesis testing]]
+- [[./hypothesis testing|hypothesis testing]]
 
 ## Related
 - [[./probability MOC|probability MOC]]

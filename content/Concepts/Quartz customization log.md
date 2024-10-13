@@ -3,7 +3,7 @@ tags:
   - tools/obsidian
   - tools/quartz
 created: 2024-09-17
-modified: 2024-10-02
+modified: 2024-10-13
 publish: true
 ---
 Here are the changes I've made to my Quartz setup. While I can't promise to include everything or keep it constantly updated, this should give you a good idea of how I've customized this digital garden website.
@@ -167,3 +167,19 @@ By default, the sidebar occupies too much screen space on tablets.
   }
 }
 ```
+
+## Adds Background for Transparent Images in Dark Mode
+
+Some images in my vault are transparent, which don't display well in dark mode. The following CSS snippet fixes this in Quartz and also slightly darkens all images when dark mode is enabled.
+
+`quartz\styles\custom.scss`
+```scss
+:root[saved-theme="dark"] #quartz-body img {
+  background-color: white;
+  filter: brightness(.85) contrast(1.1);
+}
+```
+
+| Before                                            | After                                     |
+| ------------------------------------------------- | ----------------------------------------- |
+| ![[../assets/Screenshot from 2024-10-13 18-34-44.png\|300]] | ![[../assets/Pasted image 20241013190345.png\|300]] |
