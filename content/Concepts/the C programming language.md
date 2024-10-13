@@ -8,8 +8,6 @@ tags:
   - computing/c
   - MOC
 ---
-
-# The C Programming Language
 - [[./Type Punning|Type Punning]]
 - [[./Strict aliasing|Strict aliasing]]
 - [[./C declaration syntax|C declaration syntax]]
