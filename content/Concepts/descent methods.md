@@ -1,14 +1,13 @@
 ---
 created: 2024-01-14
 modified: 2024-03-14
-parent: 
+parent:
+  - "[[mathematical optimization|optimization problems]]"
 publish: true
 tags:
   - math/numerical
   - math/optimization
 ---
-
-# Descent Methods
 ## Gradient Descent
 The basic idea of [[gradient descent|gradient descent]] is to follow the gradient "downhill" until it's zero (local minimum)
 
