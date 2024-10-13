@@ -7,5 +7,4 @@ publish: true
 tags:
   - "#computing/system/terminology"
 ---
-
 A **nibble** is a four bits aggregation. It can be represent by one digit in [[hexadecimal|hex number]].
