@@ -10,8 +10,6 @@ publish: true
 tags:
   - computing/cpp/concurrency
 ---
-
-# C++ Latches and Barriers
 - `latch` is useful for managing one task by multiple threads
 - `barrier` helps to manage repeated tasks by multiple threads
 - `latch` can only be used once, but a `barrier` can be used more than once
