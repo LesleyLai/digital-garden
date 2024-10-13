@@ -10,9 +10,6 @@ publish: true
 tags:
   - computing/Rust/Testing
 ---
-
-# Doc Tests in Rust
-
 All the Rust code samples in documentation are tested by default.
 ```rust
 /// Manipulate a number by magic
