@@ -32,4 +32,5 @@ When perform hypothesis testing, we typically have the following steps:
 - [[p-value|p-value]]
 
 ## Test Methods
+- [[Z-test|Z-test]]
 - [[Student's t-test|Student's t-test]]

@@ -46,3 +46,6 @@ Similarly to real functions, we can have a sequential version of this definition
 ## Continuity is Preserved by Composition
 see: [[function composition|function composition]]
 If $f$ and $g$ are continuous at $x_0$ and $f(x_0)$ respectively, so is $g \circ f$ at $x_0$
+
+## See Also
+- [[types of discontinuities in functions|types of discontinuities in functions]]

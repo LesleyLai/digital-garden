@@ -3,8 +3,12 @@ aliases:
   - base rate bias
   - prosecutor's fallacy
   - false positive paradox
+  - transposed conditional fallacy
+  - confusion of the inverse
+  - conditional probability fallacy
+  - inverse fallacy
 created: 2024-02-03
-modified: 2024-09-04
+modified: 2024-10-15
 parent:
   - "[[./cognitive bias|cognitive bias]]"
   - "[[logical fallacies|logical fallacy]]"
@@ -17,7 +21,11 @@ tags:
 
 ![|600](https://upload.wikimedia.org/wikipedia/commons/2/20/Base_rate_fallacy_with_vaccines.svg)
 
-Base-rate fallacy can be view the confusion of the posterior probability with the prior probability.
+Base-rate fallacy can be view the confusion of the posterior probability with the prior probability. When we specifically refer to this misunderstanding, it's also known by several other terms such as **transposed conditional fallacy**, **confusion of the inverse**, **conditional probability fallacy** or the **inverse fallacy**.
+
+$$
+P(A | B) \neq P(B | A)
+$$
 
 An example of the base rate fallacy is the **false positive paradox**, where there are more false positive test results than genuinely positive result. For example, if a facial recognition camera can identify criminals 99% accurately, but analyzing 10000 people a day, then it will get 100 false positives. the high accuracy is outweighed by the number of tests, and the program's list of criminals will likely have far more false positives than true. [^1]
 
@@ -38,6 +46,7 @@ Note that $P(\text{DNA Match}|\text{Innocent}) \neq P(\text{Innocent}|\text{DNA 
 
 ## See Also
 - [Sally Clark - Wikipedia](https://en.wikipedia.org/wiki/Sally_Clark)
+- [[problems of the p-value|problems of the p-value]]
 
 
 [^1]: [Base rate fallacy - Wikipedia](https://en.wikipedia.org/wiki/Base_rate_fallacy)

@@ -183,3 +183,12 @@ Some images in my vault are transparent, which don't display well in dark mode. 
 | Before                                            | After                                     |
 | ------------------------------------------------- | ----------------------------------------- |
 | ![[../assets/Screenshot from 2024-10-13 18-34-44.png\|300]] | ![[../assets/Pasted image 20241013190345.png\|300]] |
+## Make Font Size Larger on Large Desktop Screen
+`quartz\styles\custom.scss`
+```scss
+@media all and (min-width: 1440px) {
+  .page > #quartz-body > .center > article {
+    font-size: 18px;
+  }
+}
+```

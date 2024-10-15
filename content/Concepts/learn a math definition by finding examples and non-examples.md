@@ -7,9 +7,6 @@ publish: true
 tags:
   - learning/math
 ---
-
-# Learn a Math Definition by Finding Examples and Non-examples
-
 A *non-example* is an example that almost, but not, satisfies the definition.
 
 Also exam the reason those definitions are given.

@@ -13,3 +13,4 @@ parent:
 - [[./sinc function|sinc function]]
 - [[./unit step function|unit step function]]
 - [[./Dirac delta|Dirac delta function]] (also called unit impulse)
+- [[./sinusoid|sinusoids]]
