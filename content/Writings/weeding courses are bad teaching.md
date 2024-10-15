@@ -1,13 +1,13 @@
 ---
 parent:
-  - "[[writings/index|Writings]]"
+  - "[[Writings/index|Writings]]"
 tags:
   - opinion
 created: 2024-10-13
 modified: 2024-10-13
 publish: true
 ---
-STEM students are familiar with the idea of a "weeding course" or "weed out course" where their goal seems more to filter out "students unfit for a field" rather than teaching knowledge. Indeed, I talked to fair amount of people who think that weeding is an important _responsibility_ for universities and professors, to _save everyone's time.
+STEM students are familiar with the idea of a "weeding course" or "weed out course" where their goal seems more to filter out "students unfit for a field" rather than teaching knowledge. Indeed, I talked to fair amount of people who think that weeding is an important _responsibility_ for universities and professors, to _save everyone's time_.
 
 There are several reason that I despite this mindset. First, many so-called "weeding courses" are simply examples of poor teaching. And then the lecturers retroactively justify their incompetence as a deliberate attempt to "weed out" students. I’ve experienced these so-called "introductory" courses firsthand, where the teaching was so inadequate that you needed substantial prior knowledge just to pass. And when you do have that background, the content being taught become useless anyway.
 
