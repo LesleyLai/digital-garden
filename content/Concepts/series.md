@@ -5,8 +5,7 @@ publish: true
 tags:
   - math/sequences_and_series
 ---
-# Series
-a **series** is the [[partial sum|partial sum]] of a [[./sequences|sequence]].
+A **series** is the [[partial sum|partial sum]] of a [[./sequences|sequence]].
 
 convergence: [[./convergence of series|convergence of series]]
 
