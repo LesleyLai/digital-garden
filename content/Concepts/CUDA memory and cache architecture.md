@@ -9,8 +9,6 @@ publish: true
 tags:
   - computing/cuda/memory
 ---
-
-# CUDA Memory and Cache
 Different types of memory
 - R/W per-thread *[[./CUDA register|register]]*
 - R/W per-thread [[./CUDA local memory|local memory]]
