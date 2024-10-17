@@ -4,7 +4,7 @@ parent:
 tags:
   - logic/predicate
 created: 2024-10-15
-modified: 2024-10-15
+modified: 2024-10-16
 publish: true
 ---
 The **identity predicate** $I^2$ is a special two-place predicate in predicate logic that represents equality or sameness between two terms.
@@ -48,10 +48,17 @@ We need a new construct to express those ideas.
 
 ## The Identity Predicate: $I^2$
 - Syntactically, $I^2$ is like any other two-place predicate.
-- Semantically, $I^2$ is special: in every model, it represents the [[identity relation|identity relation]].
+- Semantically, $I^2$ is special: in every model, it represents the [[./identity relation|identity relation]].
 - $I^2$ is considered part of the logical vocabulary, similar to quantifiers and connectives.
 
 We can write $I^2 \ \underline{t_1} \, \underline{t_2}$ to mean "$\underline{t_1} \text{ is identical to } \underline{t_2}$", but we more often use the abbreviations $\underline{t_1} = \underline{t_2}$. And we use $\underline{t_1} \neq \underline{t_2}$ to represent $\neg I^2 \ \underline{t_1} \, \underline{t_2}$.
+
+## Properties
+Since the identity predicate represents the [[./identity relation|identity relation]], it inherits all the properties of an identity relation:
+- Reflexive: $\forall x \ (x = x)$
+- Symmetric: $\forall x\,\forall y \ (x = y \to y = x)$
+- Transitive: $\forall x\,\forall y\,\forall z \ ((x = y \land y = z) \to x = z)$
+- [[Leibniz's law|Leibniz's law]]: $\forall x,\forall y,\forall P \ \bigl[ (x = y) \to (P(x) \leftrightarrow P(y)) \bigr]$
 
 ## The Identity Predicate and English
 Return to our motivational questions.
