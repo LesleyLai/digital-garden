@@ -2,6 +2,7 @@
 aliases:
   - probability fallacies
   - fallacies in statistics
+  - probability and randomness biases
 created: 2024-07-29
 modified: 2024-10-07
 parent:
@@ -31,10 +32,11 @@ The [[bias of an estimator|bias of an estimator]] is the difference between an e
 - [[./ecological correlation|ecological fallacy]] - the interpretation of statistical data that occurs when inferences about the nature of individuals are deduced from inferences about the group to which those individuals belong
 - [[reporting bias|reporting bias]] - selective revealing or suppression of information
 
-## Cognitive Biases
+## Probability Biases
 - [[Gambler's fallacy|Gambler's fallacy]]
 - [[./base rate fallacy|base rate bias]]
   - also called *prosecutor's Fallacy*, can be viewed as confusion of the  probability $P(A | B)$ with the probability $P(B | A)$
+- [[./Texas sharpshooter fallacy|Texas sharpshooter fallacy]] and [[./clustering illusion|clustering illusion]]
 
 ## Related
 - [[./cognitive bias|cognitive bias]]

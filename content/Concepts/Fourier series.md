@@ -6,7 +6,7 @@ parent:
 tags:
   - math/fourier
 created: 2024-09-24
-modified: 2024-10-13
+modified: 2024-10-15
 publish: true
 ---
 A **Fourier series** is a way to representing a [[periodic function|periodic function]] as a [[./linear combination|linear combination]] of (potentially infinite amount of) [[harmonic|harmonically related]] [[./sinusoid|sine and cosine functions]]. It is analogous to a [[./Taylor series|Taylor series]], which expresses functions as a sum of monomial terms.
@@ -26,6 +26,17 @@ $$
 \displaystyle{\frac{1}{\pi}\int \limits_{-\pi}^{\pi} {\color{red}\sin({\color{red}n} x)}{\color{blue} \cos({\color{blue}m} x)} dx =0}
 \end{gather}
 $$
+
+## Fourier Series Approximation of Functions
+See also: [[./Gibbs phenomenon|Gibbs phenomenon]]
+
+In a Fourier series representation of a function, lower frequency components primarily shape affect the large-scale behavior of the function. Conversely, higher frequency components contribute to the fine structure.
+
+The accuracy of the Fourier series approximation depends significantly on the nature of a function. [[./smoothness|smooth functions]] have amplitude spectra that decay rapidly as frequency increases. As a result, these functions can be well-approximated using just a few terms in their Fourier series.
+
+On the other hand, functions with sharp changes (e.g. [[types of discontinuities in functions|jump discontinuity]]) have their amplitude spectra decay much more slowly. And as a result, they require many high frequency components to approximate well.
+
+![[../assets/Fourier approximation.png|300]]
 
 ## Trigonometric Form
 

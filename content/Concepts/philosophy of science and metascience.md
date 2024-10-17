@@ -5,14 +5,14 @@ aliases:
   - philosophy of science
   - metascience
 created: 2024-03-07
-modified: 2024-03-14
+modified: 2024-10-18
 parent:
   - "[[philosophy|philosophy]]"
 publish: true
 tags:
-  - "#philosophy/science"
-  - "#metascience"
-  - "#MOC"
+  - philosophy/science
+  - metascience
+  - MOC
   - meta-research
 ---
 ## Concepts
@@ -23,6 +23,9 @@ tags:
 
 ## Ideas
 - [[./science progress refine existing theories|science progress refine existing theories]]
+
+## Related
+- [[problems of the p-value|problems of the p-value]]
 
 ## Resources
 - [[How to Think Straight about Psychology|How to Think Straight about Psychology]]
