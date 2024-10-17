@@ -2,7 +2,7 @@
 created: 2023-06-26
 generalizations:
   - "[[./relation|relation]]"
-modified: 2024-03-14
+modified: 2024-10-16
 publish: true
 specializations:
   - "[[partial function|partial function]]"
@@ -26,7 +26,7 @@ Some definitions:
 - _transitive_: $a \; R \; b \ \land \ b \; R \; c \quad \Longleftrightarrow \quad a \ R \ c$
 - _antisymmetric_: $a \; R \; b \ \land \ b \; R \; a \quad \implies \quad a = b$
 
-A _reflexive_ and _transitive_ relation is called a [[preorder (set theory)|order theory]] on its domain $S$. Preorders are written with symbols like $\le$. And $s < t$ means $s \le t \ \land s \ne t$.
+A _reflexive_ and _transitive_ relation is called a [[preorder (set theory)|preorder]] on its domain $S$. Preorders are written with symbols like $\le$. And $s < t$ means $s \le t \ \land s \ne t$.
 A preorder is called a [[partial order|partial order]] if it is also _antisymmetric_. And a partial order is a [[total order|total order]] if it also has the property that for each $s$ and $t$ in domain, either $s \le t$ or $t \le s$.
 
 A _reflexive_, _transitive_, and _symmetric_ relation on a set $S$ is called an [[./equivalence relation|equivalence]] of $S$.
