@@ -6,7 +6,6 @@ publish: true
 tags:
   - logic
 ---
-
 **Abduction reasoning** draw conclusion based on the explanation that best explains the current state of events rather than from evidence provided by the [[premise|premises]].
 
 Sherlock Holmes
@@ -26,4 +25,4 @@ Conclusion: You and your roommate ate some bad sushi
 Abduction also can't provide certainty.
 
 ## References
-- [[./Crash Course Philosophy#3 How to Argue - Induction & Abduction|Crash Course Philosophy Lesson 3]]
+- [[Crash Course Philosophy#3 How to Argue - Induction & Abduction|Crash Course Philosophy Lesson 3]]
