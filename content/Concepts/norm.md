@@ -9,8 +9,6 @@ tags:
   - math/LinearAlgebra/norm
   - math/definitions
 ---
-
-# Norm of a Vector
 **Norm** measures the *magnitude* of a vector.
 
 Norm needs to satisfy the following properties:
