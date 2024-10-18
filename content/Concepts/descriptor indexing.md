@@ -7,9 +7,7 @@ tags:
   - "#computing/graphics/Vulkan"
   - computing/graphics/bindless
 ---
-
-# Vulkan Descriptor Indexing
-See also [[./descriptor sets|descriptor sets]]
+> See also [[./descriptor sets|descriptor sets]]
 
 With descriptor indexing, we can have
 - Much larger descriptor sets

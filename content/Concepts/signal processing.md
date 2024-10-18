@@ -2,7 +2,7 @@
 aliases:
   - "#signal"
 created: 2024-08-07
-modified: 2024-10-07
+modified: 2024-10-18
 parent:
   - "[[Concepts/index|note index]]"
 publish: true
@@ -19,3 +19,5 @@ tags:
   - [[./Fourier series|Fourier series]] and [[Fourier transform|Fourier transform]]
 - Continuous and [[./discrete signals and systems|discrete signal]]
   - [[./sampling (signal processing)|sampling]] and [[./sample reconstruction|reconstruction]]
+  - [[./aliasing|aliasing]]
+  - [[./Nyquist-Shannon theorem|Nyquist–Shannon sampling theorem]]

@@ -7,7 +7,6 @@ publish: true
 tags:
   - opinion
 ---
-
 Observations: tech trends often start as silver bullets with bloated expectations and hypes, and eventually when they become predominate, they become scapegoats for all kind of problems and pave the way for later tech trends.
 
 For example, [[object-oriented programming|OOP]] was seen as this all good thing years ago, but nowadays it is used to used as the scapegoats. Instead, [[functional programming|functional programming]] and [[data oriented design|data oriented design]] are replacing OOP as the "silver bullets" in the industry.

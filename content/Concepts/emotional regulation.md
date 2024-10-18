@@ -6,8 +6,6 @@ publish: true
 tags:
   - mental_health/emotion_regulation
 ---
-
-# Emotion Regulation
 **Emotion regulation** is the capacity to manage and control one's emotional state.
 
 Two of the ways to regulate emotions
