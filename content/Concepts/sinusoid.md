@@ -29,7 +29,7 @@ where
 - $\varphi$ is the [[phase (waves)|phase]] (in radians), specifying the starting point of the oscillation at $t = 0$ [^1]
 
 ## Properties
-- [[./adding two sine waves of the same frequency generates another sine wave of that frequency|adding two sine waves of the same frequency generates another sine wave of that frequency]]
+- [[./sum of same frequency sinusoids|the sum of same frequency sinusoids is another sinusoid of that frequency]]
 
 ## Related
 - [[./Euler's formula|Euler's formula]] - Transform between the polar form of a complex number into sinusoids
