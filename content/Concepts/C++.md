@@ -24,6 +24,7 @@ tags:
 - [[./C preprocessor|C preprocessor]]
 ### Compile Time Programming
 - [[./constinit|constinit]]
+- [[./constexpr vs static constexpr|constexpr vs static constexpr]]
 
 ### Concurrency
 - [[./C++ Memory Model|Memory Model]]
