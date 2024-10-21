@@ -5,6 +5,8 @@ publish: true
 tags:
   - tools/latex
   - cheatsheet
+parent:
+  - "[[latex|latex]]"
 ---
 `mathrm`: turn on roman typestyle
 
