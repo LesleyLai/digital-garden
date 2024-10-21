@@ -21,7 +21,7 @@ const int* p = nullptr;
 // If we enable asan in unoptimzed build, we will get a warning if we use p here
 ```
 
-Instead, `static constexpr` will force initialization at compile-time and will change the variable to static storage duration. [^1]
+Instead, `static constexpr` will change the variable to static storage duration. [^1]
 
 ## Performance Trade off
 
