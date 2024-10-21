@@ -22,6 +22,10 @@ tags:
 - [[./Type Punning|Type Punning]]
 - [[./Strict aliasing|Strict aliasing]]
 - [[./C preprocessor|C preprocessor]]
+
+### Template
+- [[C++ variadic template|Variadic Template]]
+
 ### Compile Time Programming
 - [[./constinit|constinit]]
 - [[./constexpr vs static constexpr|constexpr vs static constexpr]]
