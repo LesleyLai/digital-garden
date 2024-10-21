@@ -24,12 +24,13 @@ title: Programming Language Design MOC
 - [[./distinct types|distinct types]]
 - [[./implicit parameters|implicit parameters]]
 - [[./geometry type system|geometry type system]]
+- [[../Fleeting/variadic functions|variadic functions]]
 
 ## Design Mistakes and Anti-Features
 - [[./covariant arrays in Java and C-Sharp|Covariant arrays]]
 - [[./implicit variable declaration|implicit variable declaration]]
 - [[./Javascript variable hoisting|Javascript variable hoisting]]
-- [[late binding closure in Python|late binding closure in Python]]
+- [[./late binding closure in Python|late binding closure in Python]]
 - [[./std_max_returns_wrong_value|C++ std::max returns wrong value]]
 - [[./wildcard import enum constants in Rust|context sensitive pattern matching in Rust]]
 
@@ -38,5 +39,5 @@ title: Programming Language Design MOC
 
 ## Thoughts
 - [[../Writings/on viral annotations|on viral annotations]]
-- [[../Writings/On language features that 'encourage bad practices'|On language features that 'encourage bad practices']]
+- [[../Writings/On language features that encourages bad practices|On language features that "encourages bad practices"]]
 - [[../Writings/On access control|On access control]]
