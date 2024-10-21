@@ -6,6 +6,8 @@ tags:
 created: 2024-09-28
 modified: 2024-09-28
 publish: true
+aliases:
+  - time and frequency convolution
 ---
 The **convolution theorem** states that the [[Laplace transform|Laplace transform]] of the convolution of two functions is the same as the product of the Laplace transform of two functions.
 $$
