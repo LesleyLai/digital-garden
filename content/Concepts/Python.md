@@ -9,12 +9,15 @@ publish: true
 tags:
   - computing/python
 ---
-
-# Python
+## Language Features
+- [[Python tuples|Tuples]]
 - [[./python comprehension|list/dict comprehension]]
-- [[./python m pip|python m pip]]
 - [[./Python walrus operator|walrus operator]]
 - [[Python decorators|decorators]]
-- [[./pip|pip]]
-- [[./Python virtual environment|Python virtual environment]]
+- [[Python variadic functions and unpack operators|variadic functions]]
+- [[Python iterables|iterables]]
 - [[./python gotchas|python gotchas]]
+
+## Ecosystems
+- [[./pip|pip]]
+- [[./Python virtual environment|virtual environment]]

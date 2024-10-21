@@ -9,8 +9,7 @@ publish: true
 aliases:
   - equations in Latex
 ---
-The `align` environment is one of the most commonly used commands to align multiple equations in LaTeX. It allows for the alignment of equations at the specified alignment point> [!theorem]
-> Contentss, typically the equal signs (`=`). The primary difference between `align` and `align*` is that with the `*` version, the equations are not numbered.
+The `align` environment is one of the most commonly used commands to align multiple equations in LaTeX. It allows for the alignment of equations at the specified alignment point. The primary difference between align and align* is that with the * version, the equations are not numbered.
 
 **Example**:
 ```latex

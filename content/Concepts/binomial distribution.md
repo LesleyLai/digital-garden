@@ -1,11 +1,11 @@
 ---
 created: 2024-09-02
-modified: 2024-09-02
+modified: 2024-10-21
 parent:
   - "[[probability MOC|probability MOC]]"
 publish: true
 tags:
-  - "#math/probability/distribution"
+  - math/probability/distribution
 ---
 The **binomial distribution** is a discrete probability distribution of a number of successes in a sequence of $n$ [[./independent events|independent]] experiment, each with a boolean outcome of true (with probability $p$) and false. It is often written as following:
 

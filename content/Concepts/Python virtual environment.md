@@ -14,8 +14,6 @@ publish: true
 tags:
   - computing/python
 ---
-
-# Python Virtual Environments
 ## Virtualenv Vs Venv Vs Conda Vs Pipenv Vs Pyvenv Vs Pyenv
 - **venv** is built-in in Python3
 - **virtualenv** supports a super set of _venv_ features (and is the most popular one)

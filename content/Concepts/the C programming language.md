@@ -15,3 +15,4 @@ tags:
 - [[./C preprocessor|C preprocessor]]
 - [[./Type-generic macro|Type-generic macro]]
 - [[./C++ NULL vs nullptr|NULL Macro]]
+- [[C variadic functions|Variadic functions]]
