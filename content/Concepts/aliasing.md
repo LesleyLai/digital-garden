@@ -6,12 +6,14 @@ tags:
   - signal/sampling
   - computing/graphics/AntiAliasing
 ---
-**Aliasing** is the high frequencies in original [[./signal|signal]] masquerade as low frequencies after [[./sample reconstruction|reconstruction]] (due to [[undersampling|undersampling]])
+**Aliasing** is the high frequencies in original [[./signal|signal]] masquerade as low frequencies after [[./sample reconstruction|reconstruction]] (due to [[undersampling|undersampling]]). 
+
+The name "aliasing" comes from the fact that the high-frequency signal becomes indistinguishable from low frequency signals.
 
 ![[../assets/aliasing.png|600]]
 
 > [!example]- Example: Image
-> Images can also be decomposed into "frequencies." And thus is also subject to aliasing.
+> Images can be decomposed into "frequencies." And thus is also subject to aliasing.
 ![[../assets/decompose image into frequencies.png|decompose image into frequencies.png]]
 
 > [!example]- Spatial Aliasing Example
@@ -22,4 +24,4 @@ tags:
 > An example is the "[[wagon-wheel effect|wagon-wheel effect]]":
 > ![[../assets/wagon wheel effect.png|wagon wheel effect.png]]
 
-When can be more precise about when aliasing occurs by the [[./Nyquist-Shannon theorem|Nyquist-Shannon theorem]].
+The [[./Nyquist-Shannon theorem|Nyquist-Shannon theorem]] states that any frequency above the Nyquist frequency (half the sampling rate) can produce an alias.
