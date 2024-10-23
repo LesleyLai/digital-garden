@@ -48,6 +48,8 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
               allSlugs: ctx.allSlugs,
             }
 
+            const allSlugsSet = new Set(ctx.allSlugs);
+
             visit(tree, "element", (node, _index, _parent) => {
               // rewrite all links
               if (
@@ -121,6 +123,12 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
                   const simple = simplifySlug(full)
                   outgoing.add(simple)
                   node.properties["data-slug"] = full
+
+                  // Check whether the destination of an internal node exist
+                  const destNotExists = !full.startsWith("tags") && !allSlugsSet.has(full)
+                  if (destNotExists) {
+                    classes.push("dest-not-exist")
+                  }
                 }
 
                 // rewrite link internals if prettylinks is on

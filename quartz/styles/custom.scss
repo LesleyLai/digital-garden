@@ -13,7 +13,7 @@
   & > ul.recent-ul {
     margin-bottom: 0rem;
 
-    & > .recent-li { 
+    & > .recent-li {
       margin: 0;
 
       & h3 {
@@ -50,7 +50,7 @@
 
 :root[saved-theme="dark"] #quartz-body img {
   background-color: white;
-  filter: brightness(.85) contrast(1.1);
+  filter: brightness(0.85) contrast(1.1);
 }
 
 // Larger font size on large desktop
@@ -58,4 +58,11 @@
   .page > #quartz-body > .center > article {
     font-size: 18px;
   }
+}
+
+// Lighter color for "broken" links
+
+.dest-not-exist {
+  $color: "rgb(from var(--secondary) r g b / .7)";
+  color: unquote($color);
 }
