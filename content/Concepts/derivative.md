@@ -9,9 +9,6 @@ publish: true
 tags:
   - math/calculus/differentiation
 ---
-
-# Derivative
-
 The process of finding derivative is called **differentiation**, giving a function and a point at that function, we say that point is **differentiable** if the derivative exist at that point.
 
 ## Notations
