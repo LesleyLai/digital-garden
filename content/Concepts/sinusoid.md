@@ -3,11 +3,12 @@ parent:
   - "[[special functions|special functions]]"
 tags:
   - math/functions
-  - physics/wave
+  - physics/wave/sinusoids
 aliases:
   - sine wave
   - sinusoidal wave
   - sinusoids
+  - "#physics/wave/sinusoids"
 created: 2024-10-11
 modified: 2024-10-14
 publish: true
@@ -25,7 +26,7 @@ where
 - $A$ is the [[wave amplitude|amplitude]]
 - $t$ is the independent variable (often representing time in seconds)
 - $f$ is the [[frequency and period of waves|frequency]], measured in hertz (Hz), representing the number of oscillations per second
-- $\omega = 2\pi f$ is the [[angular frequency|angular frequency]], in units of radians per second
+- $\omega = 2\pi f$ is the [[./angular frequency|angular frequency]], in units of radians per second
 - $\varphi$ is the [[phase (waves)|phase]] (in radians), specifying the starting point of the oscillation at $t = 0$ [^1]
 
 ## Properties
