@@ -3,6 +3,7 @@ parent:
   - "[[Writings/index|Writings]]"
 tags:
   - opinion
+  - "#elitism"
 created: 2024-10-13
 modified: 2024-10-13
 publish: true

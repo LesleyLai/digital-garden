@@ -1,20 +1,20 @@
 ---
 parent:
-  - "[[p-value|p-values]]"
+  - "[[./p-value|p-values]]"
 tags:
   - statistics/HypothesisTesting
 created: 2024-10-15
-modified: 2024-10-22
+modified: 2024-10-23
 publish: true
 ---
-[[Ronald Fisher|Ronald Fisher]], who first introduced the $p$-value, recognized its limitations and intended it only as a heuristic tool and convenient guide. Nevertheless, the p-value cutoff has become a widely accepted standard in many scientific disciplines. [^1] However, several drawbacks of [[p-value|p-values]] can lead to [[p-hacking|p-hacking]] and contribute to [[replication crisis|replication crisis]].
+[[Ronald Fisher|Ronald Fisher]], who first introduced the $p$-value, recognized its limitations and intended it only as a heuristic tool and convenient guide. Nevertheless, the p-value cutoff has become a widely accepted standard in many scientific disciplines. [^1] However, several drawbacks of [[./p-value|p-values]] can lead to [[p-hacking|p-hacking]] and contribute to [[replication crisis|replication crisis]].
 
 > [!quote] 
 > After [[Ronald Fisher|Fisher]] had retired to Australia, he was asked whether there was anything in his long career he regretted. He is said to have snapped, “Ever mentioning 0.05.” [^1]
 
 The criticism of the $p$ value is nothing new, but it has started to gain more traction, and there is at least one journal outright ban the usage p-value altogether. [^2] A more common and milder view is that the $p$-value should not serve as the sole arbiter of publication, scientific conclusions should not be based only on whether a $p$-value passes a specific threshold, and researchers should always report other important information. [^6]
 
-## Problems of the P-Valueoo
+## Problems of the P-Value
 ### Base Rate Fallacy
 > see: [[./base rate fallacy|base rate fallacy]]
 
@@ -25,6 +25,7 @@ In other words, this misinterpretation conflates the conditional probabilities $
 > See: [[multiple comparisons problem|multiple comparisons problem]] and [[p-hacking|p-hacking]]
 
 When multiple hypotheses are tested together, the probability of obtaining "significant" result by chance increases exponentially. While it's rare for researchers to intentionally manipulate data to produce statistically significant results, they may still unconsciously select hypotheses based on whether they achieve statistical significance. [^5]
+
 ![[../assets/spurious correlation.png|600]]
 ### Lack of Information on Effect Size
 > See: [[effect size|effect size]]
@@ -36,11 +37,14 @@ A commonly cited example is a study on aspirin. The study has a sample size of m
 ### Overemphasis on Dichotomous Decision-Making
 > related: [[./binary thinking|binary thinking]]
 
-Reliance on p-values often encourages a binary mindset of either "rejecting" or "retaining" the null hypothesis, based on arbitrary thresholds like $0.05$. This approach is prone to both hyped claims (false positives) and dismissal of real effects (false negatives).
+Reliance on p-values often encourages a binary mindset of either "rejecting" or "retaining" the null hypothesis, based on arbitrary thresholds like $0.05$. This approach is prone to [[Type I and type II errors|both hyped claims (false positives) and dismissal of real effects (false negatives)]].
 
 Instead, some researchers think that the p-value should be interpreted as a continuous variable rather than in a dichotomous way. They also propose reconceptualizing [[./confidence interval|confidence intervals]] as "compatibility intervals." [^4]
 
 Further, some people believe that statistical significance is widespread because it sates to our human desire for certainty. However, they think that we should instead [[embrace uncertainty|embracing uncertainty]] and avoid oversimplifying the would's complexity. [^1]
+
+### Publication Bias
+The requirement of statistical significance as a criterion can cause publication bias. In particular, statistical non significant results are less likely to be published. [^8]
 
 ## Teaching of P-value
 Despite serious concerns, hypothesis testing and p-value are still often taught in intro statistical courses, often without mentioning any above mentioned issues. One professor mentioned that it may be due to the circularity that "we teach it because it's what we do in industry, and we do it because it's what we were taught." [^7]
@@ -52,3 +56,4 @@ Despite serious concerns, hypothesis testing and p-value are still often taught 
 [^5]: [The Statistical Crisis in Science | American Scientist](https://www.americanscientist.org/article/the-statistical-crisis-in-science)
 [^6]: [P Value Problems - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5738950/)
 [^7]: [The ASA Statement on p-Values: Context, Process, and Purpose](https://amstat.tandfonline.com/doi/full/10.1080/00031305.2016.1154108)
+[^8]: [Publication Bias: A Problem in Interpreting Medical Data](https://www.jstor.org/stable/2982993?origin=crossref)

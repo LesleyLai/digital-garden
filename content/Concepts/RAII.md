@@ -23,8 +23,12 @@ One criticism of RAII is that it encourages [[coupling between behavior and data
 When combining RAII and [[stack unwinding|exceptions]], the usual requirement is that the destructors can never throw. However, this cause the problem for types like `scope_guard` which unfortunately just can't be standardized in C++.  [^3] [^4]
 
 ### Signaling Failure in Destructors
+
 There are no way for destructors to communicate information outward (besides throwing exceptions), so as a result C++ standard library often decides to silently swallow errors in destructors [^4]
 
+## Related
+- [[constructor|constructor]]
+- [[linear types|linear types]]
 
 [^zig]: [Zig defer Patterns](https://matklad.github.io/2024/03/21/defer-patterns.html) ([['Zig Defer Patterns Mar 21, 2024' note|note]])
 [^2]: [Untangling Lifetimes: The Arena Allocator - by Ryan Fleury](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)

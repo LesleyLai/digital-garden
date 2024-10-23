@@ -3,7 +3,7 @@ tags:
   - tools/obsidian
   - tools/quartz
 created: 2024-09-17
-modified: 2024-10-13
+modified: 2024-10-23
 publish: true
 ---
 Here are the changes I've made to my Quartz setup. While I can't promise to include everything or keep it constantly updated, this should give you a good idea of how I've customized this digital garden website.
@@ -192,3 +192,10 @@ Some images in my vault are transparent, which don't display well in dark mode. 
   }
 }
 ```
+
+## Distinguish Internal Links to Missing Pages
+Obsidian (and Wikis like [MediaWiki](https://en.wikipedia.org/wiki/Wikipedia:Red_link)) will signify links to missing pages.
+
+See [commit here](https://github.com/LesleyLai/digital-garden/commit/37e787f18f831667adc9058f5a058f1494677108)
+
+![[../assets/red link.png|600]]
