@@ -1,12 +1,12 @@
 ---
 aliases:
-  - "#computing/AlgorithmsAndDataStructures/AST"
+  - "#computing/algorithms/AST"
   - AST
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - computing/AlgorithmsAndDataStructures/AST
+  - computing/algorithms/AST
   - computing/PL/syntax
 ---
 - [[./AST representation|AST representation]]
