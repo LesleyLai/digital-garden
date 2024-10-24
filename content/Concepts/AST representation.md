@@ -5,7 +5,7 @@ parent:
   - "[[abstract syntax tree|AST]]"
 publish: true
 tags:
-  - "#computing/AlgorithmsAndDataStructures/AST"
+  - "#computing/algorithms/AST"
   - "#computing/PL/syntax"
 ---
 There are several ways to have typed information to AST [^typed]:
