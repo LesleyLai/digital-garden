@@ -9,7 +9,7 @@ parent:
   - "[[sequence algorithms|sequence algorithms]]"
 publish: true
 tags:
-  - "#computing/AlgorithmsAndDataStructures/sequence"
+  - "#computing/algorithms/sequence"
 ---
 
 # Scan

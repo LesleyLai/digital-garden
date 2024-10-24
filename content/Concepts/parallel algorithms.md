@@ -5,10 +5,8 @@ parent:
   - "[[algorithms|algorithms]]"
 publish: true
 tags:
-  - computing/AlgorithmsAndDataStructures/parallel
+  - computing/algorithms/parallel
 ---
-
-# Parallel Algorithms
 ## Concepts
 - [[./work efficiency|work efficiency]]
 

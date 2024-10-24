@@ -5,7 +5,7 @@ created: 2023-05-30
 modified: 2024-03-14
 publish: true
 tags:
-  - computing/AlgorithmsAndDataStructures/parsing
+  - computing/algorithms/parsing
 ---
 
 In [[./context-free grammar|context-free grammar]], a [[nonterminal symbol|nonterminal]] is **left recursive** if the left-most symbol of one of its productions is itself.

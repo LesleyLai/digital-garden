@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-tags: #computing/PL/syntax #computing/AlgorithmsAndDataStructures/parsing 
+tags: #computing/PL/syntax #computing/algorithms/parsing 
 parent: [[./conditional expression|if expression]]
 
 ---

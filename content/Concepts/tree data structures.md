@@ -7,7 +7,7 @@ parent:
   - "[[algorithms|algorithms]]"
 publish: true
 tags:
-  - computing/AlgorithmsAndDataStructures/tree
+  - computing/algorithms/tree
 ---
 
 # Tree Data Structure

@@ -2,7 +2,7 @@
 parent:
   - "[[parsing|parser]]"
 tags:
-  - computing/AlgorithmsAndDataStructures/parsing
+  - computing/algorithms/parsing
 aliases:
   - LL parser
   - LR parser
