@@ -26,7 +26,7 @@ TODO
 
 ---
 parent: [[./operator precedence parser|operator precedence parser]]
-tags: #computing/AlgorithmsAndDataStructures/parsing
+tags: #computing/algorithms/parsing
 
 
 [^1]: [From Pratt to Dijkstra](https://matklad.github.io/2020/04/15/from-pratt-to-dijkstra.html)
