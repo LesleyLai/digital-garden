@@ -8,6 +8,7 @@ tags:
   - "#Greek_letters"
 ---
 - [[./greek letter xi|greek letter xi]]
+- [[greek letter chi|greek letter chi]]
 
 ## See also
 - [[./Obsidian Latex Suite#Greek letters|Typing greek letters in latex]]
