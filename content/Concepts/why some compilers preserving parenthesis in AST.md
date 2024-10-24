@@ -6,7 +6,7 @@ parent:
 publish: true
 tags:
   - computing/compiler/frontend
-  - computing/AlgorithmsAndDataStructures/AST
+  - computing/algorithms/AST
 ---
 # Why Preserving Parenthesis in AST?
 
