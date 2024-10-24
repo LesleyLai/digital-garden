@@ -4,7 +4,7 @@ aliases:
   - asynchronous programming
   - parallelism
 created: 2024-03-06
-modified: 2024-09-25
+modified: 2024-10-24
 parent:
   - "[[computing|computing]]"
 publish: true
@@ -18,6 +18,9 @@ title: Concurrency, Parallelism, and Asynchronous Programming MOC
 - [[dead lock|dead lock]]
 - [[./Race Condition vs. Data Race|Race Condition vs. Data Race]]
 - [[./data parallelism vs task parallelism|data parallelism vs task parallelism]]
+
+## Constructs
+- [[./coroutines|coroutines]]: either [[./fiber|fiber]] or [[stackless coroutines|stackless coroutines]]
 
 ## Patterns
 - [[./concurrency patterns|concurrency patterns]]
