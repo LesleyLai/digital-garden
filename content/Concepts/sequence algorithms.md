@@ -7,7 +7,7 @@ parent:
   - "[[algorithms|algorithms]]"
 publish: true
 tags:
-  - computing/AlgorithmsAndDataStructures/sequence
+  - computing/algorithms/sequence
 ---
 This page contains algorithms on sequences like arrays or lists. Note that a lot of those algorithms have [[./parallel algorithms|parallel versions]].
 
