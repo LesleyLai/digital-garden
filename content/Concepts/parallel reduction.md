@@ -5,7 +5,7 @@ parent:
   - "[[parallel algorithms|parallel algorithms]]"
 publish: true
 tags:
-  - computing/AlgorithmsAndDataStructures/parallel
+  - computing/algorithms/parallel
 ---
 An [[reduction|reduction]] operation applies a binary operator to a sequence of element and get back a single result.
 
