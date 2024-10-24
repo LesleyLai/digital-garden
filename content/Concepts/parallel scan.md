@@ -6,7 +6,7 @@ parent:
   - "[[./prefix sum|scan]]"
 publish: true
 tags:
-  - computing/AlgorithmsAndDataStructures/parallel
+  - computing/algorithms/parallel
 ---
 For a single threaded [[./prefix sum|scan]] algorithm, we can do a for loop like this:
 ```cpp
