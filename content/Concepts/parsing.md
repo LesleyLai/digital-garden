@@ -1,17 +1,14 @@
 ---
 aliases:
-  - "#computing/AlgorithmsAndDataStructures/parsing"
+  - "#computing/algorithms/parsing"
   - parser
 created: 2023-05-30
 modified: 2024-06-09
 publish: true
 tags:
-  - computing/AlgorithmsAndDataStructures/parsing
+  - computing/algorithms/parsing
   - MOC
 ---
-
-# Parsing
-
 The goal of **parsing** is to read some input. break it down by some [[formal grammar|grammar]], and analyze the result.
 
 ## Index
