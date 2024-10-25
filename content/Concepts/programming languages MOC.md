@@ -16,10 +16,11 @@ tags:
 - [[./abstract syntax tree|abstract syntax tree]]
 - [[algebraic data type|algebraic data types]]
 - [[./substitution|substitution]]
-- [[./undefined behavior|undefined behavior]]
+- [[undefined behavior|undefined behavior]]
 - [[./unification|unification]]
 - [[./covariance and contravariance|covariance and contravariance]]
 - [[./type safety|type safety]]
+- [[./tail call|tail call]]
 
 ## Semantics
 - [[operational semantics|operational semantics]]
