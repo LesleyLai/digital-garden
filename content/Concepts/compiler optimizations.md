@@ -2,10 +2,10 @@
 aliases:
   - "#computing/compiler/optimizations"
 created: 2023-05-30
-modified: 2024-03-14
+modified: 2024-10-25
 publish: true
 tags:
-  - "#computing/compiler/optimizations"
+  - computing/compiler/optimizations
 ---
 ## Categories
 - *Local optimization* works on a single [[./basic blocks|basic blocks]], and does not deal with [[./control flow graph|control flow]]
@@ -22,6 +22,7 @@ Local/global optimizations are also called *intraprocedural optimization*
 - [[./local value numbering|local value numbering]]
 - [[./static-single assignment|SSA]]
 - [[./variable liveness|variable liveness]]
+- [[./tail call|tail call]]
 ## Techniques
 - [[./chain of recurrences|chain of recurrences]]
 - [[./dead code elimination|dead code elimination]]
