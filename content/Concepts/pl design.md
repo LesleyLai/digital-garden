@@ -12,9 +12,6 @@ tags:
   - computing/PL
 title: Programming Language Design MOC
 ---
-## Approachability
-- [[The Hard Part of Learning a Language note|The Hard Part of Learning a Language note]]
-
 ## Interesting Features
 - [[./allocators for zig containers|allocators for zig containers]]
 - [[./defer statement|defer statement]]
@@ -25,6 +22,9 @@ title: Programming Language Design MOC
 - [[./implicit parameters|implicit parameters]]
 - [[./geometry type system|geometry type system]]
 - [[../Fleeting/variadic functions|variadic functions]]
+
+### Performance
+- [[./tail call|tail call optimization]]
 
 ## Design Mistakes and Anti-Features
 - [[./covariant arrays in Java and C-Sharp|Covariant arrays]]
