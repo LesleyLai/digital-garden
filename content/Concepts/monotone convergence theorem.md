@@ -6,4 +6,4 @@ tags:
   - math/sequences_and_series
 publish: true
 ---
-A [[monotonic sequence|monotone]] and [[bounded sequence|bounded]] [[./sequences|sequence]] is also [[./convergence of sequences|convergent]].
+A [[monotonic sequence|monotone]] and [[bounded functions|bounded]] [[./sequences|sequence]] is also [[./convergence of sequences|convergent]].
