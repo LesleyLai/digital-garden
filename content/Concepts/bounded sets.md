@@ -16,3 +16,6 @@ A subset $X$ of the real line is said to be bounded if we have $X \subset [-M, M
 
 ## In Metric Space
 Let $(X, d)$ be a metric space, and let $Y$ be a subset of $X$. We say that $Y$ is bounded *iff* there exists a [[./ball (topology)|ball]] $B(x, r)$ in $X$ which contains $Y$.
+
+## See Also
+- [[bounded functions|bounded functions]]
