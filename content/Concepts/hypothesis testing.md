@@ -29,6 +29,7 @@ The usage of hypothesis testing and [[./p-value|p-value]] in particular is ubiqu
 - [[Type I and type II errors|Type I and type II errors]]
 - [[./confidence interval|confidence interval]]
 - [[statistical power|power]]
+- [[degrees of freedom (statistics)|degree of freedom]]
 
 ## Test Methods
 - [[Z-test|Z-test]]

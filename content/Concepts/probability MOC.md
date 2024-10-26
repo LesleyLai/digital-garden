@@ -48,6 +48,7 @@ See [[./conditional probability|conditional probability]]
 - [[uniform distribution|Uniform]] (Continuous)
 - [[./normal distribution|Normal]] (also called Gaussian)
   - [[log-normal distribution|Log-normal]]
+- [[./Student's t-distribution|Student's T-Distribution]]
 - [[./exponential random variable|Exponential]]
 
 ## Parameter Estimation

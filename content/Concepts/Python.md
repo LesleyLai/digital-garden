@@ -14,8 +14,9 @@ tags:
 - [[./python comprehension|list/dict comprehension]]
 - [[./Python walrus operator|walrus operator]]
 - [[Python decorators|decorators]]
-- [[Python variadic functions and unpack operators|variadic functions]]
+- [[./Python variadic functions and unpack operators|variadic functions]]
 - [[Python iterables|iterables]]
+- [[Python generators|generators]]
 - [[./python gotchas|python gotchas]]
 
 ## Ecosystems

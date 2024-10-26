@@ -21,6 +21,7 @@ title: Concurrency, Parallelism, and Asynchronous Programming MOC
 
 ## Constructs
 - [[./coroutines|coroutines]]: either [[./fiber|fiber]] or [[stackless coroutines|stackless coroutines]]
+- [[async await|async/await syntax]]
 
 ## Patterns
 - [[./concurrency patterns|concurrency patterns]]

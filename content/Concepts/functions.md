@@ -10,7 +10,8 @@ publish: true
 ---
 ## Properties
 - [[./continuous functions|continuity]]
-- [[convex and concave function|convex vs concave]]
+- [[./convex and concave function|convex vs concave]]
+- [[bounded functions|bounded]]
 ## Operations
 - [[./convolution|convolution]]
 - [[Laplace transform|Laplace transform]]
