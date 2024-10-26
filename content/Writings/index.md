@@ -43,7 +43,7 @@ This page contains some half-backed personal thoughts and other writing. If you 
 - [[./on estimated reading times|on estimated reading times]]
 
 ## Education
-- [[../Fleeting/weeding courses are bad teaching|weeding courses are bad teaching]]
+- [[./weeding courses are bad teaching|weeding courses are bad teaching]]
 
 ## Uncategorized
 - [[./Eisenhower Matrix|Eisenhower Matrix]]
