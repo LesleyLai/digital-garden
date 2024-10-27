@@ -1,6 +1,6 @@
 ---
 parent:
-  - "[[probability|probability]]"
+  - "[[probability MOC|probability MOC]]"
 tags:
   - math/probability/distribution
 aliases:
