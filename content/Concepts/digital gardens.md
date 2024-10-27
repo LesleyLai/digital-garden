@@ -31,3 +31,4 @@ Here are some examples of interesting digital gardens that I came across and lik
 - [Alex' Garden](https://alexanderweichart.de/)
 - [Data Engineering Wiki](https://dataengineering.wiki/Index)
 - [Chris' Digital Garden](https://garden.christophertee.dev/)
+- [Welcome to The Quantum Well! - The Quantum Well - Obsidian Publish](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!)
