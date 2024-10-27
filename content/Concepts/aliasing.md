@@ -8,7 +8,7 @@ tags:
 ---
 **Aliasing** is the high frequencies in original [[./signal|signal]] masquerade as low frequencies after [[./sample reconstruction|reconstruction]] (due to [[undersampling|undersampling]]). 
 
-The name "aliasing" comes from the fact that the high-frequency signal becomes indistinguishable from low frequency signals.
+The name "aliasing" comes from the fact that the high-frequency signal becomes indistinguishable from low frequency signals (they become _aliases_).
 
 ![[../assets/aliasing.png|600]]
 
