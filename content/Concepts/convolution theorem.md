@@ -4,7 +4,7 @@ parent:
 tags:
   - math/convolution
 created: 2024-09-28
-modified: 2024-09-28
+modified: 2024-10-27
 publish: true
 aliases:
   - time and frequency convolution
@@ -18,5 +18,5 @@ $$
 (f * g)(t) = \mathcal{L}^{-1}\{F(s) G(s)\}
 $$
 The theorem also holds true for the [[Fourier transform|Fourier transform]]:
-$$\mathcal{F}\{ f(t) * g(t) \} = \mathcal{F}\{ f(t) \} \mathcal{L}\{ g(t) \}$$
+$$\mathcal{F}\{ f(t) * g(t) \} = \mathcal{F}\{ f(t) \} \mathcal{F}\{ g(t) \}$$
 ![[../assets/convolution theorem.png|600]]

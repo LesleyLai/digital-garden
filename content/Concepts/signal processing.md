@@ -19,5 +19,8 @@ tags:
   - [[./Fourier series|Fourier series]] and [[Fourier transform|Fourier transform]]
 - Continuous and [[./discrete signals and systems|discrete signal]]
   - [[./sampling (signal processing)|sampling]] and [[./sample reconstruction|reconstruction]]
-  - [[./aliasing|aliasing]]
+  - [[./aliasing|Aliasing]]
   - [[./Nyquist-Shannon theorem|Nyquist–Shannon sampling theorem]]
+
+## Related
+- [[Fourier analysis|Fourier analysis]]

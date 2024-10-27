@@ -2,7 +2,7 @@
 aliases:
   - "#math/analysis"
 created: 2023-05-30
-modified: 2024-03-14
+modified: 2024-10-28
 parent:
   - "[[math|math]]"
 publish: true
@@ -17,7 +17,7 @@ main article: [[natural numbers|natural numbers]]
 
 ## Integers and Rationals
 - [[integers|integers]]
-- [[rational number|rational number]]
+- [[./rational number|rational number]]
 
 ## Real Numbers
 main article: [[./real number|real numbers]]
@@ -25,6 +25,8 @@ main article: [[./real number|real numbers]]
 - [[./ordering of real numbers|ordering of real numbers]]
 - [[./least upper bound property|the least upper bound property]]
 
+## Functions
+- [[./support (mathematics)|support]]
 ## Sequences and Series
 - [[./sequences|sequences]]
 - [[./series|series]]

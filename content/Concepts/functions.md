@@ -19,3 +19,4 @@ publish: true
 
 ## Other
 - [[./special functions|special functions]]
+- [[./support (mathematics)|support]]
