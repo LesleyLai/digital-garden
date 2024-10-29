@@ -1,7 +1,7 @@
-import { QuartzConfig } from "./quartz/cfg"
-import * as Plugin from "./quartz/plugins"
+import { QuartzConfig } from "../../coding/digital-garden/quartz/cfg"
+import * as Plugin from "../../coding/digital-garden/quartz/plugins"
 
-import { QuartzFilterPlugin } from "./quartz/plugins/types"
+import { QuartzFilterPlugin } from "../../coding/digital-garden/quartz/plugins/types"
 export const LesleyRemoveDrafts: QuartzFilterPlugin<{}> = () => ({
   name: "LesleyRemoveDrafts",
   shouldPublish(_ctx, [_tree, vfile]) {
@@ -103,7 +103,7 @@ const config: QuartzConfig = {
     ],
     filters: [LesleyRemoveDrafts()],
     emitters: [
-      //Plugin.AliasRedirects(),
+      Plugin.AliasRedirects(),
       Plugin.ComponentResources(),
       Plugin.ContentPage(),
       Plugin.FolderPage(),
