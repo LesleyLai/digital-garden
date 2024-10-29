@@ -1,7 +1,7 @@
-import { QuartzConfig } from "../../coding/digital-garden/quartz/cfg"
-import * as Plugin from "../../coding/digital-garden/quartz/plugins"
+import { QuartzConfig } from "./quartz/cfg"
+import * as Plugin from "./quartz/plugins"
 
-import { QuartzFilterPlugin } from "../../coding/digital-garden/quartz/plugins/types"
+import { QuartzFilterPlugin } from "./quartz/plugins/types"
 export const LesleyRemoveDrafts: QuartzFilterPlugin<{}> = () => ({
   name: "LesleyRemoveDrafts",
   shouldPublish(_ctx, [_tree, vfile]) {
@@ -89,7 +89,7 @@ const config: QuartzConfig = {
           light: "github-light",
           dark: "github-dark",
         },
-        keepBackground: false,
+        keepBackground: true,
       }),
       Plugin.ObsidianFlavoredMarkdown({
         comments: false, // %% in code block was parsed as Obsidian comments
