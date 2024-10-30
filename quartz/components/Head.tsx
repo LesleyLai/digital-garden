@@ -34,7 +34,7 @@ export default (() => {
           </>
         )}
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="fediverse:creator" content="@lesley@mastodon.gamedev.place">
+        <meta name="fediverse:creator" content="@lesley@mastodon.gamedev.place" />
         <meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
         {cfg.baseUrl && <meta property="og:image" content={ogImagePath} />}
