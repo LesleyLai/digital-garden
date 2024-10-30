@@ -4,7 +4,7 @@ parent:
 tags:
   - learning/NoteTaking
 created: 2024-09-17
-modified: 2024-10-07
+modified: 2024-10-28
 publish: true
 aliases:
   - personal wiki
@@ -31,4 +31,5 @@ Here are some examples of interesting digital gardens that I came across and lik
 - [Alex' Garden](https://alexanderweichart.de/)
 - [Data Engineering Wiki](https://dataengineering.wiki/Index)
 - [Chris' Digital Garden](https://garden.christophertee.dev/)
-- [Welcome to The Quantum Well! - The Quantum Well - Obsidian Publish](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!)
+- [The Quantum Well](https://publish.obsidian.md/myquantumwell/Welcome+to+The+Quantum+Well!)
+- [Ewan's Garden](https://gassandrid.xyz/)
