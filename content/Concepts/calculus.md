@@ -29,6 +29,7 @@ title: Calculus MOC
 
 ## Integration
 - Integration techniques
+  - [[integration by substitution|by substitution]]
   - [[./integration by parts|by parts]]
   - by using the [[./Euler's formula|Euler's formula]]
 - [[./numerical integration|numerical integration]]

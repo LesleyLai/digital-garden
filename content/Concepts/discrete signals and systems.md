@@ -4,7 +4,7 @@ parent:
 tags:
   - signal/systems
 created: 2024-08-27
-modified: 2024-09-30
+modified: 2024-10-28
 aliases:
   - discrete-time signal
   - discrete signal
@@ -23,5 +23,16 @@ Instead of differential equations, we can use [[./difference equations|differenc
 $$
 y[n] = x[n] - x[n - 1]
 $$
+An alternative is a [[block diagram|block diagram]] like the following:
+![[../assets/block diagram example.png|400]]
+
+Difference equations are mathematically precise and concise. However, since difference equation is declarative, it does not show the signal flow path. On the other hand, the block diagram is imperative, and can directly translate into a hardware implementation or an algorithm. [^2]
+
+Another alternative representation that combines the strength of difference equations and block diagrams are the [[signal operators|operator notation]]. For example, let $\mathcal{R}$ be the right-shift operation, and let $X$ and $Y$ represents the whole input and output signals, then we can represent the above system as
+$$
+Y = X - \mathcal{R}X = (1 - \mathcal{R})X
+$$
+
 
 [^1]: Linear Systems and Signals, 3rd Edition, 1.7.5
+[^2]: [Lecture 2: Discrete-time systems | Signals and Systems | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-003-signals-and-systems-fall-2011/resources/mit6_003f11_lec02/)

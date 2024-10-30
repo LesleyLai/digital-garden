@@ -35,5 +35,8 @@ Signal operations often combine the above basic operations as $x(at - b)$. It ca
 - Time-shift $x(t)$ by $b$ to obtain $x(t - b)$ and then time-scale the shifted signal $x(t - b)$ by $a$ to obtain $x(at - b)$.
 - Time-scale $x(t)$ by $a$ to obtain $x(at)$ and then time-shift $x(at)$ by $\frac{b}{a}$ to obtain $x(a(t - \frac{b}{a})) = x(at - b)$
 
+## Related
+- [[signal operators|signal operators]]
+
 ## Reference
 - Linear Systems and Signals, 1.2

@@ -24,10 +24,11 @@ Convolution has several nice properties:
 - $f * g = g * f$ ([[commutativity|commutativity]])
 - $f * (g * h) = (f * g) * h$ ([[associativity|associativity]])
 - $f * (g + h) = (f * g) + (f * h)$ ([[distributivity|distributivity]])
+- $f(t) * \delta(t - T) = f(t - T)$ ([[./impulse convolution|impulse convolution]])
 - $\mathcal{L}\{ f * g \} = \mathcal{L}\{ f \} \mathcal{L}\{ g \}$ and $\mathcal{F}\{ f * g \} = \mathcal{F}\{ f \} \mathcal{L}\{ g \}$ ([[./convolution theorem|convolution theorem]])
 
 ## Applications
 Convolutions has 
 - [[./polynomial multiplication as convolution|multiplication of polynomials as convolution]]
 - [[convolution of probability distributions|sum of probability distributions as convolution]]
-- convolution can be used to express the output of a [[./linear time-invariant system|linear time-invariant system]] when [[zero-input response and zero-state response|zero-state response]] and input is given
+- convolution can be used to express the output of a [[./linear time-invariant system|linear time-invariant system]] when [[./zero-input response and zero-state response|zero-state response]] and input is given
