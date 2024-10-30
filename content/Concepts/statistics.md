@@ -2,7 +2,7 @@
 aliases:
   - "#statistics"
 created: 2024-07-29
-modified: 2024-10-07
+modified: 2024-10-28
 parent:
   - "[[math|math]]"
   - "[[computing|computing]]"
@@ -21,6 +21,9 @@ title: Statistics MOC
 
 ## Hypothesis Testing
 - [[./hypothesis testing|hypothesis testing]]
+
+## Miscs
+- [[./tidy data|tidy data]]
 
 ## Related
 - [[./probability MOC|probability MOC]]
