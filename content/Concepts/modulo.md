@@ -10,8 +10,6 @@ tags:
   - math/NumberTheory/ModuloArithmetic
   - "#computing/PL/semantics"
 ---
-
-# Modulo Operation
 There are three definition of **modulo operations**: _Truncated_, _Floored_, and _Euclidean_. Their difference is how to handle negative numbers.
 
 > [!example]+
