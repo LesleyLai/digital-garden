@@ -1,19 +1,18 @@
 ---
 created: 2024-08-04
-modified: 2024-08-25
+modified: 2024-10-31
 parent:
   - "[[computing|computing]]"
 publish: true
 tags:
   - computing/SQL
+  - computing/database
 ---
-
 **SQL** stands for **Standard Query Language** for relational databases. It is based on formal query languages such as [[./relational algebra|relational algebra]] and [[tuple calculus|tuple calculus]].
 
-SQL was originally developed in the 1970s as part of the IBM System R project. IBM originally called it "SEQUEL" (Structured English Query Language). The
-name changed in the 1980s to just "SQL".
+SQL was originally developed in the 1970s as part of the IBM System R project. IBM originally called it "SEQUEL" (Structured English Query Language). The name changed in the 1980s to just "SQL".
 
-SQL is nonprocedural, meaning that a query specifies _what_ data to retrieve, not _how_ to retrieve it. A query typically takes several tables as input and returns a single table as the result. For example:
+SQL is declarative, meaning that a query specifies _what_ data to retrieve, not _how_ to retrieve it. A query typically takes several tables as input and returns a single table as the result. For example:
 ```sql
 select instructor.ID, department.dept_name
 from instructor, department
@@ -26,6 +25,13 @@ Some details:
     - `SELECT`, `Select`, and `select` are treated the same.
 - Use single quotes for string constants:
     - `'working'` is valid, while `"bad"` is not.
+
+Unfortunately, despite the existence of a SQL standard, each DBMS has their own SQL dialect and each has different feature sets and syntactic quirks.
+
+## Subtopics
+- [[foreign key|foreign key]]
+- [[join in SQL|join in SQL]]
+- [[database transactions|transactions]]
 
 ## SQL and Relational Algebra
 SQL is based on [[./relational algebra|relational algebra]], but there are some notable differences. One of the big differences is that relational algebra is based on sets (no duplicate), where SQL is based on bags (duplicates allowed).
@@ -77,30 +83,6 @@ The `order by` clause allows sorting of results:
 - You can specify ascending (`ASC`) or descending (`DESC`) order.
 - Example: `order by country DESC, name ASC`.
 
-## Join Queries
-An _implicit join_ combines two or more tables into one. The `from` clause lists the tables involved, corresponding to a [[Cartesian product|Cartesian product]]. Join conditions are specified in the `WHERE` clause.
-
-### Aliases
-
-When you need to refer to the same table more than once in a query, use table aliases.
-
-### Explicit Joins
-
-- **Inner join**: Returns rows with matching data in both tables. By default, SQL performs an inner join.
-    - **Theta join**: `R join S on <join condition>`.
-    - **Natural join**: `R natural join S`. For specific attributes, it becomes an equi-join: `R join S using (<list of attributes>)`.
-- **Outer join**: Includes rows without matches.
-    - **Left outer join**: Includes unmatched rows from the left table.
-    - **Right outer join**: Includes unmatched rows from the right table.
-    - **Full outer join**: Includes unmatched rows from both tables.
-
-### Join Operators
-
-Join operators are specified in the `FROM` clause and require both a _join type_ and a _join condition_.
-
-- Join types: `JOIN`, `LEFT OUTER JOIN`, `RIGHT OUTER JOIN`, `FULL OUTER JOIN`.
-- Join conditions: `NATURAL`, `ON <condition>`, `USING (<list of attributes>)`.
-
 ## Set Operations
 
-SQL supports set operations such as `UNION`, `INTERSECT`, and `EXCEPT`, which eliminate duplicates by default.
+SQL supports set operations such as `UNION`, `INTERSECT`, and `EXCEPT`, which also eliminate duplicates by default.
