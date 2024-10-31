@@ -31,6 +31,6 @@ y_p(t) = h(t) * x(t)
 $$
 
 ## See Also
-- [[time domain analysis of LTIC systems|time domain analysis of LTIC systems]]
+- [[./analysis of LTIC systems|analysis of LTIC systems]]
 
 [^1]: - Linear Systems and Signals, 3rd Edition, Chapter 2
