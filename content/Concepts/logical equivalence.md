@@ -2,10 +2,12 @@
 created: 2024-08-16
 modified: 2024-09-25
 parent:
-  - "[[./propositional logic|propositional logic]]"
+  - "[[logical equivalence|logical equivalence]]"
 publish: true
 tags:
   - logic/property
+aliases:
+  - logically equivalent
 ---
 Two propositions are **logically equivalent** if they share the same truth value across all possible scenarios.
 
