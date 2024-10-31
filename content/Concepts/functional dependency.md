@@ -4,21 +4,21 @@ parent:
 tags:
   - computing/database/theory
 created: 2024-09-20
-modified: 2024-09-27
+modified: 2024-10-31
 publish: true
 ---
 In database theory, **functional dependencies (FDs)** are a tool to capture semantic relationships between attributes and detect and eliminate bad design.
 
-Informally, a function dependency $X \to Y$ is _when value of attribute X determines the value of attribute Y_.
-
-> [!info] 
-> Functional dependency shares the same $X \to Y$ notation to [[./logical conditional|logical implication]], and indeed functional dependency can be view as a form of implication. [^1]
+Informally, a function dependency $X \to Y$ is _when value of attribute X determines the value of attribute Y_. 
 
 More formally, 
 > [!definition] Functional dependencies
 > given a [[./relation|relation]] $R$ and two set of attributes $X, Y \subseteq R$, we say "$X$ **functionally determines** $Y$" or if each $X$ value is associated with precisely one $Y$ value. 
 
-$R$ is then said to _satisfy_ the functional dependency $X \to Y$. In other word, the relationship $R$ between $X$ and $Y$ can be modelled using a [[function|function]] (n to 1).
+$R$ is then said to _satisfy_ the functional dependency $X \to Y$. In other word, the relationship $R$ between $X$ and $Y$ can be modelled using a [[function|function]] (many-to-one).
+
+> [!info] 
+> Functional dependency shares the same $X \to Y$ notation to [[./logical conditional|logical implication]], and indeed functional dependency can be view as a form of implication. [^1]
 
 ## Determining Functional Dependencies
 There are two ways to determine functional dependency, either via considering semantic meaning of the attributes or by analyzing the actual data.
