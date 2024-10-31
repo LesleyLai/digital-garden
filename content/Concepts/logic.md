@@ -2,7 +2,7 @@
 aliases:
   - "#logic"
 created: 2024-08-01
-modified: 2024-09-29
+modified: 2024-10-31
 parent:
   - "[[philosophy|philosophy]]"
   - "[[math|math]]"
@@ -45,17 +45,15 @@ See [[./formal system|formal system]], [[./proof system|proof system]]
 - [[./valid formula|validity]]
   - [[./tautology|tautology]]
 - [[satisfiability|satisfiable]]
-- [[contradiction|contradiction]]/logical falsehood/unsatisfiable
-
-## For Two Formulas
+- [[./contradiction|contradiction]]/logical falsehood/unsatisfiable
+### For Two Formulas
 - [[./logical equivalence|logical equivalence]]
 - [[./entailment and provability|entailment and provability]]
 ### For A Set of Formulas
 - (jointly) satisfiable/unsatisfiable
 - [[logical consistency|logical consistency]]
-- [[contradiction|contradictory]]
-- [[contraries|contraries]]
-
+- [[./contradiction|contradictory]]
+- [[./contraries|contraries]]
 ### For Arguments
 - [[./validity (disambiguous)|validity]] and [[./deductive soundness|soundness]]
 
