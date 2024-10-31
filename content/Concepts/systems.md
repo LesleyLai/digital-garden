@@ -43,4 +43,4 @@ One of the most widely studied type of systems is the [[./linear time-invariant 
 - [[transfer function|transfer function]]
 
 ## System Analysis
-- [[time domain analysis of LTIC systems|time domain analysis of LTIC systems]]
+- [[./analysis of LTIC systems|analysis of LTIC systems]]
