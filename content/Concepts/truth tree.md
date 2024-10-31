@@ -4,7 +4,7 @@ aliases:
   - truth tree
   - semantic tableau
 created: 2024-08-26
-modified: 2024-09-23
+modified: 2024-10-31
 parent:
   - "[[logic|logic]]"
 publish: true
@@ -122,6 +122,37 @@ When applying tree rules, it is desirable to follow the following order:
 3. unnegated existential quantifier rules
 4. unnegated universal quantifier rule
 This heuristics usually result in a shorter tree proof.
+
+## Infinite Tree
+When we apply trees to formulas containing quantifiers, it is possible for us to get infinite trees. In this case, we need to identify patterns in the tree paths in order to draw conclusion.
+
+For example, suppose we want to know whether $\forall x \exists y (Fx \land Gy)$ is satisfiable. We may start to write it into a tree like this:
+![[../assets/infinity tree 1.png|infinity tree 1.png]]
+However, since we introduced a new variable $b$, we need to apply it to the universal quantifier again:
+![[../assets/infinite tree 2.png|infinite tree 2.png]]
+Note that in this process, we introduced another variable, $c$, which means we also need to apply that. We are stuck in an infinite loop of introducing new variables and then applying them to the universal quantifier.
+
+In this case, we can say that the tree path is saturated since from the pattern, we don't see the possibility that the tree path getting closed. And thus this formula is satisfiable. We can also read off a [[model (logic)|model]] from the tree pattern:
+$$
+F: \mathbb{N},\quad G:\mathbb{Z^+}
+$$
+
+## Tree Rules for Identity
+When we extend predicate logic to include [[./the identity predicate|the identity predicate]] $x = y$, we need to add tree rules to accommodate it.
+
+First, we close any paths that contains a formula of the form $\underline{a} \neq \underline{a}$ (or equivalently $\neg I^2 \underline{a}\, \underline{a}$).
+
+Second, given an arbitrary formula $\alpha(\underline{a})$ containing the name $\underline{a}$, and an identity statement $\underline{a} = \underline{b}$ (or $\underline{b} = \underline{a}$), we can derive $\alpha(\underline{b})$ by substituting $\underline{b}$ for $\underline{a}$.
+![[../assets/substitution of identicals.png|substitution of identicals.png]]
+Note that
+- we do not apply the rule for formulas that are ticked off
+- After applying this rule, we do not tick off the original formula, as the substitution can be applied repeatedly
+
+A path is considered saturated when no further application of the substitution rule can generate new formulas not already present in the path.
+
+> [!example]- Example: testing whether $\forall x\, \forall y\, \forall z\ ((x = y \land y \neq z) \to x \neq z)$ is [[./valid formula|logical truth]]:
+> ![[../assets/substitution for identical example.png|substitution for identical example.png]]
+> Note that the last step performs substitution
 
 ## Reference
 - Smith, Nicholas J.J.. _Logic : The Laws of Truth_, Princeton University Press, 2012. Chapter 7 and Chapter 10

@@ -6,6 +6,8 @@ tags:
 created: 2024-10-15
 modified: 2024-10-16
 publish: true
+aliases:
+  - identity predicate
 ---
 The **identity predicate** $I^2$ is a special two-place predicate in predicate logic that represents equality or sameness between two terms.
 
@@ -123,4 +125,4 @@ $$
 $$
 
 ## References
-- Logic : The Laws of Truth
+- Logic : The Laws of Truth Chapter 13

@@ -9,7 +9,7 @@ publish: true
 aliases:
   - logical truth
 ---
-A [[well-formed formula|formula]] $\varphi$ is a **valid** [[./entailment and provability|if it is truth for every]] [[interpretations (logic)|interpretation]]. I.e.
+A [[well-formed formula|formula]] $\varphi$ is **valid** or a **logical truth** [[./entailment and provability|if it is truth for every]] [[interpretations (logic)|interpretation]]. I.e.
 $$
 x \vDash \varphi, \text{for every assignment x}.
 $$

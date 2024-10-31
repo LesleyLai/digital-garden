@@ -80,6 +80,6 @@ print v;
 
 ## Algorithm to Create CFG
    Basic idea:
-   1. [[./algorithm to form basic blocks from IR|Form basic blocks from IR]]
+   1. [[./form basic blocks from IR|Form basic blocks from IR]]
    2. Associate basic block with labels (if no label, generate one)
-   3. [[./algorithm to create control flow graph from basic blocks|generate CFG from basic blocks]]
+   3. [[./create control flow graph from basic blocks|generate CFG from basic blocks]]

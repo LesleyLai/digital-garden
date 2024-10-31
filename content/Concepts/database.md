@@ -29,3 +29,7 @@ A **database-management system** (DBMS) is a collection of interrelated data and
 
 ## Database Languages
 - [[./SQL|SQL]]
+
+## Database Implementation
+- [[database storage management|Storage Management]] and [[database indexing|Indexing]]
+- [[database query processing|Query Processing]] and [[database query optimization|Query Optimization]]
