@@ -1,6 +1,6 @@
 ---
 created: 2024-02-17
-modified: 2024-10-18
+modified: 2024-11-01
 parent:
   - "[[questionable cause|questionable cause]]"
 publish: true
@@ -14,4 +14,5 @@ The fallacy is strongly related with [[./clustering illusion|clustering illusion
 ## See Also
 - [[./availability heuristic|availability heuristic]] - bias towards recently acquired information
 - [[confirmation bias|confirmation bias]] - bias confirming existing attitudes
+- [[./multiple comparisons problem|multiple comparisons problem]] - performing multiple comparisons increase false positive rate
 - [[p-hacking|p-hacking]] - Exploiting - perhaps unconsciously - different data analysis until $p < 0.05$
