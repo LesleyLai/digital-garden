@@ -4,7 +4,7 @@ parent:
 tags:
   - statistics/HypothesisTesting
 created: 2024-10-15
-modified: 2024-10-23
+modified: 2024-11-01
 publish: true
 ---
 [[Ronald Fisher|Ronald Fisher]], who first introduced the $p$-value, recognized its limitations and intended it only as a heuristic tool and convenient guide. Nevertheless, the p-value cutoff has become a widely accepted standard in many scientific disciplines. [^1] However, several drawbacks of [[./p-value|p-values]] can lead to [[p-hacking|p-hacking]] and contribute to [[replication crisis|replication crisis]].
@@ -22,11 +22,10 @@ P-values are commonly used in hypothesis testing to decide whether to reject or 
 
 In other words, this misinterpretation conflates the conditional probabilities $P(\text{Data}\ |\ \text{Null Hypothesis})$ with $P(\text{Null Hypothesis}\ |\ \text{Data})$. [^1]
 ### Multiple Comparisons Problem
-> See: [[multiple comparisons problem|multiple comparisons problem]] and [[p-hacking|p-hacking]]
+> See: [[./multiple comparisons problem|multiple comparisons problem]] and [[p-hacking|p-hacking]]
 
 When multiple hypotheses are tested together, the probability of obtaining "significant" result by chance increases exponentially. While it's rare for researchers to intentionally manipulate data to produce statistically significant results, they may still unconsciously select hypotheses based on whether they achieve statistical significance. [^5]
 
-![[../assets/spurious correlation.png|600]]
 ### Lack of Information on Effect Size
 > See: [[effect size|effect size]]
 
