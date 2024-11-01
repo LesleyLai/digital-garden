@@ -4,7 +4,7 @@ aliases:
   - fallacies in statistics
   - probability and randomness biases
 created: 2024-07-29
-modified: 2024-10-07
+modified: 2024-11-01
 parent:
   - "[[statistics|statistics]]"
   - "[[logical fallacies|logical fallacy]]"
@@ -37,6 +37,7 @@ The [[bias of an estimator|bias of an estimator]] is the difference between an e
 - [[./base rate fallacy|base rate bias]]
   - also called *prosecutor's Fallacy*, can be viewed as confusion of the  probability $P(A | B)$ with the probability $P(B | A)$
 - [[./Texas sharpshooter fallacy|Texas sharpshooter fallacy]] and [[./clustering illusion|clustering illusion]]
+- [[./multiple comparisons problem|multiple comparisons problem]]
 
 ## Related
 - [[./cognitive bias|cognitive bias]]
