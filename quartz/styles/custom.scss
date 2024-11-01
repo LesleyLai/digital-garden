@@ -66,3 +66,10 @@
   $color: "rgb(from var(--secondary) r g b / .7)";
   color: unquote($color);
 }
+
+// Add bottom margin to callout content
+.callout {
+  & > .callout-content {
+      margin-bottom: 1em;
+  }
+}
