@@ -2,7 +2,7 @@
 aliases:
   - Heaviside step function
 created: 2024-08-11
-modified: 2024-08-11
+modified: 2024-11-01
 publish: true
 tags:
   - math/definitions
@@ -16,5 +16,7 @@ u(t) = \begin{cases}
 \end{cases}
 $$
 
-## Related
-- [[./Dirac delta|Dirac delta]]
+The derivative of the step function is the [[./Dirac delta|delta function]]:
+$$
+\frac{d}{dt}u(t) = \delta(t)
+$$
