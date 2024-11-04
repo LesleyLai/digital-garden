@@ -3,7 +3,7 @@ tags:
   - tools/obsidian
   - tools/quartz
 created: 2024-09-17
-modified: 2024-10-23
+modified: 2024-11-02
 publish: true
 ---
 Here are the changes I've made to my Quartz setup. While I can't promise to include everything or keep it constantly updated, this should give you a good idea of how I've customized this digital garden website.
@@ -199,3 +199,17 @@ Obsidian (and Wikis like [MediaWiki](https://en.wikipedia.org/wiki/Wikipedia:Red
 See [commit here](https://github.com/LesleyLai/digital-garden/commit/37e787f18f831667adc9058f5a058f1494677108)
 
 ![[../assets/red link.png|600]]
+
+## Add Bottom Margin to Callout Content
+`quartz/styles/custom.scss`
+```scss
+.callout {
+  & > .callout-content {
+      margin-bottom: 1em;
+  }
+}
+```
+
+| Before                               | After                                |
+| ------------------------------------ | ------------------------------------ |
+| ![[../assets/Pasted image 20241102021027.png|Pasted image 20241102021027.png]] | ![[../assets/Pasted image 20241102021107.png|Pasted image 20241102021107.png]] |
