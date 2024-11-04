@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23
-modified: 2024-10-31
+modified: 2024-11-04
 parent:
   - "[[functions|function]]"
 publish: true
@@ -25,6 +25,8 @@ Convolution has several nice properties:
 - $f * (g * h) = (f * g) * h$ ([[associativity|associativity]])
 - $f * (g + h) = (f * g) + (f * h)$ ([[distributivity|distributivity]])
 - $f(t) * \delta(t - T) = f(t - T)$ ([[./impulse convolution|impulse convolution]])
+- If $y(t) = f(t) * g(t)$, then $f(t - T) * g(t) = f(t) * g(t - T) = y(t - T)$ (time shift property)
+- If $f(t) * g(t) = y(t)$, $f(at) * g(at) = \left|\frac{1}{a}\right|\ y(at)$ ([[./time scaling property of convolution|time scaling property]])
 
 ## Convolution Theorem
 > See: [[./convolution theorem|convolution theorem]]
