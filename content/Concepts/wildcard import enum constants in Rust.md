@@ -9,8 +9,6 @@ publish: true
 tags:
   - "#computing/Rust/PatternMatching"
 ---
-
-# Wildcard Import Enum Constants
 wildcard import enum constants like the following in Rust is generally considered a very bad idea:
 ```rust
 use SomeEnum::*
