@@ -8,7 +8,7 @@ mathLink: $L_p\text{ norm}$
 modified: 2024-03-14
 publish: true
 specializations:
-  - "[[manhattan distance|L1 norm]]"
+  - "[[Manhattan distance|L1 norm]]"
   - "[[L2 norm|L2 norm]]"
   - "[[infinity norm|infinity norm]]"
 tags:
