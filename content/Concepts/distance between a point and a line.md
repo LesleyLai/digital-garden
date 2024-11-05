@@ -5,7 +5,7 @@ parent:
   - "[[geometry|geometry]]"
 publish: true
 tags:
-  - geometry/distance
+  - math/geometry/distance
 created: 2024-03-30
 modified: 2024-03-30
 ---
