@@ -25,7 +25,7 @@ Further more, the metric must satisfy the following properties:
 > $(\mathbf{R}^n, d_{l^2})$, the Euclidean space of dimension, use Euclidean distance as the metric.
 
 > [!example]+ Example: Taxicab Space
-> $(\mathbf{R}^n, d_{l^1})$ uses [[./manhattan distance|manhattan distance]] as the metric (taxicab metric).
+> $(\mathbf{R}^n, d_{l^1})$ uses [[./Manhattan distance|Manhattan distance]] as the metric (taxicab metric).
 >
 > The metric satisfy the inequality
 > $$

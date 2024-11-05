@@ -1,0 +1,51 @@
+<svg xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 700" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs>
+  <linearGradient id="b" gradientTransform="matrix(1.1288 0 0 1.1288 -20.72 7532.2)">
+   <stop offset="0"/>
+  </linearGradient>
+ </defs>
+ <g stroke-linejoin="round" transform="translate(0,-200)" stroke-linecap="round">
+  <path d="m132.82 200v59.265l30.889 30.889v62.661h2.7898l32.993-32.993h30.409v-8.37l12.032-12.032v-40.48l-6.2953-6.2953v-52.646z" stroke="#a8b032" fill="#a8b032"/>
+  <path d="m235.64 200h93.551v52.205l-15.886 15.886v28.683l-2.4744 2.6477h-68.895v-40.48l-6.2953-6.2953z" stroke="#de3b66" fill="#de3b66"/>
+  <path d="m329.19 200h271.89v67.936l-14.236 14.236h-240.87l-15.773 15.773h-17.998l1.094-1.1706v-28.683l15.886-15.886z" stroke="#dba93d" fill="#dba93d"/>
+  <path d="m229.91 319.82 77.59 77.59h39.256l66.275-66.275h154.4l19.421-19.421v-29.547h-240.87l-15.773 15.773h-17.998l-1.3804 1.4771h-68.895l-12.032 12.032z" stroke="#b21925" fill="#b21925"/>
+  <path d="m601.09 200h52.95v321.41l-14.905 14.905v63.198l-20.271 20.271h-81.68v-16.29l-74.035-74.035v-8.8373l104.28-104.28v-85.197l19.421-19.421v-29.547l14.236-14.236z" stroke="#aff7f4" fill="#aff7f4"/>
+  <path d="m700 200v423.69h-24.666l-25.381-24.178-10.82 0.00032v-63.198l14.905-14.905v-321.41z" stroke="#7ad7ec" fill="#7ad7ec"/>
+  <path d="m307.5 397.41v15.855l-2.3882 2.3882v4.2067l42.901 42.901v26.087h23.414l40.94 40.605h50.783v-8.8373l104.28-104.28v-85.197h-154.4l-66.275 66.275z" stroke="#c674a7" fill="#c674a7"/>
+  <path d="m348.01 488.85-14.142 14.142v46.373l-23.273 23.273v30.713l12.291 12.291v30.854l35.615 35.61h13.066l49.869-49.816 103.07 0.00001 12.681-12.511v-16.29l-74.035-74.035h-50.783l-40.94-40.605z" stroke="#8291ca" fill="#8291ca"/>
+  <path d="m524.5 632.29v55.886l22.241 22.241v189.58h153.26v-276.31h-24.666l-25.381-24.178-10.82 0.0003-20.271 20.271h-81.68z" stroke="#0d0f7d" fill="#0d0f7d"/>
+  <path d="m358.5 682.11v28.036l11.303 11.303v23.311l33.273 33.273v121.97h143.66v-189.58l-22.241-22.241v-55.886l-103.07-0.00001-49.869 49.816z" stroke="#4e46f6" fill="#4e46f6"/>
+  <path d="m369.8 744.76h-54.429l-8.9158 9.2399h-134.44v24.675l115.95 115.95v5.3711h115.1v-121.97z" stroke="#cd6d01" fill="#cd6d01"/>
+  <path d="m287.98 900h-287.98v-173.68h144.36l27.661 27.677v24.675l115.95 115.95z" stroke="#b6ced5" fill="#b6ced5"/>
+  <path d="m0 726.32v-35.475h262.86l43.924-44.348h16.1l35.615 35.61v28.036l11.303 11.303v23.311h-54.429l-8.9158 9.2399h-134.44l-27.661-27.677z" stroke="#ee4dc0" fill="#ee4dc0"/>
+  <path d="m0 690.85v-83.991h176.05l13.95-14.05h53.081l20.052-20.17h47.462v30.713l12.291 12.291v30.854h-16.1l-43.924 44.348z" stroke="#7850db" fill="#7850db"/>
+  <path d="m333.87 503h-91.266l-5.773 5.773h-8.7702v2.6842l-38.06 37.97v43.392h53.081l20.052-20.17h47.462l23.273-23.273z" stroke="#1565cf" fill="#1565cf"/>
+  <path d="m0 606.86v-123.03h175.46l13.799 13.799h27.741l11.058 11.138v2.6842l-38.06 37.97v43.392l-13.947 14.045z" stroke="#e98ec2" fill="#e98ec2"/>
+  <path d="m305.11 419.86h-68.386l-27.486 27.486v15.1l7.7637 7.7395v27.441l11.058 11.138h8.7702l5.773-5.773h91.266l14.142-14.142v-26.087z" stroke="#06f121" fill="#06f121"/>
+  <path d="m0 483.83v-47.194h189l11 10.713h9.2363v15.1l7.7637 7.7395v27.441h-27.741l-13.799-13.799z" stroke="#44a416" fill="#44a416"/>
+  <path d="m0 436.64v-50.042h130.5l33.214-33.779h2.7898l32.993-32.993h30.409l77.59 77.59v15.855l-2.3882 2.3882v4.2067h-68.386l-27.486 27.486h-9.2363l-11-10.713z" stroke="#5a7083" fill="#5a7083"/>
+  <path d="m0 386.59v-186.59h132.82v59.265l30.889 30.889v62.661l-33.779 33.779z" stroke="#576fd5" fill="#576fd5"/>
+ </g>
+ <g transform="translate(0,-200)">
+  <circle id="a" cx="166.01" cy="258.03" r="4" fill="url(#b)"/>
+  <use xlink:href="#a" transform="translate(-35.765 31.143)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(143.88 -5.9296)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(164.18 9.9779)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(180.18 53.104)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(32.863 154.67)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(22.826 212.14)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(8.9523 253.02)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(70.055 204.11)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(246.07 156.85)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(451.98 262.06)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(509.12 277.11)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(484.12 429.39)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(255.19 452.06)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(205.01 345)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(76.017 291.04)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(96 356.89)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(139.8 463.01)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(149.07 519.77)" height="100%" width="100%" y="0" x="0"/>
+  <use xlink:href="#a" transform="translate(-22.954 635.98)" height="100%" width="100%" y="0" x="0"/>
+ </g>
+</svg>

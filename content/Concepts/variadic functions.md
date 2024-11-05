@@ -4,11 +4,11 @@ parent:
 tags:
   - computing/PL/interesting_features
 created: 2024-10-21
-modified: 2024-10-21
+modified: 2024-11-04
 publish: true
 ---
 A variadic function is a [[./functions|function]] of indefinite arity, i.e. one that accepts a variable numbers of arguments.
-## Examples
+## In Programming Languages
 - [[./Python variadic functions and unpack operators|Python variadic functions and unpack operators]]
 - [[C variadic functions|C variadic functions]]
 - [[C++ variadic template|C++ variadic template]]

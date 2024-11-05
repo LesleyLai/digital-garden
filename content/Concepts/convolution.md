@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23
-modified: 2024-11-04
+modified: 2024-11-05
 parent:
   - "[[functions|function]]"
 publish: true
@@ -18,6 +18,11 @@ tags:
 > $$
 > (f * g)[n] := \sum_{i=-\infty}^\infty f[i] \cdot g[n - i]
 > $$
+## Visual Explanation
+Discrete convolution is often visualized as flipping one of the input signals (we call it the kernel or filter) and using it as [[weighted average|weights]] to compute a [[moving average|moving average]] over another signal.
+![[../assets/discrete_convolution_visualization.gif|400]]
+  Similarly, continuous convolution can be visualized by the "sliding windows" process.
+![[../assets/Convolution_of_box_signal_with_itself2.gif|Convolution_of_box_signal_with_itself2.gif]]
 
 ## Properties of Convolution
 Convolution has several nice properties:
@@ -27,7 +32,7 @@ Convolution has several nice properties:
 - $f(t) * \delta(t - T) = f(t - T)$ ([[./impulse convolution|impulse convolution]])
 - If $y(t) = f(t) * g(t)$, then $f(t - T) * g(t) = f(t) * g(t - T) = y(t - T)$ (time shift property)
 - If $f(t) * g(t) = y(t)$, $f(at) * g(at) = \left|\frac{1}{a}\right|\ y(at)$ ([[./time scaling property of convolution|time scaling property]])
-
+ 
 ## Convolution Theorem
 > See: [[./convolution theorem|convolution theorem]]
 

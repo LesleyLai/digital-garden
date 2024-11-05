@@ -12,9 +12,6 @@ tags:
   - math/LinearAlgebra/norm
   - math/definitions
 ---
-
-# Manhattan Distance
-
 The **Manhattan distance**, also called **taxicab metric** or **L1 distance**, of two vectors $\mathbf{u}$ and $\mathbf{v}$, is defined as
 
 $$
