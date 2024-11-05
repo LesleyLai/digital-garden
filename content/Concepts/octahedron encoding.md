@@ -13,7 +13,7 @@ There are many ways to store 3D unit vectors, like using the [[./spherical coord
 
 While the **octahedron encoding** is not fit for computation, it is overall one of the best methods for in-memory storage of 3D unit vectors.
 
-Mapping from a sphere to octahedron can be viewed as changing from [[./L2 norm|L2 norm]] to [[./manhattan distance|L1 (Manhattan) norm]]. The process is illustrated by the following diagram:
+Mapping from a sphere to octahedron can be viewed as changing from [[./L2 norm|L2 norm]] to [[./Manhattan distance|L1 (Manhattan) norm]]. The process is illustrated by the following diagram:
 
 ![[../assets/octahedral.png|octahedral.png]]
 
