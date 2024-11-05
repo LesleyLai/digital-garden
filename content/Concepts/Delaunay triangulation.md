@@ -14,3 +14,6 @@ Delaunay meshes has several advantages:
 - often helps with [[numerical stability|numerical stability]]
 - coincides with *shockingly* many other desirable properties
   - maximizes minimum angle, smoothest interpolation, guarantees maximum principle
+
+## Related
+- [[./Voronoi diagram|Voronoi diagram]]
