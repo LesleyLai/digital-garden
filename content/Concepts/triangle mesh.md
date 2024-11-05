@@ -12,7 +12,7 @@ publish: true
 ## Advantages of Triangles
 Some of the advantages of triangles including that
 - you will always have a valid triangle given any three points as long as they are not in a line
-- We can interpolate on a triangle easily with the [[./barycentric coordinate|barycentric coordinate]]
+- We can interpolate on a triangle easily with the [[./barycentric coordinates|barycentric coordinates]]
 - Triangles are always [[convex polygon|convex]] and coplanar, which simplifies many algorithms
 
 ## What Makes a "good" Triangle Mesh
@@ -21,7 +21,7 @@ See also: [[./degenerate triangle|degenerate triangle]]
 
 The shape of triangles are important. Long and thin triangles, often called "slivers," can cause [[numerical stability|numerical instability]] in various computational applications.
 
-A more sophisticated condition is called [[Delaunay triangulation|Delaunay]] (empty circumcircles). A mesh is Delaunay if no other vertices are in the circumcircle of of any triangles.
+A more sophisticated condition is called [[./Delaunay triangulation|Delaunay]] (empty circumcircles). A mesh is Delaunay if no other vertices are in the circumcircle of of any triangles.
 ### Degree of Mesh
 Having regular [[degree (graph theory)|vertex degree]] also makes a mesh "good."
 - For triangle meshes, a degree of 6 is considered optimal for interior vertices
