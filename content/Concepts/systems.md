@@ -40,7 +40,8 @@ One of the most widely studied type of systems is the [[./linear time-invariant 
 ## System Response
 - [[./zero-input response and zero-state response|zero-input response and zero-state response]]
 - [[impulse response|impulse response]]
-- [[transfer function|transfer function]]
+- [[./transfer function|transfer function]]
 
 ## System Analysis
 - [[./analysis of LTIC systems|analysis of LTIC systems]]
+- [[./system stability|system stability]]
