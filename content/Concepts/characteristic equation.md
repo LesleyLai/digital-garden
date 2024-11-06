@@ -6,6 +6,8 @@ parent:
 publish: true
 tags:
   - math/DifferentialEquations
+aliases:
+  - characteristic roots
 ---
 A **characteristic equations** is an equation of degree $n$ upon which depends on the solution of a given $n$th-order [[./differential equations|differential equations]] or [[./difference equations|difference equations]]. The characteristic equations can only formed when the differential or difference equation is [[homogeneous differential equation|homogeneous]], [[./linear differential equation|linear]], and has constant coefficients. [^1]
 
@@ -30,7 +32,7 @@ a_n r^{n} + a_{n-1} r^{n-1} + \cdots + a_1 r + a_0 = 0
 $$
 
 ## Formation of the General Solution
-Solving the characteristic equation allow one to find the general solution of the differential equation. The solution depends on where the roots are at the [[./complex exponential function|complex frequency plane]], and whether there are repeated roots.
+Solving the characteristic equation allow one to find the general solution of the differential equation. The solution depends on where the roots are at the [[./complex frequency|complex frequency plane]], and whether there are repeated roots.
 
 ### Distinct Real Root
 The [[./linear transformation|superposition principle]] of a linear system says that if $u_1, u_2, \dots$ are $n$ [[./linear independence|linearly independent]] solutions to a linear differential equation, then $c_1u_1 + c_2u_2 + \dots + c_nu_n$ is also a solution for all constant values $c_1, c_2, \dots, c_n$. Thus, if the characteristic equation has distinct real roots $r_1, \dots, r_n$, then a general solution will be of the form
