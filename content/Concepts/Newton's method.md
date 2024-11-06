@@ -6,12 +6,13 @@ modified: 2024-03-14
 parent:
   - "[[root-finding algorithm|root-finding algorithm]]"
 publish: true
-specializations: "[[descent methods]]"
+generalizations:
+  - "[[descent methods|descent methods]]"
 tags:
   - math/numerical
   - math/optimization
 ---
-Newton's method is an iterative method to find root.
+Newton's method is an [[iterative methods|iterative methods]] to find root.
 
 ## Newton's Method in N Dimension
 $$
