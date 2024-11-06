@@ -2,7 +2,7 @@
 aliases:
   - complex exponential
 created: 2023-05-30
-modified: 2024-09-08
+modified: 2024-11-06
 parent:
   - "[[complex numbers|complex numbers]]"
 publish: true
@@ -86,5 +86,8 @@ $$
 &= \cos{(nx)} + i \sin{(nx)}
 \end{align}
 $$
+## Complex Frequency
+- For $e^{st}$ where $s$ is a complex number given by $s = \sigma + i\omega$, we call $s$ as the [[./complex frequency|complex frequency]]
+
 
 [^1]: [Notes on the Euler formula - Eli Bendersky's website](https://eli.thegreenplace.net/2024/notes-on-the-euler-formula/)
