@@ -20,5 +20,6 @@ A good example of a LTI system is any [[./electric circuit|electric circuit]] co
 
 ## Analysis
 - [[./analysis of LTIC systems|analysis of LTIC systems]]
+- [[./transfer function|transfer function]]
 
 [^1]: [Linear time-invariant system - Wikipedia](https://en.wikipedia.org/wiki/Linear_time-invariant_system)

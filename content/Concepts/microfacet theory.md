@@ -4,7 +4,7 @@ aliases:
 created: 2024-02-01
 modified: 2024-03-14
 parent:
-  - "[[BRDF|BRDF]]"
+  - "[[./BRDF|BRDF]]"
 publish: true
 tags:
   - "#computing/graphics/pbr/microfacet"
@@ -12,7 +12,7 @@ tags:
 
 **Microfacet theory** is based on the idea that rough surfaces can be represented as a collection of [[./microgeometry|microfacets]], which are tiny, flat, and ideally smooth surfaces. These microfacets are statistically distributed, and their aggregate behavior determines the macroscopic surface's reflective properties.
 
-The following is the form of the general microfacet specular BRDF
+The following is the form of the general microfacet specular [[./BRDF|BRDF]]
 $$
 f(\mathbf{l}, \mathbf{v})=\frac{F(\mathbf{l}, \mathbf{h}) G(\mathbf{l}, \mathbf{v}, \mathbf{h}) D(\mathbf{h})}{4(\mathbf{n} \cdot \mathbf{l})(\mathbf{n} \cdot \mathbf{v})}
 $$
