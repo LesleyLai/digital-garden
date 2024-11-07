@@ -25,7 +25,7 @@ e^{st} &= e^{(\sigma + i\omega) t} \\
 $$
 Since the [[complex conjugate|conjugate]] of $s$ is $s^* = \sigma - i\omega$, then
 $$
-e^{s^* t} = e^{\sigma t} (\cos{\omega t} + i \sin{\omega t})
+e^{s^* t} = e^{\sigma t} (\cos{\omega t} - i \sin{\omega t})
 $$
 and
 $$
