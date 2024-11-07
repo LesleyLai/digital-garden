@@ -7,7 +7,7 @@ publish: true
 tags:
   - math/probability/distribution
 ---
-The **binomial distribution** is a discrete probability distribution of a number of successes in a sequence of $n$ [[./independent events|independent]] experiment, each with a boolean outcome of true (with probability $p$) and false. It is often written as following:
+The **binomial distribution** is a discrete probability distribution of a number of successes in a sequence of $n$ [[./independence|independent]] experiment, each with a boolean outcome of true (with probability $p$) and false. It is often written as following:
 
 $$
 X \sim \text{Bin}(n, p)
