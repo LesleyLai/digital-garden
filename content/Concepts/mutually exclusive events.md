@@ -20,4 +20,4 @@ $$
 This is obviously not correct in general when the two events are not mutually exclusive.
 
 ## Relationship with Independence
-Note that mutually exclusive events are neither necessarily [[./independent events|independent]] or dependent. In any non-trivial case, mutually exclusive events are dependent. However, it is possible for two mutually exclusive events to be independent when one event is impossible to happen.
+Note that mutually exclusive events are neither necessarily [[./independence|independent]] or dependent. In any non-trivial case, mutually exclusive events are dependent. However, it is possible for two mutually exclusive events to be independent when one event is impossible to happen.
