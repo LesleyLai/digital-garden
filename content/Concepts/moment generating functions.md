@@ -17,7 +17,7 @@ For example, if $X \sim Poisson(\lambda)$, $M_X(t) = e^{\lambda(e^t - 1)}$
 
 A moment-generating function can uniquely determine a distribution.
 
-## Use the Moment-generating Function to Calculate the [[./sum of random variable|sum of random variable]]
+## Use the Moment-generating Function to Calculate the [[./sum of random variables|sum of random variables]]
 If the we have $n$ [[./independent and identically distributed random variables|iid]] distributions $X_1, X_2, \cdots, X_n$, the moment-generating function of the sum $Y = \sum_{i=1}^n X_i$ is the moment-generating function of individual distribution raise to n-th power:
 $$
    \begin{aligned}
