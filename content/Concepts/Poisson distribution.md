@@ -24,4 +24,4 @@ $$
 $$
 
 ## Properties
-- [[./sum of random variable#|the sum of Poisson random variables is Poisson]]
+- [[./sum of random variables#|the sum of Poisson random variables is Poisson]]
