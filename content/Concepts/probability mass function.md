@@ -6,6 +6,8 @@ tags:
   - math/probability
 parent:
   - "[[probability MOC|probability MOC]]"
+aliases:
+  - PMF
 ---
 For discrete distributions, the **probability mass function** is defined as
 $$
@@ -16,7 +18,7 @@ $$
 \sum_i p(x_i) = 1
 $$
 
-The partial sum of PMF is the [[./cumulative distribution function|cumulative distribution function]]:
+The [[partial sum|partial sum]] of PMFs is the [[./cumulative distribution function|cumulative distribution function]]:
 $$
 P(j) = \sum_{i=1}^{j} p_i
 $$

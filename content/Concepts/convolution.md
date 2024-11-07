@@ -1,6 +1,6 @@
 ---
 created: 2024-08-23
-modified: 2024-11-05
+modified: 2024-11-07
 parent:
   - "[[functions|function]]"
 publish: true
@@ -18,11 +18,11 @@ tags:
 > $$
 > (f * g)[n] := \sum_{i=-\infty}^\infty f[i] \cdot g[n - i]
 > $$
-## Visual Explanation
-Discrete convolution is often visualized as flipping one of the input signals (we call it the kernel or filter) and using it as [[weighted average|weights]] to compute a [[moving average|moving average]] over another signal.
-![[../assets/discrete_convolution_visualization.gif|400]]
-  Similarly, continuous convolution can be visualized by the "sliding windows" process.
-![[../assets/Convolution_of_box_signal_with_itself2.gif|Convolution_of_box_signal_with_itself2.gif]]
+
+## Subtopics
+- [[./visual explanation of convolution|visual explanation of convolution]]
+- [[convolution as smoothing|convolution as smoothing]]
+- [[./convolution theorem|convolution theorem]] - relation of convolution and Fourier-like transforms
 
 ## Properties of Convolution
 Convolution has several nice properties:
@@ -33,16 +33,9 @@ Convolution has several nice properties:
 - If $y(t) = f(t) * g(t)$, then $f(t - T) * g(t) = f(t) * g(t - T) = y(t - T)$ (time shift property)
 - If $f(t) * g(t) = y(t)$, $f(at) * g(at) = \left|\frac{1}{a}\right|\ y(at)$ ([[./time scaling property of convolution|time scaling property]])
  
-## Convolution Theorem
-> See: [[./convolution theorem|convolution theorem]]
-
-When transforming time-domain signals to [[./time and frequency domain|frequency domain]], convolution operation becomes multiplication and vice-versa
-- $\mathcal{L}\{ f * g \} = \mathcal{L}\{ f \} \mathcal{L}\{ g \}$ and $\mathcal{F}\{ f * g \} = \mathcal{F}\{ f \} \mathcal{L}\{ g \}$
-
 ## Applications
 Convolutions has various applications. For example:
 - [[./polynomial multiplication as convolution|multiplication of polynomials as convolution]]
-- [[convolution of probability distributions|sum of probability distributions as convolution]]
+- [[convolution of probability distributions|sum of probability distributions as convolution]] and the [[./central limit theorem|central limit theorem]]
 - convolution can be used to express the output of a [[./linear time-invariant system|linear time-invariant system]] when [[./zero-input response and zero-state response|zero-state response]] and input is given
-- Convolution is often used to define [[weighted average|weighted-average]] filters such as the [[Gaussian filtering|Gaussian filtering]]
-- Convolution with a [[rectangular function|rectangular pulse]] generate [[moving average|moving average]] (smoothing) of the original signal
+- Convolution is often used to express [[filter (signal processing)|filters]] such as the [[Gaussian filtering|Gaussian filtering]]

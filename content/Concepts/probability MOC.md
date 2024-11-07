@@ -11,18 +11,16 @@ tags:
 ---
 ## Basic Probability
 - [[event (probability)|event]]
-  - [[./independent events|independent events]]
-  - [[./mutually exclusive events|mutually exclusive events]]
 - [[./probability|probability]] (chance)
 - [[axioms of probability|axioms of probability]]
 - [[sample space|sample space]]
 - [[outcome|outcome]]
-
+- [[./independence|independence]]
 ## Random Variables
 - [[./random variable|random variables]]
 - [[./expectation|expectation]]
 - [[./variance|variance]]
-- [[independent random variables|independent random variables]]
+- [[./sum of random variables|sum of random variables]]
 
 ## Functions on Probability Distributions
 - [[./probability density function|PDF]] and [[./probability mass function|PMF]]

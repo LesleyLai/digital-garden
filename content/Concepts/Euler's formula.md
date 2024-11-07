@@ -86,7 +86,7 @@ $$
 &= \cos{(nx)} + i \sin{(nx)}
 \end{align}
 $$
-## Complex Frequency
+## Related
 - For $e^{st}$ where $s$ is a complex number given by $s = \sigma + i\omega$, we call $s$ as the [[./complex frequency|complex frequency]]
 
 

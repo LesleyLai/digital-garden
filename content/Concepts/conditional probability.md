@@ -27,8 +27,8 @@ The PDF of a conditional continuous distributions is
 $$
 f_{Y \mid X}(y \mid x)=\frac{f_{X, Y}(x, y)}{f_X(x)}
 $$
-where $f_{X, Y}(x, y)$ is the [[joint probability|joint density function]] and $f_X(x)$ is the [[./marginal probability|marginal density function]] of $X$.
+where $f_{X, Y}(x, y)$ is the [[joint probability|joint density function]] and $f_X(x)$ is the [[marginal probability|marginal density function]] of $X$.
 
 ## See also
-- [[independent random variables|independent random variables]]
+- [[./independence|independence]]
 - [[Bayes' theorem|Bayes' theorem]]
