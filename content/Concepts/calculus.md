@@ -33,6 +33,7 @@ title: Calculus MOC
   - [[./integration by parts|by parts]]
   - by using the [[./Euler's formula|Euler's formula]]
 - [[./numerical integration|numerical integration]]
+- [[contour integration|contour integration]]
 
 ## Series
 - [[./sequences|sequence]] and [[./series|series]]
