@@ -4,10 +4,9 @@ modified: 2024-03-14
 parent:
   - "[[./derivative|Differentiation]]"
 publish: true
-tags: 
+tags:
+  - "#math/calculus/differentiation"
 ---
-# Linearity of Derivative
-
 [[./derivative|Differentiation]] is an [[./linear transformation|linear operator]] of functions:
 $$
 \begin{aligned}

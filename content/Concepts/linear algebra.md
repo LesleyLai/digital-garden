@@ -2,7 +2,7 @@
 aliases:
   - "#math/LinearAlgebra"
 created: 2023-05-30
-modified: 2024-04-16
+modified: 2024-11-07
 parent:
   - "[[math|math]]"
 publish: true
@@ -17,6 +17,7 @@ Linear Algebra is the study of [[./vector space|vector spaces]] and the [[./line
 - [[./inner product|inner product]]
 - [[./norm|norm]]
 - [[./linear combination|linear combination]]
+- [[./vector projection|vector projection]]
 
 ## Linear System
 Main: [[./system of linear equation|system of linear equation]]

@@ -26,3 +26,6 @@ M_{Y}(t) &=\mathrm{E}\left[e^{t Y}\right]=\mathrm{E}\left[e^{t \sum X_{i}}\right
 \end{aligned}
 $$
 And we can get back a new distribution since moment generating functions uniquely determine distribution.
+
+## Related
+- [[bilateral Laplace transform|bilateral Laplace transform]]
