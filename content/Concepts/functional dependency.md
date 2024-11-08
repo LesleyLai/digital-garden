@@ -13,7 +13,7 @@ Informally, a function dependency $X \to Y$ is _when value of attribute X determ
 
 More formally, 
 > [!definition] Functional dependencies
-> given a [[./relation|relation]] $R$ and two set of attributes $X, Y \subseteq R$, we say "$X$ **functionally determines** $Y$" or if each $X$ value is associated with precisely one $Y$ value. 
+> given a [[relation (database)|relation]] $R$ and two set of attributes $X, Y \subseteq R$, we say "$X$ **functionally determines** $Y$" or if each $X$ value is associated with precisely one $Y$ value. 
 
 $R$ is then said to _satisfy_ the functional dependency $X \to Y$. In other word, the relationship $R$ between $X$ and $Y$ can be modelled using a [[function|function]] (many-to-one).
 
