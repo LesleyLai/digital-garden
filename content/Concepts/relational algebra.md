@@ -7,7 +7,7 @@ created: 2024-08-22
 modified: 2024-08-25
 publish: true
 ---
-**Relational algebra** is a set of *operators* to retrieve and manipulate [[tuple|tuples]] in a [[./relation|relation]]. Each operator takes in one or more relations as inputs, and outputs a new relation. To write queries we can “chain” these operators together to create more complex operations.
+**Relational algebra** is a set of *operators* to retrieve and manipulate [[tuple|tuples]] in a [[relation (database)|relation]]. Each operator takes in one or more relations as inputs, and outputs a new relation. To write queries we can “chain” these operators together to create more complex operations.
 
 Relational algebra describes a step-by-step procedure (i.e. describes the *how*) for computing the desired answer (imperative). This contrast with *[[tuple calculus|tuple calculus]]*, which is declarative.
 
