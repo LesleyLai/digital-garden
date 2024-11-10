@@ -5,7 +5,6 @@ publish: true
 tags:
   - math/definitions
 ---
-
 The *Kronecker delta* is a function of two variables. The function is 1 if the variables are equal, and 0 otherwise:
 $$
 \delta_{ij} = \begin{cases}
