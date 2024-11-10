@@ -9,7 +9,7 @@ publish: true
 ---
 Various graphics applications use different coordinate system conventions, such as [[./coordinate system handedness|handedness]] or y-up vs z-up.
 
-![[../assets/handedness.png|handedness.png]]
+![[../assets/handedness.webp|600]]
 
 ## Graphics APIs
 Different graphics APIs have different convention for their definition of the [[./normalized device coordinate|normalized device coordinate]].
