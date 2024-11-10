@@ -14,7 +14,7 @@ $$
 $$
 ## Multiply a Function by an Impulse
 When we multiply the unit impulse function $\delta(t)$ by a function $\phi(t)$ which is known to be continuous at $t = 0$. Since the impulse has nonzero value only at $t = 0$, we get $\phi(t) \delta(t) = \phi(0) \delta(t)$. We can view the result as another impulse located at $t = 0$ with strength $\phi(0)$.
-
+  
 ## Related
 - [[./Kronecker Delta|Kronecker Delta]]
 - [[./unit step function|unit step function]]
