@@ -29,7 +29,7 @@ That's my take. And it seems to solve a large numbers of concerns above
 - Can't easily take advantage of generic code (both the above two options do it somewhat)
 - using explicit functions looks quite ugly for basic math stuff
 
-### Fourth Option: Implicitly Convert a `simd<bool>` to `bool`
+## Fourth Option: Implicitly Convert a `simd<bool>` to `bool`
 IMO just horrible
 
 ## References
