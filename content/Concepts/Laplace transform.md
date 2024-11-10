@@ -6,7 +6,7 @@ tags:
   - math/DifferentialEquations
   - math/LaplaceTransform
 created: 2024-09-09
-modified: 2024-11-08
+modified: 2024-11-10
 generalizations:
   - "[[linear transformation|linear operator]]"
   - "[[integral transform|integral transform]]"
@@ -25,25 +25,25 @@ Where $f(t)$ is the original function in the time domain, and $F(s)$ is the tran
 
 > [!tip] not to be confused with the [[Lie derivative|Lie derivative]], which is also commonly denoted $\mathcal{L}$
 
-Note that the result of a Laplace transform includes not only the algebraic expression but also the [[region of convergence for Laplace Transform|region of convergence]] (ROC).
+Note that the result of a Laplace transform includes not only the algebraic expression but also the [[./region of convergence for Laplace transform|region of convergence]] (ROC).
 ## Subtopics
 - [[bilateral Laplace transform|bilateral Laplace transform]]
-- [[region of convergence for Laplace Transform|region of convergence]]
-- [[inverse Laplace transform|inverse Laplace transform]]
+- [[./region of convergence for Laplace transform|region of convergence]]
+- [[./inverse Laplace transform|inverse Laplace transform]]
 
 ## Definition
 
 The **unilateral Laplace transform** $\mathcal{L}$ is the most commonly used form of the Laplace transform and is typically what people refer to as "the" Laplace transform.
 $$
-F(s) = \mathcal{L}\{f(t)\} = \int_{t=0^-}^\infty e^{-st} f(t) \, dt
+F(s) = \mathcal{L}\{f(t)\} = \int_{t=\color{red} 0^-}^\infty e^{-st} f(t) \, dt
 $$
 where
 - $s = \sigma + i\omega$ is a complex variable (see [[./complex frequency|complex frequency]])
 - lower limit of integration is $0^-$ to ensure inclusion of [[./Dirac delta|impulse function]] at origin
 
-The unilateral Laplace transform is only appropriate for analyzing [[./causal system|causal systems]]. There is also a **[[bilateral Laplace transform|bilateral Laplace transform]]** defined as the following:
+The unilateral Laplace transform is only appropriate for analyzing [[./causal signal|causal signals]]. There is also a **[[bilateral Laplace transform|bilateral Laplace transform]]** defined as the following:
 $$
-F(s) = \mathcal{L}\{f(t)\} = \int_{t=-\infty}^\infty e^{-st} f(t) \, dt
+F(s) = \mathcal{L}\{f(t)\} = \int_{t=\color{red} -\infty}^\infty e^{-st} f(t) \, dt
 $$
 ## Properties
 Below are some of the properties of the _unilateral Laplace transform_. The properties of _[[bilateral Laplace transform|bilateral Laplace transform]]_ are similar, but there are some important differences.
@@ -98,7 +98,7 @@ Below are some of the properties of the _unilateral Laplace transform_. The prop
 ## Tables
 A table of several important unilateral Laplace transforms is given below.
 
-| Function                      | $f(t)$               | $F(s) = \mathcal{L}\{f(t)\}(s)$ | [[region of convergence for Laplace Transform\|Region of convergence]] |
+| Function                      | $f(t)$               | $F(s) = \mathcal{L}\{f(t)\}(s)$ | [[./region of convergence for Laplace transform\|Region of convergence]] |
 | :---------------------------- | -------------------- | ------------------------------- | ---------------------------------------------------------------------- |
 | constant                      | 1                    | $\frac{1}{s}$                   | $Re(s) > 0$                                                            |
 | linear                        | $t$                  | $\frac{1}{s^2}$                 | $Re(s) > 0$                                                            |
@@ -138,7 +138,7 @@ A table of several important unilateral Laplace transforms is given below.
 > \end{align}
 > $$
 ## Laplace Transform to Solve Differential Equation
-The Laplace transform is a powerful tool for solving differential equations. When applied to a differential equation, it typically converts the problem into an algebraic equation.
+The Laplace transform is a powerful tool for solving differential equations. When applied to a differential equation, it typically converts the problem into an algebraic equation that we can readily solve with algebra.
 
 > [!example]- Example: solve $y'' + y = \sin{2t},\ y(0) = 2,\ y'(0) = 1$
 > $$

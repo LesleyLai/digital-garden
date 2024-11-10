@@ -14,4 +14,5 @@ The [[./convergence of series|convergence]] of geometric series depends on the v
 - If $|x| \ge 1$, the geometric series diverges
 - If $|x| < 1$, the series converges to $\frac{1}{1-x}$
 
+## Related
 We can solve the infamous [[./0.999... = 1|0.999... = 1]] question by treating $0.999\dots$ as a geometric series.

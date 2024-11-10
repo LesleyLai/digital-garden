@@ -3,7 +3,7 @@ tags:
   - tools/obsidian
   - tools/quartz
 created: 2024-09-17
-modified: 2024-11-02
+modified: 2024-11-09
 publish: true
 ---
 Here are the changes I've made to my Quartz setup. While I can't promise to include everything or keep it constantly updated, this should give you a good idea of how I've customized this digital garden website.
@@ -213,3 +213,12 @@ See [commit here](https://github.com/LesleyLai/digital-garden/commit/37e787f18f8
 | Before                               | After                                |
 | ------------------------------------ | ------------------------------------ |
 | ![[../assets/Pasted image 20241102021027.png|Pasted image 20241102021027.png]] | ![[../assets/Pasted image 20241102021107.png|Pasted image 20241102021107.png]] |
+
+## Change Breakpoints Width
+`quartz/styles/variables.scss`
+```scss
+$breakpoints: (
+  mobile: 992px, // was 800
+  desktop: 1400px, // was 1200
+);
+```

@@ -16,7 +16,7 @@ publish: true
 A **sinusoid** or **sine wave** is a [[periodic function|periodic]] [[wave|wave]] whose shape is the trigonometric sine function.
 
 Sine wave is heavily related to [[circular motion|circular motions]]:
-![[../assets/sincos-circle.gif|sincos-circle.gif]]
+![[../assets/sincos-circle.gif|600]]
 
 A sinusoid has the following form:
 $$
