@@ -2,7 +2,7 @@
 parent:
   - "[[statistics|statistics]]"
 tags:
-  - statistics/HypothesisTesting
+  - math/statistics/HypothesisTesting
 aliases:
   - statistics/HypothesisTesting
   - hypothesis test
@@ -24,17 +24,21 @@ The usage of hypothesis testing and [[./p-value|p-value]] in particular is ubiqu
 ## Subtopics
 - [[null hypothesis|null hypothesis]] and [[alternative hypothesis|alternative hypothesis]]
 - [[test statistic|test statistic]]
+- [[one-tailed and two-tailed tests|one-tailed and two-tailed tests]]
 - [[./p-value|p-value]]
   - [[./problems of the p-value|problems of the p-value]]
 - [[Type I and type II errors|Type I and type II errors]]
 - [[./confidence interval|confidence interval]]
 - [[statistical power|power]]
 - [[degrees of freedom (statistics)|degree of freedom]]
+- [[hypothesis testing in R|hypothesis testing in R]]
 
 ## Test Methods
-- [[Z-test|Z-test]]
-- [[Student's t-test|Student's t-test]]
+- [[./Z-test|Z-test]]
+- [[Student's T-test|Student's T-test]]
 - [[Chi-squared test|Chi-squared test]]
+  - [[Yates' continuity correction|Yates' continuity correction]]
+- [[Binomial test|Binomial test]]
 
 ## Steps
 When perform hypothesis testing, we typically have the following steps:
