@@ -8,7 +8,7 @@ parent:
   - "[[correlation|correlation]]"
 publish: true
 tags:
-  - statistics/correlation
+  - math/statistics/correlation
 ---
 the **Pearson correlation coefficient**, also known as _Pearson's r_, is a correlation coefficient that measures **linear correlation** between two sets of data. [^1]
 
