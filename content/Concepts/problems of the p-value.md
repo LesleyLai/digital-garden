@@ -2,7 +2,7 @@
 parent:
   - "[[./p-value|p-values]]"
 tags:
-  - statistics/HypothesisTesting
+  - math/statistics/HypothesisTesting
 created: 2024-10-15
 modified: 2024-11-01
 publish: true
