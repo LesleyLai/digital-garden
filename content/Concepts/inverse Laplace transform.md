@@ -67,6 +67,6 @@ By contrast, for a **bilateral Laplace transform**, the inverse Laplace transfor
 > For the pole at $2$, we either have a function $e^{2t}u(t)$ if $Re(s) > 2$ or $-e^{2t} u(-t)$ otherwise.
 >
 > Thus, we have three possible functions
-> - $e^{-2t}u(t) + e^{2t}u(t)$ if $Re{s} > 2$
-> - $e^{-2t}u(t) - e^{2t}u(-t)$ if $-2 < Re{s} < 2$
-> - $-e^{-2t}u(-t) - e^{2t}u(-t)$ if $Re{s} < -2$
+> - $e^{-2t}u(t) + e^{2t}u(t)$ if $Re\{s\} > 2$
+> - $e^{-2t}u(t) - e^{2t}u(-t)$ if $-2 < Re\{s\} < 2$
+> - $-e^{-2t}u(-t) - e^{2t}u(-t)$ if $Re\{s\} < -2$
