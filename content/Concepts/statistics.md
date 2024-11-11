@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "#statistics"
+  - "#math/statistics"
 created: 2024-07-29
 modified: 2024-10-28
 parent:
@@ -8,7 +8,7 @@ parent:
   - "[[computing|computing]]"
 publish: true
 tags:
-  - statistics
+  - math/statistics
 title: Statistics MOC
 ---
 - [[./numerical summaries of data|numerical summaries of data]]
