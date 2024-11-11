@@ -8,7 +8,7 @@ publish: true
 tags:
   - math/probability
   - signal/sampling
-  - statistics/sampling
+  - math/statistics/sampling
 ---
 - [[stratified sampling|stratified sampling]]
 - [[./importance sampling|importance sampling]]
