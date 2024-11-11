@@ -19,6 +19,7 @@ aliases:
   - [[./R vectors|R Vectors]]
   - [[./R data frames|R data frames]]
 - [[./probability distributions in R|probability distributions in R]]
+- [[hypothesis testing in R|hypothesis testing in R]]
 
 ## Packages
 - [[./tidyverse|tidyverse]] ([[ggplot2|ggplot2]])
