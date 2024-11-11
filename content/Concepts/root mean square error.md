@@ -2,7 +2,7 @@
 parent:
   - "[[numerical summaries of data|numerical summaries of data]]"
 tags:
-  - statistics
+  - math/statistics
 created: 2024-08-28
 modified: 2024-09-25
 aliases:
