@@ -9,7 +9,7 @@ parent:
   - "[[questionable cause|questionable cause]]"
 publish: true
 tags:
-  - statistics/correlation
+  - math/statistics/correlation
   - "#logic/fallacies"
 ---
 The [[./correlation|correlation]] between A and B could indicate various relationships: A causing B, [[reverse causation|B causing A]], [[spurious correlation|both A and B being influenced by C, or it could simply be a coincidence]]. Causation also [[bidirectional causation|doesn't necessarily flow in one direction]].
