@@ -3,7 +3,7 @@ parent:
   - "[[./correlation|correlation]]"
   - "[[biases in statistics|biases in statistics]]"
 tags:
-  - "#statistics/correlation"
+  - "#math/statistics/correlation"
 created: 2024-09-13
 modified: 2024-09-13
 aliases:
