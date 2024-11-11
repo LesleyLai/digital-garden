@@ -5,7 +5,7 @@ publish: true
 tags:
   - math/probability
   - math/definitions
-  - statistics
+  - math/statistics
 ---
 In probability and statistics, **variance** measure "how far are the samples from average, on average." It can be defined in term of [[./expectation|expectation]]:
 
