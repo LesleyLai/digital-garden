@@ -2,7 +2,7 @@
 parent:
   - "[[data visualization plots|data visualization plots]]"
 tags:
-  - statistics/dataviz
+  - math/statistics/dataviz
 created: 2024-09-23
 modified: 2024-09-23
 publish: true
