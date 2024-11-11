@@ -2,8 +2,8 @@
 parent:
   - "[[biases in statistics|biases in statistics]]"
 tags:
-  - statistics/HypothesisTesting
-  - statistics/bias
+  - math/statistics/HypothesisTesting
+  - math/statistics/bias
 created: 2024-11-01
 modified: 2024-11-01
 publish: true

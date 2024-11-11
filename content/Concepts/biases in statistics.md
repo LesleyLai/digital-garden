@@ -10,7 +10,7 @@ parent:
   - "[[logical fallacies|logical fallacy]]"
 publish: true
 tags:
-  - statistics/bias
+  - math/statistics/bias
   - math/probability
 title: Bias and Fallacies in Statistics and Probability
 ---

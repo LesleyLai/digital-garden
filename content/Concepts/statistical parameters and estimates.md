@@ -2,7 +2,7 @@
 parent:
   - "[[numerical summaries of data|numerical summaries of data]]"
 tags:
-  - statistics
+  - math/statistics
 aliases:
   - statistical parameter
   - statistic

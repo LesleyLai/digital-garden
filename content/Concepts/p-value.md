@@ -2,7 +2,7 @@
 parent:
   - "[[hypothesis testing|hypothesis testing]]"
 tags:
-  - statistics/HypothesisTesting
+  - math/statistics/HypothesisTesting
 aliases:
   - statistical significance
 created: 2024-10-18

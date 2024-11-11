@@ -2,7 +2,7 @@
 parent:
   - "[[statistics|statistics]]"
 tags:
-  - statistics
+  - math/statistics
 aliases:
   - population
 created: 2024-10-07

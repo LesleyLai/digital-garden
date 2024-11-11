@@ -63,7 +63,7 @@ For non-casual signals, we must use bilateral Laplace transform, and the ROC can
 > & =\frac{2}{1-s^2} ; \qquad-1<\operatorname{Re}(s)<1
 > \end{align}
 > $$
-> ![[../assets/Pasted image 20241110173550.webp|169]]
+> ![[../assets/Laplace ROC example 4.webp|169]]
 
 ## Relationship with Poles
 see also: [[poles and zeros in the S-Plane|poles and zeros in the S-Plane]]

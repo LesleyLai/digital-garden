@@ -2,7 +2,7 @@
 parent:
   - "[[./computing|computing]]"
 tags:
-  - statistics
+  - math/statistics
   - MOC
 created: 2024-09-26
 modified: 2024-09-26

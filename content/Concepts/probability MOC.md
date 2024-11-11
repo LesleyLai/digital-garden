@@ -33,7 +33,7 @@ See [[joint probability|joint probability]] and [[marginal probability|marginal 
 
 ## Conditional Probability
 See [[./conditional probability|conditional probability]]
-- [[Bayes' theorem|Bayes' theorem]]
+- [[./Bayes' theorem|Bayes' theorem]]
 - [[law of total probability|law of total probability]]
 ## Distributions
 ### Discrete
@@ -53,7 +53,6 @@ See [[./conditional probability|conditional probability]]
 - [[./sampling (signal processing)|sampling (signal processing)]]
 - [[estimator|estimator]]
 - [[bias of an estimator|bias of an estimator]]
-- [[sample mean and variance|sample mean and variance]]
 - [[./central limit theorem|central limit theorem]]
 - [[./confidence interval|confidence interval]]
 - [[./law of large numbers|law of large numbers]]

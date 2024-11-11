@@ -2,7 +2,7 @@
 parent:
   - "[[statistics|statistics]]"
 tags:
-  - statistics/dataCollection
+  - math/statistics/dataCollection
 created: 2024-10-28
 modified: 2024-10-28
 publish: true

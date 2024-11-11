@@ -2,7 +2,7 @@
 parent:
   - "[[biases in statistics|biases in statistics]]"
 tags:
-  - statistics
+  - math/statistics
 created: 2024-08-25
 modified: 2024-10-09
 publish: true
