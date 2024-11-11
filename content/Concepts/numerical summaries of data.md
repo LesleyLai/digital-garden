@@ -5,7 +5,7 @@ parent:
   - "[[statistics|statistics]]"
 publish: true
 tags:
-  - statistics
+  - math/statistics
 ---
 A numerical summary reduces all the data to simple numbers. This loses a lot of information. However, it allows for easy communication and comparisons.
 
@@ -27,5 +27,5 @@ See: [[./correlation|correlation]]
 - [[./confidence interval|confidence interval]]
 
 ## Hypothesis Test
-- [[p-value|p-value]]
+- [[./p-value|p-value]]
 - [[test statistic|test statistic]]
