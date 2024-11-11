@@ -2,10 +2,10 @@
 parent:
   - "[[numerical summaries of data|numerical summaries of data]]"
 tags:
-  - statistics/correlation
+  - math/statistics/correlation
 aliases:
   - correlation coefficient
-  - "#statistics/correlation"
+  - "#math/statistics/correlation"
 created: 2024-10-04
 modified: 2024-10-05
 publish: true
