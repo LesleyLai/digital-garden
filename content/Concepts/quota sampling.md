@@ -2,7 +2,7 @@
 parent:
   - "[[sampling (statistics)|sampling]]"
 tags:
-  - statistics/sampling
+  - math/statistics/sampling
 created: 2024-10-09
 modified: 2024-10-09
 publish: true
