@@ -5,7 +5,7 @@ parent:
   - "[[statistics|statistics]]"
 publish: true
 tags:
-  - "#statistics/dataCollection"
+  - "#math/statistics/dataCollection"
 ---
 
 # Observational Study
