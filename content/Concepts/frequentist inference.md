@@ -2,12 +2,12 @@
 parent:
   - "[[statistics|statistics]]"
 tags:
-  - statistics/frequentist
+  - math/statistics/frequentist
 created: 2024-09-26
 modified: 2024-09-26
 publish: true
 aliases:
-  - "#statistics/frequentist"
+  - "#math/statistics/frequentist"
 ---
 **Frequentist inference** involves using observed [[sampling (statistics)|data samples]] to infer properties of an underlying [[./statistical population|population]].
 
