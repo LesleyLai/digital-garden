@@ -21,7 +21,7 @@ title: Programming Language Design MOC
 - [[./distinct types|distinct types]]
 - [[./implicit parameters|implicit parameters]]
 - [[./geometry type system|geometry type system]]
-- [[../Fleeting/variadic functions|variadic functions]]
+- [[./variadic functions|variadic functions]]
 
 ### Performance
 - [[./tail call|tail call optimization]]
@@ -39,5 +39,6 @@ title: Programming Language Design MOC
 
 ## Thoughts
 - [[../Writings/on viral annotations|on viral annotations]]
-- [[../Writings/On language features that encourages bad practices|On language features that "encourages bad practices"]]
+- [[On language features that encourages bad practices|On language features that "encourages bad practices"]]
 - [[../Writings/On access control|On access control]]
+- [[./0-index vs 1-index|0-index vs 1-index]]
