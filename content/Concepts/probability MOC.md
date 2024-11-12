@@ -19,7 +19,7 @@ tags:
 ## Random Variables
 - [[./random variable|random variables]]
 - [[./expectation|expectation]]
-- [[./variance|variance]]
+- [[./variance and standard deviation|variance and standard deviation]]
 - [[./sum of random variables|sum of random variables]]
 
 ## Functions on Probability Distributions
