@@ -9,7 +9,7 @@ tags:
 ---
 By the [[./central limit theorem|central limit theorem]], the sampling distribution of averages or proportions from a large number of independent trials approximately follows the [[./normal distribution|normal distribution]]. The expectation of a [[sampling (statistics)|sample]] proportion or average is the corresponding [[./statistical population|population]] value.
 
-The [[standard deviation|standard deviation]] of the sample mean is the [[./standard error|standard error]]:
+The [[./variance and standard deviation|variance]] of the sample mean is the [[./standard error|standard error]]:
 $$
 \sigma_{x} = \frac{\text{population standard deviation}}{\sqrt{ n }} = \frac{\sigma}{\sqrt{ n }}
 $$
