@@ -19,7 +19,7 @@ parent:
 ## Concepts
 - [[./aliasing|aliasing]]
 - [[./sample reconstruction|reconstruction]]
-- [[./variance|variance]]
+- [[./variance and standard deviation|variance]]
 
 ## Related
 - [[sampling (statistics)|sampling (statistics)]]
