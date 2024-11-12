@@ -21,7 +21,7 @@ the **Pearson correlation coefficient**, also known as _Pearson's r_, is a corr
 >$$
 >where
 > - $\text{Cov}[X, Y]$ is the [[covariance|covariance]] between $X$ and $Y$
-> - $\text{stdev}[X]$ and $\text{stdev}[Y]$ are the [[standard deviation|standard deviation]] of $X$ and $Y$
+> - $\text{stdev}[X]$ and $\text{stdev}[Y]$ are the [[./variance and standard deviation|variance]] of $X$ and $Y$
 
 Note that the above ratio is only well-defined when $\text{stdev}[X]$ and $\text{stdev}[Y]$ are both greater than zero. However, it is often assumed that the correlation is 0 when one of the standard deviations is 0 (in which case $Cov[X, Y]$ will also be zero).
 
