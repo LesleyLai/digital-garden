@@ -13,7 +13,7 @@ Depending on whether we are referring to a population or a sample, these numbers
 
 Major features that we can use include:
 - center: [[mean|mean]] and [[median|median]]
-- spread: [[./variance|variance]] and [[standard deviation|standard deviation]]
+- spread: [[./variance and standard deviation|variance and standard deviation]]
 - [[quantile|quantile]] beside median: [[percentile|percentile]]
 
 ## Correlation
