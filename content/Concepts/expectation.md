@@ -9,6 +9,8 @@ parent:
 created: 2023-05-30
 modified: 2024-10-07
 publish: true
+specializations:
+  - "[[mean|mean]]"
 ---
 The **expectation** of a function $f(x)$ with respect to a probability distribution $p(x)$ is denoted as $E_p[f(x)]$. It represents the [[weighted average|weighted average]] value of $f(x)$ over the distribution $p(x)$. Often, the subscript $p$ is omitted when the distribution is clear from context.
 

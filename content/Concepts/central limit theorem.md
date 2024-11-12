@@ -16,7 +16,7 @@ The **central limit theorem** states that the sum of N [[iid|iid]] random variab
 > $$\lim_{N \rightarrow \infty}P(a < \frac{\sum_{1}^N X_{N} - N \cdot \mu}{\sigma \cdot \sqrt{ N }} < b) = \int_a^b \frac{1}{\sqrt{2 \pi}} e^{-x^2 / 2} d x$$
 > under the assumptions that
 > 1. Each $X_i$ is [[./independent and identically distributed random variables|iid]] (independent and from the same distribution)
-> 2. The [[./variance|variance]] is finite $0 < Var[X_i] < \infty$ [^1]
+> 2. The [[./variance and standard deviation|variance]] is finite $0 < Var[X_i] < \infty$ [^1]
 
 As a result of the central limit theorem, we can [[./normal approximation|approximate discrete distributions as a normal distribution]].
 

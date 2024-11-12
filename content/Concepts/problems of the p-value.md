@@ -36,7 +36,7 @@ A commonly cited example is a study on aspirin. The study has a sample size of m
 ### Overemphasis on Dichotomous Decision-Making
 > related: [[./binary thinking|binary thinking]]
 
-Reliance on p-values often encourages a binary mindset of either "rejecting" or "retaining" the null hypothesis, based on arbitrary thresholds like $0.05$. This approach is prone to [[Type I and type II errors|both hyped claims (false positives) and dismissal of real effects (false negatives)]].
+Reliance on p-values often encourages a binary mindset of either "rejecting" or "retaining" the null hypothesis, based on arbitrary thresholds like $0.05$. This approach is prone to [[type I and type II errors|both hyped claims (false positives) and dismissal of real effects (false negatives)]].
 
 Instead, some researchers think that the p-value should be interpreted as a continuous variable rather than in a dichotomous way. They also propose reconceptualizing [[./confidence interval|confidence intervals]] as "compatibility intervals." [^4]
 
