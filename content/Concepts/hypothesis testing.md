@@ -8,7 +8,7 @@ aliases:
   - hypothesis test
   - statistical hypothesis test
 created: 2024-10-07
-modified: 2024-10-23
+modified: 2024-11-12
 publish: true
 alias: 
 ---
@@ -27,18 +27,24 @@ The usage of hypothesis testing and [[./p-value|p-value]] in particular is ubiqu
 - [[one-tailed and two-tailed tests|one-tailed and two-tailed tests]]
 - [[./p-value|p-value]]
   - [[./problems of the p-value|problems of the p-value]]
-- [[Type I and type II errors|Type I and type II errors]]
+- [[type I and type II errors|type I and type II errors]]
 - [[./confidence interval|confidence interval]]
 - [[statistical power|power]]
 - [[degrees of freedom (statistics)|degree of freedom]]
 - [[hypothesis testing in R|hypothesis testing in R]]
 
 ## Test Methods
-- [[./Z-test|Z-test]]
-- [[Student's T-test|Student's T-test]]
-- [[Chi-squared test|Chi-squared test]]
+### Quantitative Variables
+- [[./Z-test|Z-test]] - approximate quantitative variables with normal distribution
+- [[./Student's T-test|Student's T-test]] - approximate quantitative variables with t-distribution
+### Qualitative Variables
+- [[Binomial test|Binomial test]] and [[./Z-test#One Sample Proportion Test|Z-test for proportion]] - tests success probability in binary outcome experiments
+- [[Chi-squared test|Chi-squared test]] - tests goodness-to-fit or independence for categorical data
   - [[Yates' continuity correction|Yates' continuity correction]]
-- [[Binomial test|Binomial test]]
+
+### Assumptions Tests
+- [[./Shapiro-Wilk Test|Shapiro-Wilk Test]] - check the normality assumption
+- [[Levene's test|Levene's T test]] - tests equality of variances between two populations
 
 ## Steps
 When perform hypothesis testing, we typically have the following steps:
