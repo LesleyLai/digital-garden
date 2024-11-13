@@ -7,7 +7,7 @@ aliases:
   - T-test
   - paired T-test
 created: 2024-10-10
-modified: 2024-11-12
+modified: 2024-11-13
 publish: true
 ---
 The **T-test** allows us to investigate differences in [[mean|means]], either between groups or compared to a pre-specified amount.
@@ -62,7 +62,7 @@ The [[degrees of freedom (statistics)|degrees of freedom]] of two-sample T-test 
 Here are the check for various assumptions in different flavor of T-tests:
 - **independence**: There is no direct statistical test to verify independence. We need to reason about the experiment design and data collection.
 - **equal spread (variance)**
-  - We can visualize with [[./boxplot|boxplot]] or [[histogram|histogram]]
+  - We can visualize with (comparative) [[./boxplot|boxplot]] or [[histogram|histogram]]
   - We can use a statistical test like the [[Levene's test|Levene's test]] to compute variance
   - If the assumption is not met, we can use the [[Welch's t-test|Welch's t-test]]
 - **normality**
