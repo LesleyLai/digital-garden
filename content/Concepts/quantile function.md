@@ -13,7 +13,7 @@ aliases:
   - inverse cumulative distribution function
   - inverse distribution function
 ---
-the **quantile function** (after [[quantile|quantile]]) outputs the value of a [[./random variable|random variable]] such that its probability is less than or equal to an input probability value. It can be view as the inverse of the [[./cumulative distribution function|cumulative distribution function]].
+the **quantile function** outputs the value of a [[./random variable|random variable]] such that its probability is less than or equal to an input probability value. It can be view as the inverse of the [[./cumulative distribution function|cumulative distribution function]].
 
 It is also called the **percentile function** (after [[percentile|percentile]]), **percent-point function**, **inverse cumulative distribution function** or **inverse distribution function**.
 
