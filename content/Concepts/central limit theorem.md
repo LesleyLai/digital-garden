@@ -1,6 +1,6 @@
 ---
 created: 2023-05-30
-modified: 2024-11-07
+modified: 2024-11-13
 parent:
   - "[[probability MOC|probability MOC]]"
 publish: true
@@ -31,4 +31,4 @@ An intuitive explanation of the central limit theorem is that [[./sum of random 
 ## References
 - [[But what is the Central Limit Theorem|But what is the Central Limit Theorem]]
 
-[^1]: In certain continuous distributions, the variance can diverge into infinity
+[^1]: In certain continuous distributions (e.g. a [[./Student's t-distribution|t-distribution]] with 2 [[degrees of freedom (statistics)|DOF]]), the variance can diverge into infinity
