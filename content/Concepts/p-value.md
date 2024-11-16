@@ -24,7 +24,7 @@ The misinterpretation and misuse of p-value and statistical significance is comm
 The calculation method of p-value depends on the _type_ of statistical test being performed. The process involves a comparison of a [[test statistic|test statistic]] $t$ against the [[./cumulative distribution function|CDF]] of a probability distribution $T$ (decided by the type of the statistical test).
 - $p = \Pr(T \geq t \mid H_0)$ for a one-sided right-tail test-statistic distribution (when testing for a value greater than a threshold)
 - $p = \Pr(T \leq t \mid H_0)$ for a one-sided left-tail test-statistic distribution (when testing for a value less than a threshold)
-- $p = 2\min\{\Pr(T \geq t \mid H_0),\Pr(T \leq t \mid H_0)\}$ for a two-sided test-statistic distribution. If the distribution of $T$ is symmetric about zero, then $p = \Pr(|T| \geq |t| \mid H_0).$ [^2]
+- $p = 2 \cdot \min\{\Pr(T \geq t \mid H_0),\ \Pr(T \leq t \mid H_0)\}$ for a two-sided test-statistic distribution. If the distribution of $T$ is symmetric about zero, then $p = \Pr(|T| \geq |t| \mid H_0).$ [^2]
 
 ## Related
 - [[./confidence interval|confidence interval]]
