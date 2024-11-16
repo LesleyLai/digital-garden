@@ -9,16 +9,14 @@ tags:
 aliases:
   - propositions
 ---
-# Proposition
-
-A **proposition** is a thing that can be true or false. In contrast, a nonproposition cannot be answered with true or false. [[premise|Premises]] and conclusions are propositions.
+A **proposition** is a thing that can be true or false. In contrast, a non-proposition cannot be answered with true or false. [[premise|Premises]] and conclusions are propositions.
 
 Example of a proposition:
 - Snow is white
 - Snow is green
 - I am hungry.
 
-Example of a nonproposition:
+Example of a non-proposition:
 - Ouch!
 - Hello.
 - Open the door!
