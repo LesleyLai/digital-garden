@@ -7,7 +7,6 @@ tags:
   - "#math/definitions"
 ---
 
-# Group
 > [!definition]
 > A group is a pair $(G, *)$ consisting a set $G$ and a binary operation $*$ of $G$ such that
 >   - G has an *identity element*, usually denoted $1_G$ or just 1, with the property that

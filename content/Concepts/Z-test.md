@@ -25,7 +25,7 @@ The sample size also needs to be large enough (e.g. $n > 30$) (see [[./central l
 ## One Sample Proportion Test
 A proportion test determine if the proportion of a certain outcome in a sample differs significantly from an expected proportion. We can either use [[Binomial test|Binomial test]], which is more accurate, especially for small sample size, or z-test (which is a normal approximation)
 
-For the z-test, the [[test statistic|test statistic]] is
+The [[test statistic|test statistic]] is
 $$
 z= \frac{\hat{p}-p_0}{\text{standard error}} = \frac{\hat{p}-p_0}{\sqrt{\frac{p_0(1-p_0)}{n}}}
 $$
@@ -51,7 +51,7 @@ where
 
 ## Z-Test for Mean
 
-To perform a Z-test for a population mean, the population standard deviation must be known from a prior large-sample study. Unlike tests for proportions, it is impossible to calculate the population standard deviation directly. In practice, this information on population mean is often unavailable, and [[Student's T-test|Student's T-test]] is often a better alternative.
+To perform a Z-test for a population mean, the population standard deviation must be known from a prior large-sample study. Unlike tests for proportions, it is impossible to calculate the population standard deviation directly. In practice, this information on population mean is often unavailable, and [[./Student's T-test|Student's T-test]] is often a better alternative.
 
 The [[test statistic|test statistic]] is very similar to the test-statistic of the proportion test, though we need to know the population standard deviation:
 $$
@@ -64,7 +64,7 @@ where
 
 ## See Also
 - [[Binomial test|Binomial test]] is more accurate to test proportion for small sample sizes
-- [[Student's T-test|Student's T-test]] is more appropriate for testing mean when the population standard deviation is not known or when the sample size is small
+- [[./Student's T-test|Student's T-test]] is more appropriate for testing mean when the population standard deviation is not known or when the sample size is small
 - [[./problems of the p-value|problems of the p-value]]
 
 [^1]: [S.6 Test of Proportion | STAT ONLINE](https://online.stat.psu.edu/statprogram/reviews/statistical-concepts/proportions)

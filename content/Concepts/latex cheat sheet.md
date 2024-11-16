@@ -32,7 +32,7 @@ parent:
 ## Logic
 | Symbol    | Name                                                          | Latex              | Obsidian shortcut |
 | --------- | ------------------------------------------------------------- | ------------------ | ----------------- |
-| $\vdash$  | [[./entailment and provability\|Entail]], Proves                                | `\vdash`           |                   |
+| $\vdash$  | [[./entailment and provability\|Entail]], Proves                | `\vdash`           |                   |
 | $\vDash$  |                                                               | `\vDash`           |                   |
 | $\models$ |                                                               | `\models`          |                   |
 | $\wedge$  | [[./exterior product\|Wedge]] (or [[conjunction\|logical and]]) | `\wedge` or `land` |                   |

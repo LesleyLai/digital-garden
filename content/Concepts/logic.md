@@ -57,6 +57,10 @@ See [[./formal system|formal system]], [[./proof system|proof system]]
 ### For Arguments
 - [[./validity (disambiguous)|validity]] and [[./deductive soundness|soundness]]
 
+
+## Principles
+- [[./principle of explosion|principle of explosion]]
+
 ## Types of Reasoning
 - [[./deductive reasoning|deductive reasoning]]
 - [[./inductive reasoning|inductive reasoning]]

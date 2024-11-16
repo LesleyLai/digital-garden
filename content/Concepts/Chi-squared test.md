@@ -54,4 +54,4 @@ The [[degrees of freedom (statistics)|degrees of freedom]] for the $\chi^2$ dist
 
 [[Ronald Fisher|Ronald Fisher]] used the $\chi^2$ tests for independence to claim that some of [[Gregor Mendel|Gregor Mendel]]'s data may be too perfect to be realistic. Despite this, Fisher holds very high regard of Mendel and didn't think he was guilty of data manipulation [^1].
 
-[^1]: [tankona.free.fr/franklin08.pdf](http://tankona.free.fr/franklin08.pdf)
+[^1]: [Ending the Mendel-Fisher Controversy](https://www.jstor.org/stable/j.ctv10tq47g)
