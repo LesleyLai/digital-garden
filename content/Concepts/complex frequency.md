@@ -1,7 +1,7 @@
 ---
 tags:
   - math/complex
-  - signal
+  - math/signal
 aliases:
   - complex frequency
   - complex frequency plane
@@ -51,7 +51,7 @@ Here are some examples:
 ![[../assets/complex frequency examples.png|complex frequency examples.png]]
 
 ## Related
-- [[Laplace transform|Laplace transform]] - transform a signal from [[./time and frequency domain|time domain]] into the complex frequency domain
+- [[./Laplace transform|Laplace transform]] - transform a signal from [[./time and frequency domain|time domain]] into the complex frequency domain
 
 ## Reference
 - Linear Systems and Signals, 3rd Edition, Chapter 1.3
