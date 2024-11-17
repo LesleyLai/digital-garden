@@ -2,7 +2,7 @@
 parent:
   - "[[signal|signal]]"
 tags:
-  - signal
+  - math/signal
 created: 2024-11-10
 modified: 2024-11-10
 publish: true
