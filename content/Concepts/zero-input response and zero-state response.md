@@ -2,7 +2,7 @@
 parent:
   - "[[./linear system|linear system]]"
 tags:
-  - signal/systems
+  - math/signal/systems
 created: 2024-08-29
 modified: 2024-10-09
 aliases:
