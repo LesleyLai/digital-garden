@@ -36,7 +36,7 @@ The accuracy of the Fourier series approximation depends significantly on the na
 
 On the other hand, functions with sharp changes (e.g. [[types of discontinuities in functions|jump discontinuity]]) have their amplitude spectra decay much more slowly. And as a result, they require many high frequency components to approximate well.
 
-![[../assets/Fourier approximation.png|300]]
+![[../assets/Fourier approximation.png|425]]
 
 ## Trigonometric Form
 
@@ -66,7 +66,7 @@ We often refer to the cosine terms as the "even part" and the sine terms as the 
 > 2. Lowercase letters $a_n$ and $b_n$ may be used instead of $A_n$ and $B_n$.
 > 3. $A_0$ is sometimes defined as $\frac{1}{T}\int_{0}^T f(x)dx$ to avoid dividing by 2 in the main series.
 > 4. The integration limits may be from $-\frac{T}{2}$ to $\frac{T}{2}$ rather than from $0$ to $T$.
-> 5. The [[angular frequency|angular frequency]] $\omega = \frac{2\pi}{T}$ may be used for simplification.
+> 5. The [[./angular frequency|angular frequency]] $\omega = \frac{2\pi}{T}$ may be used for simplification.
 >
 > An equivalent formulation incorporating some of these variations is:
 > $$
@@ -75,9 +75,9 @@ We often refer to the cosine terms as the "even part" and the sine terms as the 
 > where
 > $$
 > \begin{align}
-> a_0 &= \frac{1}{T} \int_{x = -\frac{T}{2}}^{\frac{T}{2}} f(t) dt \\
-> a_n &= \frac{2}{T}\int_{x = -\frac{T}{2}}^{\frac{T}{2}} f(t) \cos{\left( n \omega x\right)}dt \\
-> a_n &= \frac{2}{T}\int_{x = -\frac{T}{2}}^{\frac{T}{2}} f(t) \sin{\left( n \omega x\right)}dt
+> a_0 &= \frac{1}{T} \int_{t = -\frac{T}{2}}^{\frac{T}{2}} f(t) dt \\
+> a_n &= \frac{2}{T}\int_{t = -\frac{T}{2}}^{\frac{T}{2}} f(t) \cos{\left( n \omega t\right)}dt \\
+> a_n &= \frac{2}{T}\int_{t = -\frac{T}{2}}^{\frac{T}{2}} f(t) \sin{\left( n \omega t\right)}dt
 > \end{align}
 > $$
 
@@ -110,14 +110,15 @@ One of the great advantage of the compact exponential form of the Fourier series
 
 Consider a single term in the Fourier series: $D_n e^{i2\pi\frac{n}{T}x}$:
 - the Fourier coefficient $D_n$ is the radius of the circle
-- the term $2\pi\frac{n}{T}$ is the [[angular frequency|angular frequency]] of the circular motion
+- the term $2\pi\frac{n}{T}$ is the [[./angular frequency|angular frequency]] of the circular motion
 - As $x$ increase, the term $e^{i2\pi\frac{n}{T}x}$ causes a rotation in the complex plane. Positive $n$ values result in counterclockwise rotation, while negative $n$ values lead to clockwise rotation.
 
-![[../assets/complex Fourier series.png|complex Fourier series.png]]
+![[../assets/complex Fourier series.png|800]]
 
 ## Subtopics
 - [[./intuition for Fourier coefficients|intuition for Fourier coefficients]] - where do those Fourier coefficients come from
 - [[./Gibbs phenomenon|Gibbs phenomenon]] - Behavior of the partial sum of a Fourier series on discontinuity
+- [[./Parseval’s Theorem|Parseval’s Theorem]] - Related signal power of a periodic signal to its Fourier coefficients
 
 [^1]: [Purrier Series (Meow) and Making Images Speak – Bilim Ne Güzel Lan](https://bilimneguzellan.net/en/purrier-series-meow-and-making-images-speak/)
 [^2]: [3blue1brown - But what is a Fourier series? From heat flow to circle drawings](https://www.3blue1brown.com/lessons/fourier-series)
