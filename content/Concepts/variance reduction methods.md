@@ -7,7 +7,7 @@ parent:
 publish: true
 tags:
   - math/probability
-  - signal/sampling
+  - math/signal/sampling
   - math/statistics/sampling
 ---
 - [[stratified sampling|stratified sampling]]
