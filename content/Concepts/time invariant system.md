@@ -5,7 +5,7 @@ parent:
   - "[[systems|system]]"
 publish: true
 tags:
-  - signal/systems
+  - math/signal/systems
 specializations:
   - "[[./linear time-invariant system|linear time-invariant system]]"
 aliases:
