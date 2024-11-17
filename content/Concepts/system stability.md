@@ -2,7 +2,7 @@
 parent:
   - "[[systems|system]]"
 tags:
-  - signal/systems
+  - math/signal/systems
 aliases:
   - BIBO stability
   - BIBO stable
