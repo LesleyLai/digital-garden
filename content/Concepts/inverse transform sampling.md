@@ -7,7 +7,7 @@ parent:
   - "[[sampling (signal processing)|sampling]]"
 publish: true
 tags:
-  - signal/sampling
+  - math/signal/sampling
   - math/probability
 ---
 **Inverse transform sampling** can be used to transform samples from the [[uniform distribution|uniform distribution]] to another by inverting the target distribution’s [[./cumulative distribution function|CDF]] (a.k.a. computing the [[./quantile function|quantile function]]). It is one of the most important techniques to generate samples from a distribution.
