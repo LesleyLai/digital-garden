@@ -1,12 +1,12 @@
 ---
 aliases:
-  - "#signal/sampling"
+  - "#math/signal/sampling"
   - sampling
 created: 2023-05-30
 modified: 2024-10-24
 publish: true
 tags:
-  - signal/sampling
+  - math/signal/sampling
   - math/probability
   - MOC
 parent:
