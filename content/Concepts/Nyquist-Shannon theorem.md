@@ -6,7 +6,7 @@ created: 2023-05-30
 modified: 2024-10-28
 publish: true
 tags:
-  - signal/sampling
+  - math/signal/sampling
 ---
 The **Nyquist-Shannon sampling theorem** states that a [[bandlimiting|band-limited]] [[./signal|signal]] (has no frequencies above some threshold $f_0$) can be perfectly [[./sample reconstruction|reconstructed]] if sampled at a rate greater than twice the maximum frequency component ($f_s > 2f_0$).
 
