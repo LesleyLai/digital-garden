@@ -5,7 +5,7 @@ parent:
   - "[[signal|signal]]"
 publish: true
 tags:
-  - signal
+  - math/signal
 aliases:
   - signal energy
   - signal power
