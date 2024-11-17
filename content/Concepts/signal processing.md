@@ -1,13 +1,13 @@
 ---
 aliases:
-  - "#signal"
+  - "#math/signal"
 created: 2024-08-07
 modified: 2024-11-06
 parent:
   - "[[Concepts/index|note index]]"
 publish: true
 tags:
-  - signal
+  - math/signal
   - MOC
 ---
 - [[./signal|Signal]]
@@ -16,7 +16,7 @@ tags:
 - system analysis
   - [[./analysis of LTIC systems|Analysis of LTIC systems]]
   - [[./system stability|system stability]]
-  - [[Laplace transform|Laplace Transform]]
+  - [[./Laplace transform|Laplace Transform]]
   - [[./Fourier series|Fourier series]] and [[Fourier transform|Fourier transform]]
 - Continuous and [[./discrete signals and systems|discrete signal]]
   - [[./sampling (signal processing)|sampling]] and [[./sample reconstruction|reconstruction]]
