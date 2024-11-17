@@ -5,7 +5,6 @@ created: 2024-07-29
 modified: 2024-10-28
 parent:
   - "[[math|math]]"
-  - "[[computing|computing]]"
 publish: true
 tags:
   - math/statistics
