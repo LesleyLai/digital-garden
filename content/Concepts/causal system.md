@@ -5,7 +5,7 @@ parent:
   - "[[systems|system]]"
 publish: true
 tags:
-  - signal/systems
+  - math/signal/systems
 aliases:
   - noncausal system
 ---
