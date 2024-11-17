@@ -4,7 +4,7 @@ parent:
 tags:
   - math/functions
   - math/fourier
-  - signal
+  - math/signal
 aliases:
   - sampling function
   - sine cardinal function

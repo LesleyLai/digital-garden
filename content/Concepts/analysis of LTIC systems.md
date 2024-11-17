@@ -2,7 +2,7 @@
 parent:
   - "[[./linear time-invariant system|linear time-invariant]]"
 tags:
-  - signal/systems
+  - math/signal/systems
 created: 2024-09-30
 modified: 2024-10-09
 publish: true
@@ -46,10 +46,10 @@ In a LTIC system, the zero-state response can be modeled as the [[./convolution|
 $$
 y_p(t) = h(t) * x(t)
 $$
-It is usually easier to compute the zero-state response in the [[./time and frequency domain|frequency domain]] using transforms such as the [[Laplace transform|Laplace transform]] or [[Fourier transform|Fourier transform]], because by the [[./convolution theorem|convolution theorem]], convolution in time domain becomes multiplication in the frequency domain.
+It is usually easier to compute the zero-state response in the [[./time and frequency domain|frequency domain]] using transforms such as the [[./Laplace transform|Laplace transform]] or [[Fourier transform|Fourier transform]], because by the [[./convolution theorem|convolution theorem]], convolution in time domain becomes multiplication in the frequency domain.
 
 ## Stability
-> see [[system stability|system stability]]
+> see [[./system stability|system stability]]
 
 ## Reference
 -  Linear Systems and Signals, 3rd Edition, Chapter 2

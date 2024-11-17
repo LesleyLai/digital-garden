@@ -2,7 +2,7 @@
 parent:
   - "[[signal processing|signal processing]]"
 tags:
-  - signal
+  - math/signal
 aliases:
   - time domain
   - frequency domain
@@ -19,4 +19,4 @@ The **frequency domain** refers to the analysis of signals with respect to [[fre
 
 The domain terminology is related to the domain (set of inputs) of a [[./functions|function]].
 
-To convert a signal from the time domain to the frequency domain, you can use methods such as [[Fourier transform|Fourier transform]], [[Laplace transform|Laplace transform]], or [[Z-transform|Z-transform]].
+To convert a signal from the time domain to the frequency domain, you can use methods such as [[Fourier transform|Fourier transform]], [[./Laplace transform|Laplace transform]], or [[Z-transform|Z-transform]].

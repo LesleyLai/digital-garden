@@ -7,7 +7,7 @@ parent:
   - "[[signal processing|signal processing]]"
 publish: true
 tags:
-  - signal/systems
+  - math/signal/systems
 ---
 **Systems** is a ubiquitous concept. There are mechanical systems, electronic systems, optical systems, acoustic systems, finical systems, and many others. In system science, these diverse systems are all viewed as black boxes that receive [[./signal|signals]] as input and produce signals as output.
 

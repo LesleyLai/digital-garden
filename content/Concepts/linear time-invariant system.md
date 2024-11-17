@@ -2,7 +2,7 @@
 parent:
   - "[[systems|system]]"
 tags:
-  - signal/systems
+  - math/signal/systems
 aliases:
   - LTI systems
   - linear time-invariant systems
