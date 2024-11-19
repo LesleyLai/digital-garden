@@ -1,6 +1,6 @@
 ---
 created: 2023-05-30
-modified: 2024-10-09
+modified: 2024-11-19
 publish: true
 tags:
   - math/combinatorics
@@ -18,3 +18,4 @@ Consider a group of $m$ peacocks and $n$ toucans, from which a set of size $r$ b
 
 ## See Also
 - [[./convolution|convolution]]: one way to view the Vandermonde's identity is as the discrete convolution ${m+n \choose r}=\left(a(k) * b(k)\right)_{r}$ where $a(k) = {m \choose k}$ and $b(k) = {n \choose k}$.
+- [[./Pascal's rule|Pascal's rule]]: ${n \choose k} = {n - 1 \choose k - 1} + {n - 1 \choose k}$
