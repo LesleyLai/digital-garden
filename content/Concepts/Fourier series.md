@@ -118,7 +118,7 @@ Consider a single term in the Fourier series: $D_n e^{i2\pi\frac{n}{T}x}$:
 ## Subtopics
 - [[./intuition for Fourier coefficients|intuition for Fourier coefficients]] - where do those Fourier coefficients come from
 - [[./Gibbs phenomenon|Gibbs phenomenon]] - Behavior of the partial sum of a Fourier series on discontinuity
-- [[./Parseval’s Theorem|Parseval’s Theorem]] - Related signal power of a periodic signal to its Fourier coefficients
+- [[./Parseval’s theorem|Parseval’s theorem]] - Related signal power of a periodic signal to its Fourier coefficients
 
 [^1]: [Purrier Series (Meow) and Making Images Speak – Bilim Ne Güzel Lan](https://bilimneguzellan.net/en/purrier-series-meow-and-making-images-speak/)
 [^2]: [3blue1brown - But what is a Fourier series? From heat flow to circle drawings](https://www.3blue1brown.com/lessons/fourier-series)

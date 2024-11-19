@@ -5,7 +5,7 @@ tags:
   - math/fourier
   - math/signal
 created: 2024-10-15
-modified: 2024-11-17
+modified: 2024-11-19
 publish: true
 aliases:
   - Parseval's identity
@@ -28,7 +28,7 @@ $$
 **For aperiodic signals:**
 The Parseval's theorem relates the energy of the signal in the time domain to its energy in the frequency domain:
 $$
-E_x = \int_{-\infty}^\infty |x(t)|^2 \, dt = \frac{1}{2\pi}\int_{\omega = -\infty}^{\infty} |X(\omega)|^2 \, d\omega = \frac{1}{2\pi}\int_{\omega = -\infty}^{\infty} |X(2 \pi f)|^2 \, d\omega
+E_x = \int_{-\infty}^\infty |x(t)|^2 \, dt = \frac{1}{2\pi}\int_{\omega = -\infty}^{\infty} |X(\omega)|^2 \, d\omega = \int_{\omega = -\infty}^{\infty} |X(f)|^2 \, df
 $$
 where
 - $X(\omega) = \mathcal{F}\{x(t)\}$ represents the [[Fourier transform|continuous Fourier transform]]

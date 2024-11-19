@@ -20,12 +20,12 @@ $$
 F(\omega) = \mathcal{F}\{f(t)\} = \int_{t=-\infty}^\infty e^{-i \omega t} f(t) \, dt
 $$
 
-## Fourier to Laplace
+### Fourier to Laplace
 The two formula looks very similar and it is tempting to set $s = i \omega$ to get the Fourier transform from the Laplace transform.
 
 However, there is a caveat: only when the [[./region of convergence for Laplace transform|region of convergence (ROC)]] for $F(s)$ includes the imaginary axis, then $F(i\omega)$ exists and equals the Fourier transform $F(\omega)$.
 
-## Laplace to Fourier
+### Laplace to Fourier
 Conversely, we can start at the bilateral Laplace transform and try to get a Fourier transform. Since $s = \sigma + i \omega$, we have
 $$
 \begin{align}
