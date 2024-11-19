@@ -7,9 +7,6 @@ publish: true
 tags:
   - math/DifferentialEquations
 ---
-
-# Method of Undetermined Coefficients
-
 **Undetermined coefficients** is a method to solve non-[[homogeneous differential equation|homogeneous]] linear differential equations.
 
 The solution of a nonhomogeneous equation can be expressed as the sum of the solution to its corresponding homogeneous equation and a particular solution. For example, consider the following equation:
@@ -19,8 +16,8 @@ $$
 Let $y_h$ represent the general solution to the homogeneous equation, i.e.,
 $$Ay_h'' + By_h' + Cy_h = 0$$
 and let $y_g$ be a particular solution to the nonhomogeneous equation:
-$$$Ay_g'' + By_g' + Cy_g = g(x)$$
-The sum of  and  will be the general solution to the original nonhomogeneous solution.
+$$Ay_g'' + By_g' + Cy_g = g(x)$$
+The sum of $y_h$ and $y_g$ will be the general solution to the original nonhomogeneous solution.
 
 We can see why this is true by doing some algebraic manipulation:
 $$
