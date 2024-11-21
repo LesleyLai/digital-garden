@@ -14,7 +14,7 @@ Since a [[./real number|real number]] is defined as a [[./Cauchy sequence|Cauchy
 
 ## Definition
 
-A real number $x = \lim_{n \rightarrow \infty} a_n$ is positive **iff** there is a positive [[rational number|rational]] $c > 0$ such that $a_n > c \ \forall \, n \ge 1$.
+A real number $x = \lim_{n \rightarrow \infty} a_n$ is positive **iff** there is a positive [[./rational number|rational]] $c > 0$ such that $a_n > c \ \forall \, n \ge 1$.
 
 The definition of negative number is the same.
 
