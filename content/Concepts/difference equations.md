@@ -35,7 +35,7 @@ What makes this first order is that we only need to know the most recent previou
 > $$
 > with initial conditions $f[0] = 1$ and $f[1] = 1$
 
-> [!example] Pascal's rule
+> [!example] Example: Pascal's rule
 > > See: [[./Pascal's rule|Pascal's rule]]
 > 
 > The [[./binomial coefficient|binomial coefficient]] can be described by the following recurrence relation
