@@ -10,7 +10,7 @@ created: 2024-10-11
 modified: 2024-10-11
 publish: true
 ---
-For functions $f$ and $g$ defined on $[a, b]$, we can define their [[L2 inner product of functions|inner product]] as
+For functions $f$ and $g$ defined on $[a, b]$, we can define their [[./L2 inner product of functions|inner product]] as
 $$
 \langle f,\, g \rangle = \int_a^b f(x) g(x) \, dx 
 $$

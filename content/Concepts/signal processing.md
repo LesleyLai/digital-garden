@@ -23,7 +23,7 @@ tags:
   - [[./aliasing|Aliasing]]
   - [[./Nyquist-Shannon theorem|Nyquist–Shannon sampling theorem]]
 - [[./filter (signal processing)|Filter]]
-- [[modulation|modulation]]
+- [[./modulation|modulation]]
 
 ## Related
 - [[Fourier analysis|Fourier analysis]]

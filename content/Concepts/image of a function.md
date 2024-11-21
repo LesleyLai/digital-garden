@@ -8,7 +8,7 @@ tags:
 ---
 
 # Image of Functions
-The **image** of a [[functions|function]] is the set of all output value it creates.
+The **image** of a [[./functions|function]] is the set of all output value it creates.
 
 ## Image of a Subset
 The image of a subset $A$ in the function domain is

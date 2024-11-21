@@ -1,7 +1,7 @@
 ---
 created: 2023-06-26
 generalizations:
-  - "[[./relation|relation]]"
+  - "[[relation|relation]]"
 modified: 2024-10-16
 publish: true
 specializations:
@@ -11,7 +11,7 @@ specializations:
 tags:
   - math/set_theory/relation
 ---
-A [[./relation|relation]] $R \in S \times T$ is called a **binary relation** on sets $S$ and $T$.
+A [[relation|relation]] $R \in S \times T$ is called a **binary relation** on sets $S$ and $T$.
 
 The _domain_ of a relation, written as $\text{dom}(R)$), is a set of elements in $S$ s.t. if $s \in \text{dDom}(R)$, $(s, t) \in R$ for some $t$. And the _codomain_ is the set of elements $t \in T$ such that $(s, t) \in R$ for some $s$.
 

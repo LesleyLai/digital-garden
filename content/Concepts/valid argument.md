@@ -22,7 +22,7 @@ The above argument is NTP only because we have the knowledge that water is $H_2O
 
 ## Validity Test
 There are various way to test the validity of an argument such as:
-- [[truth table|truth table]] - only works in [[./propositional logic|propositional logic]] and can become unwieldy with numerous basic propositions due to combinatorial explosion
+- [[./truth table|truth table]] - only works in [[./propositional logic|propositional logic]] and can become unwieldy with numerous basic propositions due to combinatorial explosion
 - [[./truth tree|truth tree]] (semantic tableaux) - can often be more efficient than a truth table and also works in [[predicate logic|predicate logic]] 
 - [[model checking|model checking]] - systematically enumerates all possible states of a system to verify properties. Only works with finite domains
 - [[./direct proofs|direct proofs]]

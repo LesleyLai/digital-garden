@@ -26,4 +26,4 @@ Alternative symbols of biconditional include $\iff$ (`\iff` in latex) and $\equi
 ## Relationship with Logical Equivalence
 See: [[./logical equivalence|logical equivalence]]
 
-Biconditional and logical equivalence has close relation, but they are not the same. When $P$ and $Q$ are logical equivalent, the biconditional $P \leftrightarrow Q$ is always true (a [[tautology|tautology]]).
+Biconditional and logical equivalence has close relation, but they are not the same. When $P$ and $Q$ are logical equivalent, the biconditional $P \leftrightarrow Q$ is always true (a [[./tautology|tautology]]).

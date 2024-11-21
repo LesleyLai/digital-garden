@@ -21,7 +21,7 @@ tags:
 - [[./separation of variables|separation of variables]]
 - [[./characteristic equation|characteristic equation]] - to solve [[homogeneous differential equation|homogeneous]] [[./linear differential equation|linear]] equations with constant coefficients
 - [[./undetermined coefficients|undetermined coefficients]] - to solve nonhomogeneous linear equation
-- [[Laplace transform|Laplace transform]]
+- [[./Laplace transform|Laplace transform]]
 
 ## Graphics Method
 - [[./direction fields and integral curves|direction fields and integral curves]]

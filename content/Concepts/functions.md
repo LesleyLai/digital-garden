@@ -14,7 +14,7 @@ publish: true
 - [[bounded functions|bounded]]
 ## Operations
 - [[./convolution|convolution]]
-- [[Laplace transform|Laplace transform]]
+- [[./Laplace transform|Laplace transform]]
 - [[Fourier transform|Fourier transform]]
 
 ## Other

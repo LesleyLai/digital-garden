@@ -11,10 +11,12 @@ tags:
 - [[selection bias|selection bias]]
 - [[./present bias|present bias]]
 - [[./false-uniqueness effect|false-uniqueness effect]]
+- [[./clustering illusion|clustering illusion]]
 - [[./binary thinking|binary thinking]]
 - [[./base rate fallacy|base rate fallacy]]
 - [[./action bias|action bias]]
 - [[./G.I. Joe fallacy|G.I. Joe fallacy]]
+- [[./Dunning-Kruger effect|Dunning-Kruger effect]]
 - [[./Barnum effect|Barnum effect]]
 
 

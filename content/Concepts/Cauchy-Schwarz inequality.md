@@ -10,7 +10,7 @@ generalizations:
 parent:
   - "[[inequalities|inequalities]]"
 ---
-The **Cauchy-Schwarz inequality** states that for all vectors $\mathbf{u}$ and $\mathbf{v}$ in any [[./inner product space|inner product space]],
+The **Cauchy-Schwarz inequality** states that for all vectors $\mathbf{u}$ and $\mathbf{v}$ in any [[inner product space|inner product space]],
 
 $$
 |\langle\mathbf{u}, \mathbf{v}\rangle| \le \|\mathbf{u}\| \|\mathbf{v}\|
