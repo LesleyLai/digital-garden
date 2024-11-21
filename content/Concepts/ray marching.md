@@ -7,7 +7,7 @@ created: 2024-11-06
 modified: 2024-11-06
 publish: true
 ---
-**Ray marching** is the umbrella term for a bunch of algorithms to "march" a ray [[iterative methods|iteratively]]. This technique is used to compute intersections with [[implicit surface|implicit surfaces]] (usually a [[SDF|signed distance field]]), where an analytical solution may be difficult or even impossible to obtain.
+**Ray marching** is the umbrella term for a bunch of algorithms to "march" a ray [[./iterative methods|iteratively]]. This technique is used to compute intersections with [[implicit surface|implicit surfaces]] (usually a [[SDF|signed distance field]]), where an analytical solution may be difficult or even impossible to obtain.
 
 The simplest ray marching algorithm have a fixed step size, but **Distance-aided ray marching** algorithms like [[sphere tracing|sphere tracing]] usually takes much fewer steps and have higher resolution near the surface.
 
