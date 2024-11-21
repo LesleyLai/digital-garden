@@ -9,7 +9,7 @@ publish: true
 aliases:
   - time and frequency convolution
 ---
-The **convolution theorem** states that the [[Laplace transform|Laplace transform]] of the convolution of two functions is the same as the product of the Laplace transform of two functions.
+The **convolution theorem** states that the [[./Laplace transform|Laplace transform]] of the convolution of two functions is the same as the product of the Laplace transform of two functions.
 $$
 \mathcal{L}\{f(t) * g(t)\} = \mathcal{L}\{f(t)\} \mathcal{L}\{g(t)\}
 $$
