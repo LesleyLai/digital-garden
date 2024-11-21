@@ -15,7 +15,8 @@ Here are several relatively new programming languages that, while I wouldn't use
 - [Austral](https://github.com/austral/austral) ([[Austral|Notes]])
 - [Scopes](https://sr.ht/~duangle/scopes/) ([[Scopes Programing Language|Notes]])
 - [Odin](https://odin-lang.org/) ([[./Odin (programming langauge)|Notes]])
-- [Mojo 🔥: Programming language for all of AI](https://www.modular.com/max/mojo)
+- [Mojo](https://www.modular.com/max/mojo)
+- [Hare](https://harelang.org/) by Drew DeVault
 
 ## Parallel Languages
 - [Chapel: Productive Parallel Programming](https://chapel-lang.org/)
