@@ -18,7 +18,7 @@ The theorem also gives a formula for the derivative of the inverse function: In 
 
 A function $f: \mathbb{R}^n \rightarrow \mathbb{R}^n$ has an inverse $f^{-1}$ _if and only if_  $f^{-1}(f(\mathbf{x})) = \mathbf{x}$ and $f(f^{-1}(\mathbf{u})) = \mathbf{u}$ for all $\mathbf{x}$ and $\mathbf{u}$.
 
-Computing inverse of a non-linear multi-variate functions is difficult. However, we can find a _local_ inverse via [[./Taylor series|Taylor expansion]] and [[linearization|linearization]].
+Computing inverse of a non-linear multi-variate functions is difficult. However, we can find a _local_ inverse via [[./Taylor series|Taylor expansion]] and [[./linearization|linearization]].
 
 > [!example] finding nonlinear inverses
 > Given
@@ -90,7 +90,7 @@ Note that the [[existence|existence]] of an inverse should never be taken for gr
 > [!theorem] Inverse function theorem
 > $f: \mathbb{R}^n \rightarrow \mathbb{R}^n$ is locally invertible near $f(\mathbf{a})$ if the derivative of $f$ at $\mathbf{a}$ is invertible
 
-In other word, $f$ is invertible near $f(a)$ if $\det [Df]_{a} \neq 0$ ([[determinant|determinant]] of [[./derivative|derivative]])
+In other word, $f$ is invertible near $f(a)$ if $\det [Df]_{a} \neq 0$ ([[./determinant|determinant]] of [[./derivative|derivative]])
 
 The inverse function theorem implies that the linear data (derivatives) can control the existence of nonlinear inverse function.
 
