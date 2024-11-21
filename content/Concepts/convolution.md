@@ -38,4 +38,4 @@ Convolutions has various applications. For example:
 - [[./polynomial multiplication as convolution|multiplication of polynomials as convolution]]
 - [[convolution of probability distributions|sum of probability distributions as convolution]] and the [[./central limit theorem|central limit theorem]]
 - convolution can be used to express the output of a [[./linear time-invariant system|linear time-invariant system]] when [[./zero-input response and zero-state response|zero-state response]] and input is given
-- Convolution is often used to express [[filter (signal processing)|filters]] such as the [[Gaussian filtering|Gaussian filtering]]
+- Convolution is often used to express [[./filter (signal processing)|filters]] such as the [[Gaussian filtering|Gaussian filtering]]
