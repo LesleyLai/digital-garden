@@ -27,4 +27,4 @@ The [[./Cauchy-Schwarz inequality|Cauchy-Schwarz inequality]] describes the rela
 
 ## Subtopics
 - [[./dot product|dot product]]
-- [[L2 inner product of functions|L2 inner product of functions]]
+- [[./L2 inner product of functions|L2 inner product of functions]]
