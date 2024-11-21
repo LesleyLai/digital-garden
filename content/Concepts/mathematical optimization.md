@@ -55,7 +55,7 @@ $$
 ## Methods to Solve Optimization Problems
 - finding [[./derivative|derivatives]] and performing [[./second derivative test|second derivative test]]
 - [[./Lagrange multiplier|Lagrange multiplier]]
-- [[iterative methods|iterative methods]]
+- [[./iterative methods|iterative methods]]
   - [[./Newton's method|Newton's method]]
   - [[./descent methods|descent methods]] ([[gradient descent|gradient descent]])
 
