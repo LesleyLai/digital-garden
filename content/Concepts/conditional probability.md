@@ -31,4 +31,4 @@ where $f_{X, Y}(x, y)$ is the [[joint probability|joint density function]] and $
 
 ## See also
 - [[./independence|independence]]
-- [[Bayes' theorem|Bayes' theorem]]
+- [[./Bayes' theorem|Bayes' theorem]]
