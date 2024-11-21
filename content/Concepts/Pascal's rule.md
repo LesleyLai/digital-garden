@@ -14,7 +14,9 @@ $$
 {n \choose k} = {n - 1 \choose k - 1} + {n - 1 \choose k}
 $$
 We can visualize the above [[./difference equations|recurrence relation]] by the **Pascal's triangle**
+
 ![[../assets/Pascal's triangle.webp|200]]  ![[../assets/Pascal's triangle binomial.webp|250]]
+
 where each entry corresponds to a binomial coefficient.
 
 ## Relation with the Vandermonde's Identity
