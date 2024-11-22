@@ -5,7 +5,7 @@ tags:
   - math/set_theory
   - logic/propositional
 aliases:
-  - "\"DeMorgan's Law"
+  - "DeMorgan's Law"
 created: 2024-09-18
 modified: 2024-09-18
 publish: true
