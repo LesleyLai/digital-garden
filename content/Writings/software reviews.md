@@ -14,7 +14,4 @@ modified: 2024-09-25
 - [[my evaluation on Anki|Anki]]
 - [[./Obsidian spaced repetition|Obsidian spaced repetition]]
 
-## LLM
-- [[./my evaluation on Perplexity|Perplexity]]
-
 ## Uncategorized
