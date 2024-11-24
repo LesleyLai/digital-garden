@@ -10,8 +10,6 @@ tags:
   - computing/PL
   - MOC
 ---
-
-# Programming Languages
 ## Basic Concepts
 - [[./abstract syntax tree|abstract syntax tree]]
 - [[algebraic data type|algebraic data types]]
@@ -25,9 +23,15 @@ tags:
 ## Semantics
 - [[operational semantics|operational semantics]]
 - [[./denotational semantics|denotational semantics]]
-
-## Subsections
 - [[./type theory|type theory]]
+
+## Design
+See [[./pl design|Programming Language Design MOC]]
+
+## Implementations
+- [[./parsing|parser]]
+- [[./compiler|compiler]]
+- [[linker|linker]]
 
 ## Language Constructs
 - [[./modulo|modulo operations]]
@@ -37,8 +41,6 @@ tags:
 See: [[./experimental Languages|experimental Languages]]
 ![[./experimental Languages|experimental Languages]]
 
-## Design
-- [[./pl design|Programming Language Design MOC]]
 
 ## Related
 - [[./machine languages and bytecodes|machine languages and bytecodes]]
