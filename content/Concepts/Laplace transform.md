@@ -27,7 +27,7 @@ Where $f(t)$ is the original function in the time domain, and $F(s)$ is the tran
 
 Note that the result of a Laplace transform includes not only the algebraic expression but also the [[./region of convergence for Laplace transform|region of convergence]] (ROC).
 ## Subtopics
-- [[bilateral Laplace transform|bilateral Laplace transform]]
+- [[./bilateral Laplace transform|bilateral Laplace transform]]
 - [[./region of convergence for Laplace transform|region of convergence]]
 - [[./inverse Laplace transform|inverse Laplace transform]]
 
@@ -41,12 +41,12 @@ where
 - $s = \sigma + i\omega$ is a complex variable (see [[./complex frequency|complex frequency]])
 - lower limit of integration is $0^-$ to ensure inclusion of [[./Dirac delta|impulse function]] at origin
 
-The unilateral Laplace transform is only appropriate for analyzing [[./causal signal|causal signals]]. There is also a **[[bilateral Laplace transform|bilateral Laplace transform]]** defined as the following:
+The unilateral Laplace transform is only appropriate for analyzing [[./causal signal|causal signals]]. There is also a **[[./bilateral Laplace transform|bilateral Laplace transform]]** defined as the following:
 $$
 F(s) = \mathcal{L}\{f(t)\} = \int_{t=\color{red} -\infty}^\infty e^{-st} f(t) \, dt
 $$
 ## Properties
-Below are some of the properties of the _unilateral Laplace transform_. The properties of _[[bilateral Laplace transform|bilateral Laplace transform]]_ are similar, but there are some important differences.
+Below are some of the properties of the _unilateral Laplace transform_. The properties of _[[./bilateral Laplace transform|bilateral Laplace transform]]_ are similar, but there are some important differences.
 
 | Operations                                    | Time Domain                            | Complex Frequency Domain                        | Comments              |
 | --------------------------------------------- | -------------------------------------- | ----------------------------------------------- | --------------------- |
@@ -62,6 +62,7 @@ Below are some of the properties of the _unilateral Laplace transform_. The prop
 | [[./signal operations#Scaling\|time scaling]]   | $f(at)$                                | $\frac{1}{a}F\left( \frac{s}{a} \right)$        | $a > 0$               |
 | [[./convolution theorem\|time convolution]]     | $f(t) * g(t)$                          | $F(s)\ G(s)$                                    |                       |
 | multiplication                                | $f(t)\ g(t)$                           | $\frac{1}{2\pi i} [F(s) * G(s)]$                | frequency convolution |
+|                                               |                                        |                                                 |                       |
 
 > [!proof]- Proof of linearity
 > $$

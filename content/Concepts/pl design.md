@@ -12,6 +12,8 @@ tags:
   - computing/PL
 title: Programming Language Design MOC
 ---
+[[./type theory|type theory]]
+
 ## Interesting Features
 - [[./allocators for zig containers|allocators for zig containers]]
 - [[./defer statement|defer statement]]

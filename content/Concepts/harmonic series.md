@@ -6,9 +6,9 @@ parent:
 publish: true
 tags:
   - math/sequences_and_series
+aliases:
+  - harmonic sequence
 ---
-
-# Harmonic Series
 **Harmonic series** is an infinite series formed by summing all unit fractions:
 $$
 \sum_{n=1}^\infty \frac{1}{n} = 1 + \frac{1}{2} + \frac{1}{3} + \frac{1}{4} + \frac{1}{5} + \cdots

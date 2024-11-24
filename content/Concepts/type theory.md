@@ -10,10 +10,8 @@ publish: true
 tags:
   - computing/PL/TypeTheory
 ---
-
-# Type Theory
 - [[./type safety|type safety]]
-- [[./propositions as types|propositions as types]]
+- [[propositions as types|propositions as types]]
 - [[./System F|System F]]
 
 ## Resources
