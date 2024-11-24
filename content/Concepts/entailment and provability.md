@@ -22,7 +22,7 @@ A [[./validity (disambiguous)|valid]] logical [[./argument|argument]] is the one
 $A \vDash B$ if and only if $A \to B$ is a [[./tautology|tautology]].
 
 ## Syntactic and Semantic Consequence
-The symbol for entailment are $\vDash$ or $\models$, which represent **semantic consequences**. There is also a separate symbol $\vdash$ to represent **syntactic consequence** (or **provability**. Their difference is subtle:
+The symbol for entailment are $\vDash$ or $\models$, which represent **semantic consequences**. There is also a separate symbol $\vdash$ to represent **syntactic consequence** (or **provability**). Their difference is subtle:
 - syntactic consequence $\Gamma \vdash \varphi$ says: sentence $\varphi$ is _provable_ from the set of assumptions $\Gamma$ without knowing whether $\Gamma$ is true.
 - semantic consequences $\Gamma \vDash \varphi$ says: sentence $\varphi$ is _true_ in all [[interpretations (logic)|interpretations]] of $\Gamma$.
 
