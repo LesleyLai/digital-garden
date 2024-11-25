@@ -28,4 +28,4 @@ $$
 And we can get back a new distribution since moment generating functions uniquely determine distribution.
 
 ## Related
-- [[bilateral Laplace transform|bilateral Laplace transform]]
+- [[./bilateral Laplace transform|bilateral Laplace transform]]
