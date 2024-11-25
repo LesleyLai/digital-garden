@@ -26,7 +26,7 @@ The symbol for entailment are $\vDash$ or $\models$, which represent **semantic 
 - syntactic consequence $\Gamma \vdash \varphi$ says: sentence $\varphi$ is _provable_ from the set of assumptions $\Gamma$ without knowing whether $\Gamma$ is true.
 - semantic consequences $\Gamma \vDash \varphi$ says: sentence $\varphi$ is _true_ in all [[interpretations (logic)|interpretations]] of $\Gamma$.
 
-If a system is both [[./soundness (formal system)|sound]] and [[./completeness|complete]] then the semantic consequences and syntactic consequence are equivalents. There are theorems regarding the equivalence between the two concepts both for [[./propositional logic|propositional logic]] and [[predicate logic|first-order logic]] (see [[Gödel's completeness theorem|Gödel's completeness theorem]]), but for [[higher-order logic|higher-order logic]] this may not be true. [^1]
+If a system is both [[./soundness (formal system)|sound]] and [[./completeness|complete]] then the semantic consequences and syntactic consequence are equivalents. There are theorems regarding the equivalence between the two concepts both for [[./propositional logic|propositional logic]] and [[./predicate logic|first-order logic]] (see [[Gödel's completeness theorem|Gödel's completeness theorem]]), but for [[higher-order logic|higher-order logic]] this may not be true. [^1]
 
 
 [^1]: [logic - Semantic vs syntactic consequence - Philosophy Stack Exchange](https://philosophy.stackexchange.com/questions/10785/semantic-vs-syntactic-consequence)
