@@ -5,7 +5,7 @@ parent:
   - "[[ordinary differential equation|ordinary differential equation]]"
 publish: true
 tags:
-  - math/DifferentialEquations
+  - math/DE
 ---
 **Undetermined coefficients** is a method to solve non-[[homogeneous differential equation|homogeneous]] linear differential equations.
 
