@@ -9,11 +9,8 @@ publish: true
 specializations:
   - "[[first-order ordinary differential equation|first-order ODEs]]"
 tags:
-  - math/DifferentialEquations
+  - math/DE
 ---
-
-# Ordinary Differential Equations
-
 ## Different Types of ODEs
 - [[first-order ordinary differential equation|first-order ODEs]]
 
