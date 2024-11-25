@@ -18,7 +18,7 @@ A formal system has the following: [^1]
 ## List of Formal Systems
 ### Logical
 - [[./propositional logic|propositional calculus]], rules of inferences governing the logic of propositions
-- [[predicate logic|predicate calculus]], rules of inferences governing the logic of predicates
+- [[./predicate logic|predicate calculus]], rules of inferences governing the logic of predicates
 - Other [[./proof system|proof systems]] such as [[./Hilbert system|Hilbert system]]
 ### In Computer Science
 - [[lambda calculus|lambda calculus]]
