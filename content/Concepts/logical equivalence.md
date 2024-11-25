@@ -34,7 +34,7 @@ See: [[./logical biconditional|logical biconditional]]
 $P$ and $Q$ are logical equivalent if and only if when the biconditional $P \leftrightarrow Q$ is always true (a [[./tautology|tautology]]).
 
 ## Substitutability
-In [[./propositional logic|propositional logic]], if a proposition $P$ is logically equivalent to a propositional $Q$, then we can substitute $P$ for $Q$ and the result will be logically equivalent to the original sentence. However, this is no longer true in [[predicate logic|predicate logic]].
+In [[./propositional logic|propositional logic]], if a proposition $P$ is logically equivalent to a propositional $Q$, then we can substitute $P$ for $Q$ and the result will be logically equivalent to the original sentence. However, this is no longer true in [[./predicate logic|predicate logic]].
 
 
 [^1]: [Logical equivalence - Wikipedia](https://en.wikipedia.org/wiki/Logical_equivalence)
