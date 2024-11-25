@@ -15,7 +15,7 @@ In other word, a set $\Gamma$ of formulas is *inconsistent* iff we can derive a 
 
 ## Relation with Satisfiability
 
-Note that consistency is defined syntactically, which is different from [[satisfiability|satisfiability]], which is a semantic property. In [[./propositional logic|propositional logic]] and [[predicate logic|first-order logic]], the two notions are equivalent because the logic is [[./soundness (formal system)|sound]] and [[./completeness|complete]]. But for other logics, this may not be the case. [^1]
+Note that consistency is defined syntactically, which is different from [[./satisfiability|satisfiability]], which is a semantic property. In [[./propositional logic|propositional logic]] and [[./predicate logic|first-order logic]], the two notions are equivalent because the logic is [[./soundness (formal system)|sound]] and [[./completeness|complete]]. But for other logics, this may not be the case. [^1]
 
 
 [^1]: [logic - Difference between consistency and satisfiability - Mathematics Stack Exchange](https://math.stackexchange.com/questions/3229498/difference-between-consistency-and-satisfiability)

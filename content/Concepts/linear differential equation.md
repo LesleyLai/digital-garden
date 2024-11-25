@@ -7,7 +7,7 @@ publish: true
 specializations:
   - "[[first-order linear homogeneous differential equation|first-order linear homogeneous differential equation]]"
 tags:
-  - math/DifferentialEquations
+  - math/DE
   - math/definitions
 ---
 A **linear differential equation** is a differential equation in the form of

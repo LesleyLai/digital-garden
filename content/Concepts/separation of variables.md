@@ -5,10 +5,8 @@ parent:
   - "[[ordinary differential equation|ODE]]"
 publish: true
 tags:
-  - math/DifferentialEquations
+  - math/DE
 ---
-
-# Separation of Variables
 **Separation of variables** is a method to solve differential equations.
 
 A DE is call **separable** if you can use isolate the two variables on opposite sides of the equation. 

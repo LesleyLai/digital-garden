@@ -12,7 +12,7 @@ publish: true
 ---
 The **region of convergence (ROC)** is the range of complex variable $s$ in s-plane for which Laplace transform is finite or converge.
 
-Both [[./Laplace transform|unilateral Laplace transform]] and [[bilateral Laplace transform|bilateral Laplace transform]] have the concept of ROC, though the bilateral Laplace transform requirements for convergence are harder to achieve than the unilateral version.
+Both [[./Laplace transform|unilateral Laplace transform]] and [[./bilateral Laplace transform|bilateral Laplace transform]] have the concept of ROC, though the bilateral Laplace transform requirements for convergence are harder to achieve than the unilateral version.
 
 ## ROCs of Unilateral and Bilateral Laplace Transforms
 For [[./causal signal|causal signals]], performing unilateral Laplace transform and bilateral Laplace transform will get the same result. This equivalence occurs because all values of a causal signal are zero for negative time, which means the integration from negative infinity to zero (present in the bilateral transform) contributes nothing to the result.

@@ -1,7 +1,7 @@
 ---
 parent:
   - "[[Fourier transform|Fourier transform]]"
-  - "[[bilateral Laplace transform|bilateral Laplace transform]]"
+  - "[[./bilateral Laplace transform|bilateral Laplace transform]]"
 tags:
   - math/LaplaceTransform
   - math/fourier
@@ -9,7 +9,7 @@ created: 2024-10-14
 modified: 2024-11-08
 publish: true
 ---
-We have the [[bilateral Laplace transform|bilateral Laplace transform]]:
+We have the [[./bilateral Laplace transform|bilateral Laplace transform]]:
 $$
 F(s) = \mathcal{L}\{f(t)\} = \int_{t=-\infty}^\infty e^{-st} f(t) \, dt
 $$

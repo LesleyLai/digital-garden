@@ -5,7 +5,7 @@ tags:
   - math/set_theory
   - logic/propositional
 aliases:
-  - "DeMorgan's Law"
+  - DeMorgan's Law
 created: 2024-09-18
 modified: 2024-09-18
 publish: true
@@ -19,4 +19,4 @@ $$
 (A \cup B)^\complement = A^\complement \cap B^\complement \quad \text{and} \quad (A \cap B)^\complement = A^\complement \cup B^\complement
 $$
 
-![[../assets/Demorganlaws.svg|Demorganlaws.svg]]
+![[../assets/Demorganlaws.svg|400]]

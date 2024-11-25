@@ -12,7 +12,7 @@ created: 2024-10-04
 modified: 2024-10-05
 publish: true
 ---
-A [[./proposition|proposition]] $p$ is a **contradiction** if it is false for all possible [[interpretations (logic)|truth value assignments]] to its variables. In other word, it is not [[satisfiability|satisfiable]].
+A [[./proposition|proposition]] $p$ is a **contradiction** if it is false for all possible [[interpretations (logic)|truth value assignments]] to its variables. In other word, it is not [[./satisfiability|satisfiable]].
 
 Two propositions are **contradictory** if they have opposite truth value in every row of the [[./truth table|truth table]].
 

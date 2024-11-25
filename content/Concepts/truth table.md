@@ -35,4 +35,4 @@ L & R & L \vee R & L & \neg R \\ \hline
 > $$
 > From the first row of the truth table, we observe that it is possible for all premises to be true while the conclusion is false. Therefore, the argument is invalid.
 
-Testing validity using a truth table has some limitations. First, a large number of basic propositions can lead to [[combinatorial explosion|combinatorial explosion]] of rows, making truth table impractical. Second, truth tables are no longer sufficient for testing validity in [[predicate logic|predicate logic]], and other methods must be employed.
+Testing validity using a truth table has some limitations. First, a large number of basic propositions can lead to [[combinatorial explosion|combinatorial explosion]] of rows, making truth table impractical. Second, truth tables are no longer sufficient for testing validity in [[./predicate logic|predicate logic]], and other methods must be employed.
