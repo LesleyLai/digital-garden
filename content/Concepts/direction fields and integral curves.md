@@ -2,7 +2,7 @@
 parent:
   - "[[ordinary differential equation|ordinary differential equation]]"
 tags:
-  - math/DifferentialEquations
+  - math/DE
 aliases:
   - direction field
 created: 2024-09-13
