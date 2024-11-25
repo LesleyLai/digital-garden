@@ -3,7 +3,7 @@ parent:
   - "[[./ordinary differential equation|ODE]]"
   - "[[signal processing|signal processing]]"
 tags:
-  - math/DifferentialEquations
+  - math/DE
   - math/LaplaceTransform
 created: 2024-09-09
 modified: 2024-11-10
