@@ -5,10 +5,10 @@ parent:
   - "[[math|math]]"
 publish: true
 tags:
-  - "#math/DifferentialEquations"
+  - "#math/DE"
   - "#MOC"
 ---
-- [[./ordinary differential equation|ODE]] and [[./partial differential equation|PDE]]
+- [[./ordinary differential equation|ODE]] and [[partial differential equation|PDE]]
 - [[./linear differential equation|linear]] vs nonlinear
 - [[./numerical methods for ordinary differential equations|numerical ODEs]]
 
