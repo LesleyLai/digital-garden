@@ -15,7 +15,7 @@ publish: true
 ---
 A real function is called **convex** or **concave upward** when the slope increases. Similarly, a function is called **concave** or **concave downward** when the slope decreases.
 
-![[../assets/convex and concave functions.png|400]]
+![[../assets/convex and concave functions.webp|400]]
 
 One way to test whether a function is convex or concave is to take [[./second derivative test|the second derivative]]. If the second derivative over an interval is
 - always positive, then the slope continually increases, and the function is *convex*

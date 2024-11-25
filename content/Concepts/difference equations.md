@@ -4,7 +4,7 @@ modified: 2024-11-19
 publish: true
 tags:
   - math/discrete_mathematics
-  - math/DifferentialEquations
+  - math/DE
 aliases:
   - recurrence relation
   - recurrence equation

@@ -5,7 +5,7 @@ parent:
   - "[[ordinary differential equation|ODE]]"
 publish: true
 tags:
-  - math/DifferentialEquations
+  - math/DE
 aliases:
   - characteristic roots
 ---
