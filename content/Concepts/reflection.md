@@ -29,4 +29,4 @@ Both rotation and reflection are [[./orthogonal transformation|orthogonal transf
 When represented as an [[./orthogonal matrix|matrix]] $A$, the reflection will have a [[./determinant|determinant]] $\det A < 0$.
 
 ## See Also
-- [[./two reflections gives a rotation|two reflections gives a rotation]]
+- [[./two reflections give a rotation|two reflections give a rotation]]
