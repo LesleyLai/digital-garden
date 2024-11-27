@@ -22,6 +22,7 @@ tags:
 - [[./Type Punning|Type Punning]]
 - [[./Strict aliasing|Strict aliasing]]
 - [[./C preprocessor|C preprocessor]]
+- [[C++ contract|Contract]]
 
 ### Template
 - [[C++ variadic template|Variadic Template]]
@@ -39,6 +40,7 @@ tags:
 - [[./C++ ranges|Ranges]]
 - [[C++20 integer comparison functions|C++20 integer comparison functions]]
 - [[./std_launder|std_launder]]
+- [[C++ PMR|PMR]]
 
 ## Tools
 - [[./CMake|CMake]]
