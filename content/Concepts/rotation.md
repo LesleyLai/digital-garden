@@ -29,4 +29,4 @@ Rotation maps the [[standard basis|standard basis]] to [[./orthonormal basis|ONB
 - [[./rotors|rotors]]
 
 ## See Also
-- [[./two reflections gives a rotation|rotation as a double reflection]]
+- [[./two reflections give a rotation|rotation as a double reflection]]
