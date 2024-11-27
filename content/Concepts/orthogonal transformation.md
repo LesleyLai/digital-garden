@@ -11,4 +11,4 @@ An **orthogonal transformation** is a [[./linear transformation|linear transform
 Geometrically, orthogonal transformations preserve *distance* between two points and the *origin*. [[./rotation|Rotation]] is a subset of orthogonal transformation which also preserve *orientation* ($\det(Q) > 0$, see [[./determinant|determinant]]). If the orientation is reversed ($\det(Q) < 0$), we get [[./reflection|reflection]].
 
 ## See Also
-- [[./two reflections gives a rotation|two reflections gives a rotation]]
+- [[./two reflections give a rotation|two reflections give a rotation]]

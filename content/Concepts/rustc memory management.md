@@ -2,9 +2,13 @@
 created: 2023-05-30
 modified: 2024-03-14
 publish: true
+tags:
+  - computing/compiler
+  - computing/Rust/rustc
+  - computing/memory
+parent:
+  - "[[rustc architecture|rustc architecture]]"
 ---
-
-# Rustc Memory Management
 Rustc uses [[arena allocator|arena]] and [[interning|interning]].
 
 This helps fast comparison since interned objects can just compare pointers.
@@ -19,7 +23,3 @@ My question: Is each kind of objects getting their own arena?
 
 ## References
 - [Memory Management in Rustc - Guide to Rustc Development](https://rustc-dev-guide.rust-lang.org/memory.html)
-
----
-parent: [[./rustc architecture|rustc architecture]]
-tags: #computing/compiler #computing/Rust/rustc #computing/memory_management

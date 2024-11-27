@@ -10,7 +10,7 @@ parent:
   - "[[geometric algebra|geometric algebra]]"
 publish: true
 ---
-A **bivector**, or an *oriented area* $\mathbf{B}$, is an oriented segment of a plane.
+A **bivector**, or an **oriented area** $\mathbf{B}$, is an oriented segment of a plane.
 
 The area of a bivector $\mathbf{B}$ is called its *norm*, and is denoted by $|\mathbf{B}|$. [^2]
 

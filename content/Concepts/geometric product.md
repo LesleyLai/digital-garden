@@ -72,7 +72,7 @@ $$
 Thus, $- \mathbf{a} \mathbf{v} \mathbf{a}$ represents reflecting the vector $\mathbf{v}$ around $\mathbf{a}$.
 
 ### Rotation
-See: [[./two reflections gives a rotation|two reflections gives a rotation]]
+See: [[./two reflections give a rotation|two reflections give a rotation]]
 
 It turns out that if we apply two successive reflections to a vector $\mathbf{v}$ (using vector $\mathbf{a}$ and vector $\mathbf{b}$), we get **a rotation by twice the angle between the vectors $\mathbf{a}$ and $\mathbf{b}$$:
 

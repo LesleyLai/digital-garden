@@ -3,7 +3,7 @@ created: 2023-05-30
 modified: 2024-03-14
 tags:
   - computing/PL/interesting_features
-  - computing/memory_management/allocator
+  - computing/memory/allocator
   - computing/zig
 publish: true
 ---

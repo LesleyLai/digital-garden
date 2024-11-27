@@ -14,7 +14,7 @@ In the Boids algorithm, particles represent birds and fishes move following thre
 2. *separation* - boids avoid getting too close to their neighbors
 3. *alignment* - boids generally try to move with the same direction and speed as their neighbors
 
-We can use the above rules to update particle velocity and use the [[Euler method|Euler method]] to calculate the position change.
+We can use the above rules to update particle velocity and use the [[Euler's method|Euler's method]] to calculate the position change.
 
 Here are the pseudo-code for the updating functions according to the three rules:
 
