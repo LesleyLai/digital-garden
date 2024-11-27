@@ -76,7 +76,7 @@ Names are usually symbolized by lowercase letters $a, b, \dots, r, s, t$ (last s
 
 > [!info] We usually avoid using $I$ as a predicate name, since it is reserved for the [[./the identity predicate|identity predicate]].
 
-A predicate can be $n-$place to represent a n-ary [[relation|relation]]. They can be denoted with superscripts attached to indicate how many place they are. E.g. $P^1\ \underline{x}$, $P^2\ \underline{x}\, \underline{y}$, though this is usually not necessary and clear from context.
+A predicate can be $n-$place to represent a n-ary [[relation|relation]]. They can be denoted with superscripts attached to indicate how many platmce they are. E.g. $P^1\ \underline{x}$, $P^2\ \underline{x}\, \underline{y}$, though this is usually not necessary and clear from context.
 
 ## Variables and Quantifiers
 see also: [[quantifiers|quantifiers]]
@@ -90,7 +90,7 @@ First-order logic also introduced two kinds of **quantifiers**:
 Quantifiers will also introduce **variables**, which are often denoted by letters from $u$ to $z$ (though people tends to use $x, y, z$ first). If a variable is in the scope of a quantifier, it is said to be _[[bound and free variables|bound]]_. Otherwise it is said to be _free_.
 
 ## Semantics
-In first-order logic, an [[interpretations (logic)|interpretation]] is more complex than in propositional logic. Instead of simply assigning truth values to basic propositions, an interpretation consists three components:
+In first-order logic, an [[interpretations (logic)|interpretation]] is more complex than in propositional logic. Instead of simply assigning truth values to basic propositions, an interpretation consists three components:o
 - **Domain** (or Universe of Discourse): The set of objects that the logic talks about
 - **Referents** of names (refer to an object)
 - **Extension** of predicates (for which set of the objects are the predicates true)
