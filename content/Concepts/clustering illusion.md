@@ -14,6 +14,7 @@ The **clustering illusion** is the tendency to erroneously consider the inevitab
 The cluster illusion is so strong that game AI developers find that introducing biases (with [[filtered randomness|filtered randomness]]) into video games' [[./Pseudorandom number generator|RNG]] process will make it appear more "random" to humans. [^1]
 
 ## Related
+- [[Gambler's fallacy|Gambler's fallacy]]
 - [[./Texas sharpshooter fallacy|Texas sharpshooter fallacy]]
 
 
