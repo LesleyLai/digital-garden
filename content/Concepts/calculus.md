@@ -2,7 +2,7 @@
 aliases:
   - "#math/calculus"
 created: 2023-05-30
-modified: 2024-09-10
+modified: 2024-11-28
 parent:
   - "[[math|math]]"
 publish: true
@@ -32,7 +32,12 @@ title: Calculus MOC
   - [[integration by substitution|by substitution]]
   - [[./integration by parts|by parts]]
   - by using the [[./Euler's formula|Euler's formula]]
+  - [[trigonometric substitution|trigonometric substitution]]
 - [[./numerical integration|numerical integration]]
+- [[multiple integral|multiple integral]]
+  - [[./double integrals|double integral]]
+  - [[iterated integral|iterated integral]]
+  - [[./order of integration|order of integration]]
 - [[contour integration|contour integration]]
 
 ## Series
