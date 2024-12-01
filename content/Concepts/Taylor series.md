@@ -4,7 +4,7 @@ aliases:
   - Taylor expansion
   - Taylor approximation
 created: 2023-05-30
-modified: 2024-03-14
+modified: 2024-12-01
 parent:
   - "[[series|series]]"
   - "[[calculus|calculus]]"
@@ -26,3 +26,6 @@ The Taylor series converges within a specific [[radius of convergence|radius of 
 
 ## For Multi-variable Functions
 See: [[./Taylor series for multi-variable functions|Taylor series for multi-variable functions]]
+
+## See Also
+- The [[Borel's Theorem|Borel's Theorem]] states that every power series is the [[Taylor series|Taylor series]] of some [[./smoothness|smooth function]]
