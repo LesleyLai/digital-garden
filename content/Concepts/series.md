@@ -11,7 +11,8 @@ convergence: [[./convergence of series|convergence of series]]
 
 ## Famous Series
 - [[arithmetic series|arithmetic series]]
-- [[./geometric series|geometric series]]
+- [[power series|power series]]
+  - [[./geometric series|geometric series]]
 - [[./Taylor series|Taylor series]]
 - [[./harmonic series|harmonic series]]
 - [[./Fourier series|Fourier series]]
