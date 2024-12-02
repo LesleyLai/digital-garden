@@ -46,7 +46,7 @@ These expressions converge iff $x^n$ tends toward zero, i.e. $|a| < 1$.
 ### Summation to close Form
 To express $\sum_{n=0}^\infty x^n$ in close form, we can do some substitution as typical for [[power series|power series]].
 
-Let $D = \sum_{n=0}^\infty x^n$, then $xS = \sum_{n=1}^\infty x^n$, and
+Let $S = \sum_{n=0}^\infty x^n$, then $xS = \sum_{n=1}^\infty x^n$, and
 $$
 \begin{align}
 S - xS = 1 \\
