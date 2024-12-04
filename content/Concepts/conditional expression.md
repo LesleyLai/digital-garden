@@ -9,7 +9,7 @@ parent:
 publish: true
 tags:
   - computing/PL/syntax
-  - "#computing/algorithms/parsing"
+  - "#computing/parsing"
 ---
 ## Syntax Design
 - [[./parentheses around the condition|parentheses around the condition]]
