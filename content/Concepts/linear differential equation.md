@@ -5,7 +5,7 @@ created: 2023-05-30
 modified: 2024-09-05
 publish: true
 specializations:
-  - "[[first-order linear homogeneous differential equation|first-order linear homogeneous differential equation]]"
+  - "[[first-order linear differential equation|first-order linear differential equation]]"
 tags:
   - math/DE
   - math/definitions
