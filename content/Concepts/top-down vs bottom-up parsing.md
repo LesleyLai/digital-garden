@@ -5,10 +5,8 @@ parent:
   - "[[parsing|parsing]]"
 publish: true
 tags:
-  - computing/algorithms/parsing
+  - computing/parsing
 ---
-# Top-down Vs Bottom-up Parsing
-
 Examples to top-down parsers:
 - [[./LL and LR parsing|LL parser]]
 - [[recursive descent parsers|recursive descent parsers]]

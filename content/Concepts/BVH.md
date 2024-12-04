@@ -11,6 +11,7 @@ tags:
   - computing/graphics/RayTracing/BVH
 title: Bounding Volume Hierarchy
 ---
+## BVH Construction
 - [[surface area heuristic|surface area heuristic]]
 - [[binned BVH building|binned BVH building]]
 - [[./BVH refitting|BVH refitting]]

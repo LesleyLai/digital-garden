@@ -8,7 +8,7 @@ parent:
   - "[[parsing|parser]]"
 publish: true
 tags:
-  - "#computing/algorithms/parsing"
+  - "#computing/parsing"
 ---
 When designing parsers as a reusable library (rather than a bespoke parser for a single purpose), we have the choice to make push parser and pull parser.
 
