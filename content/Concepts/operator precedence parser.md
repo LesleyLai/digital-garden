@@ -13,6 +13,7 @@ aliases:
 - [[Pratt parsing|Pratt parsing]]
 - [[shunting yard algorithm|shunting yard algorithm]]
 - [[precedence climbing|precedence climbing]]
+
 These algorithms share similarities and can be considered variations of the same fundamental approach with different formulations and implementations. [^1] [^2]
 
 ## Motivation
