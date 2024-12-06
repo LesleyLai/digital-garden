@@ -20,7 +20,7 @@ The core idea of SAH is the assumption that the probability of a random ray inte
 
 ## Cost Function
 
-The quality of an acceleration structure can be estimated in terms of the expected number of operations need to finding the nearest intersection with a given ray. The cost with root $N$ is given by the [[./difference equations|recurrence relation]]:
+The quality of an acceleration structure can be estimated in terms of the expected number of operations need to finding the nearest intersection with a given ray. The cost with root $N$ is given by the [[./difference equations|recurrence relation]]:  [^2]
 $$
 c(N) = \begin{cases}
 c_T + \sum_{N_c} P(N_c|N) c(N_c) & \text{if interior node} \\
@@ -35,7 +35,7 @@ where
 - $N_c$ are children of $N$
 - $P(N_c|N)$ is the [[./conditional probability|conditional probability]] of traversing child node $N_c$ given that $N$ is intersected
 
-The constants $c_T$ and $c_I$ are usually rough approximations. In practice, their ratio is more important than their absolute values. This ratio impacts leaf sizes. Although traversal cost is typically much smaller than ray-primitive intersection cost, PBRT intentionally undertone a ratio $c_I:c_T$ of 2:1 to avoid very deep BVHs, which can harm data locality. [^1]
+The constants $c_T$ and $c_I$ are usually rough approximations. In practice, their ratio is more important than their absolute values. This ratio impacts leaf sizes. Although traversal cost is typically much smaller than ray-primitive intersection cost, PBRT intentionally undertone a ratio $c_I:c_T$ of 2:1 to avoid very deep BVHs, which can harm data locality.
 
 The surface area heuristic express the above conditional probability as the proportion of surface areas:
 $$
@@ -48,7 +48,7 @@ c_T + \sum_{N_c} \frac{\operatorname{SA}(N_c)}{\operatorname{SA}(N)} c(N_c) & \t
 c_I |N| & \text{if leaf node}
 \end{cases}
 $$
-By unrolling, we can remove the recurrence
+By unrolling, we can remove the recurrence  [^2]
 $$
 c(N)^{SAH} = \frac{1}{\operatorname{SA}(N)} \left[ c_T \sum_{N_i} \operatorname{SA}(N_i) + c_I \sum_{N_l} \operatorname{SA}(N_l)|N_l| \right]
 $$
@@ -107,7 +107,7 @@ for (int i = 0; i < split_count; ++i) {
 }
 ```
 
-[[binned BVH building|Binned BVH building]] (PBRT calls it "buckets") is another optimization that can be performed. Instead of testing splits between every primitive (a very large number), we group them into a fixed number of bins to drastically reduce the number of splits to check. This can still produce reasonably high-quality results.
+[[binned BVH building|Binned BVH building]] (PBRT calls it "buckets") is another optimization that can be performed. Instead of testing splits between every primitive (a very large number), we group them into a fixed number of bins to drastically reduce the number of splits to check. This can still produce reasonably high-quality results. [^4]
 
 ![[../assets/binned BVH.webp|263]]
 
@@ -116,3 +116,4 @@ With all of that done, we can use a simple linear search over the potential spli
 [^1]: [PBRT V4 7.3.2 The Surface Area Heuristic](https://pbr-book.org/4ed/Primitives_and_Intersection_Acceleration/Bounding_Volume_Hierarchies#TheSurfaceAreaHeuristic)
 [^2]: [A Survey on Bounding Volume Hierarchies for Ray Tracing](https://meistdan.github.io/publications/bvh_star/paper.pdf) ([[A Survey on Bounding Volume Hierarchies for Ray Tracing|note]])
 [^3]: [PBRT V3 4.3.2 The Surface Area Heuristic](https://pbr-book.org/3ed-2018/Primitives_and_Intersection_Acceleration/Bounding_Volume_Hierarchies#TheSurfaceAreaHeuristic)
+[^4]: [How to build a BVH – part 3: Quick Builds – Jacco’s Blog](https://jacco.ompf2.com/2022/04/21/how-to-build-a-bvh-part-3-quick-builds/)
