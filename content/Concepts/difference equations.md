@@ -3,7 +3,7 @@ created: 2024-08-27
 modified: 2024-12-02
 publish: true
 tags:
-  - math/discrete_mathematics
+  - math/recurrence
   - math/DE
 aliases:
   - recurrence relation
@@ -44,7 +44,7 @@ What makes this first order is that we only need to know the most recent previou
 > $$
 
 ## Linear Difference Equation
-In a [[linear difference equation|linear difference equation]], the $n$th term is equated to a [[linear function|linear function]] of $k$ previous terms. A famous example is the [[Fibonacci sequence|Fibonacci numbers]]:
+In a [[linear difference equation|linear difference equation]], the $n$th term is equated to a [[linear function|linear function]] of $k$ previous terms. A famous example is the [[./Fibonacci sequence|Fibonacci numbers]]:
 $$
 f[n] = f[n - 1] + f[n - 2]
 $$
