@@ -6,7 +6,7 @@ tags:
 aliases:
   - double integral
 created: 2024-11-28
-modified: 2024-11-28
+modified: 2024-12-08
 publish: true
 ---
 Integrals for functions of single variables can be understand as the area under the curve. Similarly, **double integral** of a function of two variables $f(x, y)$ can be understand as the volume under a surface.
@@ -31,3 +31,5 @@ $$
 
 > [!info] Note: for a non-rectangular region, the range of integration for $y$ may depend on $x$, as the boundaries of the region $R$ may change according to $x$
 > ![[../assets/iterated integral with variable y.webp|200]]
+
+In certain cases, the region of integration can be more naturally described in the polar coordinate, so [[./double integrals in polar coordinates|changing variables to polar coordinate]] and then setting up an iterated integral is more convenient to solve the problems.
