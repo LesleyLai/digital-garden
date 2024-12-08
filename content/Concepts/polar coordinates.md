@@ -7,6 +7,7 @@ publish: true
 tags:
   - math/geometry
 ---
+![[../assets/polar coordinates.webp|192]]
 
 Polar to Cartesian coordinates
 $$

@@ -15,4 +15,6 @@ tags:
 - [[./C preprocessor|C preprocessor]]
 - [[./Type-generic macro|Type-generic macro]]
 - [[./C++ NULL vs nullptr|NULL Macro]]
+- [[./C compound literals|Compound Literals]]
 - [[C variadic functions|Variadic functions]]
+- [[inline in C and C++|Inline keywords]]
