@@ -24,3 +24,6 @@ r &= \sqrt{ x^2 + y^2 } \\
 \theta &= \text{atan2}(y, x)
 \end{align}
 $$
+
+## Related
+- [[./double integrals in polar coordinates|double integrals in polar coordinates]]
