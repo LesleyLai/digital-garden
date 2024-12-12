@@ -7,9 +7,7 @@ publish: true
 tags:
   - physics
 ---
-
-# Physics
-- [[classical mechanics|classical mechanics]]
+- [[./classical mechanics|classical mechanics]]
 - [[./electromagnetism|electromagnetism]]
 - [[optics|optics]]
 - [[relativity|relativity]]
