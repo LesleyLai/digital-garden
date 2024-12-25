@@ -62,7 +62,7 @@ Below are some of the properties of the _unilateral Laplace transform_. The prop
 | [[./signal operations#Scaling\|time scaling]]   | $f(at)$                                | $\frac{1}{a}F\left( \frac{s}{a} \right)$        | $a > 0$               |
 | [[./convolution theorem\|time convolution]]     | $f(t) * g(t)$                          | $F(s)\ G(s)$                                    |                       |
 | multiplication                                | $f(t)\ g(t)$                           | $\frac{1}{2\pi i} [F(s) * G(s)]$                | frequency convolution |
-|                                               |                                        |                                                 |                       |
+
 
 > [!proof]- Proof of linearity
 > $$
