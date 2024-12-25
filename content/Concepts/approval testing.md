@@ -10,7 +10,7 @@ publish: true
 tags:
   - computing/testing/approval
 ---
-**Approval test**, also called **snapshot test**, takes a snapshot of the results and confirms that they have not changed. Compared to normal assertion-based unit tests, approval testing frees programmers from constructing complex objects by hand.
+st**Approval test**, also called **snapshot test**, takes a snapshot of the results and confirms that they have not changed. Compared to normal assertion-based unit tests, approval testing frees programmers from constructing complex objects by hand.
 
 Of course, the downside is that if the original snapshot is wrong and not detected by the programmer, approval tests will only confirm the subsequent wrong results. Additionally, there are also people complaining that their colleagues blindly updating snapshots without verifying whether the new snapshot is correct.
 

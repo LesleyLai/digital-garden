@@ -12,7 +12,7 @@ The **Hilbert System** is a proof system with only one [[./inference rules|rule 
 Despite its simplicity, the Hilbert system is both [[./soundness (formal system)|sound]] and [[./completeness|complete]]. In other words, for this system, [[./entailment and provability|logical entailment]] and provability are identical.
 
 ## Definition
-- [[implication elimination|implication elimination]] ( (modus ponens))
+- [[implication elimination|implication elimination]] (modus ponens)
 $$
 \begin{prooftree}
 \AXC{$\varphi \to \psi$}
