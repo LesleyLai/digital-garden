@@ -3,7 +3,7 @@ aliases:
   - "#math/functions"
   - function
 created: 2023-05-30
-modified: 2024-09-25
+modified: 2024-12-25
 tags:
   - math/functions
 publish: true
@@ -20,3 +20,4 @@ publish: true
 ## Other
 - [[./special functions|special functions]]
 - [[./support (mathematics)|support]]
+- [[generalized function|generalized function]]
