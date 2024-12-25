@@ -2,6 +2,7 @@
 aliases:
   - "#math/signal/sampling"
   - sampling
+  - sample
 created: 2023-05-30
 modified: 2024-10-24
 publish: true
