@@ -2,11 +2,12 @@
 aliases:
   - unit impulse function
 created: 2024-08-05
-modified: 2024-08-11
+modified: 2024-12-25
 publish: true
 tags:
   - math/definitions
-  - math/functions
+parent:
+  - "[[special functions|special functions]]"
 ---
 The **Dirac Delta** or **unit impulse function** is defined as
 $$
@@ -18,3 +19,4 @@ When we multiply the unit impulse function $\delta(t)$ by a function $\phi(t)$ w
 ## Related
 - [[./Kronecker Delta|Kronecker Delta]]
 - [[./unit step function|unit step function]]
+- [[../Fleeting/Dirac comb|Shah function]] - evenly spaced Dirac delta
