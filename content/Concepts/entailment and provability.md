@@ -3,6 +3,7 @@ aliases:
   - logical consequence
   - syntactic consequence
   - semantic consequence
+  - logical entailment
 created: 2023-05-30
 modified: 2024-09-30
 parent:
