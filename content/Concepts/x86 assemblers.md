@@ -3,6 +3,7 @@ parent:
   - "[[x86 assembly|x86 assembly]]"
 tags:
   - computing/x86
+  - tools/assembly
 aliases:
   - GAS
   - GNU Assembler

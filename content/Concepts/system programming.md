@@ -6,6 +6,8 @@ tags:
 created: 2024-10-13
 modified: 2024-10-13
 publish: true
+aliases:
+  - low-level programming
 ---
 ## Data Representations
 - [[endianness|endianness]]
@@ -15,6 +17,7 @@ publish: true
 
 ## Languages
 - [[./machine languages and bytecodes|machine languages and bytecodes]]
+- [[ABI|ABI]]
 - [[./the C programming language|C]], [[./C++|C++]], and [[./Rust|Rust]]
 
 ## Memory Management

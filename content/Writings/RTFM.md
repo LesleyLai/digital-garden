@@ -12,7 +12,8 @@ title: On RTFM
 Read: [It's Time to Retire "RTFM" — Compassionate Coding](https://compassionatecoding.com/blog/2019/4/17/its-time-to-retire-rtfm)
 
 Also
-> [!quote] When someone asks a question that I already answered in my docs, it doesn’t annoy me and make we want to go all RTFM on them. It actually makes me happy, because it means I wrote the right docs. Here’s a real world example of why that effort was worth doing - and all I have to do to help them is give them a link.
+> [!quote] 
+> When someone asks a question that I already answered in my docs, it doesn’t annoy me and make we want to go all RTFM on them. It actually makes me happy, because it means I wrote the right docs. Here’s a real world example of why that effort was worth doing - and all I have to do to help them is give them a link.
 >
 — <cite>[The Seven Voyages Of Steve: "When someone asks a question t…" - Gamedev Mastodon](https://mastodon.gamedev.place/@sinbad/112383794219151739)</cite>
 
