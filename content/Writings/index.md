@@ -20,7 +20,7 @@ This page contains some half-backed personal thoughts and other writing. If you 
 - [[don't make programming language, API, or tools part of your identity|don't make programming language, API, or tools part of your identity]]
 
 ### PL Design
-- [[./On language features that encourages bad practices|On language features that "encourages bad practices"]]
+- [[On language features that encourages bad practices|On language features that "encourages bad practices"]]
 - [[./On access control|On access control]]
 - [[./on viral annotations|On Viral Annotations]]
 
@@ -46,6 +46,7 @@ This page contains some half-backed personal thoughts and other writing. If you 
 - [[./weeding courses are bad teaching|weeding courses are bad teaching]]
 
 ## Uncategorized
+- [[../Concepts/0-index vs 1-index|0-index vs 1-index]]
 - [[./Eisenhower Matrix|Eisenhower Matrix]]
 - [[../Concepts/how to design flashcards|how to design flashcards]]
 - [[my bullshit radar|my bullshit radar]]
