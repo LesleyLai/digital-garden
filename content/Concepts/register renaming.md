@@ -12,7 +12,8 @@ modified: 2025-01-05
 The reasons CPUs implement register renaming instead of adding available architectural registers include [^1]
 - backward and forward compatibility
 - more available registers increasing the number of bit needed to encode each register
-- Limiting the number of architectural registers reduces the cost of saving and restoring all the visible states
+- limiting the number of architectural registers reduces the cost of saving and restoring all the visible states
+- to break false [[data dependency|dependencies]] between instructions that happened to use the same register names so that CPUs can process instructions out of order
 
 ## See Also
 - [[register allocation|register allocation]]
