@@ -8,4 +8,7 @@ tags:
   - computing
 ---
 - [[./webassembly|webassembly]]
-- [[x86 assembly|x86 assembly]]
+- [[./x86 assembly|x86 assembly]]
+
+## Related
+- [[ABI|ABI]]
