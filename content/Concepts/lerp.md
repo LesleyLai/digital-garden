@@ -8,7 +8,6 @@ publish: true
 tags:
   - math/interpolation/lerp
 ---
-
 # Lerp
 - [[./inverse lerp|inverse lerp]]
 - [[./remap from an input range to an output range|remap]]
