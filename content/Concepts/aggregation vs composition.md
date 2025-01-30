@@ -4,7 +4,7 @@ modified: 2024-03-14
 publish: true
 tags:
   - computing/OOP
-  - computing/SoftwareEngineering
+  - computing/architecture
 ---
 In the UML diagram, there is a distinction between [[object aggregation|aggregation]] and [[./object composition|composition]]. In most garbage collected programming languages, there are no difference in code between them. However, composition implies [[ownership|ownership]] while aggregation does not.
 

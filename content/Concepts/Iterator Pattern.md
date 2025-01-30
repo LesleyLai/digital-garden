@@ -17,4 +17,4 @@ tags:
 ## In Languages
 - [[./Rust iterator|Rust iterator]]
 - [[./C++ ranges|C++ ranges]]
-- [[C++ iterators are not really iterators|C++ iterators are not really iterators]]
+- [[./C++ iterators are not really iterators|C++ iterators are not really iterators]]

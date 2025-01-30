@@ -6,4 +6,4 @@ modified: 2024-03-14
 publish: true
 ---
 
-#computing/OOP #stub #computing/SoftwareEngineering 
+#computing/OOP #computing/architecture #stub
