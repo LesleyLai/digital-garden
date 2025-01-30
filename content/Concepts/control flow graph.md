@@ -11,6 +11,9 @@ The control flow graph is a [[directed graph|directed graph]] where each vertex 
 
 We can combine sequence of instructions without label or jump into [[./basic blocks|basic blocks]]. We can only jump to top of a basic block and won't be able to jump until the end of it.
 
+## Subsections
+- [[reducible control flow graph|reducible control flow graph]]
+
 ## Examples
 Examples are in [[./Bril|Bril]]
 
