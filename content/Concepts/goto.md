@@ -20,7 +20,7 @@ Modern system programming languages such as Rust, Zig, and [[./Odin (programming
 
 ## See Also
 - [[structured programming|structured programming]]
-- [[./RAII|RAII]] and [[./defer statement|defer]] - can be used to replace some usage of `goto` as clean-up
+- [[./RAII|RAII]] and [[./defer statement|defer]] - can be used to replace some usages of `goto` as clean-up
 - [[./coroutines|coroutines]]
 - [[./tail call|tail call]]
 - [[exception|exception]]
