@@ -13,3 +13,4 @@ This page contains algorithms on sequences like arrays or lists. Note that a lot
 
 - [[reduction|reduction]]
 - [[./prefix sum|prefix sum]]
+- [[gather and scatter|gather and scatter]]
