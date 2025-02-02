@@ -34,6 +34,7 @@ See [[./pl design|Programming Language Design MOC]]
 - [[linker|linker]]
 
 ## Language Constructs
+- [[./goto|goto]]
 - [[./modulo|modulo operations]]
 - [[function overloading|function overloading]]
 
