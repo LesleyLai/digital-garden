@@ -1,6 +1,6 @@
 ---
 created: 2024-01-07
-modified: 2024-03-14
+modified: 2025-02-10
 parent:
   - "[[computing|computing]]"
 publish: true
@@ -18,3 +18,7 @@ tags:
 - [[./C compound literals|Compound Literals]]
 - [[C variadic functions|Variadic functions]]
 - [[inline in C and C++|Inline keywords]]
+
+## Variables
+- [[../Fleeting/C scope visibility lifetime|Scope, visibility, and lifetime]]
+- [[C storage duration|storage duration]]
