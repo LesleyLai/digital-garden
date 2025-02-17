@@ -3,6 +3,7 @@ parent:
   - "[[normal forms (logic)|normal forms (logic)]]"
 tags:
   - logic/predicate
+  - logic/NormalForm
 created: 2024-10-17
 modified: 2024-10-31
 publish: true
