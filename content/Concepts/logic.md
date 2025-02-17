@@ -17,11 +17,12 @@ tags:
 - [[./logical fallacies|logical fallacies]]
 - [[./argument|argument]]
 - [[well-formed formula|well-formed formula]]
+- [[../Fleeting/normal forms (logic)|normal forms]]
 
 ## Languages
 - [[./propositional logic|propositional logic]]
   - "**If** it is raining **and** cold, **then** the ground is wet"
-- [[predicate logic|predicate logic]] (first-order logic)
+- [[./predicate logic|predicate logic]] (first-order logic)
   - "IF **x** is a parent of **y**, then **x** is older than **y**"
 - [[higher-order logic|higher-order logic]]
 
@@ -38,20 +39,20 @@ See [[./formal system|formal system]], [[./proof system|proof system]]
 - [[./truth tree|truth tree]] (semantic tableau)
 - [[./direct proofs|direct proofs]]
 - [[natural deduction|natural deduction]]
-  - [[conditional proofs|conditional proofs]]
+  - [[./conditional proofs|conditional proofs]]
 
 ## Logical Properties
 ### For A Single Formula
 - [[./valid formula|validity]]
   - [[./tautology|tautology]]
-- [[satisfiability|satisfiable]]
+- [[./satisfiability|satisfiable]]
 - [[./contradiction|contradiction]]/logical falsehood/unsatisfiable
 ### For Two Formulas
 - [[./logical equivalence|logical equivalence]]
 - [[./entailment and provability|entailment and provability]]
 ### For A Set of Formulas
 - (jointly) satisfiable/unsatisfiable
-- [[logical consistency|logical consistency]]
+- [[./logical consistency|logical consistency]]
 - [[./contradiction|contradictory]]
 - [[./contraries|contraries]]
 ### For Arguments

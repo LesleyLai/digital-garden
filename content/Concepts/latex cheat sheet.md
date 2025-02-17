@@ -1,6 +1,6 @@
 ---
 created: 2023-05-30
-modified: 2024-09-25
+modified: 2025-01-06
 publish: true
 tags:
   - tools/latex
@@ -36,6 +36,7 @@ parent:
 | $\vDash$  |                                                               | `\vDash`           |                   |
 | $\models$ |                                                               | `\models`          |                   |
 | $\wedge$  | [[./exterior product\|Wedge]] (or [[conjunction\|logical and]]) | `\wedge` or `land` |                   |
+| $\bot$    | uptick, falsum, bottom                                        | `\bot`             |                   |
 
 ## Others
 | Symbol      | Name                  | Latex         | Obsidian shortcut |

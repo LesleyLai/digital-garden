@@ -21,6 +21,7 @@ A proof system consists of the following components:
 ## Example of Proof Systems
 - [[./Hilbert system|Hilbert system]]
 - [[./Fitch proof system|Fitch]]
+- [[resolution (logic)|resolution principle]]
 
 ## See Also
 -  [[./soundness (formal system)|soundess]] and [[./completeness|completeness]]

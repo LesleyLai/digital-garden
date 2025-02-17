@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-226 -251 452 285">
+<desc>Dirac comb function with period 'T'.</desc>
+<defs>
+	<marker id="A" refX="5" refY="5" orient="auto" markerWidth="10" markerHeight="10">
+		<polyline points="10,5 0,10 0,0 10,5" fill="blue"/>
+	</marker>
+</defs>
+<path d="M-225,-250h450v250h-450z" stroke="black" fill="none"/>
+<g id="tSet">
+	<g id="tic">
+		<line y2="-200" stroke="blue" marker-end="url(#A)"/><line y2="5" stroke="black"/>
+	</g>
+	<use xlink:href="#tic" x="50"/><use xlink:href="#tic" x="100"/>
+	<use xlink:href="#tic" x="150"/><use xlink:href="#tic" x="200"/>
+</g>
+<use xlink:href="#tSet" x="-250"/>
+<text y="30" font-size="20" fill="black" text-anchor="middle">
+	<tspan>0</tspan><tspan x="-200">−4T</tspan><tspan x="-150">−3T</tspan>
+	<tspan x="-100">−2T</tspan><tspan x="-50">−T</tspan><tspan x="50">T</tspan>
+	<tspan x="100">2T</tspan><tspan x="150">3T</tspan><tspan x="200">4T</tspan>
+</text>
+</svg>

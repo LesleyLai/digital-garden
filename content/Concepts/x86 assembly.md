@@ -20,6 +20,7 @@ Here are my notes on **x86** (primarily **x86-64**) assembly. By default, unless
 - [[System V ABI|System V ABI]]
 
 ## Uncategorized
-- [[./x86 status flags|x86 status flags]]
+- [[bitwise shift|bitwise shift]]
 - [[./x86 function prologue and epilogue|x86 function prologue and epilogue]]
+- [[./x86 status flags|x86 status flags]]
 
