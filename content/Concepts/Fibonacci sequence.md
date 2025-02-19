@@ -5,7 +5,7 @@ tags:
   - math/sequences_and_series/Fibonacci
   - math/recurrence
 created: 2024-11-22
-modified: 2025-02-18
+modified: 2025-02-19
 aliases:
   - Fibonacci numbers
 publish: true
@@ -82,7 +82,7 @@ def matrix_mult(A, B):
        A[1][0] * B[0][1] + A[1][1] * B[1][1]]]
 
 def matrix_pow(A, n):
-    result = [[1, 0], [0, 1]]  # Identity matrix of size 2x2
+    result = [[1, 0], [0, 1]]
     while n > 0:
         if n % 2 == 1:
             result = matrix_mult(result, A)
@@ -95,6 +95,8 @@ def fib(n):
     result = matrix_pow(A, n)
     return result[1][0]
 ```
+
+See [[./power of element#Implementation|power of monoid]] for a generic solution using monoid.
 ### Binet's Formula
 We can also use the [[./Binet's Formula|Binet's Formula]] to calculate the Fibonacci sequence. Do note that this method subjects to the floating-point precision limits.
 ```python

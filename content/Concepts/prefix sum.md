@@ -11,8 +11,6 @@ publish: true
 tags:
   - "#computing/algorithms/sequence"
 ---
-
-# Scan
 **Scan**, or **Prefix Sum**
 - Input
   - Array of n elements: $[a_0, a_1, \dots, a_{n-1}]$
