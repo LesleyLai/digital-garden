@@ -10,11 +10,19 @@ parent:
 ---
 `mathrm`: turn on roman typestyle
 
+## # Mathematical Font
+| Look          | Name              | Latex      | Notes                |
+| ------------- | ----------------- | ---------- | -------------------- |
+| $\mathcal{A}$ | calligraphic font | `\mathcal` | Capital letters-only |
+| $\mathbb{Z}$  | blackboard font   | `\mathbb`  | Capital letters-only |
+| $\mathtt{x}$  | fixed-with text   | `mathtt`   |                      |
+
+
 ## Arrows
-| Symbol | Name | Latex | Obsidian shortcut |
-| ---- | ---- | ---- | ---- |
-| $\leftarrow$, $\rightarrow$ | left/right arrow | `\leftarrow`, `\rightarrow` |  |
-| $\Leftarrow$, $\Rightarrow$ | double left/right arrow | `\Leftarrow`, `\Rightarrow` |  |
+| Symbol                      | Name                    | Latex                       |
+| --------------------------- | ----------------------- | --------------------------- |
+| $\leftarrow$, $\rightarrow$ | left/right arrow        | `\leftarrow`, `\rightarrow` |
+| $\Leftarrow$, $\Rightarrow$ | double left/right arrow | `\Leftarrow`, `\Rightarrow` |
 ## Relation and Binary Operators
 ### Equality Related
 | Symbol    | Name                                       | Latex      | Obsidian shortcut |
