@@ -4,15 +4,13 @@ tags:
 aliases:
   - power of semigroup
   - power of monoid
-specializations:
-  - "[[Egyptian multiplication|Egyptian multiplication]]"
 created: 2025-02-19
 modified: 2025-02-19
 publish: true
 ---
 ## Semigroup
 
-Let $(S, \circ)$ be a [[semigroup|semigroup]] which has no [[identity element|identity element]] and $a \in S$.
+Let $(S, \circ)$ be a [[./semigroup|semigroup]] which has no [[identity element|identity element]] and $a \in S$.
 
 For $n \in \mathbb{N}^+$, the n-th power of $a$ (under $\circ$) is defined as:
 $$
