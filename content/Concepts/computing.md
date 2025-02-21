@@ -32,6 +32,7 @@ title: Computing MOC
 - [[./TypeScript|TypeScript]]
 - [[./Python|Python]]
 - [[./R language|R]]
+- [[Racket|Racket]]
 - [[./Swift|Swift]]
 - [[./machine languages and bytecodes|machine languages and bytecodes]]
 - [[./experimental Languages|experimental Languages]]

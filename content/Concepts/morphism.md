@@ -6,7 +6,7 @@ modified: 2024-03-14
 publish: true
 ---
 
-#math/category_theory
+#math/CategoryTheory
 
 ---
 # Morphism

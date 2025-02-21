@@ -6,4 +6,4 @@ modified: 2024-03-14
 publish: true
 ---
 
-#stub #math/category_theory/morphisms
+#stub #math/CategoryTheory/morphisms
