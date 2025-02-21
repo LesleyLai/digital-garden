@@ -27,7 +27,7 @@ $$
 
 
 ## Monoid
-Let $(S, \circ)$ be a [[monoid|monoid]] whose [[identity element|identity element]] is $i$. Let $a \in S$ and $n \in \mathbb{N}$.
+Let $(S, \circ)$ be a [[./monoid|monoid]] whose [[identity element|identity element]] is $i$. Let $a \in S$ and $n \in \mathbb{N}$.
 
 The definition of $a^n$ of a semigroup can be extended to allow an exponent of 0:
 $$
@@ -65,9 +65,9 @@ where is_semigroup(A, op)
         n = n / 2;
     }
     if (n == 1) { 
-        a 
+        return a 
     } else {
-        power_accumulate_semigroup(a, op(a, a), half(n - 1), op)
+        return power_accumulate_semigroup(a, op(a, a), half(n - 1), op)
     }
 }
 ```
