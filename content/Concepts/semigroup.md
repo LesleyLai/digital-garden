@@ -3,12 +3,12 @@ parent:
   - "[[algebraic structure|algebraic structure]]"
 tags:
   - math/AbstractAlgebra
-  - math/category_theory
+  - math/CategoryTheory
 generalizations:
   - "[[magma|magma]]"
 specializations:
   - "[[./group|groups]]"
-  - "[[monoid|monoid]]"
+  - "[[./monoid|monoids]]"
 created: 2025-02-20
 modified: 2025-02-20
 publish: true
@@ -16,8 +16,8 @@ publish: true
 > [!definition]
 > A **semigroup** is a pair $(S, *)$ consisting a set $S$ and a binary operation $*$ of $S$ such that the operation is associative, a.k.a $(a * b) * c = a * (b * c)$
 
-Semigroups are a generalization of [[monoid|monoids]] and [[./group|groups]]. A semigroup with an [[identity element|identity element]] is called a monoid, and a monoid in which every element has an inverse is called a group.
-
+Semigroups are a generalization of [[./monoid|monoids]] and [[./group|groups]]. A semigroup with an [[identity element|identity element]] is called a monoid, and a monoid in which every element has an inverse is called a group.
+associative
 ## In Programming
 
 A semigroup may be represented as something like [^1]
