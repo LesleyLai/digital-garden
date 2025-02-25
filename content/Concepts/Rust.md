@@ -18,14 +18,14 @@ tags:
 - [[./Rust move semantics|Move semantics]]
 - [[Rust blanket implementations|blanket implementations]]
 - [[./Rust generic|Generic]]
-- [[./Rust lifetime|Lifetime]]
+- [[Rust lifetime|Lifetime]]
 - [[./Rust ownership|Ownership]]
   - [[./Rust disallow simultaneous aliasing and mutation|Rust disallow simultaneous aliasing and mutation]]
 - [[./Rust borrowing|Borrowing]]
   - [[./rust references does not propagate mutability|rust references does not propagate mutability]]
 - [[./Rust smart pointers|Smart Pointers]]
 - [[./Rust IO|IO]]
-
+- [[Rust try block|Rust try block]]
 ## Generic Programming
 - [[./Rust Argument-Position Impl Trait|Argument-Position Impl Trait]]
 - [[./Rust Return-Position impl Trait|Return-Position impl Trait]]
