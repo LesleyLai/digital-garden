@@ -10,6 +10,7 @@ tags:
 ---
 - [[./parsing|parser]]
 - [[./compiler optimizations|compiler optimizations]]
+- [[./compiler IR|IR]]
 
 ## Case Studies
 - [[./rustc architecture|rustc architecture]]
