@@ -16,6 +16,7 @@ tags:
 - [[Python decorators|decorators]]
 - [[./Python variadic functions and unpack operators|variadic functions]]
 - [[Python iterables|iterables]]
+- [[./Python structural pattern matching|structural pattern matching]]
 - [[Python generators|generators]]
 - [[./python gotchas|python gotchas]]
 

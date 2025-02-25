@@ -4,7 +4,7 @@ aliases:
   - novel programming language features
   - interesting programming language features
 created: 2024-01-26
-modified: 2024-04-23
+modified: 2025-02-24
 parent:
   - "[[programming languages MOC|programming languages MOC]]"
 publish: true
@@ -24,9 +24,13 @@ title: Programming Language Design MOC
 - [[./implicit parameters|implicit parameters]]
 - [[./geometry type system|geometry type system]]
 - [[./variadic functions|variadic functions]]
+- [[pattern matching|pattern matching]]
 
 ### Performance
 - [[./tail call|tail call optimization]]
+
+### Error Handling
+- [[error handling in programming languages|error handling]]
 
 ## Design Mistakes and Anti-Features
 - [[./covariant arrays in Java and C-Sharp|Covariant arrays]]

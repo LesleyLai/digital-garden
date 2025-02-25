@@ -16,7 +16,7 @@ tags:
 Local/global optimizations are also called *intraprocedural optimization*
 
 ## Concepts
-- [[IR|IR]]
+- [[./compiler IR|IR]]
 - [[./basic blocks|basic blocks]]
 - [[./control flow graph|control flow]]
 - [[./local value numbering|local value numbering]]

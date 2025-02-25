@@ -9,4 +9,4 @@ tags:
 
 Debugging a compiler that output incorrect program is hard.
 
-[[How we make the Futhark compiler crash|futhark developers]] use the strategy of type checking their [[IR|IR]] after each pass to help debugging their compiler. They enabled type checking by default. This strategy forces them to think carefully about the semantics of their IR, though it does have a small (10%) performance overhead.
+[[How we make the Futhark compiler crash|futhark developers]] use the strategy of type checking their [[./compiler IR|IR]] after each pass to help debugging their compiler. They enabled type checking by default. This strategy forces them to think carefully about the semantics of their IR, though it does have a small (10%) performance overhead.
