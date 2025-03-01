@@ -8,6 +8,7 @@ import { Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
 import { i18n } from "../../i18n"
 import { QuartzPluginData } from "../../plugins/vfile"
+import { ComponentChildren } from "preact"
 
 interface FolderContentOptions {
   /**
@@ -71,21 +72,22 @@ export default ((opts?: Partial<FolderContentOptions>) => {
     })
 
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
-    const classes = ["popover-hint", ...cssClasses].join(" ")
+    const classes = cssClasses.join(" ")
     const listProps = {
       ...props,
       sort: options.sort,
       allFiles: allPagesInFolder,
     }
 
-    const content =
+    const content = (
       (tree as Root).children.length === 0
         ? fileData.description
         : htmlToJsx(fileData.filePath!, tree)
+    ) as ComponentChildren
 
     return (
-      <div class={classes}>
-        <article>{content}</article>
+      <div class="popover-hint">
+        <article class={classes}>{content}</article>
         <div class="page-listing">
           {options.showFolderCount && (
             <p>

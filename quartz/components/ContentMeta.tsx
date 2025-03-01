@@ -1,4 +1,4 @@
-import { formatDate, getDate } from "./Date"
+import { Date, getDate } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames } from "../util/lang"
@@ -30,14 +30,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
       const segments: (string | JSX.Element)[] = []
 
       if (fileData.dates) {
-        // Lesley: modified this section to show both the created data and modified data
-        segments.push(`Created: ${formatDate(fileData.dates.created, cfg.locale)}`)
-
-        if (fileData.dates.created != fileData.dates.modified) {
-          segments.push(`Last Modified: ${formatDate(fileData.dates.modified, cfg.locale)}`)
-        }
-
-        //segments.push(formatDate(getDate(cfg, fileData)!, cfg.locale))
+        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
       }
 
       // Display reading time if enabled
@@ -46,14 +39,12 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         const displayedTime = i18n(cfg.locale).components.contentMeta.readingTime({
           minutes: Math.ceil(minutes),
         })
-        segments.push(displayedTime)
+        segments.push(<span>{displayedTime}</span>)
       }
-
-      const segmentsElements = segments.map((segment) => <span>{segment}</span>)
 
       return (
         <p show-comma={options.showComma} class={classNames(displayClass, "content-meta")}>
-          {segmentsElements}
+          {segments}
         </p>
       )
     } else {
@@ -61,7 +52,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     }
   }
 
-  ContentMetadata.css = style
+    ContentMetadata.css = style
 
-  return ContentMetadata
+    return ContentMetadata
 }) satisfies QuartzComponentConstructor

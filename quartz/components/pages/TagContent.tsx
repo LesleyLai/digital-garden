@@ -6,6 +6,7 @@ import { QuartzPluginData } from "../../plugins/vfile"
 import { Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
 import { i18n } from "../../i18n"
+import { ComponentChildren } from "preact"
 
 interface TagContentOptions {
   sort?: SortFn
@@ -33,12 +34,13 @@ export default ((opts?: Partial<TagContentOptions>) => {
         (file.frontmatter?.tags ?? []).flatMap(getAllSegmentPrefixes).includes(tag),
       )
 
-    const content =
+    const content = (
       (tree as Root).children.length === 0
         ? fileData.description
         : htmlToJsx(fileData.filePath!, tree)
+    ) as ComponentChildren
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
-    const classes = ["popover-hint", ...cssClasses].join(" ")
+    const classes = cssClasses.join(" ")
     if (tag === "/") {
       const tags = [
         ...new Set(
@@ -50,8 +52,8 @@ export default ((opts?: Partial<TagContentOptions>) => {
         tagItemMap.set(tag, allPagesWithTag(tag))
       }
       return (
-        <div class={classes}>
-          <article>
+        <div class="popover-hint">
+          <article class={classes}>
             <p>{content}</p>
           </article>
           <p>{i18n(cfg.locale).pages.tagContent.totalTags({ count: tags.length })}</p>
@@ -93,7 +95,7 @@ export default ((opts?: Partial<TagContentOptions>) => {
                         </>
                       )}
                     </p>
-                    <PageList limit={options.numPages} {...listProps} sort={opts?.sort} />
+                    <PageList limit={options.numPages} {...listProps} sort={options?.sort} />
                   </div>
                 </div>
               )
@@ -110,11 +112,11 @@ export default ((opts?: Partial<TagContentOptions>) => {
 
       return (
         <div class={classes}>
-          <article>{content}</article>
+          <article class="popover-hint">{content}</article>
           <div class="page-listing">
             <p>{i18n(cfg.locale).pages.tagContent.itemsUnderTag({ count: pages.length })}</p>
             <div>
-              <PageList {...listProps} />
+              <PageList {...listProps} sort={options?.sort} />
             </div>
           </div>
         </div>
