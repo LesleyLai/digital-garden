@@ -1,6 +1,6 @@
 ---
 created: 2024-01-07
-modified: 2025-02-10
+modified: 2025-03-03
 parent:
   - "[[computing|computing]]"
 publish: true
@@ -19,6 +19,7 @@ tags:
 - [[C variadic functions|Variadic functions]]
 - [[inline in C and C++|Inline keywords]]
 
-## Variables
-- [[../Fleeting/C scope visibility lifetime|Scope, visibility, and lifetime]]
-- [[C storage duration|storage duration]]
+## Variables and Objects
+- [[../Fleeting/C scope|Scope of identifiers]]
+- [[./C linkage|Linkage of identifiers]]
+- [[C storage duration and lifetime|storage duration and lifetime of objects]]
