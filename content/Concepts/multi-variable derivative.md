@@ -8,9 +8,6 @@ tags:
   - math/calculus/differentiation
   - math/calculus/vector
 ---
-
-# Multi-variable Derivative
-
 A function $f(\mathbf{x})$ is **differentiable** at $\mathbf{x} = \mathbf{a}$ iff there is a [[./linear transformation|linear transformation]] $[Df]_{\mathbf{a}}$ (the *derivative* of $f$ at $\mathbf{a}$) such that
     $$
     \lim_{\| h \| \rightarrow 0} \frac{\left(f(\mathbf{a} + \mathbf{h}) - f(\mathbf{a})\right) - [Df]_{\mathbf{a}} \mathbf{h}}{\mathbf{h}} = \mathbf{0}
