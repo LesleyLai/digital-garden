@@ -34,10 +34,11 @@ title: Calculus MOC
   - by using the [[./Euler's formula|Euler's formula]]
   - [[trigonometric substitution|trigonometric substitution]]
 - [[./numerical integration|numerical integration]]
-- [[multiple integral|multiple integral]]
+- [[multiple integrals|multiple integrals]]
   - [[./double integrals|double integral]]
   - [[iterated integral|iterated integral]]
   - [[./order of integration|order of integration]]
+  - [[./changing variables in multiple integrals|changing variables in multiple integrals]]
 - [[contour integration|contour integration]]
 
 ## Series

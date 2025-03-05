@@ -1,6 +1,7 @@
 ---
 parent:
   - "[[double integrals|double integral]]"
+  - "[[changing variables in multiple integrals|changing variables in multiple integrals]]"
 tags:
   - math/calculus/integration
 created: 2024-12-08
@@ -22,7 +23,7 @@ $$
 
 The geometric justification for that is shown in the following figure:
 
-![[../assets/double integrals as polar coordinates.webp|159]]
+![[double integrals as polar coordinates.webp|159]]
 
 The area of the small sector is approximately that of a rectangle with width $dr$ and arc length $r d\theta$, hence the area $r,dr,d\theta$.
 

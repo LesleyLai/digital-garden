@@ -6,7 +6,6 @@ tags:
   - MOC
   - computing/graphics/Vulkan
 ---
-# Vulkan
 - [[./descriptor sets|descriptor sets]]
 - [[./descriptor indexing|descriptor indexing]]
 - [[./Vulkan synchronization|Vulkan synchronization]]
