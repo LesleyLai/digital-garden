@@ -8,6 +8,8 @@ tags:
   - computing/c
   - MOC
 ---
+Standard committee maintained website: https://www.c-language.org
+
 - [[./Type Punning|Type Punning]]
 - [[./Strict aliasing|Strict aliasing]]
 - [[./C declaration syntax|C declaration syntax]]
