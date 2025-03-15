@@ -11,10 +11,10 @@ A formula is in its **normal form** when it has been simplified to a canonical r
 
 ## Examples
 ### Propositional Logic
-- [[../Concepts/conjunctive normal form|conjunctive normal form]]
+- [[./conjunctive normal form|conjunctive normal form]]
 
 ### Predicate Logic
-- [[../Concepts/Prenex normal form|Prenex normal form]]
+- [[./Prenex normal form|Prenex normal form]]
 
 ## Related
 - [[database normalization|normal forms (database)]]

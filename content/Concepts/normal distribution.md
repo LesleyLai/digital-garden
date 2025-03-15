@@ -28,3 +28,6 @@ The [[./cumulative distribution function|CDF]] of the normal distribution does n
 - [[./68-95-99.7 rule|68-95-99.7 rule]]
 - [[./normal approximation|normal approximation]]
 - [[./central limit theorem|central limit theorem]]
+
+## See Also
+- [[./Gaussian function|Gaussian function]]

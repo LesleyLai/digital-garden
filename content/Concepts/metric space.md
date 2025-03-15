@@ -4,6 +4,7 @@ modified: 2024-03-29
 publish: true
 specializations:
   - "[[normed vector space|normed vector space]]"
+  - "[[complete metric spaces|complete metric spaces]]"
 tags:
   - math/analysis
   - math/topology

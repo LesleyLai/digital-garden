@@ -13,6 +13,7 @@ parent:
 - [[./sinc function|sinc function]]
 - [[./unit step function|unit step function]]
 - [[./sinusoid|sinusoids]]
+- [[./Gaussian function|Gaussian function]]
 
 ## Distributions (generalized functions)
 See: [[generalized function|generalized function]]
