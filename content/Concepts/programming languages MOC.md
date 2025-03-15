@@ -16,7 +16,6 @@ tags:
 - [[./substitution|substitution]]
 - [[undefined behavior|undefined behavior]]
 - [[./covariance and contravariance|covariance and contravariance]]
-- [[./type safety|type safety]]
 - [[scope|scope]]
 - [[./tail call|tail call]]
 
@@ -38,6 +37,10 @@ See [[./pl design|Programming Language Design MOC]]
 - [[./goto|goto]]
 - [[./modulo|modulo operations]]
 - [[function overloading|function overloading]]
+
+## Safety
+- [[type safety|type safety]]
+- [[memory safety|memory safety]]
 
 ## Experimental Languages
 See: [[./experimental Languages|experimental Languages]]
