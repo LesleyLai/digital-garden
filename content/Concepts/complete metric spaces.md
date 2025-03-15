@@ -5,6 +5,8 @@ publish: true
 tags:
   - math/topology
   - math/analysis
+generalizations:
+  - "[[./metric space|metric space]]"
 ---
 In some [[./metric space|metric space]], not every [[./Cauchy sequence|Cauchy sequence]] have a limit (e.g. $(\mathbb{Q}, d)$).
 
