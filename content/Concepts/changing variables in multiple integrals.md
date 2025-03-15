@@ -5,7 +5,7 @@ parent:
 tags:
   - math/calculus/integration
 created: 2025-03-03
-modified: 2025-03-05
+modified: 2025-03-11
 publish: true
 ---
 [[./double integrals|Double integrals]] in $x, y$ coordinates which are taken over circular regions or have integrands involving $x^2 + y^2$ are often better [[./double integrals in polar coordinates|done in polar coordinates]]:
@@ -26,10 +26,10 @@ More generally, double integrals can sometimes be simplified by changing variabl
 $$
 \begin{align}
 u = u(x, y)&, \quad v = v(x, y) \\
-x = x(u, v)&, \quad y = y(x, y)
+x = x(u, v)&, \quad y = y(u, v)
 \end{align}
 $$
-When we change basis, the area of the integration changes. This area change can be understood as the [[./Jacobian|Jacobian determinant]]:
+When we change variables, the area of the integration changes. The scaling factor for this change is given by the [[./Jacobian|Jacobian determinant]]:
 $$
 \det J = \frac{\partial(x, y)}{\partial(u, v)} = \det \begin{bmatrix}
 \frac{\partial{x}}{\partial{u}} & \frac{\partial{x}}{\partial{v}} \\
@@ -40,13 +40,22 @@ Using the determinant, the formula for the area element in the $u, v$-system is 
 $$
 dA = \left|\det J \right| \, du \, dv
 $$
-and the change of variable formula is
-
+This leads to the change of variables formula:
 > [!definition] Change of variable formula
 > $$
 > \int \int_{R} f(x, y)  \, dx  \, dy = \int \int_{R} g(u, v) |\det J| \, du  \, dv 
 > $$
-> **Note**: While determinant can be negative, we always use the positive value here
+> While determinant can be negative, we always use the positive value here
+
+> [!info] Alternative Jacobian convention
+> Some sources compute the Jacobian
+> $$
+> \frac{\partial(u, v)}{\partial(x, y)} = \det \begin{bmatrix}
+> \frac{\partial{u}}{\partial{x}} & \frac{\partial{u}}{\partial{y}} \\
+> \frac{\partial{v}}{\partial{x}} & \frac{\partial{v}}{\partial{y}}
+> \end{bmatrix}
+> $$
+> However, $\frac{\partial(u, v)}{\partial(x, y)} = \frac{1}{\frac{\partial(x, y)}{\partial(u, v)}}$, so so either convention is valid.
 
 ## Example: Polar Coordinate
 See: [[./double integrals in polar coordinates|done in polar coordinates]]
