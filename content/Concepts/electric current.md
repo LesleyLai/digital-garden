@@ -3,7 +3,7 @@ aliases:
   - current
   - Ampere
 created: 2024-08-18
-modified: 2024-08-24
+modified: 2025-03-16
 parent:
   - "[[electromagnetism|electromagnetism]]"
 publish: true
@@ -19,3 +19,6 @@ The SI unit of current is Ampere ($A$). The unit of [[electric charge|charge]], 
 $$
 1\ \text{ampere} = 1\ \text{coulomb/second}
 $$
+
+## Sub Sections
+- [[anode and cathode|anode and cathode]]

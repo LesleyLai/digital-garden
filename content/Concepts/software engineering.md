@@ -8,7 +8,7 @@ tags:
   - MOC
   - computing/SoftwareEngineering
 created: 2024-04-07
-modified: 2024-04-07
+modified: 2025-03-20
 ---
 # Software Engineering MOC
 
@@ -19,6 +19,9 @@ The term "software engineering" is coined by [Margaret Hamilton](https://en.wiki
 
 ## Design Principles
 - [[./cohesion and coupling|cohesion and coupling]]
+
+### API Design
+See [[../Fleeting/API design|API design]]
 
 ## Others
 - [['ARCHITECTURE Feb 6, 2021' note|ARCHITECTURE.md]]
