@@ -95,4 +95,4 @@ fn fib(u32: n) -> isize
 ```
 
 [^1]: [Definition:Power of Element - ProofWiki](https://proofwiki.org/wiki/Definition:Power_of_Element)
-[^2]: From Mathematics to Generic Programming chapter 7
+[^2]: [[From Mathematics to Generic Programming|From Mathematics to Generic Programming]] chapter 7
