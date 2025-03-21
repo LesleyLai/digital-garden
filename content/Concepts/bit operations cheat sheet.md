@@ -5,6 +5,12 @@ publish: true
 tags:
   - "#cheatsheet"
 ---
+## Two's Complement
+See: [[twos complement|two's complement]]
+Get negation as bitwise complement:
+$$
+-x == ~x + 1
+$$
 
 ## Floating-point Numbers
 See: [[./floating-point number|floating-point number]]
