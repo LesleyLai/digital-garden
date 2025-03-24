@@ -1,8 +1,9 @@
 ---
 aliases:
   - differentiation
+  - differential operator
 created: 2023-05-30
-modified: 2024-08-26
+modified: 2025-03-24
 parent:
   - "[[calculus|calculus]]"
 publish: true
@@ -10,6 +11,8 @@ tags:
   - math/calculus/differentiation
 ---
 The process of finding derivative is called **differentiation**, giving a function and a point at that function, we say that point is **differentiable** if the derivative exist at that point.
+
+[[./derivative as a linear operator|Derivative can be understood as a linear operator.]]
 
 ## Notations
 - $\frac{dy}{dx}$, $\frac{d^2y}{dx^2}$
