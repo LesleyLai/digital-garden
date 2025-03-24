@@ -19,5 +19,8 @@ D notation can be useful when studying [[./differential equations|differential e
 
 The differential operator is the inverse of the integral operator, so we can use the operator $1/D$ to represent integration. Use of operator $1/D$ for integration generates some subtle mathematical difficulties because the operators $D$ and $1/D$ do not commute. [^2]
 
+## See Also
+- [[./derivative as a linear operator|derivative as a linear operator]]
+
 [^1]:  [Notation for differentiation - Wikipedia](https://en.wikipedia.org/wiki/Notation_for_differentiation#D-notation)
 [^2]: Linear Systems and Signals 1.8
