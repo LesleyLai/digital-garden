@@ -11,5 +11,6 @@ tags:
 ---
 - [[./communication protocol|communication protocol]]
 - [[./network topology|network topology]]
+- [[error detection and correction|error detection and correction]]
 
 Speed of a network can be measured by [[./bandwidth|bandwidth]] and [[network delay|network delay]].
