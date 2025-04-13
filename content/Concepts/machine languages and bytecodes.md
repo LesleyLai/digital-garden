@@ -9,6 +9,7 @@ tags:
 ---
 - [[./webassembly|webassembly]]
 - [[./x86 assembly|x86 assembly]]
+- [[AVR assembly|AVR assembly]]
 
 ## Related
-- [[ABI|ABI]]
+- [[./ABI|ABI]]

@@ -2,7 +2,7 @@
 parent:
   - "[[cybersecurity|cybersecurity]]"
 tags:
-  - computing/security
+  - computing/security/exploits
 created: 2024-10-18
 modified: 2024-10-18
 publish: true
