@@ -6,6 +6,9 @@ modified: 2024-03-14
 publish: true
 tags:
   - "#computing/compiler/optimizations"
+  - "#computing/compiler/IR"
+parent:
+  - "[[compiler IR|compiler IR]]"
 ---
 The control flow graph is a [[directed graph|directed graph]] where each vertex is an instruction and each edge indicates a *possible* flow of control. It has exactly *one entry* vertex and *one exit* vertex.
 
