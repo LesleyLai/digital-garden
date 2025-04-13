@@ -13,6 +13,7 @@ This page contains some half-backed personal thoughts and other writing. If you 
 ## My Reviews
 - [[./website reviews|website reviews]]
 - [[./software reviews|software reviews]]
+- [[./summary of readings|summary of readings]]
 
 ## Programming
 - [[./Avoid premature generalization|Avoid premature generalization]]
@@ -50,7 +51,9 @@ This page contains some half-backed personal thoughts and other writing. If you 
 - [[./Eisenhower Matrix|Eisenhower Matrix]]
 - [[../Concepts/how to design flashcards|how to design flashcards]]
 - [[my bullshit radar|my bullshit radar]]
-- [[On C++ STL|On C++ STL]]
 - [[./on programming language complexity and bad features|on programming language complexity and bad features]]
 - [[../Concepts/proof by assertion|proof by assertion]]
 - [[./scapegoats and silver bullets|scapegoats and silver bullets]]
+- [[./summary-of-reading-january-march-2020|summary-of-reading-january-march-2020]]
+- [[./summary-of-reading-january-march-2024|summary-of-reading-january-march-2024]]
+- [[./summary-of-reading-october-december-2020|summary-of-reading-october-december-2020]]
