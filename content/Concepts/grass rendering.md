@@ -2,15 +2,14 @@
 aliases:
   - "#computing/graphics/GrassRendering"
 created: 2023-05-30
-modified: 2024-03-14
+modified: 2025-04-18
 publish: true
 tags:
   - computing/graphics/GrassRendering
 ---
-
-# Grass Rendering
 ## My Project
 - [GLGrassRenderer: OpenGL Grass Renderer](https://github.com/LesleyLai/GLGrassRenderer)
 ## References
 - [Responsive Real-Time Grass Rendering for General 3D Scenes](https://www.cg.tuwien.ac.at/research/publications/2017/JAHRMANN-2017-RRTG/JAHRMANN-2017-RRTG-draft.pdf)
 - [[Procedural Grass in 'Ghost of Tsushima'|Procedural Grass in 'Ghost of Tsushima']]
+- [Grass Rendering Series Part 2: Full-Geometry Grass in Godot | hexaquo](https://hexaquo.at/pages/grass-rendering-series-part-2-full-geometry-grass-in-godot/)
