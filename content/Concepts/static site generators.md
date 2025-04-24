@@ -13,6 +13,7 @@ There are two camps of static site generators - the traditional one generate a m
 ## Generate static HTML
 - Jekyll
 - Hugo
+- [Quarto](https://quarto.org/)
 
 ## Generates SPA
 - [[./GatsbyJS|GatsbyJS]]
