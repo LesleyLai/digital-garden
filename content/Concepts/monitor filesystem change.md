@@ -3,7 +3,7 @@ created: 2024-05-09
 modified: 2024-05-09
 publish: true
 tags:
-  - "#computing/SystemAdmin"
+  - "#computing/sysadmin"
 ---
 
 ## On Linux
