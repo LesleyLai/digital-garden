@@ -19,6 +19,7 @@ title: Computing MOC
 - [[./performance MOC|Performance]]
 - [[./software engineering|Software Engineering]] and [[./Software Testing|Testing]]
 - [[./system programming|System Programming]]
+- [[./System Admin|System Admin]]
 - [[./computer networking|Networking]]
 - [[./quantum computing|Quantum Computing]]
 - [[./design patterns|Design Patterns]]
@@ -45,6 +46,7 @@ title: Computing MOC
 - [[./Git|Git]]
 - [[./latex|latex]]
 - [[./shells|shells]]
+- [[./Emacs|Emacs]]
 
 ## OS
 - [[./Unix|Unix]]
