@@ -14,3 +14,6 @@ tags:
 - [[error detection and correction|error detection and correction]]
 
 Speed of a network can be measured by [[./bandwidth|bandwidth]] and [[network delay|network delay]].
+
+## Protocals
+- [[DNS|DNS]]

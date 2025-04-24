@@ -9,7 +9,6 @@ publish: true
 tags:
   - computing/networking
 ---
-
 **communication protocols** define format and order of messages sent and received among network entities, and actions taken on message transmission and receipt. 
 
 ## Internet Protocols

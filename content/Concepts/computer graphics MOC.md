@@ -1,6 +1,6 @@
 ---
 created: 2024-01-18
-modified: 2024-06-27
+modified: 2025-04-18
 parent:
   - "[[computing|computing]]"
 publish: true
@@ -33,9 +33,11 @@ tags:
 - [[normal map|normal map]]
 - [[perspective projection|perspective projection]]
 - [[./color science|Color Science]]
+- [[./tone mapping|tone mapping]]
 
 ### Effects
 - [[./shadow rendering|Shadows]]
+- [[./grass rendering|grass rendering]]
 
 ## Optimization
 - [[./vertex buffer compression|vertex buffer compression]]
