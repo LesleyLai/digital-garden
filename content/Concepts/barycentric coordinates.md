@@ -2,10 +2,10 @@
 aliases:
   - barycentric interpolation
 created: 2023-05-30
-modified: 2024-03-14
+modified: 2025-04-30
 publish: true
 tags:
-  - "#math/geometry"
+  - math/geometry
   - computing/graphics
 ---
 **Barycentric coordinate** expresses the location of any point coplanar with a triangle in three scale $w$, $u$, and $v$. The position of that point is at $P = wA + uB + vC$ where $A, B, C$ are the coordinates of the three vertices of the triangle.
@@ -15,7 +15,6 @@ The three coordinates satisfy the relationship $w + u + v = 1$ and if a point is
 Barycentric coordinates are proportion to area of sub-triangles. For example, $u = \frac{AREA_{CAP}}{AREA_{ABC}}$. Below is a visualization:
 ![[../assets/barycentric.png|barycentric.png]]
 
-Barycentric coordinates are useful in both [[./rasterization|rasterization]] and [[ray-triangle intersection|ray-triangle intersection]].
-
+Barycentric coordinates are useful in both [[./rasterization|rasterization]] and [[ray-triangle intersection|ray-triangle intersection]], and can be used for [[interpolation|interpolation]] during shading.
 ## References
 - [Scratchapixel: Barycentric Coordinates](https://www.scratchapixel.com/lessons/3d-basic-rendering/ray-tracing-rendering-a-triangle/barycentric-coordinates)
