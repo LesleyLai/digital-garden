@@ -31,7 +31,7 @@ This is an inclusive scan. And each thread writes one sum and reads two values.
 ![[../assets/naive parallel scan 2.png|400]]
 
 ## Work-Efficient Parallel Scan
-Work-efficient parallel scan use a [[balanced binary tree|balanced binary tree]] (in concept) to perform scan in two phases
+Work-efficient parallel scan use a [[binary search tree|binary search tree]] (in concept) to perform scan in two phases
 - up-sweep ([[./parallel reduction|parallel reduction]])
 - down-sweep
 
