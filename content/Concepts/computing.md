@@ -47,6 +47,7 @@ title: Computing MOC
 - [[./latex|latex]]
 - [[./shells|shells]]
 - [[./Emacs|Emacs]]
+- [[./regular expression|regular expression]]
 
 ## OS
 - [[./Unix|Unix]]
