@@ -17,91 +17,52 @@ Fitch has several rules of inference. Most of them are ordinary rules of inferen
 ### Conjunction Rules
 **And Introduction**
 $$
-\begin{prooftree}
-\AXC{$\varphi_1$}
-\AXC{$\dots$}
-\AXC{$\varphi_n$}
-\TIC{$\varphi_1 \land \dots \land \varphi_n$}
-\end{prooftree}
+\frac{\varphi_1 \quad \dots \quad \varphi_n}{\varphi_1 \land \dots \land \varphi_n}
 $$
 **And Elimination**
 $$
-\begin{prooftree}
-\AXC{$\varphi_1 \land \dots \land \varphi_n$}
-\UIC{$\varphi_i$}
-\end{prooftree}
+\frac{\varphi_1 \land \dots \land \varphi_n}{\varphi_i}
 $$
-
 ### Disjunction Rules
 **Or Introduction**
 $$
-\begin{prooftree}
-\AXC{$\varphi_i$}
-\UIC{$\varphi_1 \lor \dots \lor \varphi_n$}
-\end{prooftree}
+\frac{\varphi_i}{\varphi_1 \lor \dots \lor \varphi_n}
 $$
 
 **Or Elimination**
 $$
-\begin{prooftree}
-\AXC{$\varphi_1 \lor \dots \lor \varphi_n$}
-\AXC{$\varphi_1 \to \psi$}
-\AXC{$\dots$}
-\AXC{$\varphi_n \to \psi$}
-\QuaternaryInfC{$\psi$}
-\end{prooftree}
+\frac{\varphi_1 \lor \dots \lor \varphi_n \quad \varphi_1 \to \psi \quad \dots \quad \varphi_n \to \psi}{\psi}
 $$
 ### Negation Rules
 **Negation Introduction**
 
 $$
-\begin{prooftree}
-\AXC{$\varphi \to \psi$}
-\AXC{$\varphi \to \neg \psi$}
-\BIC{$\neg \psi$}
-\end{prooftree}
+\frac{\varphi \to \psi \quad \varphi \to \neg \psi}{\neg \psi}
 $$
 
 **Negation Elimination**
 $$
-\begin{prooftree}
-\AXC{$\neg \, \neg \, \varphi$}
-\UIC{$\varphi$}
-\end{prooftree}
+\frac{\neg \neg \varphi}{\varphi}
 $$
 ### Conditional Rules
 **Implication Introduction**
 $$
-\begin{prooftree}
-\AXC{$\varphi \vdash \psi$}
-\UIC{$\varphi \to \psi$}
-\end{prooftree}
+\frac{\varphi \vdash \psi}{\varphi \to \psi}
 $$
 This is the most special rule that uses conditional proof. If we can derive $\psi$ by assuming $\varphi$, then $\varphi \to \psi$.
 
 **Implication Elimination**
 $$
-\begin{prooftree}
-\AXC{$\varphi \to \psi$}
-\AXC{$\varphi$}
-\BIC{$\psi$}
-\end{prooftree}
+\frac{\varphi \to \psi \quad \varphi}{\psi}
 $$
 ### Biconditional Rules
 **Biconditional Introduction**
 $$
-\begin{prooftree}
-\AXC{$\varphi \to \psi$}
-\AXC{$\psi \to \varphi$}
-\BIC{$\varphi \leftrightarrow \psi$}
-\end{prooftree}
+\frac{\varphi \to \psi \quad \psi \to \varphi}{\varphi \leftrightarrow \psi}
 $$
 **Biconditional Elimination**
 $$
-\begin{prooftree}
-\AXC{$\varphi \leftrightarrow \psi$}
-\UIC{$\varphi \to \psi$ \quad $\psi \to \varphi$}
-\end{prooftree}
+\frac{\varphi \leftrightarrow \psi}{\varphi \to \psi \quad \psi \to \varphi}
 $$
 ## Examples
 Given $p \to q$, prove $\neg q \to \neg p$
