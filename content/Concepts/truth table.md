@@ -17,11 +17,7 @@ This can be view as a form of [[model checking|model checking]].
 > [!example]-
 > For example, if we have an argument as the following:
 > $$
-\begin{prooftree} 
-\noLine \AXC{L $\lor$ R}
-\UIC{L}
-\UIC{$\lnot$ R}
-\end{prooftree}
+> \frac{L \lor R \quad L}{\lnot R}
 > $$
 > We can create a truth table as the following:
 > $$
