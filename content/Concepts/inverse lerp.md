@@ -7,8 +7,6 @@ publish: true
 tags:
   - math/interpolation/lerp
 ---
-# Inverse Lerp
-
 ```js
 lerp( a, b, t ) = value
 inv_lerp( a, b, value ) = t
@@ -23,7 +21,8 @@ float inverse_lerp(float a, float b, float v) {
   return (v - a) / (b - a);
 }
 ```
-
-A useful function based on lerp and inverse lerp is [[./remap from an input range to an output range|remap]], which maps a value from an input range to an output range.
+## See Also
+- [[./barycentric coordinates|barycentric coordinates]]
+- A useful function based on lerp and inverse lerp is [[./remap from an input range to an output range|remap]], which maps a value from an input range to an output range.
 ## References
 [Inverse Lerp - a super useful yet often overlooked function](https://gamedev.net/tutorials/programming/general-and-gameplay-programming/inverse-lerp-a-super-useful-yet-often-overlooked-function-r5230/)

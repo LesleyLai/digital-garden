@@ -13,10 +13,9 @@ An [[./argument|argument]] is **valid** [[./logical equivalence|if and only if]]
 ## Relationship with NTP
 Another concept, [[./necessarily truth-preserving|necessarily truth-preserving]] (NTP), closely resembles validity, but validity demands more. An argument is valid _solely due to its structure_. [^1] While this distinction is non-exist in formal logic language, it arise in natural languages. Consider the following argument:
 $$
-\begin{prooftree} 
-\AXC{water is transparent}
-\UIC{$H_2O$ is transparent}
-\end{prooftree}
+\frac
+{\text{water is transparent}}
+{H_2O \text{ is transparent}}
 $$
 The above argument is NTP only because we have the knowledge that water is $H_2O$. Thus, this is not a valid argument.
 

@@ -21,11 +21,7 @@ Further, we can use assumptions in superproofs inside a subproof. In other word,
 ## Formalization
 The use of subproof results can be formalized as the **implication introduction** [[./inference rules|inference rule]], represented as:
 $$
-\begin{prooftree}
-\AXC{$\varphi \vdash \psi$}
-\UIC{$\varphi \to \psi$}
-\end{prooftree}
-
+\frac{\varphi \vdash \psi}{\varphi \to \psi}
 $$
 This rule states that if $\varphi \vdash \psi$ ($\psi$ [[./entailment and provability|can be derived from]] $\varphi$), then we can conclude $\varphi \to \psi$ ([[./logical conditional|logical conditional]]).
 
@@ -36,7 +32,7 @@ The primary function of conditional proofs is to derive implications. There are 
 3. Using these derivations to form logical implications outside the subproof
 
 ## Practical Applications
-The [[Fitch proof system|Fitch]] is a popular proof system that achieve its simplicity via the use of conditional proofs.
+The [[./Fitch proof system|Fitch]] is a popular proof system that achieve its simplicity via the use of conditional proofs.
 
 ## References
 - [Introduction to Logic - Chapter 5](http://intrologic.stanford.edu/chapters/chapter_05.html)
