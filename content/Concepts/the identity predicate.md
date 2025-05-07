@@ -17,27 +17,18 @@ The need for an identity predicate arises from situations where standard predica
 ### Expressing Equality
 For the following argument
 $$
-\begin{prooftree}
-\AXC{The Superman is Clark Kent}
-\UIC{Clark Kent is the Superman}
-\end{prooftree}
+\frac{\text{The Superman is Clark Kent}}{\text{Clark Kent is the Superman}}
 $$
 
 Intuitively, this is a [[./valid argument|valid argument]]. However, if we translate that into predicate logic language as
 $$
-\begin{prooftree}
-\AXC{Cs}
-\UIC{Sc}
-\end{prooftree}
+\frac{Cs}{Sc}
 $$
 it becomes [[./valid argument|invalid]].
 
 A better approach is to use a two-place predicate, but even then the argument remains invalid:
 $$
-\begin{prooftree}
-\AXC{Sxy}
-\UIC{Syx}
-\end{prooftree}
+\frac{Sxy}{Syx}
 $$
 
 ### Counting Distinct Objects
@@ -65,17 +56,11 @@ Since the identity predicate represents the [[./identity relation|identity relat
 ## The Identity Predicate and English
 Return to our motivational questions.
 $$
-\begin{prooftree}
-\AXC{The Superman is Clark Kent}
-\UIC{Clark Kent is The Superman}
-\end{prooftree}
+\frac{\text{The Superman is Clark Kent}}{\text{Clark Kent is the Superman}}
 $$
 can be translated as
 $$
-\begin{prooftree}
-\AXC{s = c}
-\UIC{c = s}
-\end{prooftree}
+\frac{s = c}{c = s}
 $$
 And 
 $$
