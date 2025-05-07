@@ -1,6 +1,7 @@
 ---
 parent:
   - "[[computer graphics MOC|computer graphics MOC]]"
+  - "[[coordinate systems|coordinate systems]]"
 tags:
   - computing/graphics/coordinateSystems
 created: 2024-09-20
