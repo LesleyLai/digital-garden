@@ -13,6 +13,7 @@ title: Algorithms and Data Structures MOC
 ---
 - [[./sequence algorithms|Sequence Algorithms]]
 - [[./parallel algorithms|Parallel Algorithms]]
+- [[./intrusive data structures|Intrusive Data Structures]]
 
 ## Tree
 main: [[./tree data structures|Tree Data Structures]]

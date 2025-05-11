@@ -43,6 +43,7 @@ tags:
 - [[./Rust concurrency|concurrency]]
 - [[./async Rust|async Rust]]
 ## Tools and Best Practices
+- [[./Rust ecosystem|Rust ecosystem]]
 - [[./Cargo (Rust)|Cargo]]
 - [[./Testing in Rust|Testing in Rust]]
 - [[./Documentation in Rust|Documentation in Rust]]

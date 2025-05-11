@@ -18,6 +18,7 @@ tags:
 - [[./covariance and contravariance|covariance and contravariance]]
 - [[scope|scope]]
 - [[./tail call|tail call]]
+- [[../Fleeting/polymorphism|polymorphism]]
 
 ## Semantics
 - [[operational semantics|operational semantics]]
