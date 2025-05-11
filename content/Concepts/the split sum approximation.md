@@ -8,8 +8,6 @@ publish: true
 tags:
   - computing/graphics/pbr
 ---
-
-# The Split Sum Approximation
 **The Split Sum Approximation** is a technique used in [[./real-time PBR rendering|real-time PBR rendering]] to render [[./environment lighting|IBL]]. It use pre-filtered importance sampling to avoids expensive [[./Monte Carlo integration|Monte Carlo integration]] process.
 
 The split sum approximation isolates [[./approximate integral of product as product of integral|approximate integral of product as product of integral]]. Specifically, it separates the material and lighting components from the [[./rendering equation|rendering equation]]:
