@@ -14,6 +14,7 @@ tags:
 - [[./network topology|network topology]]
 - [[error detection and correction|error detection and correction]]
 - [[network security|network security]]
+- [[layers of computer network|layers of computer network]]
 
 ## Protocols
 See: [[./communication protocol#Internet Protocols|communication protocol > Internet Protocols]]
