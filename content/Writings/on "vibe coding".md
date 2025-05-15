@@ -44,10 +44,10 @@ LLM will also make design decisions that you may not like for you unless you exp
 ### Cost
 "Vibe coding" proponents often claim that they "democratize" coding, but they rarely mention that these tools depend on increasingly expensive services. On the free tier, one will get rated as limited very soon. Even to finish those two project assignments, I need to pay the subscription fee. I can't see how this is "democratizing" when you need wealth to afford it.
 
-I've also talked to multiple people who are more warmed up with "vibe coding," where they seem to burn through the Claude Code fee _even with a subscription already_. It just feels ridiculous that one needs to continuously pay those "trustworthy" companies, such as Openai or Claude, to develop things now.
+I've also talked to multiple people who are more warmed up with "vibe coding," where they seem to burn through the Claude Code fee _even with a subscription already_. It just feels ridiculous that one needs to continuously pay those "trustworthy" companies, such as OpenAI or Claude, to develop things now.
 
 ## Final Reflection
-Using those things has a negative impact on my mental health. Typing some prompts and waiting for a long time is *incredibly boring*. It makes me feel like a type monkey.  Further, my joy of programming got deprived. An analogy I made was comparing that to forcing a drawer to use image generators to generate slops and then fixing the obvious bad spot.
+Using those things has a negative impact on my mental health. Typing some prompts and waiting for a long time is *incredibly boring*. It makes me feel like a type monkey. Further, my joy of programming got deprived. An analogy I made was comparing that to forcing a drawer to use image generators to generate slops and then fixing the obvious bad spot.
 
 Some "AI enthusiasts" claim that if you encounter a problem with AI, "you just upgrade your prompt engineering skill." I don't know why I should invest time in this when I can learn or create more interesting stuff. Other people claim that you encounter problems because you need to use the latest, better models. See my cost section above for a reply to this.
 

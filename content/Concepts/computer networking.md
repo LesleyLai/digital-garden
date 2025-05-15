@@ -15,6 +15,7 @@ tags:
 - [[error detection and correction|error detection and correction]]
 - [[network security|network security]]
 - [[layers of computer network|layers of computer network]]
+- [[proxy server|proxy server]] and [[reverse proxy|reverse proxy]]
 
 ## Protocols
 See: [[./communication protocol#Internet Protocols|communication protocol > Internet Protocols]]
